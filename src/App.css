@@ -16,10 +16,22 @@ body,
 	position: sticky;
 	top: 0;
 	align-items: center;
-	justify-content: left;
+	justify-content: space-between;
 	padding: 20px;
 	background-color: #1a1a1a;
 	color: #fff;
+}
+
+.app-header-left {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end; /* Align the elements to the right */
+}
+
+.app-header-right {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end; /* Align the elements to the right */
 }
 
 .app-logo {

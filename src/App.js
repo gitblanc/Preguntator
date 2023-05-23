@@ -5,13 +5,27 @@ import logo from "./logo192.png"; // Import the logo image
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import FileUploader from "./components/FileUploader";
+import { DropdownButton, Dropdown } from "react-bootstrap";
 
 const App = () => {
 	return (
 		<div className="app-container">
 			<header className="app-header">
-				<img src={logo} alt="App Logo" className="app-logo" />
-				<h1 className="app-name">Preguntator</h1>
+				<div className="app-header-left">
+					<img src={logo} alt="App Logo" className="app-logo" />
+					<h1 className="app-name">Preguntator</h1>
+				</div>
+				<div className="app-header-right">
+					<DropdownButton
+						id="dropdown-basic-button"
+						title="Opciones"
+						variant="success"
+					>
+						<Dropdown.Item href="https://github.com/gitblanc/Preguntator/wiki">
+							Ayuda
+						</Dropdown.Item>
+					</DropdownButton>
+				</div>
 			</header>
 
 			<main className="app-main">

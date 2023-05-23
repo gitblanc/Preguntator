@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# Getting started with Preguntator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://github.com/gitblanc/Preguntator/assets/87705461/8b692a9c-721e-4500-897a-cb71716453e3" width="20%" height="20%" align="right">
 
-## Available Scripts
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+[![HitCount](https://hits.dwyl.com/gitblanc/Preguntator.svg?style=flat-square)](http://hits.dwyl.com/gitblanc/Preguntator)
 
-In the project directory, you can run:
+**Donate** <img src="https://github.com/gitblanc/Preguntator/assets/87705461/12bd82a5-71a1-499a-b88a-c2e9f60becb9" width="2%" height="2%">: bc1qjf9gc0n03g4zw9nxc4fwvv5zklnextj8wge4zk ❤️
 
-### `npm start`
+**Preguntator** is a web application that allow you to auto-evaluate yourself for your test-type exams.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## How to use it?
+It's very easy. Follow this instructions:
+1. Create a file (e.g: `softwareDesign.txt`). It *has to be* a .txt file.
+2. Follow the structure above on the txt with as many questions as you want
+````
+?. This is a question. Can have multiple quotes but without a new line.
+a. This can be one answer
+$b. Anotherone concatenated. But wait, this is the correct answer :)
+c. We can still here until we get bored...
+$d. We can have multiple answers...
+?. This is another question for you
+a. Do you like this app?
+b. you can donate me if you like this
+$c. also you can tell me if something is wrong on the issues ;)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+?. you can also add separations between questions
+a. And also between answers
 
-### `npm test`
+b. You see? :)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+... continue with as many as you need
+````
+3. Now open https://preguntator.netlify.app
+4. Select a file to open (the previous one you created)
+<img width="1278" alt="image" src="https://github.com/gitblanc/Preguntator/assets/87705461/2a34bc61-82f4-4743-8043-6d1760a33f5f">
 
-### `npm run build`
+5. Click on mix 'em!
+<img width="1278" alt="image" src="https://github.com/gitblanc/Preguntator/assets/87705461/38430a4c-2257-4b31-9ed9-c98571e91790">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+6. Try the test and show the answers then
+<img width="1278" alt="image" src="https://github.com/gitblanc/Preguntator/assets/87705461/bb4899e1-32a9-4503-85b2-14beb082f24f">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Do your best!! ~ gitblanc :)

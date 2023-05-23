@@ -1,0 +1,77 @@
+html,
+body,
+#root {
+	height: 100%;
+	margin: 0;
+}
+
+.app-container {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.app-header {
+	display: flex;
+	position: sticky;
+	top: 0;
+	align-items: center;
+	justify-content: left;
+	padding: 20px;
+	background-color: #1a1a1a;
+	color: #fff;
+}
+
+.app-logo {
+	width: 50px;
+	height: auto;
+	margin-right: 10px;
+}
+
+.app-name {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.app-main {
+	flex: 1;
+	padding: 20px;
+	overflow-y: auto;
+	background-color: #181818;
+	color: #ffffff;
+}
+
+.app-main h2 {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.app-main pre {
+	font-family: sans-serif;
+}
+
+.app-footer {
+	background-color: #1a1a1a;
+	color: #fff;
+	padding: 20px;
+	flex-shrink: 0;
+	position: sticky;
+	bottom: 0;
+	display: flex;
+	justify-content: center;
+}
+
+.footer-content {
+	display: flex;
+	align-items: center;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.github-icon,
+.bitcoin-icon {
+	font-size: 24px;
+	margin-left: 5px;
+	margin-right: 5px;
+}

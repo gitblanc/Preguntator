@@ -1,12 +1,44 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { desordenarPreguntasRespuestas } from "../functions/fileFunctions";
 import styles from "./FileUploader.module.css";
+import alligator from "../images/alligator.gif";
 
 const FileUploader = () => {
 	const [selectedFile, setSelectedFile] = useState(null);
 	const [preguntasRespuestasDesordenadas, setPreguntasRespuestasDesordenadas] =
 		useState([]);
 	const [showAnswers, setShowAnswers] = useState(false);
+	const [selectedAnswers, setSelectedAnswers] = useState([]);
+	const [respuestasCorrectas, setRespuestasCorrectas] = useState(0);
+	const [respuestasInCorrectas, setRespuestasInCorrectas] = useState(0);
+
+	useEffect(() => {
+		if (showAnswers) {
+			let correctAnswers = 0;
+			let incorrectAnswers = 0;
+
+			preguntasRespuestasDesordenadas.forEach((pregunta, preguntaIndex) => {
+				pregunta.respuestas.forEach((respuesta, respuestaIndex) => {
+					const answerKey = `${preguntaIndex}-${respuestaIndex}`;
+
+					if (
+						respuesta.esRespuestaCorrecta &&
+						selectedAnswers.includes(answerKey)
+					) {
+						correctAnswers++;
+					} else if (
+						!respuesta.esRespuestaCorrecta &&
+						selectedAnswers.includes(answerKey)
+					) {
+						incorrectAnswers++;
+					}
+				});
+			});
+
+			setRespuestasCorrectas(correctAnswers);
+			setRespuestasInCorrectas(incorrectAnswers);
+		}
+	}, [showAnswers]);
 
 	const handleFileChange = (event) => {
 		const file = event.target.files[0];
@@ -32,10 +64,25 @@ const FileUploader = () => {
 			const preguntasRespuestasDesordenadas =
 				desordenarPreguntasRespuestas(fileContent);
 
-			console.log(preguntasRespuestasDesordenadas);
 			setPreguntasRespuestasDesordenadas(preguntasRespuestasDesordenadas);
 		};
+
 		reader.readAsText(selectedFile);
+	};
+
+	const handleAnswerClick = (preguntaIndex, respuestaIndex) => {
+		const answerKey = `${preguntaIndex}-${respuestaIndex}`;
+
+		if (selectedAnswers.includes(answerKey)) {
+			setSelectedAnswers((prevSelectedAnswers) =>
+				prevSelectedAnswers.filter((answer) => answer !== answerKey)
+			);
+		} else {
+			setSelectedAnswers((prevSelectedAnswers) => [
+				...prevSelectedAnswers,
+				answerKey,
+			]);
+		}
 	};
 
 	const renderRespuestas = () => {
@@ -50,17 +97,49 @@ const FileUploader = () => {
 					{respuestas.map((respuesta, i) => {
 						const respuestaClassName = showAnswers
 							? respuesta.esRespuestaCorrecta
-								? styles.verdadera
-								: styles.respuestaNormal
-							: styles.respuestaNormal;
+								? `${styles.respuesta} ${styles.respuestaCorrecta}`
+								: `${styles.respuesta} ${styles.respuestaIncorrecta}`
+							: `${styles.respuesta} ${styles.respuestaNormal}`;
+
+						const isSelected = selectedAnswers.includes(`${index}-${i}`);
+						const isCorrect = respuesta.esRespuestaCorrecta;
+
+						const buttonStyle = {
+							display: "block",
+							background: showAnswers
+								? isCorrect
+									? "rgba(28, 130, 28, 32)"
+									: "transparent"
+								: isSelected
+								? "rgba(194, 126, 41, 32)"
+								: "transparent",
+							color: "#FFFFFF",
+							border: "1px groove #ffffff",
+							padding: "5px",
+							margin: "5px",
+							borderRadius: "3px",
+						};
+
 						return (
-							<p
+							<button
 								key={i}
-								className={`${styles.respuesta} ${respuestaClassName}`}
+								className={respuestaClassName}
+								style={buttonStyle}
+								onClick={() => handleAnswerClick(index, i)}
 							>
-								&nbsp;&nbsp;&nbsp;&nbsp;{respuesta.respuestaIndex}.{" "}
-								{respuesta.respuesta}
-							</p>
+								{respuesta.respuestaIndex}. {respuesta.respuesta}
+								{showAnswers &&
+									isSelected &&
+									(isCorrect ? (
+										<span style={{ marginLeft: "5px", color: "#4CAF50" }}>
+											✔️
+										</span> // correcta: ✔️
+									) : (
+										<span style={{ marginLeft: "5px", color: "#FF0000" }}>
+											❌
+										</span> // incorrecta: ❌
+									))}
+							</button>
 						);
 					})}
 				</div>
@@ -69,6 +148,8 @@ const FileUploader = () => {
 	};
 
 	const toggleShowAnswers = () => {
+		setRespuestasCorrectas(0);
+		setRespuestasInCorrectas(0);
 		setShowAnswers(!showAnswers);
 	};
 
@@ -87,12 +168,27 @@ const FileUploader = () => {
 			</div>
 			<div className="text-container">
 				<h2>Preguntas y respuestas desordenadas:</h2>
+				{preguntasRespuestasDesordenadas.length < 1 && (
+					<img src={alligator} alt="Animated GIF" width="70%" height="70%" />
+				)}
 				{preguntasRespuestasDesordenadas.length > 0 && (
 					<>
 						{renderRespuestas()}
-						<button onClick={toggleShowAnswers}>
-							{showAnswers ? "Ocultar respuestas" : "Mostrar respuestas"}
-						</button>
+						{showAnswers ? (
+							<button onClick={toggleShowAnswers}>Ocultar respuestas</button>
+						) : (
+							<button onClick={toggleShowAnswers}>Mostrar respuestas</button>
+						)}
+						<div>
+							<h3>
+								Aciertos: {respuestasCorrectas}/
+								{preguntasRespuestasDesordenadas.length}
+							</h3>
+							<h3>
+								Fallos: {respuestasInCorrectas}/
+								{preguntasRespuestasDesordenadas.length}
+							</h3>
+						</div>
 					</>
 				)}
 			</div>

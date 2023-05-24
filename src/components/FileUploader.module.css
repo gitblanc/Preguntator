@@ -59,10 +59,15 @@ pre {
 	font-size: 18px; /* Aumenta el tamaño de fuente del texto normal */
 }
 
-.verdadera {
-	background: rgba(0, 255, 0, 0.33);
+.respuestaNormal {
+	color: #ffffff;
+	border: 1px solid #ffffff;
 }
 
-.respuestaNormal {
-	color: white;
+.respuestaCorrecta {
+	background-color: rgba(0, 255, 0, 0.2);
+}
+
+.respuestaIncorrecta {
+	background-color: rgba(255, 0, 0, 0.2);
 }

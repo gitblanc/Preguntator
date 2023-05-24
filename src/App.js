@@ -24,6 +24,9 @@ const App = () => {
 						<Dropdown.Item href="https://github.com/gitblanc/Preguntator/wiki">
 							Ayuda
 						</Dropdown.Item>
+						<Dropdown.Item href="https://github.com/gitblanc/Preguntator/tree/main/examples">
+							Ejemplos
+						</Dropdown.Item>
 					</DropdownButton>
 				</div>
 			</header>

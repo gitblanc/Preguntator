@@ -15,17 +15,17 @@ It's very easy. Follow this instructions:
 1. Create a file (e.g: `softwareDesign.txt`). It *has to be* a .txt file.
 2. Follow the structure above on the txt with as many questions as you want
 ````
-?. This is a question. Can have multiple quotes but without a new line.
+?: This is a question. Can have multiple quotes but without a new line.
 a. This can be one answer
 $b. Anotherone concatenated. But wait, this is the correct answer :)
 c. We can still here until we get bored...
 $d. We can have multiple answers...
-?. This is another question for you
+?: This is another question for you
 a. Do you like this app?
 b. you can donate me if you like this
 $c. also you can tell me if something is wrong on the issues ;)
 
-?. you can also add separations between questions
+?: you can also add separations between questions
 a. And also between answers
 
 b. You see? :)

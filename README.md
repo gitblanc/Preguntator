@@ -34,12 +34,15 @@ b. You see? :)
 ````
 3. Now open https://preguntator.netlify.app
 4. Select a file to open (the previous one you created)
-<img width="1278" alt="image" src="https://github.com/gitblanc/Preguntator/assets/87705461/2a34bc61-82f4-4743-8043-6d1760a33f5f">
+<img width="1278" alt="image" src="https://github.com/gitblanc/Preguntator/assets/87705461/a54c16e4-0cde-4002-8ee6-db254dedf30a">
 
 5. Click on mix 'em!
-<img width="1278" alt="image" src="https://github.com/gitblanc/Preguntator/assets/87705461/38430a4c-2257-4b31-9ed9-c98571e91790">
+<img width="1278" alt="image" src="https://github.com/gitblanc/Preguntator/assets/87705461/308aa7fe-5003-4af8-a427-85ccf081a3f9">
 
 6. Try the test and show the answers then
-<img width="1278" alt="image" src="https://github.com/gitblanc/Preguntator/assets/87705461/bb4899e1-32a9-4503-85b2-14beb082f24f">
+<img width="1278" alt="image" src="https://github.com/gitblanc/Preguntator/assets/87705461/61f049d1-5244-4f67-b163-35389f9feeec">
+
+<img width="1278" alt="image" src="https://github.com/gitblanc/Preguntator/assets/87705461/de873e6e-242c-485b-a7a9-53d0d3c0b9de">
+
 
 Do your best!! ~ gitblanc :)

@@ -32,6 +32,7 @@ const FileUploader = () => {
 			const preguntasRespuestasDesordenadas =
 				desordenarPreguntasRespuestas(fileContent);
 
+			console.log(preguntasRespuestasDesordenadas);
 			setPreguntasRespuestasDesordenadas(preguntasRespuestasDesordenadas);
 		};
 		reader.readAsText(selectedFile);

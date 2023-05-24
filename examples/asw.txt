@@ -1,0 +1,876 @@
+?: ¿Cuál es la primera ley de la arquitectura del software?
+$a. Todo en arquitectura es una solución de compromiso
+b. Un arquitecto de software no debe mezclarse con ingenieros
+c. Todo sistema software debe tener unos planos
+d. Individuos e interacciones sobre procesos y herramientas
+
+?: ¿Cuál es la segunda ley de la arquitectura de software?
+$a. El por qué es más importante que el cómo
+b. El cómo es más importante que el porqué.
+c. El cómo es más importante que el dónde.
+d. El quién es más importante que el porqué.
+
+?: La mayoría de decisiones de la arquitectura del software vienen determinadas por
+$a. Los atributos de calidad o requisitos no funcionales
+b. El equipo de desarrollo
+c. El entorno de desarrollo
+d. Los requisitos funcionales
+
+?:Las restricciones...
+$a. Es bueno conocerlas porque limitan alternativas a considerar
+b. Son un problema que hay que tratar de evitar
+c. Son imposiciones de los jefes de proyecto que hay que evitar
+d. Son imposiciones de los arquitectos de software al equipo
+
+?: Los stakeholders...
+$a. Son personas interesadas en el proyectojefe
+b. Son entidades abstractas que identifican requisitos funcionales
+c. Son roles que deben adoptar los arquitectos de software
+d. Son los dueños del proyecto
+
+?: Un sistema greenfield...
+$a. Es un proyecto nuevo
+b. Es un proyecto de mejora de un sistema existente
+c. Es un software respetuoso con el medio ambiente
+d. Es un proyecto finalizado
+
+?: ¿Existe arquitectura de software ágil?
+$a. Sí, cuando la arquitectura puede reaccionar a cambios en el entorno
+b. No, la arquitectura del software no es compatible con metodologías ágiles
+c. Sí, cuando los arquitectos de software se ponen a dieta
+d. Sí, cuando desaparecen los arquitectos de software
+
+?: Etimológicamente, arquitecto viene de...
+$a. Creador jefe
+b. Dibujante de edificios
+c. Planificador de obras
+d. Obrero con alas
+
+?: La "building block view" de Arc42...
+$a. Puede contener varios diagramas de cajas negras y blancas combinadas
+b. Contiene un diagrama detallado de todos los componentes
+c. Contiene un diagrama que combina cajas blancas y negras
+d. Se realiza mediante diagramas de despliegue de UML
+
+?: La mayoría de decisiones de arquitectura del software vienen determinadas por...
+$a. Los atributos de calidad o requisitos no funcionales
+b. El equipo de desarrollo
+c. El entorno de desarrollo
+d. Los requisitos funcionales
+
+?: ¿Quién dijo que los pilares de una buena arquitectura eran Utilidad, durabilidad y elegancia?
+$a. Vitruvio en 15 al 30 a. de C.
+b. Julio César en 15 al 30 a. de C.
+c. Martin Fowler en el s. XX
+d. Aristóteles en 300 a. de C.
+
+?: Big design Up-front
+$a. Es un problema al generar demasiados documentos o diagramas innecesarios
+b. Es necesario para grandes sistemas de software
+c. Consiste en retrasar decisiones hasta último momento necesario
+d. Facilita la gestión de proyectos mediante grandes decisiones de diseño
+
+?: Los requisitos funcionales
+$a. Son una entrada que el arquitecto de software puede considerar
+b. No afectan a la arquitectura del software
+c. Suelen terminar en -idad, como escalabilidad, seguridad...
+d. Son la principal preocupación del arquitecto del software
+
+?: ISO-25010 contiene...
+$a. ...una lista de posibles atributos de calidad
+b. ...una lista de posibles requisitos funcionales
+c. ...una lista de restricciones de arquitectura del software
+d. ...una lista de objetivos de diseño
+
+?: Una representación del sistema respecto a ciertas preocupaciones...
+$a. Es una vista
+b. Es un punto de vista
+c. Es una restricción
+d. Es un atributo de calidad
+
+?: Es posible utilizar bocetos para documentar una vista?
+$a. Sí, pero se recomienda que se registren, aunque sea con una foto
+b. No, porque las vistas deben documentarse únicamente con diagramas UML
+c. No, porque las vistas no pueden contener diagramas
+d. Sí, pero únicamente cuando se utiliza el patrón MVC
+
+?: Un ADL es un...
+$a. Lenguaje de descripción de arquitecturas
+b. Lenguaje para la Definición de Artefactos
+c. Lenguaje para la Definición de Atributos de calidad
+d. Auténtico Desastre Logístico
+
+?: ¿Cuál de las siguientes NO es una propuesta para la documentación de arquitecturas software?
+$a. Modelo 5+1 de Kruchten
+b. Arc42
+c. Modelo C4
+d. Vistas y más
+
+?: Los sistemas brownfield...
+$a. Son proyectos que consisten en cambiar sistemas ya existentes
+b. Son sistemas completamente nuevos
+c. Son sistemas nuevos en dominios ya maduros
+d. Son sistemas obsoletos
+
+?: ¿Cuántos diagramas de contexto se suelen incluír en Arc42?
+$a. Dos: el de negocio que es obligatorio y el técnico que es opcional
+b. Dos: el técnico que es obligatorio y el de contexto que es opcional
+c. Uno: el diagrama de contexto de negocio
+d. Uno: el diagrama de contexto técnico
+
+?: ¿Cómo se definen los requisitos de calidad?
+$a. Mediante escenarios de calidad
+b. Mediante diagramas de despliegue UML
+c. Mediante una tabla de riesgos
+d. Mediante técnicas no funcionales
+
+?: En Arc42...
+$a. Las 3 primeras secciones describen el problema, las 8 siguientes la solución
+b. Las 3 primeras secciones describen solución y las 8 siguientes el problema
+c. Todas las secciones describen el problema
+d. Todas las secciones describen la solución
+
+?: La primera sección de Arc42...
+$a. Consta de repaso de requisitos, objetivos de calidad y stakeholders
+b. Describe la estrategia de la solución
+c. Describe el diagrama de contexto
+d. Contiene un glosario de términos
+
+?: La segunda sección de Arc42...
+$a. Describe las restricciones
+b. Contiene el diagrama de contexto
+c. Describe la estrategia de la solución
+d. Contiene un glosario de términos
+
+?: La vista de despliegue en Arc42...
+$a. Contiene un mapeo de los bloques de construcción software e infraestructura
+b. Consiste en una lista de nodos computacionales
+c. Se realiza mediante diagramas de clase UML
+d. Se realiza mediante diagramas de caja blanca y negra combinados
+
+?: En Arc42...
+$a. Hay una sección específica para riesgos y deuda técnica
+b. Los riesgos y deuda técnica se incluyen en sección objetivos de calidad
+c. Los riesgos y la deuda técnica se analizan en el glosario
+d. No es necesario describir riesgos ni deuda técnica
+
+?: Un buen arquitecto de software intenta...
+$a. Mover cosas que no sabe que no sabe a cosas que sabe que no sabe
+b. Saber todo sobre todas las tecnologías
+c. Mover cosas que sabe que no sabe a cosas que no sabe
+d. Mover cosas que no sabe a cosas que sabe el equipo de desarrollo
+
+?: En general, un buen arquitecto de software tiene...
+$a. Más amplitud técnica que profundidad
+b. Conocimiento en profundidad de las tecnologías
+c. Imponer al equipo de desarrollo las decisiones
+d. Ser capaz de programar mejor que cualquier desarrollador
+
+?: Según Google, los 3 pilares de una buena interacción social son:
+$a. Humildad, confianza y respeto
+b. Sabiduría, templanza y generosidad
+c. Liderazgo, comprensión y obediencia
+d. Imaginación, inteligencia y ambición
+
+?: El factor del autobús es...
+$a. Número de personas que si son atropelladas por un autobús, el proyecto fracasa
+b. La probabilidad de que un autobús atropelle al arquitecto del software
+c. La distancia entre un arquitecto de software y su equipo de desarrollo
+d. La probabilidad de que un desarrollador realice una tarea
+
+?: Un arquitecto de software efectivo debe encontrar un balance entre...
+$a. Friki de control y arquitecto de sillón
+b. Conocimiento en amplitud y experiencia
+c. Capacidad de trabajo en equipo y liderazgo
+d. Participar en todas las decisiones y desarrollar código
+
+?: Según la ley de Conway, las organizaciones que diseñan sistemas...
+$a. producen diseños que son copias de las estructuras de estas organizaciones
+b. producen diseños basados en 3 capas
+c. producen diseños que copian el resto de organizaciones
+d. tienden a crear diseños monolíticos
+
+?: La maniobra inversa de conway consiste en...
+$a. Evolucionar equipos para promover la arquitectura deseada
+b. Asignar componentes a los equipos de desarrollo existentes
+c. Componentes de software que dependen de abstracciones
+d. Abstracciones que dependen de componentes de software
+
+?: La pérdida por proceso es...
+$a. Diferencia entre potencial de grupo y productividad actual del equipo
+b. Lo que ocurre al utilizar la Ley de Conway para crear equipos
+c. Número de usuarios de un sistema dividido entre los procesos del sistema
+d. Diferencia entre número de hilos y número de CPUs
+
+?: Se produce ignorancia colectiva cuando
+$a. Todos están públicamente de acuerdo en algo pero privadamente no
+b. Los arquitectos definen equipos con tecnologías desconocidas
+c. Los desarrolladores desconocen las decisiones tomadas por el arquitecto
+d. Nadie sabe cómo va a evolucionar el software
+
+?: La difusión de responsabilidad puede hacer que
+$a. Exista confusión sobre quién es responsable de qué
+b. Los arquitectos añadan una cláusula eximiéndoles de la responsabilidad
+c. Los desarrollladores añadan una cláusula eximiéndoles de responsabilidad
+d. La responsabilidad se divida entre desarroladores y arquitectos
+
+?: Las preocupaciones de los stakeholders
+$a. Pueden ser contradictorias
+b. Son identificadas por los arquitectos y acordadas para que sean las mismas
+c. Son definidas por los arquitectos
+d. No afectan al sistema
+
+?: Los atributos de calidad
+$a. Cualifican la funcionalidad
+b. Son independientes entre sí
+c. Son operacionales
+d. Suelen ser declarados explícitamente por los clientes
+
+?: Un taller de atributos de calidad
+$a. Es una reunión con stakeholders para identificar atributos de calidad
+b. Es un técnica para reparar los atributos de calidad mal definidos
+c. LEN(E21)
+d. LEN(F21)
+
+?: Una técnica para representar atributos de calidad es
+$a. Un diagrama MindMap
+b. Un diagrama de clases UML
+c. Un diagrama de despliegue UML
+d. Un diagrama de estados
+
+?: ¿Cuál de las siguientes frases es correcta?
+$a. Muchos atributos de calidad tienen significados vagos
+b. Los atributos de calidad son independientes entre sí
+c. La funcionalidad determina por sí sola los atributos de calidad
+d. El valor de los atributos de calidad es independiente del proyect
+
+?: La calidad de un sistema es
+$a. El grado en que un sistema satisface unas necesidades
+b. La capacidad de que resuelva los requisitos funcionales
+c. Un valor booleano, la tiene o no la tiene
+d. Un resultado de dividir el número de quejas entre el número de usuarios
+
+?: Un escenario de calidad define
+$a. Un estímulo y respuesta medible a dicho estímulo
+b. Una descripción de las necesidades de los desarrolladores
+c. Un requisito funcional
+d. Una técnica para realizar diagramas MindMap
+
+?: Los escenarios de calidad pueden clasificarse en...
+$a. Escenarios de uso, de cambio o moficación y de fallo
+b. Escenarios buenos y malos
+c. Escenarios de uso adecuado o inadecuado
+d. Escenarios de calidad alta, baja o media
+
+?: Los escenarios de calidad deben...
+$a. Priorizarse de acuerdo a la importancia para el éxito y la dificultad
+b. Ser tratados todos por igual
+c. Ser identificados y resueltos antes de comenzar a desarrollar
+d. Definirse antes de identificar a los stakeholders
+
+?: En ISO-25010, la calidad...
+$a. Se divide en 2 dimensiones: Calidad de producto y calidad en uso
+b. Se cumple si se cumplen los 13 atributos de calidad que se definen
+c. Se cumple cuando los arquitectos definen escenarios de calidad adecuados
+d. Se establece como una percepción subjetiva
+
+?: MTBF y MTBR
+$a. Son tiempo medio entre fallos y tiempo medio de recuperación
+b. Se utilizan para medir la complejidad ciclomática
+c. Son dos técnicas utilizadas para identificar stakeholders
+d. Se utilizan para medir la escalabilidad
+
+?: La complejidad ciclomática de McCabe...
+$a. Es una métrica de la complejidad de un código
+b. Se utiliza para descomponer equipos de trabajo
+c. Se utiliza para identificar escenarios de calidad
+d. Es una técnica para identificar necesidades complejas de stakeholders
+
+?: En arquitecturas del software evolutivas...
+$a. Puede definirse la función de encaje que mide atributos de calidad
+Los arquitectos deben ir evolucionando para adaptarse al entorno
+El entorno debe evolucionar para adaptarse a los arquitectos
+Los escenarios de calidad se adaptan a los requisitos funcionales
+
+?: Las métricas de software
+$a. Son medidas objetivas de ciertos aspectos de calidad
+b. Clasifican el software en función de su altura
+c. Se utilizan para identificar a los stakeholders
+d. Se utilizan para controlar la Ley de Conway
+
+?: ATAM (Architecture Trade-off Analysis Method)
+$a. Es una técnica para evaluar arquitecturas usando atributos de calidad
+b. Es un lenguage para la descripción de arquitecturas
+c. Es una técnica para generar escenarios de calidad
+d. Permite evaluar arquitecturas teniendo en cuenta costes y beneficios
+
+?: CBAM (Cost Benefit Analysis Method)
+$a. Cuantifica costes y beneficios de estrategias arquitectónicas
+b. Es una técnica para generar escenarios de calidad
+c. Es utilizado para generar pruebas de aceptación
+d. Se refiere a los componentes desarrollados de forma externa
+
+?: Las tácticas en arquitectura del software...
+$a. Dependen del atributo de calidad
+b. Son independientes de los atributos de calidad
+c. Se conocen también como patrones arquitectónicos
+d. Son soluciones generales y reutilizables a problemas recurrentes
+
+?: Se recomienda que los registros de decisiones arquitectónicas sean
+$a. Inmutables
+b. Revisados y actualizados continuamente
+c. Acordados con todos los stakeholders antes de registrarse
+d. Actualizados en cada etapa del desarrollo
+
+?: ADD es una...
+$a. Metodología para crear una arquitectura basada en atributos de calidad
+b. técnica para evaluar una arquitectura basada en atributos de calidad
+c. lista de escenarios de calidad
+d. técnica para gestionar el riesgo de las decisiones arquitectónicas
+
+?: Algo malo que podría ocurrir pero que todavía no ha ocurrido es...
+$a. Un riesgo
+b. Algo desconocido
+c. Un problema
+d. Una deuda técnica
+
+?: Una deuda técnica...
+$a. Puede ser de varios tipos: código, diseño, implementación...
+b. Es siempre devuelta al terminar el proyecto
+c. Es un problema de comprensión entre arquitectos y desarrolladores
+d. Es algo malo que podría ocurrir pero todavía no ha ocurrido
+
+?: Para mitigar el deterioro arquitectónico puede utilizarse...
+$a. Código arquitectónicamente evidente
+b. Una tabla de riesgos
+c. Un mapa de stakeholders
+d. ADD
+
+?: Una diferencia entre estilo y patrón arquitectónico es...
+$a. Que los estilos suelen ser independientes entre sí y los patrones no
+b. Que los patrones suelen ser indepependientes entre sí y los estilos no
+c. Que los estilos se recogen en un catálogo y los patrones no
+d. Que los patrones definen la arquitectura general y los estilos no
+
+?: COTS (Commercial Off The Self)
+$a. Se refiere a software comercial ya existente
+b. Es una técnica para generar escenarios de calidad
+c. Es una técnica para crear arquitecturas
+d. Es una técnica para evaluar arquitecturas
+
+?: BDD
+$a. Realiza pruebas de aceptación con historias de usuario
+b. Es una técnica para evaluar arquitecturas
+c. Es "Balance Driven Design"
+d. Es una técnica para crear arquitecturas basadas en comportamiento
+
+?: La recomendación FIRST se refiere a...
+$a. Que las pruebas sean Fast, Independent, Repeatable, Self-Checking y Timely
+b. una técnica de descomposición modular
+c. una técnica para analizar arquitecturas de software
+d. una metodología ágil
+
+?: La integración continua
+$a. Automatiza la ejecución de las pruebas en entornos externos
+b. automatiza el despliegue del sistema
+c. se utiliza para aumentar la rapidez del desarrollo mediante contenedores
+d. es un problema cuando hay equipos con más de un desarrollador
+
+?: La gestión de configuraciones de software
+$a. Permite observar la evolución del software
+b. Se utiliza para crear escenarios de calidad configurables
+c. Debe evitarse en equipos grandes
+d. Consiste en utilizar ficheros de configuración
+
+
+?: ¿Cuál de los siguientes es un sistema de control de versiones distribuido?
+$a. git
+b. cvs
+c. subversion
+d. distributed-git
+
+?: Utilizando versionado semántico, al pasar de la versión 1.2.3 a 1.3.0
+$a. Se espera una nueva funcionalidad compatible con la anterior
+b. Se espera nueva funcionalidad que puede ser incompatible con anterior
+c. Se esperan cambios menores o hotfixes
+d. Se espera cualquier cosa
+
+?: En git, el nombre del primer repositorio remoto que se clona es...
+$a. origin
+b. remote
+c. master
+d. push
+
+?: ¿Cuál es el comando que permite cambiar de una rama a otra en git?
+$a. checkout
+b. branch
+c. jump
+d. push
+
+?: ¿Cuál de los siguientes NO es un sistema de automatización de la construcción?
+$a. groovy
+b. maven
+c. npm
+d. gradle
+
+?: Los ficheros de configuración usados en Maven...
+$a. Son ficheros XML
+b. Son ficheros JSON
+c. Son ficheros YAML
+d. Son ficheros Typescript
+
+?: Las dependencias de paquetes en npm se declaran en...
+$a. Fichero package.json
+b. Fichero tsconfig.json
+c. Fichero build.xml
+d. Fichero index.js
+
+?: La diferencia entre "npm install paquete" y "npm install -g paquete"
+$a. El primero instala dependencias en carpeta node_modules y el segundo lo hace de forma global
+b. El segundo instala dependencias en carpeta node_modules
+c. No hay diferencia
+d. El primero instala paquetes en node y el segundo en docker
+
+?: Integration hell se produce cuando...
+$a. Se espera mucho tiempo sin integrar código de diferentes desarrolladores
+b. Se crea sistemas de software muy grandes
+c. Se realizan integraciones de código con mucha frecuencia
+d. Se utilizan sistemas de automatización de la construcción
+
+?: La inercia en el estilo Big ball of mud hace que...
+$a. Unos pocos desarrolladores "de prestigio" sepan mantener el sistema
+b. el sistema vaya aumentando continuamente de tamaño
+c. el sistema aumente la velocidad de forma impredecible
+d. se utilice descomposición modular mediante principios SOLID
+
+?: ¿Tiene algún atributo de calidad positivo el estilo big ball of mud?
+$a. Sí, el time-to-market y el bajo coste inicial
+b. Sí, el mantenimiento
+c. No, es algo que hay que evitar siempre
+d. Sí, la modularidad
+
+?: La S de SOLID indica que...
+$a. No debe haber más de un motivo para cambiar un módulo
+b. Un módulo debe estar abierto para extender y cerrado para modificar
+c. Los subtipos deben seguir el contrato de los supertipos
+d. Los clientes no deben depender de métodos que no usan
+
+?: El principio de Liskov indica que...
+$a. Los subtipos deben respetar el contrato de los supertipos
+b. Los supertipos deben respetar el contrato de los subtipos
+c. Los subtipos y los supertipos son independientes
+d. Las clases abstractas deben depender de las clases concretas
+
+?: Según el principio de segregación de interfaces
+$a. Los clientes no deberían depender de métodos que no utilicen
+b. Los servidores no deberían depender de métodos que no utilicen
+c. Los clientes dependen de un interfaz definido por los servidores
+d. Los clientes y los servidores utilizan interfaces segregadas
+
+?: Según el principio de inversión de dependencia
+$a. Los módulos de alto nivel no dependen de módulos de bajo nivel
+b. Los módulos de bajo nivel no dependen de módulos de alto nivel
+c. Los supertipos dependen de subtipos
+d. Las dependencias no pueden contener ciclos
+
+?: Se recomienda...
+$a. Alta cohesividad y bajo acoplamiento
+b. Alto acoplamiento y baja cohesividad
+c. Alto acoplamiento y alta cohesividad
+d. Bajo acoplamiento y baja cohesividad
+
+?: En la métrica LCOM
+$a. Cuanto menor sea, mejor, porque hay más cohesividad
+b. Cuanto mayor sea, mejor porque hay menos cohesividad
+c. Cuando menor sea, mejor, porque hay menos cohesividad
+d. Cuanto mayor sea, mejor, porque hay más cohesividad
+
+?: Según los principios de cohesividad de Robert Martin, REP se refiere a
+$a. Equivalencia entre unidad de reutilización y de release
+b. Juntar en un módulo todas las unidades que cambian por una misma razón
+c. Módulos que solo dependen de unidades que necesitan
+d. Los módulos de bajo nivel dependen de módulos de alto nivel
+
+?: Según los principios de cohesividad de Robert Martin, CCP se refiere a
+$a. Juntar en un módulo las unidades que cambian por la misma razón
+b. Equivalencia entre unidad de reutilización y de release
+c. Módulos que solo dependen de unidades que necesitan
+d. Los módulos de bajo nivel dependen de módulos de alto nivel
+
+?: Según diagrama de tensión de cohesividad de componentes, un fallo de CRP supone...
+$a. Demasiadas releases innecesarias
+b. Demasiados componentes a cambiar
+c. Módulos difíciles de reutilizar
+d. Módulos inestables
+
+?: Según el principio de acoplamiento SDP de Robert Martin
+$a. Un componente debería depender de componentes más estables
+b. La estructura de dependencias debe formar un grafo dirigido acíclico
+c. La estructura de dependencias debe formar un grafo dirigido cíclico
+d. Un módulo debe ser tan abstracto como estable
+
+?: Según la figura del principio de abstracciones estables, la zona de inutilidad
+$a. Son módulos abstractos e inestables
+b. Son módulos abstractos estables
+c. Son módulos concretos inestables
+d. Son módulos concretos estables
+
+?: El conacimiento entre 2 elementos puede hacer que
+$a. Un cambio en uno obliga a un cambio en otro para mantener el sistema correcto
+b. un cambio en uno obliga a crear el otro para sistema correcto
+c. sea necesario crear ambos al mismo tiempo
+d. sea necesario destruir ambos al mismo tiempo
+
+?: El principio de Robustez de Postel recomienda que
+$a. Un módulo sea liberal en lo que acepta y conservador en lo que envía
+b. Un módulo sea conservador en lo que acepta y liberal en lo que envía
+c. Los módulos concretos dependan de módulos abstractos
+d. Los módulos abstractos dependan de módulos concretos
+
+?: La ley de Demeter recomienda...
+$a. Que un módulo invoque elementos de módulos cercanos
+b. que un módulo sea liberal en lo que acepta y conservador en lo que envía
+c. que un módulo sea conservador en lo que acepta y liberal en lo que envía
+d. que se puedan encadenar invocaciones a métodos
+
+?: La variante laxa del estilo de capas
+$a. Indica que la capa N puede acceder a elementos de las capas 1 a N -1
+b. Indica que la capa 1 puede utilizar elementos de la capa 2 a N
+c. Indica que la capa N puede utilizar elementos de la capa N - 1
+d. Indica que la capa N puede utilizar elementos de la capa N + 1
+
+?: Un ejemplo de "crosscutting concern" es
+$a. Logging
+b. Un módulo abstracto
+c. Un módulo concreto
+d. Un naked object
+
+?: En Domain Driven Design se pone gran énfasis en identificar
+$a. Un lenguaje ubicuo entre expertos de dominio y desarrolladores
+b. Crosscutting concerns
+c. Naked objects
+d. Modelos de persistencia para los diferentes dominios
+
+?: Una restricción en Domain Driven Design es
+$a. Que los Objetos valor sean inmutables
+b. Que los aspectos capturen crosscutting concerns
+c. Que LCOM sea alto
+d. Que el modelo de dominio sea independiente del sistema de persistencia
+
+?: ¿Cuál de los siguientes estilos son similares?
+$a. Estilo hexagonal y arquitectura limpia
+b. Estilo hexagonal y naked objects
+c. Arquitectura limpia y programación orientada a aspectos
+d. Arquitectura limpia y estilos centrados en datos
+
+?: En la propuesta naked objects
+$a. La aplicación se genera automáticamente a partir de objetos de dominio
+b. Se utilizan objetos que modelan el interfaz de usuario
+c. Se utilizan POJOs para modelar el sistema de persistencia
+d. Se utilizan lenguajes basados en prototipos en lugar de clases
+
+?: En el estilo hexagonal
+$a. La base de datos y frameworks está en el exterior
+b. La base de datos y frameworks son el núcleo del sistema
+c. La base de datos está en el exterior y los frameworks en el interior
+d. Los frameworks están en el exterior y la base de datos en el interior
+
+?: Una ventaja del estilo batch es
+$a. Bajo acoplamiento
+b. Alto acoplamiento
+c. Concurrencia
+d. Baja latencia
+
+?: En el estilo pipes and filters
+$a. Se admite la ejecución concurrente de hilos
+b. se facilita la interactividad
+c. es difícil la testabilidad independiente de los filtros
+d. no se pueden sustituir unos filtros por otros
+
+?: Backpressure ocurre cuando
+$a. Los consumidores reciben más datos de los que pueden procesar
+b. los consumidores deben solicitar datos a los productores
+c. el estilo MVC permite interacción entre usuarios
+d. una fuente de conocimiento va calculando resultados parciales
+
+?: ¿Cuál es una de las ventajas de pipes and filters con una interfaz uniforme?
+$a. Reconfigurabilidad
+b. Rendimiento
+c. Interactividad
+d. Dependencia entre filtros
+
+?: Uno de los beneficios de Master-slave es
+$a. Computación paralela
+b. Independencia del nodo máster
+c. Interactividad
+d. Coordinación entre nodos máster
+
+?: Una ventaja de MVC
+$a. Facilidad para crear nuevas vistas y controladores
+b. Acoplación entre controladores y vistas
+c. Simplicidad
+d. Uniformidad al mostrar una única vista para cada modelo
+
+?: En PAC
+$a. Se utiliza una jerarquía de agentes
+b. Los agentes son controlados por el máster
+c. Varios agentes aportan soluciones parciales al problema
+d. No hay comunicación entre los agentes
+
+?: ¿Cuál puede ser un reto a resolver en el estilo Datos compartidos?
+$a. Punto de fallo único
+b. Dependencia entre los componentes
+c. Inconsistencia de los datos
+d. Falta de estado global
+
+?: En el estilo Blackboard se utilizan
+$a. Fuentes de conocimiento que resuelven parcialmente un problema
+b. agentes que se encargan de las diferentes partes del interfaz
+c. agentes móviles que se desplazan de una máquina a otra
+d. tuberías y filtros (pipes and filters)
+
+?: Una de las ventajas de los sistemas basados en reglas es
+$a. La utilización de conocimiento declarativo de expertos de dominio
+b. El rendimiento
+c. La posibilidad de expresar algoritmos de forma imperativa
+d. La depuración
+
+?: Una restricción del estilo cliente-servidor es
+$a. Los clientes se comunican con el servidor, no al revés
+b. Los servidores se comunican con el cliente, no al revés
+c. Los clientes pueden depender de otros clientes
+d. Los clientes y el servidor no se comunican entre sí
+
+?: En la variante cliente-servidor sin estado
+$a. Ante la misma petición se devuelve siempre la misma respuesta
+b. La respuesta del servidor depende del cliente
+c. Se pueden crear múltiples servidores replicados
+d. El cliente no almacena ningún estado de la aplicación
+
+?: En Event-driven architecture
+$a. Un evento es algo que ha sucedido
+b. Un evento es algo que sucederá en el futuro
+c. Los eventos son invocaciones síncronas
+d. Los consumidores de eventos esperan que los productores envíen eventos
+
+?: Publish-subscribe es una variante de
+$a. Modelos basados en eventos
+b. Modelos basados en datos compartidos
+c. Sistemas Batch
+d. Pipes and filters
+
+?: Una ventaja de los modelos de actores es
+$a. Paralelismo
+b. Coordinación entre actores
+c. Consistencia
+d. Interactividad
+
+?: CQRS separa el interfaz en
+$a. comandos que realizan acciones y consultas que leen datos
+b. peticiones y respuestas
+c. comandos que realizan acciones y consultas que escriben datos
+d. modelos, vistas y controladores
+
+?: Event sourcing captura los cambios de estado mediante
+$a. Eventos inmutables
+b. actualizaciones de las fuentes de los eventos
+c. bases de datos compartidas
+d. comandos y consultas
+
+?: Una ventaja de Event sourcing es que
+$a. Si aparecen errores se puede reconstruir la Base de datos
+b. La base de datos contiene el estado actual del sistema
+c. El tamaño de los datos almacenados no crece con el tiempo
+d. La base de datos es de lectura y escritura
+
+?: Una ventaja de utilizar plugins es
+$a. La adaptación del sistema a recursos impredecibles en el futuro
+b. La seguridad
+c. El rendimiento
+d. La consistencia
+
+?: Un problema del estilo Microkernel es
+$a. Punto de fallo único
+b. Portabilidad
+c. Fiabilidad
+d. Extensibilidad
+
+?: Reflection permite
+$a. Realizar cambios al sistema sin detener la ejecución
+b. Aumentar el rendimiento del sistema
+c. Crear código inteligente que reflexiona sobre sus propias capacidades
+d. usar fuentes de conocimiento independientes que contribuyen a la solución
+
+?: ¿Cuál de las siguientes NO es una ventaja de los DSLs?
+$a. Rendimiento
+b. Flexibilidad
+c. Usabilidad
+d. Adaptabilidad
+
+?: Código móvil
+$a. Es código que se transfiere de una máquina a otra para que lo ejecute
+b. Es código que se modifica a sí mismo
+c. Es el código que se ejecuta en dispositivos móviles
+d. Es una variante de CQRS
+
+?: Habitualmente, código bajo demanda
+$a. Es código que se transmite del servidor al cliente
+b. es código que se transmite del cliente al servidor
+c. requiere de un lenguaje de programación anfitrión
+d. se utiliza para Event sourcing
+
+?: Los agentes móviles consisten en
+$a. código y datos que se envía de una máquina a otra para su ejecución
+b. lenguajes de dominio específico utilizados en aplicaciones de seguridad
+c. aplicaciones que producen eventos
+d. plugins que son incoporados en arquitecturas microkernel
+
+?: ¿Cuál de las siguientes NO es una falacia de la computación distribuida?
+$a. La invocación a un procedimiento remoto puede pasar parámetros
+b. La red es fiable
+c. La red es segura
+d. El coste de transporte es cero
+
+?: Hub and spoke
+$a. Es una topología de mensajería con un bróker central
+b. permite la utilización de múltiples brókers centrales
+c. es una variante de MVC
+d. permite integrar sistemas mediante RPC
+
+?: Una consecuencia del patrón Bróker es
+$a. Separación de incumbencias
+b. Mejora del rendimiento
+c. Bajo acoplamiento entre los sistemas
+d. Evita el single point of failure
+
+?: Una consecuencia de Peer-to-peer es
+$a. Evita el single point of failure
+b. Facilita la gestión del estado global del sistema
+c. Facilita la seguridad
+d. Mejorar el ancho de banda y la latencia
+
+?: ¿Cuál de las siguientes NO es una ventaja de SOA?
+$a. Seguridad
+b. Independencia de lenguaje
+c. Acoplamiento débil
+d. Interoperabilidad
+
+?: En WS-*
+$a. Se proponía UDDI como páginas amarillas para publicar servicios web
+b. Se proponía SOAP como páginas amarillas de servicios web
+c. WSDL contiene el cuerpo del mensaje en XML
+d. SOAP contiene la descripción del mensaje
+
+?: En REST, la operación DELETE
+$a. Es idempotente pero no segura
+b. Es idempotente y segura
+c. No es idempotente pero sí segura
+d. No es ni idempotente ni segura
+
+?: HATEOAS
+$a. Incluye URIs en respuestas con más opciones del estado de la aplicación
+b. Permite mejorar el tamaño de las respuestas
+c. Se utiliza para analizar la seguridad de aplicaciones Big Data
+d. Impide el uso de cliente servidor sin estado
+
+?: En las arquitecturas basadas en servicios
+$a. Existen varios frameworks disponibles para facilitar el time-to-market
+b. Se facilita la escalabilidad al estar descentralizadas
+c. mejora la evolución de los servicios mediante diferentes bases de datos
+d. Se realiza el despliegue de todos los servicios a la vez
+
+?: En la propuesta de microservicios
+$a. Cada microservicio gestiona su propia base de datos
+b. Todos los microservicios de despliegan a la vez
+c. Los microservicios son aplicaciones diferentes
+d. Los microservicios están enfocados a realizar múltiples tareas
+
+?: Un microservicio trabaja
+$a. Con un dominio acotado
+b. de forma coordinada mediante un orquestador de servicios
+c. coordinándose con otros microservicios mediante base de datos compartida
+d. con la misma escalabilidad que el resto de aplicaciones del sistema
+
+?: El deterioro estructural de microservicios puede aparecer al utilizar
+$a. Demasiadas librerías compartidas entre microservicios
+b. servicios muy desacoplados
+c. servicios con diferentes niveles de escalabilidad
+d. diferentes lenguajes y bases de datos para cada microservicio
+
+?: En la propuesta Serverless
+$a. Se persigue escalabilidad automática
+b. se utilizan sistemas descentralizados sin servidores
+c. se evita el vendor-lock-in
+d. los clientes actúan como servidores
+
+?: ¿Cuál de las siguientes NO es una ventaja de Serverless?
+$a. Vendor lock-in
+b. Escalabilidad
+c. Disponibilidad
+d. Time-to-market
+
+?: Los tipos de la función map y reduce en MapReduce son:
+$a. map: (K1,V1) => [(K2, V2)] reduce: (K2,[V2]) => (K2,V2)
+b. map: (K1,V1) => (K2, V2) reduce: (K2,V2) => (K3,V3)
+c. map: [(K1,V1)] => [(K2, V2)] reduce: [(K2,V2)] => [(K3,V3)]
+d. map: (K1,V1) => [(K2, V2)] reduce: (K2,V2) => (K2,[V2])
+
+?: MapReduce
+$a. Utiliza un sistema de ficheros distribuido con replicación
+b. permite que cada nodo master ejecute las funciones map y reduce
+c. facilita el análisis en tiempo real de los datos
+d. utiliza el modelo Read-once, Write Many
+
+?: La arquitectura Lambda
+$a. Permite procesar big data en tiempo real
+b. permite que cada nodo master ejecute las funciones map y reduce
+c. utiliza vistas para modificar los datos de entrada
+d. Tiene una "serving layer" que genera vistas en tiempo real
+
+?: En la arquitectura lambda, la serving layer
+$a. Combina las vistas en tiempo real con las vistas precomputadas batch
+b. se utiliza para los datos del servidor
+c. se utiliza para mostrar incrementos de los datos en tiempo real
+d. Se utiliza para realizar re-computaciones de datos batch
+
+?: La arquitectura Kappa utiliza
+$a. Un log distribuido y replicado como almacenamiento de eventos
+b. un log de eventos que pueden modificarse durante la ejecución
+c. tres capas: batch, serving y speed
+d. una capa batch para almacenar los logs distribuidos
+
+?: En la arquitectura Kappa
+$a. Un reto son requisitos de espacio al duplicarse el log y la base de datos
+b. los eventos son actualizados mediante recomputaciones
+c. se utiliza un log de eventos de solo lectura
+d. se favorece la consistencia del estado sobre la escalabilidad
+
+?: Una desventaja de la coordinación mediante transferencia de ficheros es
+$a. Bajo acoplamiento porque productor y consumidor pueden ser independientes
+b. Automatización
+c. Consistencia puesto que siempre se trabaja con la misma versión
+d. Bajo acoplamiento porque puede utilizarse cualquier formato
+
+?: ETL
+$a. Consiste en 3 fases: extracción, transformación y carga
+b. Es el "Extended Transmission Log" de la arquitectura Kappa
+c. Se utiliza para mejorar el rendimiento en tiempo real de mapReduce
+d. Es equivalente a RPC
+
+?: En la coordinación mediante Mensajería
+$a. Se suele utilizar una comunicación asíncrona
+b. se suele utilizar comunicación síncrona
+c. suele implicar un alto acoplamiento
+d. se utilizan sistemas ETL para la sincronización
+
+?: La escalabilidad en aplicaciones microservicios puede conseguirse mediante
+$a. Distribución de microservicios en servidores y replicación bajo demanda
+b. replicación de la aplicación en servidores bajo demanda
+c. replicación de base de datos en los servidores bajo demanda
+d. la aplicación de la Ley de Conway
+
+?: Una variante peer-to-peer es
+$a. El uso de super-peers
+b. MapReduce
+c. Arquitectura Lambda
+d. Arquitectura Kappa

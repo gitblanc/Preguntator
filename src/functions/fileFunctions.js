@@ -14,7 +14,7 @@ export function desordenarPreguntasRespuestas(texto) {
 
 	for (let i = 0; i < lines.length; i++) {
 		const line = lines[i].trim();
-
+		console.log(line.startsWith());
 		if (line.startsWith("?:")) {
 			preguntaActual = {
 				pregunta: line.substring(3), // Eliminar el prefijo '?:'

@@ -17,7 +17,7 @@ b. El equipo de desarrollo
 c. El entorno de desarrollo
 d. Los requisitos funcionales
 
-?:Las restricciones...
+?: Las restricciones...
 $a. Es bueno conocerlas porque limitan alternativas a considerar
 b. Son un problema que hay que tratar de evitar
 c. Son imposiciones de los jefes de proyecto que hay que evitar

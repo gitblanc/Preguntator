@@ -1192,3 +1192,57 @@ $a. Se utilizan en las arquitecturas evolutivas para analizar la evolución
 b. Se utilizan en BPMN
 c. Se utilizan en Serverless para adaptar el software a la nube
 d. Son un aspecto fundamental de las líneas de productos software
+
+?: ¿En qué año se acuñó el término hipertexto?
+$a. 1965
+b. 1990
+c. 1945
+d. 2005
+
+?: ¿En qué año se inventó la web?
+$a. 1989
+b. 1995
+c. 2005
+d. 1980
+
+?: ¿En qué año nace el World Wide Web Consortium?
+$a. 1994
+b. 1989
+c. 2000
+d. 1965
+
+?: ¿En qué año nace Javascript?
+$a. 1995
+b. 2000
+c. 1989
+d. 2005
+
+?: ¿En qué año nace Amazon?
+$a. 1995
+b. 2000
+c. 1989
+d. 2005
+
+?: ¿Cuáles son los 3 pilares de la web?
+$a. Protocolo HTTP, URIs y lenguajes de representación
+b. HTML, CSS y Javascript
+c. HTML, XML y JSON
+d. Criptomonedas, NFTs y DAOs
+
+?: ¿Cómo se denomina el tipo asociado a los recursos en la Web?
+$a. MIME
+b. XML
+c. JSON
+d. URI
+
+?: curl es una herramienta que permite
+$a. navegar por la web sin navegador
+b. crear URLs inteligentes
+c. comprar NFTs
+d. ejecutar código javascript
+
+?: ¿Qué es el árbol DOM?
+$a. Una representación en memoria del contenido de una página web
+b. Un lenguaje utilizado para representar páginas HTML
+c. Una técnica para visualizar código Javascript
+d. Un componente que permite comunicar el cliente con el servidor

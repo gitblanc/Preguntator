@@ -1246,3 +1246,93 @@ $a. Una representación en memoria del contenido de una página web
 b. Un lenguaje utilizado para representar páginas HTML
 c. Una técnica para visualizar código Javascript
 d. Un componente que permite comunicar el cliente con el servidor
+
+?: HTML nació como un vocabulario de...
+$a. SGML
+b. XML
+c. XHTML
+d. Javascript
+
+?: ¿Cuál es la etiqueta que permite en HTML indicar un elemento de cabecera de primer nivel?
+$a. h1
+b. head
+c. body
+d. level1
+
+?: Las declaraciones CSS están formadas por...
+$a. selector de elementos y lista de propiedades y valores
+b. un elemento asociado con bloque de código javascript
+c. una lista de propiedades y valores
+d. una lista de atributos
+
+?: ¿En cuál de los siguientes lenguajes podemos definir nuestro propio vocabulario de etiquetas?
+$a. XML
+b. CSS
+c. HTML
+d. XHTML
+
+?: Los documentos XML pueden ser validados mediante
+$a. DTDs o XML Schema
+b. CSS
+c. JSON Schema
+d. XSLT
+
+?: ¿Cuál de los siguientes es un vocabulario XML?
+$a. SVG
+b. CSS
+c. JSON
+d. DTD
+
+?: Un archivo JSON
+$a. Representa un objeto Javascript
+b. Puede ser validado mediante DTD
+c. Es un vocabulario XML
+d. Se utiliza para asociar estilos a documentos HTML
+
+?: Javascript
+$a. Se usa para computación en el cliente y servidor
+b. Se utiliza solamente para computación en cliente
+c. Se utiliza solamente para computación en servidor
+d. Es un lenguaje fuertemente tipado
+
+?: express
+$a. Es un framework javascript sobre nodejs
+b. Es un vocabulario XML
+c. se utiliza para validar documentos JSON
+d. se utiliza para compilar código typescript a javascript
+
+?: En el fichero package.json
+$a. Se declaran dependencias que srán resueltas al ejecutar npm install
+b. Se declara el esquema JSON que se utilizará en la validación
+c. se declaran los ficheros que serán ignorados por git
+d. se asocia el contenido HTML con la hoja de estilo CSS
+
+?: Para la computación en el servidor
+$a. Hay mucha libertasd para elegir lenguajes y frameworks
+b. Se utiliza fundamentalmente javascript
+c. Se requieren sistemas que manipulan árboles DOM como React
+d. Se requieren sistemas que no puedan acceder al sistema de ficheros
+
+?: NodeJs
+$a. Es un entorno de ejecución de Javascript en servidor
+b. Es un vocabulario JSON
+c. Permite ejecutar javascript del lado del cliente
+d. Utiliza E/S síncrona por defecto
+
+?: npm
+$a. Es un gestor de paquetes para NodeJs
+b. Es un framework para ejecutar Javascript en el cliente
+c. Viene incorporado con Javascript
+d. Es un lenguaje de representación de la Web
+
+?: REST
+$a. Es un estilo de arquitectura basado en el uso de recursos
+b. Es un lenguaje de programación en el cliente
+c. Se utiliza para aplicaciones RPC
+d. Se basa en utilizar JSON en lugar de XML
+
+?: La operación DELETE
+$a. Es idempotente pero no segura
+b. No es idempotente pero sí segura
+c. Es idempotente y segura
+d. No es idempotente ni segura

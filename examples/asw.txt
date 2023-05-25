@@ -1336,3 +1336,75 @@ $a. Es idempotente pero no segura
 b. No es idempotente pero sí segura
 c. Es idempotente y segura
 d. No es idempotente ni segura
+
+?: Una buena práctica al hacer code-review es...
+$a. Centrarse en el código
+b. Centrarse en el creador del código
+c. Utilizar sarcasmo
+d. Realizar pocas revisiones, pero muy exhaustivas
+
+?: ¿Cuál de los siguientes aspectos puede considerarse deuda técnica?
+$a. Errores detectados que cuya solución se pospone
+b. Utilización de patrones de diseño
+c. Realizar revisiones de código con mucha frecuencia
+d. Utilizar microservicios
+
+?: La U de propuesta CUPID consiste en
+$a. proponer seguir filosofía UNIX
+b. realizar código "Understandable"
+c. reutilizar código de forma "Unpredictable"
+d. "Utilizar" librerías obtenidas en repositorios externos
+
+?: ¿Qué dos modelos existen de infraestructura como código?
+$a. Imperativos o declarativos
+b. Seguros o Escalables
+c. Verdaderos o Falsos
+d. Positivos o negativos
+
+?: ¿Cuál de las siguientes herramientas se utiliza para análisis de comportamiento de código?
+$a. CodeScene
+b. Maven
+c. Quality Gate
+d. CodeCov
+
+?: La ley de Lehman de Crecimiento continuo establece que
+$a. La funcionalidad de un sistema aumenta para satisfacer a los usuarios
+b. El número de líneas de un sistema software aumenta con el tiempo
+c. El número de usuarios de un sistema software aumenta con el tiempo
+d. El número de desarrolladores de un sistema software aumenta con el tiempo
+
+?: Los micro-frontends son aplicaciones...
+$a. de front-end entregadas independientemente y se componen para generar otra
+b. cuyo front-end funciona en dispositivos pequeños
+c. distribuidas que no tienen front-end
+d. cuyo front-end se crea a partir de micro-servicios
+
+?: ¿Cuál de los siguientes puede ser un problema de los sistemas serverless?
+$a. Cold-start
+b. Hot-start
+c. La escalabilidad automática
+d. La independencia de los proveedores
+
+?: ¿Cuál de las siguientes es una de las 4 métricas claves?
+$a. Tiempo medio de recuperación
+b. Complejidad ciclomática
+c. Cohesividad
+d. Cobertura de código
+
+?: En la propuesta reciente de Web3
+$a. se sustituye el backend por persistencia basada en blockchain
+b. se propone utilizar NFTs para compensar a los desarrolladores
+c. se propone utilizar SOLID para mejorar la descentralización
+d. se sustituyen los front-ends por diseños registrados mediante NFTs
+
+?: Los mapas Wardley representan
+$a. en un eje el valor para el usuario y en otro la evolución
+b. en un eje la capacidad computacional y en otro la época
+c. técnicas de descomposición modular
+d. tipos de arquitecturas basadas en serverless
+
+?: ¿Cuál de los siguientes es un patrón de Microservicios?
+$a. El patrón "Estrangulador"
+b. El patrón "Asesino"
+c. La utilización de una única base de datos compartida
+d. El patrón MTTR

@@ -1408,3 +1408,54 @@ $a. El patrón "Estrangulador"
 b. El patrón "Asesino"
 c. La utilización de una única base de datos compartida
 d. El patrón MTTR
+
+?: ¿Cuál de los siguientes puede formar parte de la deuda técnica?
+$a. Todo el código, incluido el código de pruebas
+b. Sólo el código que forma parte del ejecutable
+c. Sólo el código que aparece en la cobertura de código
+d. Sólo el código de las dependencias
+?: ¿Qué lenguaje usa internamente la librería libCurl?
+$a. PHP
+b. C
+c. Java
+d. Rust
+?: ¿Cuál de las siguientes sirve para mejorar la productividad de los desarrolladores?
+$a. DX
+b. UX
+c. XML
+d. RDF
+?: Según John Ousterhout, una buena descomposición modular utiliza módulos...
+$a. profundos, con poca interfaz y mucha funcionalidad
+b. anchos, con poca interfaz y mucha funcionalidad
+c. redondos, con muchas dependencias cíclicas
+d. concretos y estables
+?: ¿Cuál de las siguientes es una falacia de la computación distribuida?
+$a. La latencia es cero
+b. La latencia aumenta con el tiempo
+c. La latencia disminuye con el tiempo
+d. La latencia es negativa
+?: Un ejemplo de antipatrón DevOps es:
+$a. Fatiga por alerta
+b. Cultura por consenso
+c. Caja de herramientas completa
+d. Cortocircuito
+?: Disponer de una capacidad para cometer errores cumpliendo con los SLOs se conoce como
+$a. Presupuesto de error (Error budget)
+b. SLA
+c. SLI
+d. Error de latencia
+?: Un ejemplo de sistema que cumple con la arquitectura inmutable sería
+$a. Blockchain
+b. Bases de datos relacionales
+c. Linux
+d. Windows
+?: El software con el que se implementó eBay
+$a. Se re-escribió varias veces en varios lenguajes
+b. Se diseñó usando arquitectura de microservicios
+c. Es un ejemplo de arquitectura basada en 3 capas
+d. Está implementado en PHP
+?: En el proyecto Software Heritage Archive
+$a. Se utiliza un identificador único intrínseco para cada objeto
+b. Se utiliza un registro de identificadores extrínsecos
+c. Se almacena la lista de mejores arquitectos de software
+d. No es necesario utilizar identificadores únicos

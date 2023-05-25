@@ -24,7 +24,7 @@ c. Son imposiciones de los jefes de proyecto que hay que evitar
 d. Son imposiciones de los arquitectos de software al equipo
 
 ?: Los stakeholders...
-$a. Son personas interesadas en el proyectojefe
+$a. Son personas interesadas en el proyecto
 b. Son entidades abstractas que identifican requisitos funcionales
 c. Son roles que deben adoptar los arquitectos de software
 d. Son los dueños del proyecto

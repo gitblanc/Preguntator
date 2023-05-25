@@ -1042,3 +1042,153 @@ b. $a. modificar comportamiento del sistema sin cambiar código
 c. b. modificar el código del sistema sin cambiar el comportamiento
 d. c. crear componentes con errores a propósito para mejorar resiliencia
 d. crear sistemas que eviten características no probadas en producción
+
+?: ¿Cuál de las siguientes es una expectativa sobre un arquitecto de software?
+$a. Comprender y navegar la política empresarial
+b. Definir la estrategia empresarial
+c. Revisar y aprobar todas las Pull-requests
+d. Definir la arquitectura correcta al comienzo para que no se revise
+
+?: ¿Cuál de los siguientes NO forma parte del rol del arquitecto de software?
+$a. Definir la estrategia empresarial y de negocio
+b. Comprender objetivos, capturar requisitos y restricciones
+c. Identificar, mitigar y apropiarse de riesgos técnicos
+d. Crear estrategia técnica, visión y hoja de ruta
+
+?: En las compañías basadas en producto en dominios diferentes del software
+$a. Se produce un compromiso entre departamento IT interno o outsourcing
+b. El software es lo más importante de la empresa
+c. Se proporcionan servicios de consultoría a otras empresas
+d. la inversión suele ser realizada por business angels o capital riesgo
+
+?: Un arquitecto empresarial
+$a. da soporte a la estrategia de negocio y soluciones TI
+b. Se enfoca en proyectos software con conocimiento profundo de tecnología
+c. Realiza los planos de los edificios de la empresa
+d. Es un arquitecto de software que trabaja en una empresa
+
+?: El marco Zachman
+$a. Es una técnica de arquitectura empresarial basada en un modelo
+b. Representa una serie de expectativas sobre una tecnología en el tiempo
+c. Se utiliza para analizar el comportamiento de repositorios de código
+d. Es un técnica para refactorizar software
+
+?: TOGAF
+$a. Es un marco y metodología de arquitecturas empresariales
+b. Es una propuesta de arquitectura empresarial realizada por John Zachman
+c. Es un sistema ERP
+d. Es un ejemplo de SCM
+
+?: La parte superior de la curva en las representaciones de Gartner
+$a. Es el pico de expectativas sobredimensionadas
+b. Es el momento en el que un sistema es más útil
+c. Indica el número máximo de compradores de un sistema
+d. Indica el número de pérdidas de un sistema
+
+?: Una posible ventaja de adoptar ERP para una empresa
+$a. Calidad y eficiencia utilizando mejores prácticas
+b. Independencia de un vendedor
+c. Facilidad para adaptar los procesos existentes
+d. Sencillez de la implantación
+
+?: ABAP
+$a. Es un lenguaje de dominio específico utilizado en SAP
+b. Es un marco de descripción de arquitecturas empresariales
+c. Es un ejemplo de SCM
+d. Es un lenguaje para aplicaciones Serverless diseñado por Amazon
+
+?: El software que gestiona los calls centers se enmarca en la categoría
+$a. CRM
+b. ERP
+c. SCM
+d. WMS
+
+?: ¿Qué tipo de software puede utilizarse para control de inventario?
+$a. SCM
+b. CRM
+c. EAI
+d. PLM
+
+?: ¿Qué tipo de software puede utilizarse para la gestión automatizada de almacenes?
+$a. WMS
+b. SCM
+c. PLM
+d. CRM
+
+?: Los gestores documentales se enmarcan en
+$a. ECM
+b. WMS
+c. PLM
+d. CRM
+
+?: BPM
+$a. Se utiliza para gestionar el ciclo de vida de procesos de negocio
+b. Se utiliza para realizar negocios de empresa a empresa
+c. Se utiliza para realizar negocios de empresa a consumidor
+d. Se utiliza para gestionar ciclo de vida de productos
+
+?: OLAP
+$a. Son herramientas de inteligencia de negocios con análisis multidimensional
+b. Es un lenguaje de dominio específico para SAP
+c. Son programas para la gestión de las relaciones con los clientes
+d. Es una técnica para crear arquitecturas evolutivas
+
+?: BPMN
+$a. Es una notación visual para la definición de procesos de negocio
+b. Engloba los sistemas de negocio de empresa a empresa
+c. Es un lenguaje utilizado para orquestar procesos de negocio basado en XML
+d. Es un conjunto de herramientas para gestionar la relación con los clientes
+
+?: PLM
+$a. Engloba herramientas que gestionan el ciclo de vida de productos
+b. Es un lenguaje de dominio específico para SAP
+c. Equivale a "Programming Language Methodology"
+d. Se utiliza para gestionar relaciones con los clientes
+
+?: EAI
+$a. Engloba herramientas de integración de software empresarial
+b. Son sistemas de inteligencia artificial empresarial
+c. Se utiliza para gestionar las relaciones con los clientes
+d. Se utiliza para gestionar automáticamente almacenes
+
+?: Las líneas de producto software requieren
+$a. Identificar soluciones genéricas a problemas comunes de varios productos
+b. Crear sistemas que evolucionan con el tiempo
+c. utilizar acuerdos a nivel de servicio
+d. técnicas de análisis del comportamiento del código
+
+?: ¿Cuál de las siguientes afirmaciones es correcta?
+$a. Un SLO es un objeto para un SLI
+b. Un SLI es un objetivo para un SLA
+c. Los SLI son acuerdos que se miden en función de los SLA
+d. Los SLO son medidas cuantitativas de algún aspecto de un servicio
+
+?: La ley de cambio continuo de Lehman dice que
+$a. Un sistema debe adaptarse continuamente o cada vez es menos satisfactorio
+b. A medida que un sistema evoluciona, su complejidad aumenta
+c. Al refactorizar un sistema antiguo se cambia el código continuamente
+d. Los sistemas deben cambiarse para que sigan siendo "legacy
+
+?: Refactorizar consiste en
+$a. Modificar la estructura de software preservando su comportamiento externo
+b. Modificar el comportamiento externo sin modificar el software
+c. Ejecutar las pruebas del sistema cada vez que se cambia el código
+d. Cambiar la arquitectura del software sin modificar el código
+
+?: Un proyecto "legacy"
+$a. Suele ser software valioso que se tiene miedo a cambiar
+b. Suele ser software poco útil
+c. Son proyectos recién desarrollados con poco deuda técnica
+d. Son proyectos que evolucionan y se adaptan a los nuevos entornos
+
+?: Un "hotspot" en el análisis de comportamiento de software es+
+$a. Un componente complejo que cambia frecuentemente
+b. Un componente sencillo que cambia frecuentemente
+c. Un componente complejo que cambia pocas veces
+d. Un componente sencillo que cambia pocas veces
+
+?: Las funciones de encaje
+$a. Se utilizan en las arquitecturas evolutivas para analizar la evolución
+b. Se utilizan en BPMN
+c. Se utilizan en Serverless para adaptar el software a la nube
+d. Son un aspecto fundamental de las líneas de productos software

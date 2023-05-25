@@ -289,9 +289,9 @@ d. Es una técnica para identificar necesidades complejas de stakeholders
 
 ?: En arquitecturas del software evolutivas...
 $a. Puede definirse la función de encaje que mide atributos de calidad
-Los arquitectos deben ir evolucionando para adaptarse al entorno
-El entorno debe evolucionar para adaptarse a los arquitectos
-Los escenarios de calidad se adaptan a los requisitos funcionales
+b. Los arquitectos deben ir evolucionando para adaptarse al entorno
+c. El entorno debe evolucionar para adaptarse a los arquitectos
+d. Los escenarios de calidad se adaptan a los requisitos funcionales
 
 ?: Las métricas de software
 $a. Son medidas objetivas de ciertos aspectos de calidad

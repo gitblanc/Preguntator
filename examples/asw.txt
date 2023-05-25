@@ -874,3 +874,171 @@ $a. El uso de super-peers
 b. MapReduce
 c. Arquitectura Lambda
 d. Arquitectura Kappa
+
+?: Cuando la computación se realiza "on premises"
+$a. Es necesario invertir en hardware, licencias, espacios...
+b. Se pierde el control del hardware
+c. Se realiza menos inversión inicial
+d. Hay más dependencia de los proveedores en la nube
+
+?: En un diagrama de despliegue
+$a. Se asocian artefactos a cajas que representan nodos computacionales
+b. Se representan jerarquías de clases junto con sus interacciones
+c. Se describen los casos de uso que serán desplegados
+d. Se presenta la secuencia de interacción entre actores
+
+?: Cuando la computación se realiza en la nube
+$a. Se facilita el acceso a hardware caro
+b. Se requieren habilidades de administración de sistemas
+c. Se garantizan unos costes fijos
+d. Se requiere una mayor inversión inicial
+
+?: La metáfora "pets vs cattle"
+$a. Identifica a los servidores tradicionales como mascotas
+b. Identifica a los servidores tradicionales como ganado
+c. Identifica a los clusters de servidores como mascotas
+d. Describe a los servidores tradicionales como deshechables
+
+?: Edge computing
+$a. Pretende mejorar la latencia y el ancho de banda
+b. Mejora acceso a grandes datos con acceso directo al servidor
+c. Consiste en computaciones de gran riesgo
+d. Equivale a la computación on premises
+
+?: Los multi-armed bandits
+$a. Ajustan dinámicamente el tráfico para ofrecer buenas alternativas
+b. consisten en dividir los usuarios en grupos fijos
+c. son pruebas de carga realizadas mediante múltiples ataques
+d. se utilizan para la configuración automática de contenedores
+
+?: ¿Cuál de los siguientes sistemas puede utilizarse para realizar pruebas de carga?
+$a. Gatling
+b. Canary tests
+c. Feature toggle
+d. Los balanceadores de carga
+
+?: ¿Cuál de las siguientes frases es verdadera?
+$a. Docker se basa en el aislamiento de procesos a nivel de kernel
+b. El tiempo de arranque es menor con máquinas virtuales que con contenedores
+c. Con máquinas virtuales se puede reutilizar el sistema operativo
+d. Con contenedores , los servidores no están aislados
+
+?: La arquitectura de alto nivel de docker
+$a. Se basa en cliente-servidor
+b. Utiliza un dockerd como cliente
+c. Utiliza docker hub como cliente
+d. Utiliza dockerd como registro de imágenes
+
+?: Una imagen docker es
+$a. Una plantilla de sólo lectura con instrucciones para crear 1 contenedor
+b. Un proceso que escucha peticiones para crear contenedores
+c. Un registro donde se almacenan contenedores
+d. Un emulador del sistema operativo
+
+?: El modelo de capas de docker
+$a. Permite crear imágenes a partir de otras imágenes
+b. Permite crear un dockerd a partir de una imagen
+c. Permite que los contenedores estén aislados
+d. Permite utilizar contenedores inmutables
+
+?: El concepto de infraestructura inmutable permite
+$a. Describir los estados deseados de una infraestructura en imágenes
+b. ir actualizando una infraestructura a partir de una imagen base
+c. utilizar una línea de comandos para gestionar la infraestructura
+d. utilizar un GUI para gestionar la infraestructura
+
+?: Una ventaja de utilizar contenedores es
+$a. Rendimiento
+b. Orquestación
+c. Independencia de la plantaforma
+d. Facilidades para persistencia
+
+?: ¿Cuál de las siguientes frases es verdadera?
+$a. Kubernetes puede utilizarse para la orquestación de contenedores
+b. Docker-compose se utiliza habitualmente en múltiples hosts
+c. Docker Swarm es una solución desarrollada inicialmente por Google
+d. Kubernetes utiliza pods de SOLID para los despliegues
+
+?: El concepto de "deployment pipeline" promueve
+$a. la automatización de las tareas de construcción, despliegue, pruebas, etc
+b. utilizar devops para desplegar los sistemas cuando se lo pidamos
+c. el círculo vicioso del despliegue manual
+d. hacer una fiesta cada vez que se despliegue una nueva versión
+
+?: El lema del "continuous deployment" es
+$a. Si duele, hazlo más frecuentemente
+b. "Todo está funcionando" es una anomalía
+c. Añadir más personas a un proyecto retrasado hace que se retrase más
+d. Let it crash
+
+?: El patrón timeout añade un limitador temporal a
+$a. las peticiones para detenerlas y, a veces, reintentarlas
+b. los servidores para dejar de atender peticiones pesadas
+c. las peticiones de los servidores a otros servidores
+d. las peticiones para evitar que se reintenten
+
+?: En el patrón circuit breaker, cuando se producen...
+$a. demasiados errores se deja de atender peticiones x tiempo
+b. peticiones se realiza un control de tiempo
+c. peticiones se cierra el circuito y no se devuelven respuestas
+d. fallos se pasa a modo cerrado
+
+?: Con el patrón bulkhead se pretende
+$a. seguir el funcionamiento aunque una parte falle
+b. evitar los errores mediante controles temporales
+c. detener el sistema cuando se produzcan errores
+d. crear backpressure a los sistemas saturados
+
+?: Una solución basada en "steady state" o estado estacionario es
+$a. Limpiar los recursos del sistema automáticamente
+b. Crear una réplica del servidor
+c. Utilizar un monitor que limite las peticiones que ocupan mucho tiempo
+d. Aplicar backpressure a las peticiones
+
+?: El patrón "Fail fast" promueve chequear
+$a. que recursos necesarios estén disponibles para no realizar trabajo inútil
+b. que las peticiones no esperan más tiempo del indicado
+c. que el sistema deja de funcionar cuando se produzca el primer error
+d. que las peticiones se respondan por el servidor con menor carga
+
+?: Alguna de las condiciones para que se pueda aplicar el patrón "Let it crash" es
+$a. Que los componentes puedan sustituirse rápidamente por otros
+b. Que los componentes sean tolerantes a fallos
+c. Utilizar sistemas de control de excepciones para programar defensivamente
+d. Acordar los recursos necesarios antes de comenzar
+
+?: El patrón Handshaking
+$a. Permite realizar un control cooperativo de las demandas computacionales
+b. Se utiliza para que los componentes puedan ser sustituidos fácilmente
+c. regula las peticiones a procesar ralentizando los productores
+d. consiste en utilizar orquestadores de contenedores
+
+?: ¿Cuál de las siguientes NO es una estrategia para backpressure?
+$a. Balanceo de carga
+b. Ralentizar los productores
+c. Utilizar búffers para acumular temporalmente datos de entrada
+d. Ignorar algunas peticiones
+
+?: En el patrón Governor se puede
+$a. ralentizar la velocidad de acciones automatizadas para permitir acción humana
+b. automatizar acciones humanas para aumentar velocidad
+c. Utilizarse para aumentar el rendimiento de acciones automatizables
+d. Aumentar la resistencia ante acciones humanas poco seguras
+
+?: Las propuestas de Ingeniería del caos
+$a. introducen fallos en un sistema a propósito para probar resiliencia
+b. crean sistemas inseguros que deben ser refactorizados
+c. son antipatrones creados a partir del uso de máquinas virtuales
+d. son antipatrones que utilizaban una mala gestión de incidencias
+
+?: Un "canary release" consiste en
+$a. introducir nuevas releases progresivamente a subconjuntos de usuarios
+b. introducir fallos a propósito para comprobar la resiliencia
+c. utilizar limitadores temporales de las peticiones
+d. una release que se muestra a los usuarios beta
+
+?: El uso de "Feature toggles" permite
+b. $a. modificar comportamiento del sistema sin cambiar código
+c. b. modificar el código del sistema sin cambiar el comportamiento
+d. c. crear componentes con errores a propósito para mejorar resiliencia
+d. crear sistemas que eviten características no probadas en producción

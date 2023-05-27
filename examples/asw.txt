@@ -1039,9 +1039,9 @@ c. utilizar limitadores temporales de las peticiones
 d. una release que se muestra a los usuarios beta
 
 ?: El uso de "Feature toggles" permite
-b. $a. modificar comportamiento del sistema sin cambiar código
-c. b. modificar el código del sistema sin cambiar el comportamiento
-d. c. crear componentes con errores a propósito para mejorar resiliencia
+$a. modificar comportamiento del sistema sin cambiar código
+b. modificar el código del sistema sin cambiar el comportamiento
+c. crear componentes con errores a propósito para mejorar resiliencia
 d. crear sistemas que eviten características no probadas en producción
 
 ?: ¿Cuál de las siguientes es una expectativa sobre un arquitecto de software?

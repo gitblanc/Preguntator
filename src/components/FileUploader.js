@@ -58,6 +58,8 @@ const FileUploader = () => {
 			return;
 		}
 
+		setSelectedAnswers([]);
+
 		const reader = new FileReader();
 		reader.onload = (event) => {
 			const fileContent = event.target.result;

@@ -11,6 +11,7 @@ const FileUploader = () => {
 	const [selectedAnswers, setSelectedAnswers] = useState([]);
 	const [respuestasCorrectas, setRespuestasCorrectas] = useState(0);
 	const [respuestasInCorrectas, setRespuestasInCorrectas] = useState(0);
+	const [maxPreguntas, setMaxPreguntas] = useState("todas");
 
 	useEffect(() => {
 		if (showAnswers) {
@@ -64,7 +65,25 @@ const FileUploader = () => {
 			const preguntasRespuestasDesordenadas =
 				desordenarPreguntasRespuestas(fileContent);
 
-			setPreguntasRespuestasDesordenadas(preguntasRespuestasDesordenadas);
+			let preguntasFiltradas = preguntasRespuestasDesordenadas;
+
+			if (
+				maxPreguntas !== "" &&
+				!isNaN(maxPreguntas) &&
+				Number(maxPreguntas) > 0
+			) {
+				const numeroMaximoPreguntas = Math.min(
+					Number(maxPreguntas),
+					preguntasRespuestasDesordenadas.length
+				);
+
+				preguntasFiltradas = preguntasRespuestasDesordenadas.slice(
+					0,
+					numeroMaximoPreguntas
+				);
+			}
+
+			setPreguntasRespuestasDesordenadas(preguntasFiltradas);
 		};
 
 		reader.readAsText(selectedFile);
@@ -163,6 +182,13 @@ const FileUploader = () => {
 					placeholder="Sube tus preguntas"
 					onChange={handleFileChange}
 					className={styles.customInput}
+				/>
+				<input
+					type="text"
+					value={maxPreguntas}
+					onChange={(event) => setMaxPreguntas(event.target.value)}
+					placeholder="Número de preguntas"
+					className={styles.inputText}
 				/>
 				<button onClick={handleFileUpload}>¡Desordenar!</button>
 			</div>

@@ -71,3 +71,16 @@ pre {
 .respuestaIncorrecta {
 	background-color: rgba(255, 0, 0, 0.2);
 }
+
+.inputText {
+	color: rgb(0, 0, 0);
+	border-radius: 4px;
+	font-size: 16px;
+	border: none;
+	padding: 13px 20px;
+}
+
+.inputText:focus {
+	outline: none;
+	box-shadow: 0 0 5px rgb(0, 238, 255);
+}

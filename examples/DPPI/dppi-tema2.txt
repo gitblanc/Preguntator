@@ -1,0 +1,325 @@
+?: ¿Qué es la medición?
+$a. La medición es el proceso de codificación objetiva y empírica de alguna propiedad de una clase seleccionada de entidades en un sistema formal de símbolos, de manera que la describan (a la clase) La definición adoptada está sacada del Software Engineer’s Reference Book (McDermid, 1991) y se debe a Agnes A. Kaposi.
+b. La medición es la clasificación de propiedades de una clase de manera que la describan (a la clase)
+c. La medición es la asignación de números a propiedades
+
+?: Pero para que una medición sea válida se debe asegurar su calidad, lo que obliga a ésta a tener una serie de características importantes (Fenton, 1991) (Fenton, y otros, 1996), una de ellas es
+a. El código usado debe estar recogido en alguna publicación reconocida
+$b. El código usado en la medición no debe ser arbitrario, debe estar definido de manera que represente adecuadamente las propiedades medidas
+c. El código usado en la medición debe ser acordado por la comunidad de usuarios
+
+?: La metrología orientada al dominio del sujeto debe ofrecer un entorno teórico para la representación y la escalación, adaptable a cualquier problema de medición individual del dominio. Este entorno debe proveer a la disciplina de dos cosas, ¿Cuáles?
+a. Un sistema de unidades de medida y uno de transformaciones de escala
+$b. Un conjunto comprensible de conceptos básicos y un sistema de teorías coherentes que liguen esos conceptos
+c. Un sistema de condiciones heredadas y uno de condiciones interrelacionadas
+
+?: ¿Cuál es la diferencia principal entre los métodos de las corrientes económica y Rayleigh y la corriente de puntos función de Albrecht?
+a. Los modelos de las corrientes económica y Rayleigh se usan en proyectos grandes y los Puntos Función en proyectos pequeños
+b. Los modelos de las corrientes económica y Rayleigh se usan en proyectos estructurados y los Puntos Función en proyectos orientados a objeto
+$c. Los modelos de las corrientes económica y Rayleigh necesitan las líneas de código y los Puntos Función se basan en los requisitos y el análisis
+
+?: Los ajustes en un sistema de Puntos Función se hacen...
+$a. Valorando de 0 a 5 una lista de 14 características de complejidad
+b. Minorando o incrementando el valor en función de la experiencia de proyectos anteriores
+c. Multiplicado el valor obtenido por 1,35
+
+?: ¿Cuál de los siguientes podría ser un ejemplo de sistema relacional empírico?
+$a. A (Distancias kilométricas entre dos puntos), R (Lejos, Cerca) y O (porcentaje de distancia, doble distancia, diferencia de distancia)
+b. A (Conjunto de ciudades de España), R (Grande, Pequeña) y O (construir nuevo barrio, construir casas) Ninguno de los tres conjuntos está bien formado
+c. A (Conjunto de vehículos a motor), R (Añadir gasolina, Hacer revisión) y O (potencia, autonomía)
+
+?: Kitchenham y McDermid (Kitchenham, y otros, 1986) sugirieron que la recolección de datos para tener éxito debe cumplir algunos requisitos. ¿Cuán de los siguientes es uno de ellos?
+a. Los datos que no pueden ser recogidos automáticamente carecen de interés
+$b. La recolección de datos está integrada dentro del proceso de desarrollo
+c. La recolección de datos debe estar automatizada siempre
+
+?: Las escalas absolutas son escalas de ratio, pero en donde el valor asignado es tambiénun estándar, de modo que no admiten transformación posible, la única transformación de escala es la identidad, ¿Cómo se representa esto matemáticamente?
+$a. T(x) = x
+b. T(x)=αm+β,α>0
+c. T(x)=αm,α>0
+
+?: ¿En qué se basan las métricas Bang de DeMarco?
+a. Se basan en medidas tomadas a partir de los Diagramas de Flujo de Datos y de los Diagramas de Estructuras
+$b. Se basan en medidas tomadas a partir de los Diagramas de Flujo de Datos y de los Diagramas de Entidad-Relación
+c. Se basan en medidas tomadas a partir de los Diagramas de Estructuras y de los Diagramas de Entidad-Relación
+
+?: Atendiendo a las entidades sobre las que se aplica, una métrica de software puede clasificarse como métrica de...
+a. Aplicativos, módulos y librerías
+b. Atributos internos y externos
+$c. Procesos, productos y recursos
+
+?: De acuerdo a la Teoría Representacional (Jáñez, 1989), para realizar esta medición cuantitativa...
+$a. se necesita construir dos sistemas: empírico y numérico y establecer entre ellos una función homomórfica que transforma el uno en el otro
+b. se necesita construir dos sistemas: directo e indirecto y establecer entre ellos una función isomófica que transforma el uno en el otro
+c. se necesita construir dos sistemas: directo e indirecto y establecer entre ellos una función homomórfica que transforma el uno en el otro
+
+?: Hablando de medidas de software, cuando se miden atributos internos...
+$a. ...se están midiendo valores intrínsecos al objeto a medir
+b. ...es la percepción del observador la que valora el objeto a medir
+c. ...se miden valores difíciles de formalizar
+
+?: Las métricas de McCabe son...
+$a. Métricas de estructuras de control
+b. Métricas de estructuras de datos
+c. Métricas de esfuerzo
+
+?: El método Fog de Gunning, ¿qué evalúa?
+a. evalúa la legibilidad de un código fuente
+b. Evalúa la legibilidad de un texto escrito en cualquier idioma (adaptación)
+$c. Evalúa la legibilidad de un texto escrito en inglés
+
+?: ¿Cómo deben ser interpretadas las métricas?
+$a. De forma relativa en una de estas tres formas: Por comparación con los planes y las expectativas, con otros proyectos similares y con otros componentes similares dentro del mismo proyecto
+b. De manera absoluta de acuerdo a las leyes físicas que gobiernan del sistema empírico
+c. Como prescriptores, predictores y comparadores
+
+?: Una afirmación que incluye escalas (numéricas) es significativa si y sólo si:
+a. El conjunto de operaciones permitidas es útil
+b. Es representativa del mundo real
+$c. Su valor es un invariante bajo transformaciones admisibles
+
+?: ¿En qué principio se basa SLIM, de Larry Putnam?
+a. En las estructuras de entrada y salida
+b. En la valoración de los cost drivers
+$c. En las curvas de Rayleignh
+
+?: El proceso de la medición consta de tres partes claramente interrelacionadas:
+$a. Planificación de la medición, Organización de la ejecución de la medición y Control y revisión de la ejecución de la medición
+b. Descripción, Prescripción y Predicción
+c. Evaluación, Comparación y Decisión
+
+?: La medición directa...
+$a. consiste en la obtención de un valor de una medida realizada directamente sobre el objeto a medir
+b. consiste en obtener un valor a partir de varias medidas del objeto
+c. no puede ser una métrica porque no tiene valor formal
+
+?: ¿Cuál es el proceso de medición de los Puntos Función de Albrecht?
+$a. Contar las funciones de usuario y ajustar el sistema para la complejidad del entorno del proceso
+b. Identificar Tipos de entradas externas, Tipos de salidas externas, Tipos de ficheros lógicos internos, Tipos de ficheros de interface externos y Tipos de consultas externas
+c. Identificar las entradas y las salidas, contar puntos función de cada una
+
+?: ¿Qué representa el Sistema Relacional Empírico en la medición?
+a. La representación del mundo real en un espacio numérico. Esto lo hace el Sistema Relacional Numérico o Formal
+$b. El mundo real a medir
+c. El mundo virtual a medir
+
+?: Una vez elegido el Sistema Relacional Formal...
+a. debe ser capaz de expresar todas las relaciones del sistema empírico E, pero al ser un homomorfismo, no se garantiza que también represente las conclusiones significativas previstas originalmente y obtenidas a partir de los datos
+b. debe ser capaz de expresar todas las relaciones del sistema empírico E y debe también representar alguna conclusión significativa prevista originalmente y obtenida a partir de los datos. No se garantiza que sean todas al ser sólo un homomorfismo
+$c. debe ser capaz de expresar todas las relaciones del sistema empírico E y debe también representar cualquier conclusión significativa prevista originalmente y obtenida a partir de los datos
+
+?: La medición combinada...
+a. no es un tipo de medición, sólo sirve para agrupar valores
+$b. permite hacer caracterizaciones de un objeto en función de varias mediciones
+c. sirve sólo cuando el objeto es físico, no puede ser aplicada a software
+
+?: Medir nos ayuda a...
+a. Tomar decisiones que nunca fallen
+$b. Tomas decisiones para solucionar problemas
+c. Concentrar nuestros esfuerzos en hacer el mejor equipo 
+
+?: CoCoMo utiliza quince factores correctores o Cost Drivers, ¿Cuál de los siguientes NO pertenece a dichos factore?
+$a. Tamaño del equipo de programación (personal)
+b. Experiencia con el lenguaje de programación (personal)
+c. Experiencia con el tipo de aplicación (personal)
+
+?: Una medición válida
+$a. Debe ser exacta y su margen de error debe estar acotado
+b. Es subjetiva y parcial
+c. Debe modificar el proceso observado para adaptarlo al propósito final
+
+?: Indica cuál de los siguientes tipos de medición es significativa:
+$a. Cuesta tres meses escribir el Programa A
+b. La complejidad del programa es 42
+c. La calidad del programa A es del 97
+
+?: ¿Cuál de las siguientes afirmaciones es correcta?:
+$a. Para que una medición sea válida debe ser exacta, el error y la incertidumbre de dicha medición estarán acotados 2.1.1.1 El proceso de la medición y sus características
+b. Una métrica es una medida
+c. Las métricas usadas en software son siempre significativas
+
+?: Las métricas de Chidamber y Kemerer (MOOSE) son mayormente...
+$a. Métricas de estructuras de clases Estudian las clases y obtienen datos a partir de ellas.
+b. Métricas de esfuerzo
+c. Métricas de estructuras de control
+
+?: ¿Qué escalas son las que obligan a que las transformaciones de escala deban conservar el origen aunque puedan modificar la pendiente de la escala (T(x)=αm,α>0)?
+
+a. Las escalas numéricas
+$b. Las escalas de ratio
+c. Las escalas ordinales
+
+?: La Medición cuantitiva es...
+$a. la que se realiza sobre un parámetro particular de un atributo de una clase y cuya observación se realiza de modo directo
+b. la que se realiza sobre un parámetro particular de un atributo de una clase y cuya observación se realiza indiferentemente de modo directo e indirecto
+c. la que se realiza sobre un parámetro particular de un atributo de una clase y cuya observación se realiza de modo indirecto
+
+?: Henry y Kafura describieron una métrica compleja para los procedimientos, basada en los flujos de información. En este mátrica, ¿Qué es el fan-in?
+a. Es la lista de atributos estáticos de una clase
+$b. Es el número de flujos de datos locales que entran en el procedimiento, más el número de estructuras de datos desde los cuales el procedimiento recupera información
+c. Es la lista de parámetros de entrada a un método
+
+?: El tiempo perdido por un programador...
+a. No es una medición significativa porque se mide en una escala de intervalo
+b. Es una medida, pero no es una métrica
+$c. Es una medición significativa de acuerdo a Fenton
+
+?: Las condiciones de unicidad y representatividad de una medición indirecta orientada a objeto deben ser de una de estas dos clases:
+a. Condiciones simples y complejas
+b. Condiciones directas e indirectas
+$c. Condiciones heredadas e interrelacionadas
+
+?: ¿Cuál de los siguientes ejemplos de mediciones, según Fenton, es significativa?
+a. La complejidad del programa A es el doble que la de B
+b. La dificultad de diseño del proyecto es de 78
+$c. Se tarda 1 minuto en ejecutar el programa A
+
+?: Desde el punto de vista de la calidad de la medición, la Representatividad define las condiciones en que debe definirse la función de transformación T para que el homomorfismo entre el sistema relacional empírico y formal aseguren la correspondencia entre las propiedades observadas y el sistema formal de representación elegido, ¿Qué quiere decir esto?
+a. Que las mediciones deben hacerso usando el sistema numérico y no el empírico
+$b. Que se debe demostrar formalmente que la escala elegida y las transfomraciones del homomorfismo tienen sentido Por ejemplo, no se puede elegir un sistema de colores para medir distancias.
+c. Que, una vez elegido un sistema numérico o formal, todo lo relacionado con el sistema empírico deja de tener interés en la medición
+
+?: COCOMO soporta tres modelos de desarrollo distintos, ¿Cuáles?
+$a. Organic, semi-detached y embedded
+b. Simples, semicomplejos y complejos
+c. Pequeños, medianos y grandes
+
+?: ¿Cuál de las siguientes es una métrica orientada a objeto?
+$a. MOOSE de Chidamber y Kemerer
+b. Puntos Función de Albrecht
+c. CoCoMo de Boehm
+
+?: ¿Cuál de las siguientes mediciones es significativa?
+a. La prioridad de un proceso medido en puntos
+b. El esfuerzo restante medido en puntos
+$c. La complejidad ciclomática. A pesar de no tener una unidad de medida concreta, es significativa
+
+?: La calidad de la medición...
+a. ...determina el orden de las medidas en una medición compleja
+$b. ...determina la capacidad de un Sistema Relacional Formal para medir algo en el mundo real
+c. ...determina la cantidad de mediciones que hay que hacer para que la medida sea precisa
+
+?: ¿Cuando es regular una escala?
+$a. Una escala es regular cuando los objetos medidos guardan unicidad en el sentido de que, si dos objetos tienen el mismo valor para una propiedad concreta en la misma escala, también tienen el mismo valor en cualquier otra escala homomórfica con la primera
+b. Una escala es regular cuando los objetos medidos pueden ser compartidos regularmente en diferentes entornos de medida
+c. Una escala es regular si las medidas no son del todo fiables
+
+?: Pero para que una medición sea válida se debe asegurar su calidad, lo que obliga a ésta a tener una serie de características importantes (Fenton, 1991) (Fenton, y otros, 1996), una de ellas es
+$a. No debe interferir en el proceso observado, de lo contrario los resultados obtenidos estarían falseados
+b. No puede interferir en el proceso observado si es una métrica, si es una pseudométrica puede hacerlo parcialmente
+c. No debe interferir en el proceso observado, por tanto, no puede ser un artefacto software
+
+?: Para que una medida indirecta tenga significado, ¿qué debe cumplir?
+a. Las medidas indirectas deben representar propiedades definidas, esto es, deben reflejar el resultado de teorías que se puedan obtener a partir de los valores medidos directamente
+$b. Las medidas indirectas deben representar propiedades empíricas significativas, esto es, deben reflejar leyes empíricas o teóricas que sean válidas y se puedan obtener a partir de los valores medidos directamente
+c. Las medidas indirectas deben representar cualquier propiedad definida y que se pueda obtener a partir de los valores medidos directamente
+
+?: El Sistema relacional Formal es:
+$a. Un sistema homomorfo del Sistema Relacional Empírico que consiste en una representación nunérica de dicho SRE.
+b. Un sistema homomorfo del Sistema Relacional Empírico que consiste en una representación compleja del SRE.
+c. Un sistema homomorfo del Sistema Relacional Empírico que consiste en una representación real del SRE.
+
+?: Una de las razones por las cuales las métricas no son usadas más ampliamente en la industria del software es que resulta difícil en la práctica obtener datos adecuados. Idealmente, ¿Cómo deberían ser los valores de las métricas?
+a. Deberían medir siempre atributos internos del objeto
+b. Prescriptores, predictores y comparadores
+$c. Repetibles, comparables y verificados
+
+?: ¿Qué dos teorías se manejas para definir la formalidad de una medición?
+a. La teoría de la medición y la teoría de los números reales
+$b. La teoría de la medida y la teoría de la medición la teoría de la medida: una disciplina matemática y la teoría de la medición: una disciplina filosófica
+c. La teoría de la medición y las métricas
+
+?: Las escalas nominales son...
+a. las que ponen valores numéricos a los datos medidos
+$b. las que se usan para denotar pertenencia a una clase (color, etiquetado,...)
+c. las que miden texto escrito en el código fuente
+
+?: ¿Qué tipo de métrica proponen Cant et al. (Cant, y otros, 1994)?
+a. Proponen un enfoque teórico basado en el análisis de modelos cognitivos para la revisión del código por parte del programador
+b. Proponen un enfoque teórico basado en el análisis de modelos cognitivos para la búsqueda de errores en el código por parte del programador
+$c. Proponen un enfoque teórico basado en el análisis de modelos cognitivos para la comprensión del código por parte del programador
+
+?: En Taylor (Taylor, 1993) ¿Qué métricas se propones como básicas para un sistema Orientado a Objeto?
+$a. Número de servicios, de objetos, total de mensajes, de objetos que reciben mensajes, total de parámetros y ratio de servicios públicos/privados
+b. Número de niveles de herencia, de relaciones de agregación, de relaciones de uso y de niveles de anidación de paquetes (packages)
+c. Número de atributos, de métodos, de restricciones y niveles de herencia
+
+?: En la escala de intervalo...
+a. No se tiene referencia para hacer comparaciones entre valores
+$b. No se pueden tener relaciones del tipo "es el doble de" No se mantendría en los cambios de escala
+c. No se pueden saber un valor es mayor que otro 
+
+?: Desde el punto de vista de la calidad de una medición, la escala...
+a. ...habla de relación entre el orden, el intervalo y el ratio
+$b. ...permite reflexionar sobre la capacidad del sistema para ser preciso en una medida
+c. ...habla de la necesiad de que en cualquier escala la medida debe ser única
+
+?: ¿Cuál de las siguientes mediciones NO es significativa?
+$a. La calidad del programa A es del 97%
+b. Cuenta 3 meses escribir el programa A
+c. La profundidad de ese árbol es de 5
+
+?: El problema de la representación puede ser atacado de dos formas, ¿Cuáles?
+a. Constructivamente y destructivamente
+$b. Constructivamente y retrospectivamente
+c. Retrospectivamente y destructivamente
+
+?: ¿Cuál de las siguientes mediciones es significativa?
+$a. La accesibilidad de la web es AA. Es un estándar de W3C, por tanto se define cómo hacer esta medición
+b. La accesibilidad de la web debe ser alta
+c. La accesibilidad de la web es del 70%
+
+?: Las escalas de ratio permiten…
+a. …que las medidas en escalas absolutas puedan ser transformadas
+b. …que las escalas nominales puedan tener representación en el conjunto de los números reales
+$c. …que las relaciones entre dos medidas se mantengan en los cambios de escala
+
+?: El Sistema relacional Empírico está formado por los conjuntos…
+$a. A (Conjunto de objetos a medir), R (Conjunto de relaciones en A) y O (Conjunto de operaciones binarias en A)
+b. A (Conjunto de acciones de medición), R (Conjunto de relaciones con el mundo real) y O (Conjunto de observaciones)
+c. A (Conjunto de actividades), R (Conjunto de repeticiones a medida) y O (Conjunto de ontologías)
+
+?: Sea E un Sistema Relacional Empírico y F el Sistema Relacional Formal elegido para su representación numérica.
+a. El paso de E a F debe ser de tal manera que represente todas las observaciones, conservando algunas relaciones y operaciones del sistema relacional empírico (por ser homomorfismo)
+$b. El paso de E a F debe ser de tal manera que represente todas las observaciones, conservando todas las relaciones y operaciones del sistema relacional empírico
+c. El paso de E a F debe ser de tal manera que represente todas las observaciones, conservando todas las relaciones y operaciones del sistema relacional empírico sólo si se trata de un isomorfismo
+
+?: Kitchenham y McDermid (Kitchenham, y otros, 1986) sugirieron que la recolección de datos para tener éxito debe cumplir algunos requisitos. ¿Cuán de los siguientes es uno de ellos?
+$a. La recolección de datos está integrada dentro del proceso de desarrollo
+b. La recolección de datos debe estar automatizada siempre
+c. Los datos que no pueden ser recogidos automáticamente carecen de interés
+
+?: La corriente económica de estimación de software ¿Qué características tiene?
+$a. Se caracteriza por el desarrollo de sistemas de métricas orientados a estimar el coste de los sistemas de software ya realizado
+b. Se caracteriza por buscar modelos que calculen el coste más rentable para un proyecto
+c. Se caracteriza por buscar métricas cuya aplicación sea económicamente rentable
+
+?: ¿Cuál de las siguientes es una métrica de hardware?
+a. La ocupación de un programa en memoria
+b. La velocidad de caída libre de un cuerpo
+$c. El tamaño de la memoria de un ordenador
+
+?: Pero para que una medición sea válida se debe asegurar su calidad, lo que obliga a ésta a tener una serie de características importantes (Fenton, 1991) (Fenton, y otros, 1996), una de ellas es
+a. Los resultados de las medidas deben tener integridad, esto es deben tener asociada una unidad de medida
+$b. Los resultados de las medidas deben tener integridad, debe ser posible, por tanto, demostrar la imparcialidad de la medición
+c. Los resultados de las medidas deben tener integridad con respecto al proyecto lo que supone que se han probado en muchos proyectos anterires
+
+?: ¿Cuál de los siguientes es un "Sistema de medición orientada al dominio del sujeto"?
+a. Las métricas usadas en Scrum
+$b. El Sistema Internacional de Medidas
+c. Las mediciones del sistema de estimación CoCoMo
+
+?: Para evaluar la precisión de un método de estimación, Boehm propone un modelo basado en la medición del esfuerzo en meses-hombre ( MHe ) y la comparación con el esfuerzo real (MHa). Siendo MRE el parámetro de evaluación buscado, ¿cuál es el modelo de evaluación final prouesto?
+a. MRE = |MHe - MHa| / MHa
+$b. (MHe - MHa ) / MHa
+c. MHe – Mha
+
+?: Indica cual de los siguientes tipos de medición es significativa:
+$a. Cuesta tres meses escribir el Progrma A
+b. La complejidad del programa es 42
+c. La calidad del programa A es del 97%
+
+?: Con respecto a las métricas de software, hay dos clases de métricas de software importantes, ¿cuáles?
+a. Métricas clásicas y orientadas a objeto
+$b. Métricas de control y predictores
+c. Métricas formales y no-formales

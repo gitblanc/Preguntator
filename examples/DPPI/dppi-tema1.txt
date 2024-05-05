@@ -447,3 +447,8 @@ c. Selección de la métrica
 $a. Dueño de Producto (Opcional), Equipo, ScrumMaster (Opcional).
 b. Dueño de Producto (Opcional), Equipo, ScrumMaster.
 c. Dueño de Producto, Equipo, ScrumMaster (Opcional).
+
+?: ¿Qué es el Backlog de Producto?
+a. El Backlog de Producto es una lista priorizada de sistemas a implementar con el obejtivo de reducir el tiempo de desarrollo al máximo
+b. El Backlog de Producto es una lista de prioridades para realizar en el siguiente día de proyecto
+$c. El Backlog de Producto es la visión única y definitiva de “todo lo que podría ser realizado en algún momento por el Equipo, en orden de prioridad”

@@ -1,0 +1,372 @@
+?: Para realizar la gestión del equipo de proyecto se parte de algunos elementos de entrada, ¿Cuál de los siguientes es uno de ellos? Seleccione una:
+a. Registro de interesados
+b. Las normas básicas
+c. Evaluaciones del desempeño del equipo
+
+
+?: Las salidas de la gestión del equipo de proyecto consisten principalmente en actualizaciones de los documentos que sirven para la gestión de recursos humanos del proyecto. ¿Cuál de los siguientes elementos se actualiza? Seleccione una:
+a. Evaluaciones del desempeño del equipo
+b. Las normas básicas
+c. Plan de riesgos
+
+
+?: ¿Dónde se cargan los costes de formación del equipo de proyecto? Seleccione una:
+a. Se cargan al cliente del proyecto
+b. Son parte del presupuesto del proyecto o pueden ser asumidos por la propia empresa
+c. Son parte de la formación de personal y son asumidos por la empresa
+
+
+?: Un equipo tiene dedicación a tiempo completo cuando... Seleccione una:
+a. Alguno de los miembros del proyecto se dedican exclusivamente a un proyecto
+b. Todos los miembros del proyecto se dedican exclusivamente a un proyecto
+c. Una parte importante o todos los miembros del proyecto se dedican exclusivamente a un proyecto
+
+
+?: ¿Cuáles son los principales procesos de la gestión de recursos humanos? Seleccione una:
+a. Organigramas, matrices de responsabilidad y formatos de texto
+b. Plan de gestión de RRHH, selección, desarrollo y gestión del equipo de proyecto
+c. Preasignación, negociación, adquisición, equipos virtuales y análisis de decisión multicriterio
+
+
+?: Dentro de los ámbitos principales de aportación de RRHH al proyecto, ¿Qué es la transferencia de personas de otros departamentos? Seleccione una:
+a. Se produce cuando se hace reestructuración de puestos de trabajo y las personas se transfieres a otros departamentos
+b. Se produce cuando las personas cambian el perfil tecnológico con el que trabajan en el proyecto
+c. Cuando el personal necesario se busca en otros departamento o en otros proyectos
+
+
+?: ¿Cuál de los siguientes es uno de los producto del desarrollo del equipo de proyecto? Seleccione una:
+a. Plan de gestión de recursos humanos
+b. Asignaciones al equipo de proyecto
+c. Las evaluaciones del desempeño del equipo
+
+
+?: ¿Qué es una matriz de responsabilidad? Seleccione una:
+a. Es un método de asignación de responsabilidades en un proyecto
+b. Es una técnica para representar los recursos asignados a cada actividad en un proyecto
+c. Es una manera de representación jerárquica de la estructura de un proyecto
+
+
+?: ¿Qué es una matriz de responsabilidad? Seleccione una:
+a. Es una manera de representación jerárquica de la estructura de un proyecto
+b. Es una técnica para representar los recursos asignados a cada actividad en un proyecto
+c. Es un método de asignación de responsabilidades en un proyecto
+
+
+?: ¿Quiénes componen el equipo de proyecto? Seleccione una:
+a. El jefe de proyecto y todos aquellos que colaboran juntos para conseguir los objetivos del proyecto
+b. El jefe de proyecto y los jefes de equipo que colaboran juntos para conseguir los objetivos del proyecto
+c. El jefe de proyecto y los desarrolladores de software que colaboran juntos para conseguir los objetivos del proyecto
+
+
+?: Dentro de las técnicas para el desarrollo del equipo de proyecto, ¿En qué consiste la de "Herramientas de evaluación del personal"? Seleccione una:
+a. Son técnicas de autoevaluación para comprobar las carencias propias y seleccionar los cursos de formación adecuados
+b. Estas técnicas dan al Jefe de proyecto una vista de las fortalezas y debilidades en ciertas áreas del equipo de proyecto
+c. Son herramientas que utiliza el jefe de proyecto para hacer la selección de miembros del equipo
+
+
+?: Dentro de las técnicas para el gestión del equipo de proyecto, ¿En qué consiste la de "Habilidades Interpersonales"? Seleccione una:
+a. Son técnicas de autoevaluación personal
+b. Son técnicas para analizar las situaciones de conflicto e interactuar adecuadamente con los miembros del equipo
+c. Son técnicas de evaluación de terceros sobre las habilidades de cada miembro de equipo
+
+
+?: Dentro de las técnicas para el desarrollo del equipo de proyecto, ¿En qué consiste la de "Habilidades interpersonales"? Seleccione una:
+a. Las habilidades interpersonales son competencias relacionadas con el entorno y ambiente de trabajo
+b. Son técnicas aplicadas a la selección de los miembros del equipo de proyecto
+c. Se refiere a competencias que debe tener el jefe de proyecto para negociar con el cliente
+
+
+?: Dentro del Plan de Recursos Humanos, ¿Qué son los calendarios de recursos? Seleccione una:
+a. Son calendarios de contratación de recursos necesarios para el proyecto
+b. Son calendarios que identifican los días de trabajo en que cada recurso están disponibles
+c. Son calendarios de asignación de trabajos a recursos
+
+
+?: ¿En qué consiste la técnica de "Negociación" para la selección de miembros del equipo? Seleccione una:
+a. Se deben negociar las condiciones de trabajo con los miembros del equipo antes de asignarlos a proyecto
+b. Se negocia con el cliente la ubicación de los miembros del equipo durante el proyecto
+c. Las asignaciones de personal a proyecto se hacen en entornos complejos y se debe negociar con los gestores funcionales, otros jefes de proyecto, organizaciones externas, etc.
+
+
+?: ¿En qué consiste el aislamiento dentro de la dependencia de los miembros del equipo? Seleccione una:
+a. Las actividades se descomponen en subunidades independientes y el control se basa únicamente en relaciones jerárquicas
+b. Las actividades son absolutamente independientes y el control no es necesario
+c. Las actividades se descomponen en subunidades y las relaciones entre los miembros del equipo no existen
+
+
+?: Dentro de las técnicas para el gestión del equipo de proyecto, ¿En qué consiste la de "Evaluaciones del desempeño del proyecto"? Seleccione una:
+a. Tiene entre otros objetivos el descubrimiento de problemas desconocidos o no resueltos
+b. Es la evaluación de los conocimientos de cada miembros del equipo de proyecto
+c. En evaluar el estado de avance del proyecto en comparación con el Plan de proyecto realizado
+
+
+?: Algunos ejemplos de habilidades interpersonales son... Seleccione una:
+a. Liderazgo, Influencia y Toma de decisiones eficiente
+b. La escasez de recursos, las prioridades de programación y los estilos personales de trabajo
+
+
+?: Para realizar el desarrollo del equipo de proyecto se parte de algunos elementos de entrada, ¿Cuál de los siguientes es uno de ellos? Seleccione una:
+a. Plan de riesgos
+b. Plan de gestión de recursos humanos
+c. Las normas básicas
+
+
+?: Para realizar el desarrollo del equipo de proyecto se parte de algunos elementos de entrada, ¿Cuál de los siguientes es uno de ellos? Seleccione una:
+a. Registro de interesados
+b. El calendario de recursos
+c. Las normas básicas
+
+
+?: ¿Cuáles de los siguientes son factores que se deben estudiar a la hora de crear un equpo de proyecto y que forman su perfil profesional y personal? Seleccione una:
+a. Conocimientos sobre gestión de proyectos y sobre estructura de equipos de proyecto
+b. Márketing y conocimientos de macroeconomía
+c. Actitudes requeridas en el trabajo y relación con otros perfiles
+
+
+?: ¿De quién es la responsabilidad de mejorar las condiciones de trabajo del equipo? Seleccione una:
+a. Del cliente que debe proveer espacios adecuados para el desarrollo del proyecto
+b. De la empresa que tiene contratados a sus miembros
+c. Del Jefe de Proyecto
+
+
+?: Cuando se diseña el Plan de gestión de recusos humanos precisaremos de algunos documentos de entrada, ¿Cuál de los siguientes es uno de ellos? Seleccione una:
+a. Selección de miembros del equipo
+b. Plan de gestión de proyecto
+c. Plan de riesgos
+
+
+?: ¿En qué consiste el Desarrollo del equipo de proyecto? Seleccione una:
+a. Esta fase consiste en la selección de perfiles de entre los miembros del equipo que se deben potenciar en detrimento otros menos colaborativos que deben ser sustituidos
+b. Esta fase se da durante el desarrollo del proyecto y cosiste en el mantenimiento de los miembros del equipo, sustituyendo las bajas por nuevo personal o asignando nuevos perfiles si fuera necesario
+c. Esta fase se corresponde con todas las actividades realizadas para mejorar las competencias del equipo, la interrelación y comunicación entre sus miembros y la mejora del entorno del equipo
+
+
+?: ¿En qué consiste la técnica de "Análisis de decisión multicriterio" para la selección de miembros del equipo? Seleccione una:
+a. Consiste en utilizar un método de análisis que permita hacer la mejor selección de equipo en función de las características más deseadas en el proyecto
+b. Consiste en establecer una serie de criterios comunes imprescindibles para los miembros del equipo de trabajo
+c. Consiste en evaluar los criterios que afectan al proyecto antes de seleccionar al equipo de trabajo
+
+
+?: Dentro de los ámbitos principales de aportación de RRHH al proyecto, ¿Qué es la asignación temporal? Seleccione una:
+a. Personas que trabajan en el proyecto a tiempo parcial
+b. Cuando el miembro del equipo se asigna por horas de trabajo al proyecto
+c. Personas que se incorporan de la misma unidad organizativa para la ejecución de ese proyecto, pero que al finalizar éste continúan a disposición del Jefe de la Unidad
+
+
+?: Hay cinco técnicas generales para resolver conflictos, ¿Cuáles? Seleccione una:
+a. Evitación, Aceptación, Reconciliación, Acción directa y Colaboración
+b. La clarificación de roles, La retroalimentación constructiva, El descubrimiento de problemas, El desarrollo de planes de formación y El establecimiento de metas
+c. Liderazgo, Influencia, Toma de decisiones eficiente, Prioridades de programación y Estilos personales de trabajo
+
+
+?: ¿Cuáles son los estados por los que pasa el desarrollo de un equipo de proyecto de acuerdo a la escalera de Tuckman? Seleccione una:
+a. Preasignación, negociación, adquisición y análisis de decisión
+b. Formación, lucha, normalización, desarrollo y terminación
+c. Disponibilidad, experiencia, capacidad, actitud y habilidades
+
+
+?: ¿Qué responsabilidades representan las matrices RACI? Seleccione una:
+a. Revisor, Aprobador, Consultor e Informador
+b. Cualquier tipo de responsabilidad entre el equipo de proyecto
+c. Responsable, Aprobador, Consultor e Informar
+
+
+?: ¿Qué papel juegan las reuniones como técnicas de soporte a la creación del Plan de Gestión de Recursos Humanos del proyecto (PGRH)? Seleccione una:
+a. Son técnicas usadas para coordinar las acciones durante la ejecución del proyecto y concretamente durante la elaboración de PGRH
+b. Son técnicas para la información de los resultados del PGRH
+c. Son técnicas auxiliares de negociación
+
+
+?: En los entornos globales, ¿Qué debe potenciar el jefe de proyecto con relación al desarrollo del equipo de proyecto? Seleccione una:
+a. Debe potenciar el estudio de idiomas por parte de los miembros del equipo de proyecto para que puedan comunciarse
+b. Debe potenciar el estudio profundo de las culturas de los diferentes miembros del equipo para que ningún miembro de sienta desplazado
+c. Debe incrementar la interrelación y las comunicaciones entre los miembros del equipo para mejorar la mutua confianza
+
+
+?: ¿En qué consiste la técnica de "Preasignación" para la selección de miembros del equipo? Seleccione una:
+a. Se asignan personas por adelantado a un proyecto atendiendo los requisitos de su perfil tecnológico o competencia profesional
+b. El jefe de proyecto asigna los miembros sin intervención de otros jefes de proyecto
+c. El miembro del equipo es estable de otros proyecto anteriores y no hace falta asignar nuevos miembros
+
+
+?: Para realizar la selección del equipo de proyecto se parte de algunos elementos de entrada, ¿Cuál de los siguientes es uno de ellos? Seleccione una:
+a. Factores ambientales de la empresa
+b. Calendario de recursos
+c. Asignaciones al equipo de proyecto
+
+
+?: ¿Cuáles de los siguientes son aspectos generales que se deben gestionar cuando se dirige un proyecto? Seleccione una:
+a. Ser capaz de influir en el equipo de proyecto y cuidar del comportamiento ético y profesional
+b. Tener autoridad para solventar disputas y tener caracter comercial
+c. Tener atoridad para imponer criterios y apoyo para poder tomar decisiones duras (como despidos, sanciones, etc.)
+
+
+?: Dentro de los ámbitos principales de aportación de RRHH al proyecto, ¿Qué es la asignación permanente? Seleccione una:
+a. Se trata de personas que tiene una situación de trabajo estable en la empresa que desarrolla el proyecto
+b. Se trata de personas que se asignan al proyecto a tiempo completo
+c. Se trata de personas con unos conocimientos específicos sobre un tema
+
+
+?: ¿De qué elemento formal forma parte la formación del equipo de proyecto? Seleccione una:
+a. OBS
+b. WBS
+c. PB
+
+
+?: Dentro de las técnicas para el desarrollo del equipo de proyecto, ¿En qué consiste la de "Actividades de mejora de trabajo en equipo"? Seleccione una:
+a. Son actividades orientadas a que mejoren todos los aspectos del equipo que lo hacen ser más eficiente
+b. Son actividades de la selección del equipo de proyecto que consisten en la búsqueda del equipo más eficiente
+c. Son actividades basadas en cursillos técnicos sobre aspectos tecnológicos necesarios para el proyecto
+
+
+?: ¿Quiénes son los socios comerciales del proyecto (Business partners)? Seleccione una:
+a. Son empresas externas que tienen relación con el desarrollador del proyecto y que aportan algún tipo de experiencia particular
+b. Son empresas externas que participan en el proyecto para poder comercializar los resultados
+c. Son empresas externas que financian el proyecto con intereses comerciales
+
+
+?: ¿Qué objetivo puede tener la "Inteligencia emocional" para el desarrollo del equipo de proyecto? Seleccione una:
+a. Tiene por objetivo eliminas las emociones para hacer un equipo más eficiente
+b. Sirve para reducir la tensión e incrementar la cooperación
+c. Tiene el objetivo de mejorar la inteligencia de los miembros para motivarlos emocionalmente
+
+
+?: Uno de los principales problemas a los que se enfrenta el Jefe de proyecto a la hora de seleccionar su equipo es... Seleccione una:
+a. ...la disponibilidad (just-in-time) de las personas necesarias
+b. ...la disponibilidad de tiempo de las personas asignadas al proyecto
+c. ...el perfil tecnológico de las personas asignadas al proyecto
+
+
+?: Dentro de las técnicas para el gestión del equipo de proyecto, ¿En qué consiste la de "Observación y Conversación"? Seleccione una:
+a. Es una de las técnicas principales para obtener una retroalimentación de lo que está ocurriendo y adelantarse a los problemas
+b. Es una técnica basada en la observación de las variables del entorno y la discusión de dichas variables para buscar la mejor solución a los problemas
+c. Es una técnica que consiste en poner algunas personas entre los miembros del equipo que observan el trabajos de los demás y los ayudan en caso de problemas
+
+
+?: ¿Cuál es el perfil básico del Jefe de Proyecto? Seleccione una:
+a. Es la persona que se responsabiliza de que el proyecto se desarrolle dentro de los recursos
+b. Es la persona que tiene el perfil tecnológico más alto en el proyecto
+c. Es la persona que decide los criterios tecnológicos del proyecto
+
+
+?: Dentro de las técnicas para el desarrollo del equipo de proyecto, ¿En qué consiste la de "Reglas básicas"? Seleccione una:
+a. Son técnicas para definir los elementos tecnológicos en que puede partirse el proyecto hasta conseguir módulos básicos
+b. Son decisiones técnicas sobre las unidades de medida a utilizar para las estimaciones del proyecto
+c. Facilitan a los miembros del equipo tener claro cuál es comportamiento aceptable entre los miembros del equipo
+
+
+?: Dentro de las técnicas para el desarrollo del equipo de proyecto, ¿En qué consiste la de "Formación"? Seleccione una:
+a. La formación consiste en la elaboración de cursos para mejorar las habilidades de comunicación de los miembros del equipo
+b. La formación es una técnica de gestión del equipo de proyecto
+c. La formación incluye todas las actividades destinadas a mejorar las competencias técnicas de los miembros del equipo
+
+
+?: ¿En qué consiste la cooperación dentro de la dependencia de los miembros del equipo? Seleccione una:
+a. Se basa en hacer equipos muy pequeños altamente cohesionados para que cooperen
+b. Es un modelo de gestión de equipos de proyecto basado en un jefe de proyecto con gran autoridad que obliga a los miembros del equipo a coordinarse
+c. Se basa en el equilibrio entre la colaboración necesaria entre los grupos y las personas que colaboran en un proyecto y la independencia de los grupos para hacer su trabajo
+
+
+?: Dentro de los ámbitos principales de aportación de RRHH al proyecto, ¿Qué es el reclutamiento de nuevas personas? Seleccione una:
+a. Se produce cuando se necesitan personas con conocimientos no disponibles en los perfiles de que se dispone en el proyecto
+b. Se produce cuando se asignan personas de otros departamentos
+c. Se produce cuando se seleccionan personas por los departamentos de recursos humanos
+
+
+?: ¿Cuáles de los siguientes son objetivos destacables del desarrollo del equipo de proyecto? Seleccione una:
+a. Mejorar la calidad final del producto mediante técnias de desinformación que mantengas a los miembros del equipo alerta a los cambios
+b. Hacer del equipo un sistema cohesivo eliminando las disensiones mediante la eliminación de los miembros conflictivos
+c. Mejorar el conocimiento y las habilidades de los miembros, mejorar el clima de confianza y crear una cultura de equipo dinámica, cohesiva y colaborativa
+
+
+?: Dentro de las técnicas para el gestión del equipo de proyecto, ¿En qué consiste la de "Resolución de conflictos"? Seleccione una:
+a. Busca mayor productividad y unas relaciones de trabajo más positivas y productivas
+b. Es un compromiso entre todos los miembros del proyecto para que no haya conflictos
+c. Es el proceso realizado por el jefe de proyecto para imponer su criterio sin no hay acuerdos Incorrecta
+
+
+?: Dentro de los ámbitos principales de aportación de RRHH al proyecto, ¿Qué son los consultores? Seleccione una:
+a. Los consultores son personas externas a la organización que poseen conocimientos muy específicos de los que no se dispone internamente
+b. Los consultores son personas externas a la organización que poseen conocimientos muy específicos sobre tecnología
+c. Los consultores son personas externas a la organización que poseen conocimientos muy específicos sobre gestión de proyectos
+
+
+?: ¿qué factores influyen en la decisión de conflictos por parte del jefe de proyecto? Seleccione una:
+a. La escasez de recursos, las Prioridades de programación y los Estilos personales de trabajo
+b. Evitación, Aceptación, Reconciliación, Acción directa y Colaboración
+c. La importancia e intensidad, la presión, las posturas y la prisa
+
+
+?: Un equipo tiene dedicación a tiempo parcial cuando... Seleccione una:
+a. Los proyectos se desarrollan por personas que dedican parte del tiempo al desarrollo y parte a la gestión del proyecto
+b. os proyectos se desarrollan por personas que desarrollan el proyecto desde empresas externas
+c. Los proyectos se desarrollan por personas que, además de dedicar tiempo al proyecto, también lo dedican a sus actividades habituales o a otros proyectos
+
+
+?: ¿Cuál de las siguientes NO es una técnica para la selección de miembros del equipo? Seleccione una:
+a. Análisis de decisión multicriterio
+b. Preasignación
+c. Actividades de mejora de trabajo en equipo
+
+
+?: ¿En qué consiste la técnica de "Adquisición" para la selección de miembros del equipo? Seleccione una:
+a. El equipo de proyecto se adquiere de otros proyecto anteriores por su efectividad
+b. Los perfiles buscados no se encuentran entre los recursos disponibles y entonces es necesario buscarlos en el mercado
+c. El jefe de proyecto debe negociar con otros jefes de proyecto la adquisición de miembros para su equipo
+
+
+?: ¿Cuál de las siguientes es una desventaja de la cooperación dentro de la dependencia de los miembros del equipo? Seleccione una:
+a. Es complicado de poner en práctica en proyectos pequeños y con pocas personas trabajando
+b. Si el jefe de proyecto tiene demasiada autoridad se anulan lo miembros del equipo y éste no es muy productivo o
+c. Si los miembros tiene malas relaciones, la cooperación es imposible
+
+
+?: ¿Cuáles de los siguiente son productos del plan de gestión de recursos humanos? Seleccione una:
+a. El WBS
+b. Plan de gestión de riesgos
+c. Lista de roles y responsabilidades
+
+
+?: ¿En qué consiste la técnica de “Equipos virtuales” para la selección de miembros del equipo? Seleccione una:
+a. Consiste en la creación de equipos virtuales, geográficamente distribuidos, que no
+realizan reuniones presenciales.
+
+
+?: ¿Cuál de las siguientes es una desventaja del aislamiento dentro de la dependencia de los miembros del equipo? Seleccione una:
+a. Si las interfaces entre los componentes cambian, los tiempos de comunicación de estos
+cambios pueden ser largos y provocar sobrecostes.
+
+
+?: ¿Qué procesos incluye la gestión de recursos humanos del proyecto? Seleccione una:
+a. Aquellos que organizan, gestionan, dirigen el equipo de proyecto
+
+
+?: ¿En qué consiste la independencia dentro de la dependencia de los miembros del equipo? Seleccione una:
+a. Las actividades se hacen muy dependientes y requieren de muchos tiempos cortos de
+planificación.
+
+
+?: Cuando se diseña el plan de gestión de recursos humanos precisaremos de algunos documentos de entrada ¿Cuál de los siguientes es uno de ellos? Seleccione una:
+a. Plan de gestión de proyecto.
+
+
+?: Dentro del plan de recursos humanos ¿En qué consiste el concepto de autoridad? Seleccione una:
+a. Es el derecho a asignar recursos, tomar decisiones, aprobar , aceptar entregables y ejercer influencia sobre otros para dirigir el proyecto.
+
+
+?: Dentro de los ámbitos principales de aportación de RRHH al proyecto ¿Qué es la asignación permanente? Selecciona una:
+a. Se trata de persona con unos conocimientos específicos sobre un tema
+
+
+?: ¿Cuáles de las siguientes son herramientas de evaluación del personal? Selecciona una:
+a. Encuestas de actitud, evaluaciones específicas, y entrevistas estructuradas
+
+
+?: ¿Qué maneras existen de documentar el equipo de proyecto y sus roles y responsabilidades? Selecciona una:
+a. Organigramas y descripciones de puestos de trabajo, reuniones, etc.
+
+
+?: ¿Cuál de las siguientes es una desventaja de la interdependencia dentro de la dependencia de los miembros del equipo? Seleccione una:
+a. Las jornadas de trabajo se alargan para poder albergar las reuniones de coordinación
+b. Si los proyectos son muy grandes la coordinación de las decisiones pueden ser complejas
+c. Los miembros del equipo deben tener una relación personal fuerte y eso es difícil de conseguir

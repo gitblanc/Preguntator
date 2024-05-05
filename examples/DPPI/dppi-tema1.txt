@@ -169,9 +169,9 @@ $b. Es necesario realizarlas para conseguir el objetivo
 c. Pueden realizarse el cualquier orden sin importar las prioridades
 
 ?: De acuerdo a las 34 competencias del libro de Furtel, ¿Cuál de las siguientes competencias no es necesaria para ser Director (Jefe) de Proyecto?
-a. Evaluación de los procesos
-$b. Evaluación de solvencia del cliente
-c. Evaluación de procesos alternativos
+a. Selección de métodos y herramientas
+$b. Gestión financiera de los avales del proyecto
+c. Gestión de requisitos
 
 ?: Según Deemer...
 a. Scrum es un marco de trabajo ágil para el desarrollo de peuqeños proyectos
@@ -342,3 +342,108 @@ c. Se utilizan recursos de diversos tipos los cuales son ilimitados
 $a. Stephen Schach
 b. IEEE
 c. Larry Boehm
+
+?: ¿Cuál de las siguientes no es una metodología de desarrollo?
+a. Ágiles
+$b. OO
+c. RUP
+
+?: Según Sanchís Marco ¿Qué etapas sigue la gestión de proyectos?
+a. Inicio, Elaboración, Construcción y Transición
+$b. Iniciación, Calificación, Desarrollo y Cierre
+c. Requisitos, Análisis, Diseño, Implementación y Pruebas
+
+?: La principal desventaja del modelo de prototipos es...
+a. El modelo de prototipos no tiene desventaja alguna
+$b. Se tiende a reutilizar el prototipo y se le colocan "parches"
+c. Se obtienen modelos a una escala demasiado grandes
+
+?: ¿Cómo es una reunión de refinamiento de la Pila del Producto en Scrum?
+a. Se hacen reuniones del Equipo y el Dueño del Producto. Habitualmente,estas reuniones no deben ser más del 10% de la capacidad de desarrollo del equipo para el Sprint
+b. Se hacen reuniones del Equipo y el Scrum Master. Habitualmente,estas reuniones no deben ser más del 10% de la capacidad de desarrollo del equipo para el Sprint
+$c. Se hacen reuniones con todos los miembros principales de Scrum. Habitualmente,estas reuniones no deben ser más del 10% de la capacidad de desarrollo del equipo para el Sprint
+
+?: ¿Cual de los siguientes principios NO pertenece a la metodología XP (eXtreme Programming)?
+a. El Equipo de proyecto y el Dueño del Producto priorizan los casos de uso que serán implementados en el siguiente Sprint.
+$b. Para planificar un Sprint se realiza una reunión dividida en dos partes: A la primera parte asisten los tres roles principales y a la segunda el Dueño de Producto sólo asiste opcionalomente.
+c. Integración continua: El software se integra múltiples veces al día.
+
+?: ¿Cómo se planifica un Sprint de Scrum?
+a. El Equipo de proyecto y el Scrum Master se reunen para definit los elemntos de la Pila de Producto que serán acometidos en el siguiente Sprint.
+b. EL Equipo de proyecto y el Dueño del Producto priorizan los casos de uso que serán implementados en el siguiente Sprint.
+$c. Para planificar un Sprint se realiza una reunión dividida en dos partes: A la primera parte asisten los tres roles principales y a la segunda el Dueño de Producto sólo asiste opcionalomente.
+
+?: Las iteraciones de RUP:
+$a. Reducen el riesgo con respecto al modelo de proceso clásico en cascada
+b. Todas las iteraciones producen un efecto aditivo, no se pueden usar para refinar
+c. Disminuyen el ritmo de esfuerzo del equipo de desarrollo
+
+?: ¿Cuales son las actividades fundamentales de la metodología RUP?
+a. Iteraciones, ciclos y fases.
+b. Inicio, elaboración, construcción y transición.
+$c. Requisitos, análisis, diseño, implementación y prueba.
+
+?: ¿Cual de los siguientes modelos de desarrollo es orientado a las personas y esta basado en la adaptabilidad más que en el carácter predictivo?
+a. Modelo en Espiral
+$b. Modelos Ágiles
+c. Modelo en Cascada
+
+?: ¿Cuál de las siguientes ventajas es del modelo de prototipos?
+$a. Los modelos son validados por el propio usuario
+b. Se reaprovecha mucho código entre los prototipos
+c. Acelera el ritmo de esfuerzo del equipo de desarrollo
+
+?: Una desventaja del modelo de ciclo de vida en cascada es...
+a. Es un modelo pensado para hacer desarrollos en ensamblador
+b. No refleja realmente el proceso de desarrollo del software, ya que casi nunca se cierra totalmente una fase antes de comenzar la siguiente
+c. Es un modelo muy antiguo y la informática ha evolucionado
+
+?: ¿Quién ha definido la ingeniería del software como "Una disciplina cuyo propósito es la producción de software de calidad, software que se entrega en el tiempo acordado, dentro del presupuesto y que satisface los requisitos"?
+a. Barry Boehm
+$b. Stephen Schach
+c. IEEE
+
+?: ¿Qué significa que el objetivo de proyecto sea único?
+$a. Significa que el producto o servicio es diferente de alguna forma clara de todos los productos o servicios similares.
+b. Significa que debe ser realizado un unico equipo de trabajo.
+c. Significa que el proyecto debe realizar únicamente software o hardware, pero no una combinación de ambos.
+
+?: Para RUP la vida de un sistema se divide en ciclos y cada ciclo en cuatro fases, indica cual de las siguientes respuestas no es una fase de un ciclo:
+a. Elaboración.
+$b. Dimensionamiento.
+c. Inicio.
+
+?: ¿Cuál de las siguientes afirmaciones es verdadera?
+a. RUP es un proceso para desarrollo de hardware.
+b. Para RUP, la vida de un sistema se divide en 5 fases.
+$c. Para RUP, la vida de un sistema se divide en ciclos.
+
+?: ¿Cual de los siguientes principios NO pertenece a la metodología XP (eXtreme Programming)?
+a. P2P Programming: La programación se comparte directamente con el cliente.
+$b. Pair Programming: La programación se hace entre dos personas.
+c. Integración continua: El software se integra múltiples veces al día.
+
+?: La Pila de producto o Product Backlog es
+a. Una lista de casos de uso priorizados que el equipo va vaciando a medida que acaba con otros casos de uso anteriores hasta el llegar al final del Sprin
+b. Una lista de tareas a realziar durante el Sprint
+$c. Un elemento en el que las diferentes funcionalidades de organizan de manera que estén más arriba aquellas que más urgencia tienen para el Dueño de Producto
+
+?: ¿Qué características debe tener la Pila de Produto?
+a. Debe estar es poder del Dueño de Producto que sólo la comparte cuande se define el siguiente Sprint
+b. No es necesario que se soporte en aplicaciones, es simplemente uns lista de papeles sobre una pizarra
+$c. Detallada apropiadamente, Estimada, Emergente y Priorizada
+
+?: El modelo de prototipos se divide en:
+a. Una fase: “Diseño, desarrollo, pruebas e integración”
+b. Tres fases: “Diseño, construcción y evaluación de prototipos”, “Diseño, desarrollo, pruebas e integración” y “Explotación y evaluación de ejecución del prototipo”
+$c. Dos fases: : “Diseño, construcción y evaluación de prototipos” y “Diseño, desarrollo, pruebas e integración”
+
+?: De acuerdo a las 34 competencias del libro de Furtel, ¿Cuál de las siguientes competencias no es necesaria para ser Director (Jefe) de Proyecto?
+$a. Selección del cliente
+b. Selección de las herramientas de gestión de proyectos
+c. Selección de la métrica
+
+?: El Scrum Diario consiste en la actualización y coordinación entre los miembros del Equipo. A dicha reunion asisten:
+$a. Dueño de Producto (Opcional), Equipo, ScrumMaster (Opcional).
+b. Dueño de Producto (Opcional), Equipo, ScrumMaster.
+c. Dueño de Producto, Equipo, ScrumMaster (Opcional).

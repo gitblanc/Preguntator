@@ -1,17 +1,17 @@
 ?: Hablando de actividades, ¿qué son los Adelantos (Leads)? Seleccione una:
 a. Un adelanto (Lead) es la cantidad de tiempo que una actividad puede ser adelantada con respeto a otra que la sucede
-b. Un adelanto (Lead) es la cantidad de tiempo que una actividad puede ser adelantada con respeto a otra que la precede
+$b. Un adelanto (Lead) es la cantidad de tiempo que una actividad puede ser adelantada con respeto a otra que la precede
 c. Un adelanto (Lead) es la cantidad de tiempo que una actividad puede ser adelantada sin cambiar el camino crítico
 
 
 ?: ¿Qué es el PBS? Seleccione una:
 a. Progress Breakdown Structure, es una representación del estado de avance en las actividades del proyecto
-b. Product Breakdown Structure,es una representación en forma de árbol de los productos que hay que crear para alcanzar el final del proyecto
+$b. Product Breakdown Structure,es una representación en forma de árbol de los productos que hay que crear para alcanzar el final del proyecto
 c. Partial Breakdown Structure, es una visión parcial de la estructura de trabajos del proyecto
 
 
 ?: ¿Que se entiende por gobernabilidad del proyecto? Seleccione una:
-a. La gobernabilidad del proyecto es una función de supervisión que está alineada con el modelo de gobierno de la organización, y que abarca el ciclo de vida del proyecto
+$a. La gobernabilidad del proyecto es una función de supervisión que está alineada con el modelo de gobierno de la organización, y que abarca el ciclo de vida del proyecto
 b. Es un proceso de nombramiento de responsables del proyecto para que existan responsables del gobierno
 c. Es un proceso de otorgamiento de responsabilidades al Jefe de Proyecto para que éste ejerza su función de gobierno
 
@@ -19,23 +19,23 @@ c. Es un proceso de otorgamiento de responsabilidades al Jefe de Proyecto para q
 ?: ¿Qué tipos de organización matricial existen? Seleccione una:
 a. Organizativa, Cultural y social
 b. Funcional, Matricial y Orientada a proyectos
-c. Matricial débil, Matricial media y Fuertemente matricial
+$c. Matricial débil, Matricial media y Fuertemente matricial
 
 
 ?: Hablando de estimación de recursos para las actividades, ¿En qué consiste el Juicio de expertos? Seleccione una:
 a. Es la opinión de los directivos de la empresa sobre la actividad
-b. Es la opinión de personas que han tenido experiencia previa con actividades similares
+$b. Es la opinión de personas que han tenido experiencia previa con actividades similares
 c. Es la opinión de expertos contratados para ayudar en el proyecto
 
 
 ?: ¿Qué son los ciclos de vida adaptativos? Seleccione una:
 a. Los ciclos de vida adaptativos son aquellos que evolucionan con la política de la empresa
-b. Los ciclos de vida adaptativos tienen por objeto responder a los altos niveles de cambio y la participación continua de las partes interesadas
+$b. Los ciclos de vida adaptativos tienen por objeto responder a los altos niveles de cambio y la participación continua de las partes interesadas
 c. Los ciclos de vida adaptativos son aquellos que pueden responder a los riesgos del proyecto
 
 
 ?: Hablando de dependencia entre las actividades, ¿Qué es la Dependencia Discrecional? Seleccione una:
-a. Son aquellas cuya secuencia de ejecución puede establecerse discrecionalmente, no están sujetas a una imposición concreta
+$a. Son aquellas cuya secuencia de ejecución puede establecerse discrecionalmente, no están sujetas a una imposición concreta
 b. Son aquellas que no son obligatorias y, por tanto, es el equipo quien decide ponerlas en el proyecto
 c. Son aquellas actividades que no son necesarias para el proyecto
 
@@ -43,23 +43,23 @@ c. Son aquellas actividades que no son necesarias para el proyecto
 ?: Hablando de estimación de recursos para las actividades, ¿En qué consiste la estimación Estimación Bottom-Up? Seleccione una:
 a. Es una tarea que calcula primero los costes de las actividades más sencillas y después los de las más complejas
 b. Consiste en estimar las actividades por su importancia, comenzando por las de mayor importancia
-c. Es una técnica de estimación que va a de las tareas de mayor detalle a la las de mayor nivel sumando los costes de las tareas componentes
+$c. Es una técnica de estimación que va a de las tareas de mayor detalle a la las de mayor nivel sumando los costes de las tareas componentes
 
 
 ?: Hablando de actividades, ¿qué significa la precedencia SF? Seleccione una:
-a. Start-to-Finish, es una relación en la cual una actividad no puede terminar hasta que otra actividad concreta haya comenzado
+$a. Start-to-Finish, es una relación en la cual una actividad no puede terminar hasta que otra actividad concreta haya comenzado
 b. Start-to-Finish, es una relación en la cual una actividad no puede terminar hasta que otra actividad concreta haya terminado
 c. Start-to-Finish, es una relación en la cual una actividad no puede comenzar hasta que otra actividad concreta haya terminado
 
 
 ?: Hablando de estimación de duración de las actividades, ¿En qué consiste la Estimación por Analogía? Seleccione una:
-a. Se usa información histórica y se basa en la estimación de una actividad por analogía con otras de similar tamaño o complejidad
+$a. Se usa información histórica y se basa en la estimación de una actividad por analogía con otras de similar tamaño o complejidad
 b. Se usa un catálogo de analogías entre actividades para estimar la duración
 c. Se comparan todas las actividades con otras actividades para comprobar su parecido
 
 
 ?: Según el (PMBOK, 2013), las técnicas habituales para la definición de actividades son... Seleccione una:
-a. Descomposición, Planificación Progresiva y Juicio de Expertos
+$a. Descomposición, Planificación Progresiva y Juicio de Expertos
 b. Las vistas de descomposición y las vistas de despliegue
 c. las técnicas Delphi y los Brainstormings
 
@@ -67,84 +67,83 @@ c. las técnicas Delphi y los Brainstormings
 ?: ¿Cuál de las siguientes es una lista de atributos de una actividad? Seleccione una:
 a. Tipo, Clase, Aspecto y Evaluación
 b. Nombre, Dirección y Código
-c. Título, Duración, Relación con el WBS y Nivel de actividad
+$c. Título, Duración, Relación con el WBS y Nivel de actividad
 
 
 ?: Hablando de dependencia entre las actividades, ¿Qué es la Dependencia Interna? Seleccione una:
 a. Son actividades que tienen relaciones con otras actividades, pero sus reslutados son propios del proyecto
 b. Son actividades que sólo se relacionan con ellas mismas
-c. Las dependencias internas se refieren a relaciones entre las propias actividades del proyecto
+$c. Las dependencias internas se refieren a relaciones entre las propias actividades del proyecto
 
 
 ?: Hablando de estimación de duración de las actividades, ¿En qué consiste la Técnica Delphi? Seleccione una:
 a. Es un proceso basado en simulaciones de duración usando técnicas como por ejemplo Monte Carlo
-b. Es un proceso iterativo de valoración por parte de expertos que, en cada iteración, valoran en función de los resultados de la anterior
+$b. Es un proceso iterativo de valoración por parte de expertos que, en cada iteración, valoran en función de los resultados de la anterior
 c. Es una técnica paramétrica de cálculo que consiste en iteraciones de cálculo que van afinando la duración de una actividad
 
 
-?: ¿Cuál es la organización funcional clásica de una empresa?
-Seleccione una:
+?: ¿Cuál es la organización funcional clásica de una empresa? Seleccione una:
 a. Es un modelo en que cada empleado realiza una sola función en un proyecto
 b. Es una organización en base a departamentos funcionales
-c. Es una jerarquía en la que cada empleado tiene un superior claro
+$c. Es una jerarquía en la que cada empleado tiene un superior claro
 
 
 ?: Hablando de estimación de duración de las actividades, ¿En qué consiste la Estimación Paramétrica? Seleccione una:
 a. La estimación paramétrica se basa en el uso de tablas de actividades que están calculadas previamente
 b. La estimación paramétrica se basa en el uso de parámetros estándar para estimar las duraciones
-c. La estimación paramétrica se basa en el uso de algún algoritmo de cálculo que recoge información histórica
+$c. La estimación paramétrica se basa en el uso de algún algoritmo de cálculo que recoge información histórica
 
 
 ?: ¿Cuál es el concepto de éxito del proyecto? Seleccione una:
 a. El éxito del proyecto consiste en que todos los requisitos se hayan implementado
 b. El éxito del proyecto se mide en términos de que los plazos y los costes hayan sido los pactados al principio del proyecto
-c. El éxito del proyecto se mide en términos de completar el proyecto dentro de las limitaciones de alcance, tiempo, costo, calidad, recursos y riesgo aprobado entre los directores de proyectos y la alta dirección
+$c. El éxito del proyecto se mide en términos de completar el proyecto dentro de las limitaciones de alcance, tiempo, costo, calidad, recursos y riesgo aprobado entre los directores de proyectos y la alta dirección
 
 
 ?: ¿Cuál de las siguientes afirmaciones es cierta? Seleccione una:
-a. La estructura organizacional es un factor del entorno de la empresa que puede afectar la disponibilidad de recursos e influenciar como se dirigen los proyectos
+$a. La estructura organizacional es un factor del entorno de la empresa que puede afectar la disponibilidad de recursos e influenciar como se dirigen los proyectos
 b. Los proyectos se realizan desde empresas con organizaciones orientadas a proyectos para empresas con organización funcional
 c. Las empresas que se dedican a realizar proyectos deben tener una estructura orientada a proyectos, no pueden tener una estructura funcional
 
 
 ?: Hablando de estimación de duración de las actividades, ¿En qué consisten las Técnicas de decisión por grupo? Seleccione una:
-a. Este tipo de estimación usa brainstormings o técnicas Delphi entre un grupo de expertos, para hacer la estimación
+$a. Este tipo de estimación usa brainstormings o técnicas Delphi entre un grupo de expertos, para hacer la estimación
 b. Es tipo de estimación consiste en agrupar los tiempos para que tareas similares se hagan en la misma franja de proyecto
 c. Este tipo de estimación forma grupos de actividades que son similares y las estima usando una técnica común
 
 
 ?: Los procesos organizacionales que se llevan a cabo en un proyecto se pueden clasificar en... Seleccione una:
 a. Inicio, Elaboración, Construcción y Transición
-b. "Inicio y planificación", "Ejecución, Monitorización y Control" y "Cierre"
+$b. "Inicio y planificación", "Ejecución, Monitorización y Control" y "Cierre"
 c. Arranque, Identificación, Priorización, Monitorización y Control
 
 
 ?: Hablando de actividades, ¿qué son los Retardos (Lags)? Seleccione una:
 a. Un retardo (Lag) es la cantidad de tiempo que una actividad puede ser retrasada con respecto a otra que la sucede
 b. Un retardo (Lag) es la cantidad de tiempo que una actividad puede ser retrasada sin cambiar el camino crítico
-c. Un retardo (Lag) es la cantidad de tiempo que una actividad puede ser retrasada con respecto a otra que la precede
+$c. Un retardo (Lag) es la cantidad de tiempo que una actividad puede ser retrasada con respecto a otra que la precede
 
 
 ?: ¿Qué técnicas son habituales para hacer estimación de recursos para las actividades? Seleccione una:
 a. Identificación, Nombre, Descripción, Precedentes y Sucesoras entre otros
 b. Juicio de expertos, Estimación por analogía, Estimación paramétrica, Estimación de tres puntos, Técnicas de decisión por grupo y Análisis de reservas
-c. Juicio de expertos, Análisis alternativos, Datos de estimación publicados, Estimación
+$c. Juicio de expertos, Análisis alternativos, Datos de estimación publicados, Estimación Bottom-Up y uso de Software de gestión y estimación de proyectos 
 
 
-?: Bottom-Up y uso de Software de gestión y estimación de proyectos La organización funcional de la empresa, ¿qué permite? Seleccione una:
+?: La organización funcional de la empresa, ¿qué permite? Seleccione una:
 a. Que cada función sea realizada por más de un departamento de la empresa
 b. Que cada departamento tenga asignado un solo trabajo en el proyecto
-c. Que cada departamento pueda realizar su trabajo independientemente de los demás
+$c. Que cada departamento pueda realizar su trabajo independientemente de los demás
 
 
 ?: ¿Qué característica especial se espera de un Jefe de proyecto que tenga un alcance global? Seleccione una:
 a. Debe tener capacidad de liderazgo
-b. Debe tener competencias multiculturales
+$b. Debe tener competencias multiculturales
 c. Debe tener conocimiento de idiomas
 
 
 ?: ¿Cuál de los siguientes es un beneficio aportado al proyecto por el WBS? Seleccione una:
-a. Identifica el 100% de trabajo requerido para llevar a cabo el proyecto
+$a. Identifica el 100% de trabajo requerido para llevar a cabo el proyecto
 b. Identifica el 100% de los trabajos formales del proyecto
 c. Identifica un alto porcentaje de los trabajos del proyecto
 
@@ -152,35 +151,35 @@ c. Identifica un alto porcentaje de los trabajos del proyecto
 ?: ¿Cuál de los siguientes es un beneficio aportado al proyecto por el WBS? Seleccione una:
 a. Ayuda a predecir la calidad del proyecto
 b. Permite predecir el grado de adecuación del proyecto al objetivo
-c. Ayuda a establecer una correlación de cada actividad con la meta final del proyecto
+$c. Ayuda a establecer una correlación de cada actividad con la meta final del proyecto
 
 
 ?: Hablando de estimación de duración de las actividades, ¿En qué consiste el Análisis de Reservas? Seleccione una:
 a. Consiste en estudiar las reservas de tiempo que se crean de manera natural al estimar muchas actividades
-b. Las estimaciones pueden incluir tiempos reservados para contingencias (buffers) pensados para situaciones de riesgo en las que la duración podría extenderse
+$b. Las estimaciones pueden incluir tiempos reservados para contingencias (buffers) pensados para situaciones de riesgo en las que la duración podría extenderse
 c. Consiste en poner todas las holguras juntas para producir reservas de tiempo para el proyecto
 
 
 ?: ¿Qué es un stakeholder? Seleccione una:
 a. Un stakeholder es cualquier individuo, grupo u organización que haya invertido dinero en el proyecto
-b. Un stakeholder es cualquier individuo, grupo u organización que pueda afectar o sentirse afectado por cualquier decisión, actividad o resultado del proyecto
+$b. Un stakeholder es cualquier individuo, grupo u organización que pueda afectar o sentirse afectado por cualquier decisión, actividad o resultado del proyecto
 c. Un stakeholder es cualquier individuo, grupo u organización que pueda sentirse afectado por aspectos socioculturales cuando el proyecto tiene caracter global
 
 
 ?: De acuerdo a los formalismos del WBS... Seleccione una:
 a. ...toda actividad estará representada por una elipse
 b. ...toda actividad estará relacionada con otra actividad en el árbol
-c. ...toda actividad da lugar a un resultado y no hay ningún resultado (a excepción del estado inicial) que no tenga una actividad previa
+$c. ...toda actividad da lugar a un resultado y no hay ningún resultado (a excepción del estado inicial) que no tenga una actividad previa
 
 
 ?: Hablando de estimación de duración de las actividades, ¿En qué consiste la Estimación de tres puntos? Seleccione una:
 a. La estimación por tres puntos (o tres valores) se basa en hacer un cálculo de tres tipos de estimación de duración y quedarse con la más probable
 b. La estimación por tres puntos (o tres valores) se basa en hacer un cálculo de tres tipos de estimación de duración usando técnicas de simulación Monte Carlo
-c. La estimación por tres puntos (o tres valores) se basa en hacer un cálculo de tres tipos de estimación de duración: más probable, optimista y pesimista
+$c. La estimación por tres puntos (o tres valores) se basa en hacer un cálculo de tres tipos de estimación de duración: más probable, optimista y pesimista
 
 
 ?: Las relaciones entre los elementos de un WBS, ¿de qué tipos son? Seleccione una:
-a. Son del tipo "está compuesto de" cuando se va de la raíz a las hojas y del tipo "forma parte de" cuando se va hacia la raíz
+$a. Son del tipo "está compuesto de" cuando se va de la raíz a las hojas y del tipo "forma parte de" cuando se va hacia la raíz
 b. Son del tipo "pertenece a" para determinar qué productos forman parte de otros más complejos
 c. Son del tipo "Será realizado por" para determinar qué trabajos realizarán qué personas en el proyecto
 
@@ -188,47 +187,47 @@ c. Son del tipo "Será realizado por" para determinar qué trabajos realizarán 
 ?: ¿Cómo se comportan los stakeholders respecto a la responsabilidad y autoridad en le proyecto? Seleccione una:
 a. Tiene autoridad, pero no responsabilidad en el proyecto
 b. Tienen un papel bien definido con un nivel de responsabilidad y autoridad perfectamente acotado durante todo el proyecto
-c. Tienen diferentes niveles de responsabilidad y autoridad que pueden varia a lo largo del proyecto
+$c. Tienen diferentes niveles de responsabilidad y autoridad que pueden varia a lo largo del proyecto
 
 
 ?: Dentro de las actividades de los procesos organizacionales ¿Qué actividades están relacionadas con la Ejecución, Monitorización y control? Seleccione una:
 a. Definición de plantillas
 b. Requisitos guías para le cierre de proyecto
-c. Procesos financieros y gestión de riesgos
+$c. Procesos financieros y gestión de riesgos
 
 
 ?: De acuerdo al PMBOK, ¿Qué documentos acompañan al WBS? Seleccione una:
-a. Alcance del proyecto, WBS y Diccionario WBS
+$a. Alcance del proyecto, WBS y Diccionario WBS
 b. El presupuesto y la estimación de personal
 c. El presupuesto y el Alcance del proyecto
 
 
 ?: Hablando de actividades, ¿qué significa la precedencia SS? Seleccione una:
 a. Start-to-Start, es una relación que indica que una actividad no puede comenzar hasta que otra concreta haya terminado
-b. Start-to-Start, es una relación que indica que una actividad no puede comenzar hasta que otra concreta haya comenzado
+$b. Start-to-Start, es una relación que indica que una actividad no puede comenzar hasta que otra concreta haya comenzado
 c. Start-to-Start, es una relación que indica que una actividad varias actividades debeb comenzar juntas
 
 
 ?: ¿Qué es un hito (milestone) en un proyecto? Seleccione una:
-a. Un hito en un punto o evento importante en el proyecto
+$a. Un hito en un punto o evento importante en el proyecto
 b. Un hito es una marca del proyecto
 c. Un hito es una actividad más con una duración de un día
 
 
 ?: Hablando de estimación de duración de las actividades, ¿En qué consiste la Estimación Paramétrica? Seleccione una:
 a. La estimación paramétrica se basa en el uso de tablas de actividades que están calculadas previamente
-b. La estimación paramétrica se basa en el uso de algún algoritmo de cálculo que recoge información histórica
+$b. La estimación paramétrica se basa en el uso de algún algoritmo de cálculo que recoge información histórica
 c. La estimación paramétrica se basa en el uso de parámetros estándar para estimar las duraciones
 
 
 ?: ¿Cuáles de los siguientes son activos de los procesos de una organización? Seleccione una:
-a. Planes, Procesos, Políticas, Procedimientos y Conocimiento corporativo
+$a. Planes, Procesos, Políticas, Procedimientos y Conocimiento corporativo
 b. Financieros y Humanos
 c. Ecológicos, Globalizadores y Socioculturales
 
 
 ?: ¿Qué técnicas son habituales para hacer estimación de la duración de las actividades? Seleccione una:
-a. Juicio de expertos, Estimación por analogía, Estimación paramétrica, Estimación de tres puntos, Técnicas de decisión por grupo y Análisis de reservas
+$a. Juicio de expertos, Estimación por analogía, Estimación paramétrica, Estimación de tres puntos, Técnicas de decisión por grupo y Análisis de reservas
 b. Juicio de expertos, Análisis alternativos, Datos de estimación publicados, Estimación Bottom-Up y uso de Software de gestión y estimación de proyectos
 c. Identificación, Nombre, Descripción, Precedentes y Sucesoras entre otros
 
@@ -236,17 +235,17 @@ c. Identificación, Nombre, Descripción, Precedentes y Sucesoras entre otros
 ?: Hablando de dependencia entre las actividades, ¿Qué es la Dependencia Externa? Seleccione una:
 a. Son actividades que tienen resultados más allá del alcance del proyecto
 b. Son actividades que no pertenecen al proyecto, aunque se ejecuten al mismo tiempo
-c. Son actividades que incluyen relaciones a actividades externas no pertenecientes al proyecto
+$c. Son actividades que incluyen relaciones a actividades externas no pertenecientes al proyecto
 
 
 ?: Hablando de actividades, ¿qué significa la precedencia FF? Seleccione una:
-a. Finish-to-Finish, es una relación de precedencia que indica que una actividad no puede terminar hasta que lo haya hecho otra concreta
+$a. Finish-to-Finish, es una relación de precedencia que indica que una actividad no puede terminar hasta que lo haya hecho otra concreta
 b. Finish-to-Finish, es una relación de precedencia que indica que varias actividades tienen que terminar juntas
 c. Finish-to-Finish, es una relación de precedencia que indica que una actividad no puede terminar hasta que otra concreta haya comenzado
 
 
 ?: ¿Qué es una tarea hamaca? Seleccione una:
-a. Una tarea hamaca está definida por un conjunto de tareas detalladas
+$a. Una tarea hamaca está definida por un conjunto de tareas detalladas
 b. Una tarea hamaca es una tarea con holguras en el WBS
 c. Una tarea hamaca es una tarea que forma parte de una súper tarea
 
@@ -254,73 +253,108 @@ c. Una tarea hamaca es una tarea que forma parte de una súper tarea
 ?: ¿Es posible obtener información importante de la Arquitectura del Software para construir el WBS? Seleccione una:
 a. No, la arquitectura y la gestión de proyecto son fases diferentes
 b. Si, el proyecto y la arquitectura tienen los mismos stakeholders
-c. Si, a partir de algunos estilos de disposición
+$c. Si, a partir de algunos estilos de disposición
 
 
 ?: La organización y estilos culturales de una empresa, ¿Qué experiencias comunes incluyen? Seleccione una:
-a. Visión, misión, valores, creencia y expectativas
+$a. Visión, misión, valores, creencia y expectativas
 b. Resultados empresariales, posición de mercado y marketing corporativo
 c. Departamentos, oficinas, locales, etc.
 
 
 ?: Hablando de dependencia entre las actividades, ¿Qué es la Dependencia Obligatoria? Seleccione una:
 a. Son actividades que deben comenzar obligatoriamente al mismo tiempo
-b. Son actividades que debe realizarse obligatoriamente, bien sea por cuestiones contractuales o porque la naturaleza del trabajo las impone
+$b. Son actividades que debe realizarse obligatoriamente, bien sea por cuestiones contractuales o porque la naturaleza del trabajo las impone
 c. Son actividades que obligan al equipo a una atención especial
 
 
 ?: ¿Qué es el OBS?
-a. Organization Breakdown Structure, representa las responsabilidades sobre la realización de actividades del proyecto.
+$a. Organization Breakdown Structure, representa las responsabilidades sobre la realización de actividades del proyecto.
 
 
 ?: ¿Qué es el WBS?
-a. Work Breakdown Structure, se utiliza para representar la estructura de descomposición del trabajo.
+$a. Work Breakdown Structure, se utiliza para representar la estructura de descomposición del trabajo.
 
 
 ?: Según PMBOK, el plan de gestión del cronograma puede establecer…
-a. …El desarrollo de modelo de cronograma del proyecto.
+$a. …El desarrollo de modelo de cronograma del proyecto.
 
 
 ?: ¿Qué es e RBS?
-a. Resource Breakdown Structure, en una lista jerárquica de los recursos necesarios para
-la gestión y control del proyecto
+$a. Resource Breakdown Structure, en una lista jerárquica de los recursos necesarios para la gestión y control del proyecto
 
 
 ?: Hablando de actividades ¿Qué significa precedencia FS?
-a. Finish-to-Start, es una relación de precedencia entre las actividades que indica que una actividad no puede empezar hasta que otra concreta haya terminado.
+$a. Finish-to-Start, es una relación de precedencia entre las actividades que indica que una actividad no puede empezar hasta que otra concreta haya terminado.
 
 
 ?: Hablando de estimación de recursos para las actividades ¿En qué consiste la existencia de Datos de estimación publicados?
-a. Consiste en actividades que, por experiencia previa, se tienen tabuladas y se puede calcular fácilmente los recursos que precisan aplicando dichas tablas.
+$a. Consiste en actividades que, por experiencia previa, se tienen tabuladas y se puede calcular fácilmente los recursos que precisan aplicando dichas tablas.
 
 
 ?: ¿En qué consiste la definición del cronograma del proyecto?
-a. Es el proceso de análisis de secuencias de actividades, duraciones, requisitos de recursos y restricciones del propio cronograma para crear un modelo de programación del proyecto.
+$a. Es el proceso de análisis de secuencias de actividades, duraciones, requisitos de recursos y restricciones del propio cronograma para crear un modelo de programación del proyecto.
+b. Es un proceso de colocar todas las actividades en un margen de tiempo definido a priori para el proyecto
+c. Es el proceso de creacion de actividades y su descomposicion en tareas
 
 
 ?: ¿Qué es el RBS? Seleccione una:
-a. Resource Breakdown Structure, es una lista jerárquica de los recursos necesarios para la gestión y control del proyecto
+$a. Resource Breakdown Structure, es una lista jerárquica de los recursos necesarios para la gestión y control del proyecto
 b. Rescue Breakdown Structure, es la lista de recursos de que dispone el equipo para recuperar situaciones complejas en el proyecto
 c. Relational Breakdown Structure, es un grafo representando las relaciones entre las diferentes actividades del proyecto
 
 
 ?: La planificación temporal del proyecto es... Seleccione una:
 a. ...un proceso en el que se estima el tiempo que llevará la gestión del proyecto
-b. ...un proceso en el cual se establecen políticas, procedimientos y documentación para planificar, desarrollar, gestionar ejecutar y controlar los tiempos del proyecto
+$b. ...un proceso en el cual se establecen políticas, procedimientos y documentación para planificar, desarrollar, gestionar ejecutar y controlar los tiempos del proyecto
 c. ...un proceso de cálculo de los tiempos de cada actividad de gestión del proyecto
 
 
 ?: ¿Cuáles de los siguientes son elementos culturales de una empresa? Seleccione una:
 a. Oficinas, despachos, recursos y centros de desarrollo
 b. Personas, recursos financieros y disponibilidad
-c. Visiones compartidas, valores, creencias y expectativas
+$c. Visiones compartidas, valores, creencias y expectativas
 
 
 ?: ¿Cómo se comportan los stakeholders respecto a la responsabilidad y autoridad en el proyecto?
-a. Tienen diferentes niveles de responsabilidad y autoridad que pueden variar a lo largo del proyecto.
+$a. Tienen diferentes niveles de responsabilidad y autoridad que pueden variar a lo largo del proyecto.
 
 
 ?: Hablando de estimación de recursos para las actividades, ¿En qué consisten los Análisis alternativos? Seleccione una:
 a. Consiste en recalcular toda la estimación de recuros con otro métodos difenrente del usado por primera vez
 b. Son métodos experimentales que están poco probados en la industria
-c. Son habitualmente métodos ad-hoc de cualquier tipo que ayudan a la estimación
+$c. Son habitualmente métodos ad-hoc de cualquier tipo que ayudan a la estimación
+
+?: Según el (PMBOK, 2013), el plan de gestión del cronograma puede establecer...
+a. ...el criterio de las horas de trabajo por jornada
+$b. ...el desarrollo de modelo de cronograma del proyecto
+c. ...el criterio del tiempo a utilizar en los procesos de desarrollo de software
+
+?: Dentro de las actividades de los procesos organizacionales ¿Qué actividades estánrelacionadas con la Ejecución, Monitorización y control?
+a. Requisitos guías para le cierre de proyecto
+$b. Procesos financieros y gestión de riesgos
+c. Definición de plantillas
+
+?: ¿Qué componentes tiene una EDT?
+$a. Objetivos del proyecto, Componentes, Productos, Entregables, Paquetes de trabajo y Actividades Correcta
+b. WBS, OBS, PBS y RBS
+c. ID, Título, Nombre, Precedentes y Sucesoras
+
+?: Hablando de estimación de recursos para las actividades, ¿En qué consiste la existencia de Datos de estimación publicados?
+$a. Consiste en actividades que, por experiencia previa, se tienen tabuladas y se puede calcular fácilmente los recusos que precisan aplicando dichas tablas
+b. Consiste en tener listas de precios para las actividades
+c. Consiste en publicar los precios de las actividades del proyecto para que el cliente sepa los costes a priori
+
+?: Hablando de estimación de recursos para las actividades ¿En qué consiste la existenciade Datos de estimación publicados?
+$a. Consiste en actividades que, por experiencia previa, se tienen tabuladas y se puedecalcular fácilmente los recursos que precisan aplicando dichas tablas.
+
+?: ¿Cuál de las siguientes es un lista de atributos de una actividad?
+$a. Título, Duración, Relación con el WBS y Nivel de actividad
+b. Nombre, Dirección y Código
+c. Tipo, Clase, Aspecto y Evaluación
+
+?: ¿Qué es un stakehoder?
+a. Un stakeholder es cualquier individuo, grupo u organización que haya invertido dinero en el proyecto
+$b. Un stakeholder es cualquier individuo, grupo u organización que pueda afectar o sentirse afectado por cualquier decisión, actividad o resultado del proyecto
+c. Un stakeholder es cualquier individuo, grupo u organización que pueda sentirse afectado por aspectos socioculturales cuando el proyecto tiene caracter global
+

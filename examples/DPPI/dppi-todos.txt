@@ -1,0 +1,2837 @@
+?: Para ayudar en la gestión de los proyectos es necesario el uso de técnicas que permitan diseñar el proyecto con un cierto grado de garantía de éxito. ¿Qué técnicas se encuentran entre las más destacadas?
+a. Formación, Competencias, Habilidades y Sociales
+b. Tecnológicas, Transversales y Sistémicas
+$c. Mediciones, Planificación, Riesgos, Normalización, Presupuestos y Simulaciones
+
+?: Las 34 competencias del libro de Furtel se dividen en tres tipos de habilidades:
+a. Competencias para la construcción de una estructura de desglose del trabajo, competencias para la selección de las herramientas de gestión de proyectos y competencias para la selección de personal
+$b. Técnicas de desarrollo del producto software, Habilidades de la Gestión de proyectos y Habilidades personales de los gestores de proyectos
+c. Competencias económicas, competencias técnicas y competencias transversales
+
+?: Las iteraciones del RUP:
+a. Disminuyen el ritmo de esfuerzo del equipo de desarrollo
+$b. Reducen el riesgo con respecto al modelo de proceso clásico en cascada
+c. Todas las iteraciones producen un efecto aditivo, no se pueden usar para refinar
+
+?: ¿Cuál de estas fases pertenece al modelo de prototipos?
+a. Diseño e integración de prototipos
+$b. Diseño, construcción y evaluación de prototipos
+c. Desarrollo y pruebas
+
+?: ¿Cuál de las siguientes ventajas es del modelo de prototipos
+a. Acelera el ritmo de esfuerzo del equipo de desarrollo
+$b. Los modelos son validados por el propio usuario
+c. Se reaprovecha mucho código entre los prototipos
+
+?: Algunas iteraciones del modelo de proceso que propone RUP:
+a. Producen un efecto de sustractivo.
+$b. Producen un efecto de refinamiento o corrección.
+c. Son independientes totalmente unas de otras.
+
+?: ¿Cuál de las siguientes afirmaciones es verdadera?
+$a. METRICA V3 está reconocida por las administraciones españolas como metodología de desarrollo de software
+b. METRICA V3 da soporte a metodologías pesadas y ágiles
+c. METRICA V3 ha sido diseñada exclusivamente para soportar el paradigma orientado a objeto
+
+?: ¿En qué consiste el refinamiento de la Pila del Producto en Scrum?
+$a. Consiste en dividir elementos grandes, analizar elementos, reestimar elementos, cambiar prioridades de elementos, etc.
+b. Consiste en eliminar de la lista aquellas tareas que puedan hace pesada la metodología
+c. Consiste en eliminar de la lista los elementos que ya se han terminado después de un Sprint
+
+?: Sobre METRICA V2 y METRICA V3
+a. METRICA V3 es una revisión de METRICA V2 para soportar arquitectura del software
+b. METRICA V3 es para sistemas orientados a objeto y METRICA V2 es para sistemas estrucutrado, por tanto ambas deben convivir en la industria.
+$c. METRICA V3 da soporte a los nuevos paradigmas orientados a objeto, además de soportar todo el ciclo de vida para los sistemas estructurados que soportaba
+
+?: METRICA V2. La Revisión de Sprint es una reunión para inspección y adaptación respecto al incremento de funcionalidad del producto ¿Quién participa en dicha reunión?
+a. Equipo, Dueño de Producto, ScrumMaster. Otros stakeholders que sean adecuados, invitados por el ScrumMaster.
+$b. Equipo, Dueño de Producto, ScrumMaster. Otros stakeholders que sean adecuados, invitados por el Dueño de Producto.
+c. Equipo, Dueño de Producto, ScrumMaster. Otros stakeholders que sean adecuados, invitados por el Equipo.
+
+?: ¿Que es el equipo Scrum?
+a. Es el encargado de realizar el software bajo la dirección de Dueño de Producto y del ScrumMaster
+$b. El compuesto por los roles Dueño de Producto, Equipo y ScrumMaster.
+c. Es el que desarrolla el proyecto.
+
+?: ¿Cuál es la definición de “Terminado” para un Sprint en Scrum?
+a. Un producto está “Terminado” si pasa las pruebas al final del sprint
+b. “Terminado” es el producto o conjunto de productos que se obtienen al final de un Sprint
+$c. La definición de “terminado deben acordarse con el DP
+
+?: De acuerdo a las 34 competencias del libro de Furtel, ¿Cuál de las siguientes competencias no es necesaria para ser Director (Jefe) de Proyecto?
+a. Evaluación de procesos alternativos
+b. Evaluación de los procesos
+$c. Evaluación de la solvencia del cliente
+
+?: Una de las fases del modelo en espiral es:
+a. Evaluación de presupuestos
+$b. Análisis de riesgos
+c. Creación de prototipos
+
+?: ¿Qué es el Scrum diario?
+a. Una reunión para revisar los resultados del día anterior y tomar medidas para corregir desviaciones y dedicar a ello el trabajo del día actual
+b. Una reunión para que ScrumMaster defina el trabajo a realizar durante el día actual
+$c. Una reunión de unos 15 minutos de duración para coordinar el trabajo que se va a desarrollar ese día
+
+?: Una desventaja del modelo de ciclo de vida en cascada es…
+a. Es un modelo pensado para hacer desarrollos en ensamblador
+$b. No refleja realmente el proceso de desarrollo del software, ya que casi nunca se cierra totalmente una fase antes de comenzar la siguiente
+c. Es un modelo muy antiguo y la informática ha evolucionado
+
+?: ¿Cuál de las siguientes características NO pertenece a XP (eXtreme Programming)?
+a. Los programas deben diseñarse e implementarse de la forma más simple posible
+$b. Las pruebas se realizan al finalizar el programa
+c. El código que se realiza pertenece al grupo
+
+?: ¿Quién ha definido la ingeniería software como “Una aplicación práctica del conocimiento científico para el diseño y construcción de programas de ordenador y la documentación asociada, necesaria para desarrollar, operar y mantenerlo”?
+$a. Barry Boehm
+b. IEEE
+c. Stephen Schach
+
+?: ¿Cómo se gestiona el avance en Scrum?
+a. Se usan modelos de estimación de esfuerzos que se convierten a puntos de función. Una representación habitual es un Diagrama de BurnDown.
+b. Se van sumando los esfuerzos realizados de manera que se vaya acercando al esfuezo previsto. Una representación habitual es un Diagrama de BurnDown.
+$c. Se anota el avance usando algún método que represente el esfuerzo pendiente. Una representación habitual es un Diagrama de BurnDown.
+
+?: En muchos casos los proyectos de software engloban en un solo proyecto tres etapas diferenciadas en otros proyectos, ¿cuáles?
+a. Financiación, avalaes y garantías post-venta
+b. Presupuesto, planos y pliego de condiciones
+$c. Definición, construcción e implantación
+
+?: ¿Qué es una fase en un Proyecto?
+$a. Una fase es un conjunto de actividades que producen un entregable importante en el proyecto
+b. Una fase es un conjunto de operaciones que realiza un único equipo
+c. Una fase es un periodo del proyecto en el que se usa una tecnología concreta
+
+?: ¿Qué es un programa en el ámbito de los proyectos?
+$a. Un programa está formado por una serie de proyectos agrupados con el objetivo de conseguir algún objetivo estratégico.
+b. Un programa es un conjunto de actividades dentro del proyecto que dan lugar a un entregable
+c. Un programa es una aplicación informática necesaria para el desarrollo de un proyecto de software
+
+?: ¿Qué es un sistema en el entorno de los proyectos informáticos?
+a. Es un elemento de hardware
+b. Es un elemento de software que es necesario para realizar el proyecto
+$c. Un sistema es básicamente un conjunto de elementos organizados para actuar en conjunto con un objetivo claro
+
+?: RUP es:
+a. Una metodología para el desarrollo de procesos software orientados a objetos y que divide el desarrollo de cada mini-proyecto en cinco etapas
+$b. Una metodología para el desarrollo de proyectos software orientados a objetos que propone un modelo de procesos iterativo e incremental
+c. Una metodología para el desarrollo de proyectos software estructurados que propone un modelo de procesos iterativo e incremental
+
+¿Qué es Scrum?
+$a. Scrum es un marco de trabajo en el que equipos cross-funcionales pueden crear productos o desarrollar proyectos de una forma iterativa e incremental.
+b. Scrum es un método de fabricacion de software que divide el proceso en iteraciones, las iteraciones en fases y éstas en Sprints.
+c. Scrum es una metodología ágil que consiste en desarrollar software en pequeños paquetes que se deben integrar al final del proyecto.
+
+Una reunión para preparar el Sprint, típicamente dividida en dos partes. ¿Quién asiste?
+a. Primera Parte: Dueño de Producto (opcional, pero disponible para aclaraciones), Equipo, ScrumMaster. Segunda Parte: Equipo, ScrumMaster, Dueño de Producto.
+$b. Primera Parte: Dueño de Producto, Equipo, ScrumMaster. Segunda Parte: Equipo, ScrumMaster, Dueño de Producto (opcional, pero disponible para aclaraciones).
+c. Primera Parte: Dueño de Producto, Equipo, ScrumMaster. Segunda Parte: Equipo, ScrumMaster (opcional, pero disponible para aclaraciones), Dueño de Producto.
+
+¿Qué es una actividad en un Proyecto?
+$a. En un elemento de trabajo compuesto por tareas
+b. Es cualquier trabajo que no sea una tarea
+c. Es el perfil de una determinada persona participando enun proyecto
+
+¿Qué es un sistema en el entorno de los proyectos informáticos?
+a. Es un elemento de software que es necesario para realizar el proyecto
+b. Es un elemento de hardware
+$c. Un sistema es básicamente un conjunto de elementos organizados para actuar en conjunto con un objetivo claro
+
+?: Los desarrollos en Scrum se estructuran en ciclos de trabajo llamados Sprints
+a. LoS Sprints son casos de uso que se extraen del Product Backlog para ser desarrollados
+$b. Los Sprints son iteraciones de 1 a 4 semanas que se van sucediendo una detrás de otra
+c. Los Sprints son cilcos compuestos por varias iteraciones de 1 a 4 semanas de duración
+
+?: Una de las características propias de un proyecto es:
+$a. El objetivo se tiene que alcanzar en plazo de tiempo limitado
+b. Tiene fecha de inicio, pero no de final
+c. Los recursos son ilimitados
+
+?: En Scrum hay varios roles principales:
+a. Dueño de producto, Equipo y Project manager
+b. Cliente, Equipo y Jefe de proyecto
+$c. Equipo, Dueño del producto y Scrum master
+
+?: Un proyecto se caracteriza entre otras cosas por:
+a. Unicidad, duración limitada, poco flexible a la hora de asignar más recursos tanto materiales como personales
+b. Objetivo difuso, duración ilimitada, comprende distintos dominios de aplicación
+$c. Objetivo definido, responde a una demanda puntual, duración limitada
+
+?: ¿Quién ha definido la ingeniería del software como "Una aproximación sistemática al desarrollo operación, mantenimiento y retirada del sfotware"?
+$a. IEEE
+b. Barry Boehm
+c. Stephen Schach
+
+?: ¿Cuál de las siguientes afirmaciones es correcta respecto a las tareas a realizar en un proyecto?
+a. Son tareas habituales
+$b. Es necesario realizarlas para conseguir el objetivo
+c. Pueden realizarse el cualquier orden sin importar las prioridades
+
+?: De acuerdo a las 34 competencias del libro de Furtel, ¿Cuál de las siguientes competencias no es necesaria para ser Director (Jefe) de Proyecto?
+a. Selección de métodos y herramientas
+$b. Gestión financiera de los avales del proyecto
+c. Gestión de requisitos
+
+?: Según Deemer...
+a. Scrum es un marco de trabajo ágil para el desarrollo de peuqeños proyectos
+$b. Scrum es un marco de trabajo iterativo e incremental para el desarrollo de proyectos, productos y aplicaciones
+c. Scrum es una metodología de trabajo para el desarrollo de software
+
+?: En el modelo de procesos en espiral...
+$a. La evaluación se lleva a cabo al final de cada iteración a lo largo de todo el proceso
+b. La evaluación por parte del cliente se lleva a cabo después de entregar el producto, en la puesta en marcha
+c. La evaluación del cliente se lleva a cabo antes de entregar el producto
+
+?: Si el ciclo de vida del proyecto se divide en iteraciones, ¿qué tipo de metodología estamos utilizando?
+a. cascada
+$b. RUP
+c. Espiral
+
+?: ¿Qué es AUP?
+a. Es una metodología ágil de gran difusión en la industria
+$b. Es un producto derivado de RUP para ser adaptado a metodologías ágiles
+c. Es una metodología ágil estandarizada por OMG
+
+?: El Modelo de desarrollo de versiones sucesivas es un método de realización de software que...
+$a. ...realiza una serie de iteraciones sobre el propio modelo en cascada.
+b. ...se usa en productos que se venden bajo licencia para mejorar la funcionalidad.
+c. ...realiza versiones beta que pone a disposición probadores externos que reportan los errores.
+
+?: ¿Cuáles de las siguientes son una lista de tipos de proyectos de software?
+$a. Desarrollo, integración e implantación de Software
+b. Software, hardware y comunicaciones
+c. Logística, contabilidad y gestión empresarial
+
+?: ¿En qué consiste una reunión de Revisión del Sprint en Scrum?
+a. Es una reunión de demostración del producto para conseguir la etiqueta de "Terminado"
+b. Es una reunión para revisar el estado del producto durante el Sprint. Se hacen tantas revisiones como sean necesarias para conseguir el producto "Terminado"
+$c. No se trata de una demostración de producto, es más bien una actividad de inspección y adaptación del producto
+
+?: ¿Cuál es la responsabilidad principal del ScrumMaster?
+a. El ScrumMaster sirve de puente entre el Dueño de Producto y el Equipo.
+$b. El ScrumMaster ayuda al área de producto a aprender y aplicar Scrum para obtener valor de negocio.
+c. El ScrumMaster supervisa y dirije la actividad del equipo de darrollo.
+
+?: ¿Qué es un sistema en el entorno de los proyectos informáticos?
+$a. Un sistema es básicamente un conjunto de elementos organizados para actuar en conjunto con un objetivo claro
+b. Es un elemento de software que es necesario para realizar el proyecto
+c. Es un elemento de hardware
+
+?: Señale cuál de las siguientes afirmaciones es correcta:
+$a. RUP es la metodología o proceso de desarrollo propuesta por Racional para el desarrollo de proyectos software orientados a objeto
+b. Un proyecto de informática equivale a un proyecto software
+c. La estimación del coste de un proyecto no forma parte de las responsabilidades de gestión del proyecto del Jefe de proyecto
+
+?: Indica cuál de las siguientes afirmaciones es correcta:
+a. Un proyecto informático es un esfuerzo vinculado a la informática con recursos limitados
+b. Un proyecto es un esfuerzo humano y temporal que pretende un estándar informático
+$c. Un proyecto es un esfuerzo temporal acometido para crear un único servicio o producto
+
+?: El Modelo de transformación es un método de realización de software que...
+a. ...es un método usado en las migraciones de software en las grandes empresas.
+b. ...consiste en acoplar pequeñas unidades de código para hacer sistemas grandes.
+$c. ...parte de la premisa de la existencia de un sistema que pueda convertir fácilmente los requerimientos en código.
+
+?: Al final de cada Sprint de Scrum...
+a. El equipo comprueba el producto obtenido y alarga el Sprint el tiempo necesario para poder termianr compeltamente el producto
+$b. El equipo revisa el producto obtenido con los interesados en el proyecto, y les enseña lo que han construido
+c. El Scrum Master revisa el producto obtenido para hacer la aceptación
+
+?: Señale la respuesta correcta:
+$a. En el modelo de prototipos los modelos se validan por el usuario
+b. El modelo en cascada refleja fielmente el proceso de desarrollo del software
+c. Los modelos ágiles son más orientados a los procesos que a las personas
+
+?: Los modelos ágiles:
+$a. Están más orientados a las personas que a los procesos
+b. Están orientados exclusivamente a los objetivos del proyecto
+c. Están más orientados a los procesos que a las personas
+
+?: ¿Qué factores caracterizan un proyecto de software?
+$a. Concreción, Unicidad, Dominio de aplicación, Flexibilidad y Duración limitada
+b. Calidad, Coste, Alcance y Plazos
+c. Unicidad, Buenas prácticas, Normalización y Duración limitada
+
+?: Para RUP la vida de un sistema se divide en ciclos, ¿en qué fases se divide cada ciclo?
+$a. Inicio, elaboración, construcción y transición
+b. Los ciclos no se dividen en fases
+c. Inicio, diseño, elaboración y transición
+
+?: ¿Cuál de las siguientes afirmaciones es correcta?
+a. Un principio básico para RUP es el pair programming y el backlog
+$b. RUP acelera el ritmo de esfuerzo del equipo de desarrollo, pues permite a los desarrolladores apreciar los frutos de su trabajo a corto plazo
+c. Para RUP todas las iteraciones producen un efecto aditivo, pues al ser alcances cortos nunca pueden resultar fallidas
+
+?: ¿A cuál de las siguientes metodologías pertenece XP (eXtreme Programming)?
+a. Modelo de prototipos
+$b. Modelos ágiles
+c. Metodología RUP
+
+?: ¿Quienes asisten a una reunión de Revisión del Sprint en Scrum?
+a. Es una reunión a la que asisten los roles principales de Scrum
+$b. Es una reunión a la que asisten los roles principales de Scrum y también stakeholders, usuarios, clientes, expertos, etc.
+c. Es una reunión a la que asisten el Equipo, del Dueño de Producto y también stakeholders, usuarios, clientes, expertos, etc.
+
+?: Una de las prácticas habituales de eXtreme Programming es:
+$a. La integración continua
+b. No utiizar estándares para programar
+c. El ciclo en cascada
+
+?: Cuál de las siguientes afirmaciones sobre modelos ágiles es correcta:
+$a. Se basan en la adaptabilidad del proyecto
+b. Son métodos orientados al proceso
+c. Son de carácter predictivo
+
+?: El modelo en espiral se caracteriza por:
+a. Tener 3 fases llamadas planificación, ingeniería y evaluación
+$b. Tener 3 fases llamadas planificación, ingeniería y evaluación y además otra fase más llamada análisis de riesgos
+c. Tener 3 fases llamadas planificación, ingeniería y evaluación y también por no existir riesgo debido a que la determinación de objetivos, alternativas y restricciones claramente quedan definidos en la fase de planificación
+
+?: Según la metodología RUP la vida de un sistema se divide en ciclos, ¿cuál de las siguientes fases NO es una fase fundamental de un ciclo?
+a. Fase de elaboración
+$b. Fase de diseño
+c. Fase de transición
+
+?: Entre los problemas habituales a la hora de planificar un proyecto están:
+a. la limitación de la carga del trabajo de los responsables del proyecto
+b. la fijación de los objetivos estratégicos del proyecto
+$c. la necesidad de medir el proyecto y la necesidad de identificación de hitos
+
+?: Los procesos de la estructura principal de MÉTRICA Versión 3 son los siguientes:
+a. Estudio de viabilidad, análisis de información, diseño y construcción
+$b. Planeación, desarrollo y mantenimiento de los sistemas de información
+c. Definición de equipos, determinación de normativa y documentación
+
+?: Si estamos Hablando de XP (eXtreme Programming), cual de las siguientes afirmaciones es cierta:
+a. Es un Sistema Operativo de Microsoft
+$b. Es una metodología ágil
+c. La cooperación entre programadores no está contemplada
+
+?: ¿Quién participa en una reunión para refinamiento del Backlog de Producto?
+$a. Dueño de Producto (Sólo si es experto), Equipo, ScrumMaster (Obligatoriamente a las primeras reunioens) y otras personas que puedan ayudar al equipo.
+b. Dueño de Producto, Equipo, ScrumMaster (Obligatoriamente a las primeras reunioens, más tarde puede enviar a otras personas que puedan ayudar al equipo).
+c. Dueño de Producto (Sólo si es experto, si no puede enviar a otras personas que puedan ayudar al equipo), Equipo, ScrumMaster (Obligatoriamente a las primeras reunioens).
+
+?: ¿En qué consiste la Retrospectiva del Sprint en Scrum?
+a. Es una reunión para identificar las debilidades del equipo.
+b. La retrospectiva en una inspección del producto hasta el momento actual para identificar tareas que no han podido ser terminadas en los Sprints anteriores.
+$c. La retrospectiva es una inspección y adaptación del proceso y del entorno. Se trata de que equipo discuta qué está funcionando bien y mal para acordar cambios.
+
+?: Cuál de las siguientes afirmaciones es correcta:
+a. Un Proyecto Informático no es más que un proyecto cuyos resultados son los que forman el Plan General Informático de la empresa
+b. Un Proyecto Informático no es más que un proyecto cuyo objetivo se enmarca en el Plan General Contable de la empresa
+$c. Un Proyecto Informático no es más que un proyecto cuyo objetivo se enmarca en el Plan General Informático de la empresa
+
+?: Una característica del modelo de cilco de vida en cascada es...
+a. Permite entregar software terminado y probado, lo que es una ventaja
+b. Solapa perfectamente el modo de pensar humano al hacer las tareas secuencialmente, lo que es una ventaja
+$c. Perpetúa el fracaso de la industria del software en su comunicación con el usuario final, lo que es una desventaja
+
+?: El triángulo de la gestión de proyectos representa
+a. El plazo como objetivo a conseguir con una calidad, un coste y un alcance definidos
+$b. La calidad como objetivo a conseguir con un coste, un alcance y unos plazos definidos
+c. El coste como objetivo a conseguir con una calidad, un alcance y unos plazos definidos
+
+?: Sobre los recursos asociados al proyecto:
+a. Se utilizan recursos de un solo tipo y son limitados
+$b. Se utilizan recursos de diversos tipos y son limitados
+c. Se utilizan recursos de diversos tipos los cuales son ilimitados
+
+?: ¿Quién ha definido la ingeniería como una “Disciplina cuyo propósito es la producción de software de calidad, ¿software que se entrega en el tiempo acordado, dentro del presupuesto y que satisface los requisitos”?
+$a. Stephen Schach
+b. IEEE
+c. Larry Boehm
+
+?: ¿Cuál de las siguientes no es una metodología de desarrollo?
+a. Ágiles
+$b. OO
+c. RUP
+
+?: Según Sanchís Marco ¿Qué etapas sigue la gestión de proyectos?
+a. Inicio, Elaboración, Construcción y Transición
+$b. Iniciación, Calificación, Desarrollo y Cierre
+c. Requisitos, Análisis, Diseño, Implementación y Pruebas
+
+?: La principal desventaja del modelo de prototipos es...
+a. El modelo de prototipos no tiene desventaja alguna
+$b. Se tiende a reutilizar el prototipo y se le colocan "parches"
+c. Se obtienen modelos a una escala demasiado grandes
+
+?: ¿Cómo es una reunión de refinamiento de la Pila del Producto en Scrum?
+a. Se hacen reuniones del Equipo y el Dueño del Producto. Habitualmente,estas reuniones no deben ser más del 10% de la capacidad de desarrollo del equipo para el Sprint
+b. Se hacen reuniones del Equipo y el Scrum Master. Habitualmente,estas reuniones no deben ser más del 10% de la capacidad de desarrollo del equipo para el Sprint
+$c. Se hacen reuniones con todos los miembros principales de Scrum. Habitualmente,estas reuniones no deben ser más del 10% de la capacidad de desarrollo del equipo para el Sprint
+
+?: ¿Cual de los siguientes principios NO pertenece a la metodología XP (eXtreme Programming)?
+a. El Equipo de proyecto y el Dueño del Producto priorizan los casos de uso que serán implementados en el siguiente Sprint.
+$b. Para planificar un Sprint se realiza una reunión dividida en dos partes: A la primera parte asisten los tres roles principales y a la segunda el Dueño de Producto sólo asiste opcionalomente.
+c. Integración continua: El software se integra múltiples veces al día.
+
+?: ¿Cómo se planifica un Sprint de Scrum?
+a. El Equipo de proyecto y el Scrum Master se reunen para definit los elemntos de la Pila de Producto que serán acometidos en el siguiente Sprint.
+b. EL Equipo de proyecto y el Dueño del Producto priorizan los casos de uso que serán implementados en el siguiente Sprint.
+$c. Para planificar un Sprint se realiza una reunión dividida en dos partes: A la primera parte asisten los tres roles principales y a la segunda el Dueño de Producto sólo asiste opcionalomente.
+
+?: Las iteraciones de RUP:
+$a. Reducen el riesgo con respecto al modelo de proceso clásico en cascada
+b. Todas las iteraciones producen un efecto aditivo, no se pueden usar para refinar
+c. Disminuyen el ritmo de esfuerzo del equipo de desarrollo
+
+?: ¿Cuales son las actividades fundamentales de la metodología RUP?
+a. Iteraciones, ciclos y fases.
+b. Inicio, elaboración, construcción y transición.
+$c. Requisitos, análisis, diseño, implementación y prueba.
+
+?: ¿Cual de los siguientes modelos de desarrollo es orientado a las personas y esta basado en la adaptabilidad más que en el carácter predictivo?
+a. Modelo en Espiral
+$b. Modelos Ágiles
+c. Modelo en Cascada
+
+?: ¿Cuál de las siguientes ventajas es del modelo de prototipos?
+$a. Los modelos son validados por el propio usuario
+b. Se reaprovecha mucho código entre los prototipos
+c. Acelera el ritmo de esfuerzo del equipo de desarrollo
+
+?: Una desventaja del modelo de ciclo de vida en cascada es...
+a. Es un modelo pensado para hacer desarrollos en ensamblador
+b. No refleja realmente el proceso de desarrollo del software, ya que casi nunca se cierra totalmente una fase antes de comenzar la siguiente
+c. Es un modelo muy antiguo y la informática ha evolucionado
+
+?: ¿Quién ha definido la ingeniería del software como "Una disciplina cuyo propósito es la producción de software de calidad, software que se entrega en el tiempo acordado, dentro del presupuesto y que satisface los requisitos"?
+a. Barry Boehm
+$b. Stephen Schach
+c. IEEE
+
+?: ¿Qué significa que el objetivo de proyecto sea único?
+$a. Significa que el producto o servicio es diferente de alguna forma clara de todos los productos o servicios similares.
+b. Significa que debe ser realizado un unico equipo de trabajo.
+c. Significa que el proyecto debe realizar únicamente software o hardware, pero no una combinación de ambos.
+
+?: Para RUP la vida de un sistema se divide en ciclos y cada ciclo en cuatro fases, indica cual de las siguientes respuestas no es una fase de un ciclo:
+a. Elaboración.
+$b. Dimensionamiento.
+c. Inicio.
+
+?: ¿Cuál de las siguientes afirmaciones es verdadera?
+a. RUP es un proceso para desarrollo de hardware.
+b. Para RUP, la vida de un sistema se divide en 5 fases.
+$c. Para RUP, la vida de un sistema se divide en ciclos.
+
+?: ¿Cual de los siguientes principios NO pertenece a la metodología XP (eXtreme Programming)?
+a. P2P Programming: La programación se comparte directamente con el cliente.
+$b. Pair Programming: La programación se hace entre dos personas.
+c. Integración continua: El software se integra múltiples veces al día.
+
+?: La Pila de producto o Product Backlog es
+a. Una lista de casos de uso priorizados que el equipo va vaciando a medida que acaba con otros casos de uso anteriores hasta el llegar al final del Sprin
+b. Una lista de tareas a realziar durante el Sprint
+$c. Un elemento en el que las diferentes funcionalidades de organizan de manera que estén más arriba aquellas que más urgencia tienen para el Dueño de Producto
+
+?: ¿Qué características debe tener la Pila de Produto?
+a. Debe estar es poder del Dueño de Producto que sólo la comparte cuande se define el siguiente Sprint
+b. No es necesario que se soporte en aplicaciones, es simplemente uns lista de papeles sobre una pizarra
+$c. Detallada apropiadamente, Estimada, Emergente y Priorizada
+
+?: El modelo de prototipos se divide en:
+a. Una fase: “Diseño, desarrollo, pruebas e integración”
+b. Tres fases: “Diseño, construcción y evaluación de prototipos”, “Diseño, desarrollo, pruebas e integración” y “Explotación y evaluación de ejecución del prototipo”
+$c. Dos fases: : “Diseño, construcción y evaluación de prototipos” y “Diseño, desarrollo, pruebas e integración”
+
+?: De acuerdo a las 34 competencias del libro de Furtel, ¿Cuál de las siguientes competencias no es necesaria para ser Director (Jefe) de Proyecto?
+$a. Selección del cliente
+b. Selección de las herramientas de gestión de proyectos
+c. Selección de la métrica
+
+?: El Scrum Diario consiste en la actualización y coordinación entre los miembros del Equipo. A dicha reunion asisten:
+$a. Dueño de Producto (Opcional), Equipo, ScrumMaster (Opcional).
+b. Dueño de Producto (Opcional), Equipo, ScrumMaster.
+c. Dueño de Producto, Equipo, ScrumMaster (Opcional).
+
+?: ¿Qué es el Backlog de Producto?
+a. El Backlog de Producto es una lista priorizada de sistemas a implementar con el obejtivo de reducir el tiempo de desarrollo al máximo
+b. El Backlog de Producto es una lista de prioridades para realizar en el siguiente día de proyecto
+$c. El Backlog de Producto es la visión única y definitiva de “todo lo que podría ser realizado en algún momento por el Equipo, en orden de prioridad”
+
+?: ¿Qué es la medición?
+$a. La medición es el proceso de codificación objetiva y empírica de alguna propiedad de una clase seleccionada de entidades en un sistema formal de símbolos, de manera que la describan (a la clase) La definición adoptada está sacada del Software Engineer’s Reference Book (McDermid, 1991) y se debe a Agnes A. Kaposi.
+b. La medición es la clasificación de propiedades de una clase de manera que la describan (a la clase)
+c. La medición es la asignación de números a propiedades
+
+?: Pero para que una medición sea válida se debe asegurar su calidad, lo que obliga a ésta a tener una serie de características importantes (Fenton, 1991) (Fenton, y otros, 1996), una de ellas es
+a. El código usado debe estar recogido en alguna publicación reconocida
+$b. El código usado en la medición no debe ser arbitrario, debe estar definido de manera que represente adecuadamente las propiedades medidas
+c. El código usado en la medición debe ser acordado por la comunidad de usuarios
+
+?: La metrología orientada al dominio del sujeto debe ofrecer un entorno teórico para la representación y la escalación, adaptable a cualquier problema de medición individual del dominio. Este entorno debe proveer a la disciplina de dos cosas, ¿Cuáles?
+a. Un sistema de unidades de medida y uno de transformaciones de escala
+$b. Un conjunto comprensible de conceptos básicos y un sistema de teorías coherentes que liguen esos conceptos
+c. Un sistema de condiciones heredadas y uno de condiciones interrelacionadas
+
+?: ¿Cuál es la diferencia principal entre los métodos de las corrientes económica y Rayleigh y la corriente de puntos función de Albrecht?
+a. Los modelos de las corrientes económica y Rayleigh se usan en proyectos grandes y los Puntos Función en proyectos pequeños
+b. Los modelos de las corrientes económica y Rayleigh se usan en proyectos estructurados y los Puntos Función en proyectos orientados a objeto
+$c. Los modelos de las corrientes económica y Rayleigh necesitan las líneas de código y los Puntos Función se basan en los requisitos y el análisis
+
+?: Los ajustes en un sistema de Puntos Función se hacen...
+$a. Valorando de 0 a 5 una lista de 14 características de complejidad
+b. Minorando o incrementando el valor en función de la experiencia de proyectos anteriores
+c. Multiplicado el valor obtenido por 1,35
+
+?: ¿Cuál de los siguientes podría ser un ejemplo de sistema relacional empírico?
+$a. A (Distancias kilométricas entre dos puntos), R (Lejos, Cerca) y O (porcentaje de distancia, doble distancia, diferencia de distancia)
+b. A (Conjunto de ciudades de España), R (Grande, Pequeña) y O (construir nuevo barrio, construir casas) Ninguno de los tres conjuntos está bien formado
+c. A (Conjunto de vehículos a motor), R (Añadir gasolina, Hacer revisión) y O (potencia, autonomía)
+
+?: Kitchenham y McDermid (Kitchenham, y otros, 1986) sugirieron que la recolección de datos para tener éxito debe cumplir algunos requisitos. ¿Cuán de los siguientes es uno de ellos?
+a. Los datos que no pueden ser recogidos automáticamente carecen de interés
+$b. La recolección de datos está integrada dentro del proceso de desarrollo
+c. La recolección de datos debe estar automatizada siempre
+
+?: Las escalas absolutas son escalas de ratio, pero en donde el valor asignado es tambiénun estándar, de modo que no admiten transformación posible, la única transformación de escala es la identidad, ¿Cómo se representa esto matemáticamente?
+$a. T(x) = x
+b. T(x)=αm+β,α>0
+c. T(x)=αm,α>0
+
+?: ¿En qué se basan las métricas Bang de DeMarco?
+a. Se basan en medidas tomadas a partir de los Diagramas de Flujo de Datos y de los Diagramas de Estructuras
+$b. Se basan en medidas tomadas a partir de los Diagramas de Flujo de Datos y de los Diagramas de Entidad-Relación
+c. Se basan en medidas tomadas a partir de los Diagramas de Estructuras y de los Diagramas de Entidad-Relación
+
+?: Atendiendo a las entidades sobre las que se aplica, una métrica de software puede clasificarse como métrica de...
+a. Aplicativos, módulos y librerías
+b. Atributos internos y externos
+$c. Procesos, productos y recursos
+
+?: De acuerdo a la Teoría Representacional (Jáñez, 1989), para realizar esta medición cuantitativa...
+$a. se necesita construir dos sistemas: empírico y numérico y establecer entre ellos una función homomórfica que transforma el uno en el otro
+b. se necesita construir dos sistemas: directo e indirecto y establecer entre ellos una función isomófica que transforma el uno en el otro
+c. se necesita construir dos sistemas: directo e indirecto y establecer entre ellos una función homomórfica que transforma el uno en el otro
+
+?: Hablando de medidas de software, cuando se miden atributos internos...
+$a. ...se están midiendo valores intrínsecos al objeto a medir
+b. ...es la percepción del observador la que valora el objeto a medir
+c. ...se miden valores difíciles de formalizar
+
+?: Las métricas de McCabe son...
+$a. Métricas de estructuras de control
+b. Métricas de estructuras de datos
+c. Métricas de esfuerzo
+
+?: El método Fog de Gunning, ¿qué evalúa?
+a. evalúa la legibilidad de un código fuente
+b. Evalúa la legibilidad de un texto escrito en cualquier idioma (adaptación)
+$c. Evalúa la legibilidad de un texto escrito en inglés
+
+?: ¿Cómo deben ser interpretadas las métricas?
+$a. De forma relativa en una de estas tres formas: Por comparación con los planes y las expectativas, con otros proyectos similares y con otros componentes similares dentro del mismo proyecto
+b. De manera absoluta de acuerdo a las leyes físicas que gobiernan del sistema empírico
+c. Como prescriptores, predictores y comparadores
+
+?: Una afirmación que incluye escalas (numéricas) es significativa si y sólo si:
+a. El conjunto de operaciones permitidas es útil
+b. Es representativa del mundo real
+$c. Su valor es un invariante bajo transformaciones admisibles
+
+?: ¿En qué principio se basa SLIM, de Larry Putnam?
+a. En las estructuras de entrada y salida
+b. En la valoración de los cost drivers
+$c. En las curvas de Rayleignh
+
+?: El proceso de la medición consta de tres partes claramente interrelacionadas:
+$a. Planificación de la medición, Organización de la ejecución de la medición y Control y revisión de la ejecución de la medición
+b. Descripción, Prescripción y Predicción
+c. Evaluación, Comparación y Decisión
+
+?: La medición directa...
+$a. consiste en la obtención de un valor de una medida realizada directamente sobre el objeto a medir
+b. consiste en obtener un valor a partir de varias medidas del objeto
+c. no puede ser una métrica porque no tiene valor formal
+
+?: ¿Cuál es el proceso de medición de los Puntos Función de Albrecht?
+$a. Contar las funciones de usuario y ajustar el sistema para la complejidad del entorno del proceso
+b. Identificar Tipos de entradas externas, Tipos de salidas externas, Tipos de ficheros lógicos internos, Tipos de ficheros de interface externos y Tipos de consultas externas
+c. Identificar las entradas y las salidas, contar puntos función de cada una
+
+?: ¿Qué representa el Sistema Relacional Empírico en la medición?
+a. La representación del mundo real en un espacio numérico. Esto lo hace el Sistema Relacional Numérico o Formal
+$b. El mundo real a medir
+c. El mundo virtual a medir
+
+?: Una vez elegido el Sistema Relacional Formal...
+a. debe ser capaz de expresar todas las relaciones del sistema empírico E, pero al ser un homomorfismo, no se garantiza que también represente las conclusiones significativas previstas originalmente y obtenidas a partir de los datos
+b. debe ser capaz de expresar todas las relaciones del sistema empírico E y debe también representar alguna conclusión significativa prevista originalmente y obtenida a partir de los datos. No se garantiza que sean todas al ser sólo un homomorfismo
+$c. debe ser capaz de expresar todas las relaciones del sistema empírico E y debe también representar cualquier conclusión significativa prevista originalmente y obtenida a partir de los datos
+
+?: La medición combinada...
+a. no es un tipo de medición, sólo sirve para agrupar valores
+$b. permite hacer caracterizaciones de un objeto en función de varias mediciones
+c. sirve sólo cuando el objeto es físico, no puede ser aplicada a software
+
+?: Medir nos ayuda a...
+a. Tomar decisiones que nunca fallen
+$b. Tomas decisiones para solucionar problemas
+c. Concentrar nuestros esfuerzos en hacer el mejor equipo 
+
+?: CoCoMo utiliza quince factores correctores o Cost Drivers, ¿Cuál de los siguientes NO pertenece a dichos factore?
+$a. Tamaño del equipo de programación (personal)
+b. Experiencia con el lenguaje de programación (personal)
+c. Experiencia con el tipo de aplicación (personal)
+
+?: Una medición válida
+$a. Debe ser exacta y su margen de error debe estar acotado
+b. Es subjetiva y parcial
+c. Debe modificar el proceso observado para adaptarlo al propósito final
+
+?: Indica cuál de los siguientes tipos de medición es significativa:
+$a. Cuesta tres meses escribir el Programa A
+b. La complejidad del programa es 42
+c. La calidad del programa A es del 97
+
+?: ¿Cuál de las siguientes afirmaciones es correcta?:
+$a. Para que una medición sea válida debe ser exacta, el error y la incertidumbre de dicha medición estarán acotados 2.1.1.1 El proceso de la medición y sus características
+b. Una métrica es una medida
+c. Las métricas usadas en software son siempre significativas
+
+?: Las métricas de Chidamber y Kemerer (MOOSE) son mayormente...
+$a. Métricas de estructuras de clases (Estudian las clases y obtienen datos a partir de ellas).
+b. Métricas de esfuerzo
+c. Métricas de estructuras de control
+
+?: ¿Qué escalas son las que obligan a que las transformaciones de escala deban conservar el origen aunque puedan modificar la pendiente de la escala (T(x)=αm,α>0)?
+a. Las escalas numéricas
+$b. Las escalas de ratio
+c. Las escalas ordinales
+
+?: La Medición cuantitiva es...
+$a. la que se realiza sobre un parámetro particular de un atributo de una clase y cuya observación se realiza de modo directo
+b. la que se realiza sobre un parámetro particular de un atributo de una clase y cuya observación se realiza indiferentemente de modo directo e indirecto
+c. la que se realiza sobre un parámetro particular de un atributo de una clase y cuya observación se realiza de modo indirecto
+
+?: Henry y Kafura describieron una métrica compleja para los procedimientos, basada en los flujos de información. En este mátrica, ¿Qué es el fan-in?
+a. Es la lista de atributos estáticos de una clase
+$b. Es el número de flujos de datos locales que entran en el procedimiento, más el número de estructuras de datos desde los cuales el procedimiento recupera información
+c. Es la lista de parámetros de entrada a un método
+
+?: El tiempo perdido por un programador...
+a. No es una medición significativa porque se mide en una escala de intervalo
+b. Es una medida, pero no es una métrica
+$c. Es una medición significativa de acuerdo a Fenton
+
+?: Las condiciones de unicidad y representatividad de una medición indirecta orientada a objeto deben ser de una de estas dos clases:
+a. Condiciones simples y complejas
+b. Condiciones directas e indirectas
+$c. Condiciones heredadas e interrelacionadas
+
+?: ¿Cuál de los siguientes ejemplos de mediciones, según Fenton, es significativa?
+a. La complejidad del programa A es el doble que la de B
+b. La dificultad de diseño del proyecto es de 78
+$c. Se tarda 1 minuto en ejecutar el programa A
+
+?: Desde el punto de vista de la calidad de la medición, la Representatividad define las condiciones en que debe definirse la función de transformación T para que el homomorfismo entre el sistema relacional empírico y formal aseguren la correspondencia entre las propiedades observadas y el sistema formal de representación elegido, ¿Qué quiere decir esto?
+a. Que las mediciones deben hacerso usando el sistema numérico y no el empírico
+$b. Que se debe demostrar formalmente que la escala elegida y las transfomraciones del homomorfismo tienen sentido Por ejemplo, no se puede elegir un sistema de colores para medir distancias.
+c. Que, una vez elegido un sistema numérico o formal, todo lo relacionado con el sistema empírico deja de tener interés en la medición
+
+?: COCOMO soporta tres modelos de desarrollo distintos, ¿Cuáles?
+$a. Organic, semi-detached y embedded
+b. Simples, semicomplejos y complejos
+c. Pequeños, medianos y grandes
+
+?: ¿Cuál de las siguientes es una métrica orientada a objeto?
+$a. MOOSE de Chidamber y Kemerer
+b. Puntos Función de Albrecht
+c. CoCoMo de Boehm
+
+?: ¿Cuál de las siguientes mediciones es significativa?
+a. La prioridad de un proceso medido en puntos
+b. El esfuerzo restante medido en puntos
+$c. La complejidad ciclomática (A pesar de no tener una unidad de medida concreta, es significativa)
+
+?: La calidad de la medición...
+a. ...determina el orden de las medidas en una medición compleja
+$b. ...determina la capacidad de un Sistema Relacional Formal para medir algo en el mundo real
+c. ...determina la cantidad de mediciones que hay que hacer para que la medida sea precisa
+
+?: ¿Cuando es regular una escala?
+$a. Una escala es regular cuando los objetos medidos guardan unicidad en el sentido de que, si dos objetos tienen el mismo valor para una propiedad concreta en la misma escala, también tienen el mismo valor en cualquier otra escala homomórfica con la primera
+b. Una escala es regular cuando los objetos medidos pueden ser compartidos regularmente en diferentes entornos de medida
+c. Una escala es regular si las medidas no son del todo fiables
+
+?: Pero para que una medición sea válida se debe asegurar su calidad, lo que obliga a ésta a tener una serie de características importantes (Fenton, 1991) (Fenton, y otros, 1996), una de ellas es
+$a. No debe interferir en el proceso observado, de lo contrario los resultados obtenidos estarían falseados
+b. No puede interferir en el proceso observado si es una métrica, si es una pseudométrica puede hacerlo parcialmente
+c. No debe interferir en el proceso observado, por tanto, no puede ser un artefacto software
+
+?: Para que una medida indirecta tenga significado, ¿qué debe cumplir?
+a. Las medidas indirectas deben representar propiedades definidas, esto es, deben reflejar el resultado de teorías que se puedan obtener a partir de los valores medidos directamente
+$b. Las medidas indirectas deben representar propiedades empíricas significativas, esto es, deben reflejar leyes empíricas o teóricas que sean válidas y se puedan obtener a partir de los valores medidos directamente
+c. Las medidas indirectas deben representar cualquier propiedad definida y que se pueda obtener a partir de los valores medidos directamente
+
+?: El Sistema relacional Formal es:
+$a. Un sistema homomorfo del Sistema Relacional Empírico que consiste en una representación nunérica de dicho SRE.
+b. Un sistema homomorfo del Sistema Relacional Empírico que consiste en una representación compleja del SRE.
+c. Un sistema homomorfo del Sistema Relacional Empírico que consiste en una representación real del SRE.
+
+?: Una de las razones por las cuales las métricas no son usadas más ampliamente en la industria del software es que resulta difícil en la práctica obtener datos adecuados. Idealmente, ¿Cómo deberían ser los valores de las métricas?
+a. Deberían medir siempre atributos internos del objeto
+b. Prescriptores, predictores y comparadores
+$c. Repetibles, comparables y verificados
+
+?: ¿Qué dos teorías se manejan para definir la formalidad de una medición?
+a. La teoría de la medición y la teoría de los números reales
+$b. La teoría de la medida y la teoría de la medición (la teoría de la medida: una disciplina matemática y la teoría de la medición: una disciplina filosófica)
+c. La teoría de la medición y las métricas
+
+?: Las escalas nominales son...
+a. las que ponen valores numéricos a los datos medidos
+$b. las que se usan para denotar pertenencia a una clase (color, etiquetado,...)
+c. las que miden texto escrito en el código fuente
+
+?: ¿Qué tipo de métrica proponen Cant et al. (Cant, y otros, 1994)?
+a. Proponen un enfoque teórico basado en el análisis de modelos cognitivos para la revisión del código por parte del programador
+b. Proponen un enfoque teórico basado en el análisis de modelos cognitivos para la búsqueda de errores en el código por parte del programador
+$c. Proponen un enfoque teórico basado en el análisis de modelos cognitivos para la comprensión del código por parte del programador
+
+?: En Taylor (Taylor, 1993) ¿Qué métricas se propones como básicas para un sistema Orientado a Objeto?
+$a. Número de servicios, de objetos, total de mensajes, de objetos que reciben mensajes, total de parámetros y ratio de servicios públicos/privados
+b. Número de niveles de herencia, de relaciones de agregación, de relaciones de uso y de niveles de anidación de paquetes (packages)
+c. Número de atributos, de métodos, de restricciones y niveles de herencia
+
+?: En la escala de intervalo...
+a. No se tiene referencia para hacer comparaciones entre valores
+$b. No se pueden tener relaciones del tipo "es el doble de" (No se mantendría en los cambios de escala)
+c. No se pueden saber un valor es mayor que otro 
+
+?: Desde el punto de vista de la calidad de una medición, la escala...
+a. ...habla de relación entre el orden, el intervalo y el ratio
+$b. ...permite reflexionar sobre la capacidad del sistema para ser preciso en una medida
+c. ...habla de la necesiad de que en cualquier escala la medida debe ser única
+
+?: ¿Cuál de las siguientes mediciones NO es significativa?
+$a. La calidad del programa A es del 97%
+b. Cuenta 3 meses escribir el programa A
+c. La profundidad de ese árbol es de 5
+
+?: El problema de la representación puede ser atacado de dos formas, ¿Cuáles?
+a. Constructivamente y destructivamente
+$b. Constructivamente y retrospectivamente
+c. Retrospectivamente y destructivamente
+
+?: ¿Cuál de las siguientes mediciones es significativa?
+$a. La accesibilidad de la web es AA. Es un estándar de W3C, por tanto se define cómo hacer esta medición
+b. La accesibilidad de la web debe ser alta
+c. La accesibilidad de la web es del 70%
+
+?: Las escalas de ratio permiten…
+a. …que las medidas en escalas absolutas puedan ser transformadas
+b. …que las escalas nominales puedan tener representación en el conjunto de los números reales
+$c. …que las relaciones entre dos medidas se mantengan en los cambios de escala
+
+?: El Sistema relacional Empírico está formado por los conjuntos…
+$a. A (Conjunto de objetos a medir), R (Conjunto de relaciones en A) y O (Conjunto de operaciones binarias en A)
+b. A (Conjunto de acciones de medición), R (Conjunto de relaciones con el mundo real) y O (Conjunto de observaciones)
+c. A (Conjunto de actividades), R (Conjunto de repeticiones a medida) y O (Conjunto de ontologías)
+
+?: Sea E un Sistema Relacional Empírico y F el Sistema Relacional Formal elegido para su representación numérica.
+a. El paso de E a F debe ser de tal manera que represente todas las observaciones, conservando algunas relaciones y operaciones del sistema relacional empírico (por ser homomorfismo)
+$b. El paso de E a F debe ser de tal manera que represente todas las observaciones, conservando todas las relaciones y operaciones del sistema relacional empírico
+c. El paso de E a F debe ser de tal manera que represente todas las observaciones, conservando todas las relaciones y operaciones del sistema relacional empírico sólo si se trata de un isomorfismo
+
+?: Kitchenham y McDermid (Kitchenham, y otros, 1986) sugirieron que la recolección de datos para tener éxito debe cumplir algunos requisitos. ¿Cuán de los siguientes es uno de ellos?
+$a. La recolección de datos está integrada dentro del proceso de desarrollo
+b. La recolección de datos debe estar automatizada siempre
+c. Los datos que no pueden ser recogidos automáticamente carecen de interés
+
+?: La corriente económica de estimación de software ¿Qué características tiene?
+$a. Se caracteriza por el desarrollo de sistemas de métricas orientados a estimar el coste de los sistemas de software ya realizado
+b. Se caracteriza por buscar modelos que calculen el coste más rentable para un proyecto
+c. Se caracteriza por buscar métricas cuya aplicación sea económicamente rentable
+
+?: ¿Cuál de las siguientes es una métrica de hardware?
+a. La ocupación de un programa en memoria
+b. La velocidad de caída libre de un cuerpo
+$c. El tamaño de la memoria de un ordenador
+
+?: Pero para que una medición sea válida se debe asegurar su calidad, lo que obliga a ésta a tener una serie de características importantes (Fenton, 1991) (Fenton, y otros, 1996), una de ellas es
+a. Los resultados de las medidas deben tener integridad, esto es deben tener asociada una unidad de medida
+$b. Los resultados de las medidas deben tener integridad, debe ser posible, por tanto, demostrar la imparcialidad de la medición
+c. Los resultados de las medidas deben tener integridad con respecto al proyecto lo que supone que se han probado en muchos proyectos anterires
+
+?: ¿Cuál de los siguientes es un "Sistema de medición orientada al dominio del sujeto"?
+a. Las métricas usadas en Scrum
+$b. El Sistema Internacional de Medidas
+c. Las mediciones del sistema de estimación CoCoMo
+
+?: Para evaluar la precisión de un método de estimación, Boehm propone un modelo basado en la medición del esfuerzo en meses-hombre ( MHe ) y la comparación con el esfuerzo real (MHa). Siendo MRE el parámetro de evaluación buscado, ¿cuál es el modelo de evaluación final prouesto?
+a. MRE = |MHe - MHa| / MHa
+$b. (MHe - MHa ) / MHa
+c. MHe – Mha
+
+?: Indica cual de los siguientes tipos de medición es significativa:
+$a. Cuesta tres meses escribir el Programa A
+b. La complejidad del programa es 42
+c. La calidad del programa A es del 97%
+
+?: Con respecto a las métricas de software, hay dos clases de métricas de software importantes, ¿cuáles?
+a. Métricas clásicas y orientadas a objeto
+$b. Métricas de control y predictores
+c. Métricas formales y no-formales
+
+?: ¿Cuál es el mayor exponente de entre los métodos de estimación de la corriente económica?
+a. Slim
+b. Walston & Felix
+$c. CoCoMo
+
+?: Una de las razones por las cuales las métricas no son usadas más ampliamente en la industria del software es que resulta difícil en la práctica obtener datos adecuados Idealmente, ¿Cómo deberían ser los valores de las métricas?
+a. Deberían medir siempre atributos internos del objeto
+$b. Repetibles, comparables y verificados
+c. Prescriptores, predictores y comparadores
+
+?: Pero para que una medición sea válida se debe asegurar su calidad, lo que obliga a ésta a tener una serie de características importantes (Fenton, 1991) (Fenton, y otros, 1996), una de ellas es
+a. Debe estar presentada en algún documento estándar de alguna metodología
+$b. Debe ser válida para el propósito que se pretende y debe obtener resultados significativos con respecto a ese propósito
+c. Debe haber sido probada con éxito en algún proyecto
+
+?: Las escalas absolutas son escalas de ratio, pero en donde el valor asignado es también un estándar, de modo que no admiten transformación posible, la única transformación de escala es la identidad, ¿Cómo se representa esto matemáticamente?. Seleccione una:
+a. T(x)=αm,α>0
+b. T(x)=αm+β,α>0
+$c. T(x) = x
+
+?: El objetivo de una teoría de la medición es...
+a. conseguir poner de acuerdo a los profesionales y otros stakeholders en un conjunto de métricas a usar
+b. crear teorías matemáticas que avalen las medidas
+$c. lograr que la descripción que las métricas aportan del sistema sea objetiva, exacta, reproducible, segura y significativa
+
+?: ¿Cuando se usan escalas ordinales?
+a. Se usan cuando las mediciones no se necesitan establecer juicios comparativos sino ordenaciones sobre los valores de un atributo
+$b. Se usan cuando las mediciones necesitan establecer juicios comparativos y ordenaciones sobre los valores de un atributo
+c. Se usan cuando las mediciones necesitan establecer juicios comparativos pero no ordenaciones sobre los valores de un atributo
+
+?: Sea un conjunto formado por ficheros de código, sobre el cual se mide el número de errores, donde existen las relaciones "más errores que" y "menos errores que" y donde se define la operación "aglutinar errores de dos o más ficheros", ¿Que forma?
+$a. Un sistema relacional empírico
+b. Un sistema relacional formal
+c. Ninguno de ambos, poque sólo hay una operación
+
+?: De acuerdo a la Teoría Representacional (Jáñez, 1989), para realizar esta medición cuantitativa... Seleccione una:
+a. se necesita construir dos sistemas: directo e indirecto y establecer entre ellos una función isomófica que transforma el uno en el otro
+$b. se necesita construir dos sistemas: empírico y numérico y establecer entre ellos una función homomórfica que transforma el uno en el otro
+c. se necesita construir dos sistemas: directo e indirecto y establecer entre ellos una función homomórfica que transforma el uno en el otro
+
+?: Henry y Kafura describieron una métrica compleja para los procedimientos, basada en los flujos de información. En este mátrica, ¿Qué es el fan-out?
+a. Es la lista de campos de las bases de datos actualizadas en un procedimiento
+b. Es la lista de atributos que haya en los objetos que sean valor de retorno
+$c. Es el número de flujos de datos locales que salen del procedimiento más el número
+de estructuras de datos que el procedimiento actualiza
+
+?: La calidad de medición requiere la valoración de los siguientes aspectos:
+a. Complejidad, Flexibilidad, Consistencia y Adecuación
+$b. Escala, Unicidad, Representatividad y Significación
+c. Desviación, Derivación, Variación y Corrección
+
+?: Las escalas absolutas son escalas de ratio pero en donde el valor asignado es también un estándar, de modo que no admiten transformación posible, la única transformación de escala es la identidad, ¿Cómo se representa esto matemáticamente?
+a. T(x)=αm+β,α>0
+$b. T(x) = x
+c. T(x)=αm,α>0
+
+?: Atendiendo a las entidades sobre las que se aplica, una métrica de software puede clasificarse como métrica de... Seleccione una:
+$a. Procesos, productos y recursos
+b. Aplicativos, módulos y librerías
+c. Atributos internos y externos
+
+?: El estándar BS5750 (BS 5750-8, 1991) define los principios de aseguramiento de calidad de los productos y servicios, en él, las mediciones son necesarias como:
+$a. Descriptores, Prescriptore y Predictores Correcta
+b. Evaluadores, Comparadores y Decisores
+c. Métricas, Mediciones y Medidas
+
+?: La metrología orientada al dominio del sujeto debe ofrecer un entorno teórico para la representación y la escalación, adaptable a cualquier problema de medición individual del dominio. Este entorno debe proveer a la disciplina de dos cosas, ¿Cuáles? Seleccione una:
+$a. Un conjunto comprensible de conceptos básicos y un sistema de teorías coherentes que liguen esos conceptos
+b. Un sistema de condiciones heredadas y uno de condiciones interrelacionadas
+c. Un sistema de unidades de medida y uno de transformaciones de escala
+
+?: Pero para que una medición sea válida se debe asegurar su calidad, lo que obliga a ésta a tener una serie de características importantes (Fenton, 1991) (Fenton, y otros, 1996), una de ellas es
+a. El código usado debe estar recogido en alguna publicación reconocida
+$b. El código usado en la medición no debe ser arbitrario, debe estar definido de manera que represente adecuadamente las propiedades medidas
+c. El código usado en la medición debe ser acordado por la comunidad de usuarios
+
+?: DeMarco, en su libro Controlling Software Projects (DeMarco, 1982), identifica varias razones que provocan dificultad de estimación del coste del software. Una de ellas es:
+$a. Se menosprecian o no se tienen en cuenta las no linealidades de las duraciones de las tareas en proyectos grandes
+b. Los sistemas de estimación se usan mal y eso da valores erróneos
+c. No se usan los sistemas de estimación
+
+?: Para caracterizar adecuadamente un objeto mediante mediciones se usa habitualmente...
+a. Medición indirecta
+b. Medición combinada
+$c. Medición directa (En casos raros se precisa una sola variable para caracterizar al objeto, si además la variable se puede valorar mediante medición directa, este modelo de medición podría ser válido, pero no es habitual)
+
+?: ¿Cuál de las siguientes afirmaciones es falsa?:
+$a. Las métricas de software conforman un sistema uniforme y estandarizado de medidas
+b. Las métricas de Barnes & Swim son métricas orientadas a objeto
+c. Una métrica es una pseudométrica que satisface un axioma de identidad más estricto
+
+?: ¿Qué propuesta de métrica hacen Barnes y Swim?
+a. Proponen un modelo heredado de otros anteriores pero adaptado a la orientación a objeto
+$b. Proponen una extensión del paradigma de la orientación a objeto y del entorno de programación que permita heredar métricas de software
+c. Proponen un modelo de estimación del diseño orientado a objetos basado en la medición de la herencia
+
+?: ¿Cuál de las siguientes mediciones es significativa?
+$a. La medición de los costes de implementación de un software en euros
+b. La medición de la calidad de elaboración de un software
+c. La complejidad de un diseño orientado a objetos
+
+?: La ventaja de la mayor parte de las métricas del Software es:
+$a. Hay que medir para conocer y se puede hacer con las métricas
+b. Hay un sistema uniforme de medidas
+c. Son muy significativas
+
+?: Pero para que una medición sea válida se debe asegurar su calidad, lo que obliga a ésta a tener una serie de características importantes (Fenton, 1991) (Fenton, y otros,1996), una de ellas es
+$a. Los resultados de las medidas deben tener integridad, debe ser posible, por tanto, demostrar la imparcialidad de la medición
+b. Los resultados de las medidas deben tener integridad, esto es deben tener asociada una unidad de medida
+c. Los resultados de las medidas deben tener integridad con respecto al proyecto lo que supone que se han probado en muchos proyectos anterires
+
+?: Desde el punto de vista de la calidad de la medición, la Representatividad define las condiciones en que debe definirse la función de transformación T para que el homomorfismo entre el sistema relacional empírico y formal aseguren la correspondencia entre las propiedades observadas y el sistema formal de representación elegido, ¿Qué quiere decir esto?
+$a. Que se debe demostrar formalmente que la escala elegida y las transfomraciones del homomorfismo tienen sentido
+b. Que las mediciones deben hacerso usando el sistema numérico y no el empírico
+c. Que, una vez elegido un sistema numérico o formal, todo lo relacionado con el sistema empírico deja de tener interés en la medición
+
+?: ¿Cuál de las siguientes mediciones es significativa?
+$a. El desarrollo del proyecto durará tres meses
+b. La usabilidad del proyecto debe ser del 30%
+c. La calidad del proyecto es del 77%
+
+?: ¿Cuál es la diferencia entre una métrica y una pseudométrica?
+$a. El axioma de desigualdad triangular es más estricto en la métrica
+b. El axioma de identidad es más estricto en la métrica
+c. El axioma de simetría es más estricto en la métrica
+
+?: Pero para que una medición sea válida se debe asegurar su calidad, lo que obliga a
+ésta a tener una serie de características importantes (Fenton, 1991) (Fenton, y otros, 1996), una de ellas es
+a. Debe haber sido probada con éxito en algún proyecto
+b. Debe estar presentada en algún documento estándar de alguna metodología
+$c. Debe ser válida para el propósito que se pretende y debe obtener resultados significativos con respecto a ese propósito
+
+?: Cuál de las siguientes es un ejemplo de escala de intervalo
+a. Las distancias Incorrecta
+$b. La temperatura
+c. Los horarios
+
+?: Hablando de medidas de software, cuando se miden atributos externos...
+a. ...no influye la percepción del observador
+b. ...se están midiendo valores intrínsecos al objeto a medir
+$c. ...es la percepción del observador la que valora el objeto a medir
+
+?: Las escalas de ratio permiten...
+a. ...que las medidas en escalas absolutas puedan ser transformadas
+$b. ...que las relaciones entre dos medidas se mantengan en los cambios de escala
+c. ...que las escalas nominales puedan tener representación en el conjunto de los números reales
+
+?: Las condiciones de unicidad y representatividad de una medición indirecta orientada a objeto deben ser de una de estas dos clases:
+a. Condiciones simples y complejas
+b. Condiciones directas e indirectas
+$c. Condiciones heredadas e interrelacionadas
+
+?: Sea un conjunto formado por ficheros de código, sobre el cual se mide el número de errores, donde existen las relaciones "más errores que" y "menos errores que" y donde se define la operación "aglutinar errores de dos o más ficheros", ¿Que forma?
+$a. Un sistema relacional empírico
+b. Un sistema relacional formal
+c. Ninguno de ambos, poque sólo hay una operación
+
+?: En el método de cálculo de esfuerzo en función del tamaño funcional usado en clase…
+a. Se usa un enfoque no lineal del comportamiento
+b. Se usa un enfoque lineal del comportamiento
+$c. Se una una linealización de un sistema no funcional
+
+?: ¿Cuál de las siguientes características es importante para que una medición sea válida?
+$a. No debe interferir en el proceso observado para no falsear los resultados
+b. Debe ser dotada con recursos sobrados para que determinen hasta los aspectos más irrelevantes
+c. Debe ser exacta, de manera que el error y la incertidumbre no acotados influyan poco en la medida
+
+?: ¿Por qué etapas han pasado los CEM (Cost Estimating Model)?
+a. COCOMO, Métricas Bang de DeMarco, Puntos Función
+b. Puntos Función, Denphi y técnicas estadísticas
+$c. Históricos basados en la experiencia, se base estadística, con base teórica y compuestos
+
+?: ¿En qué se basan las estimaciones usando CEM (Cost Estimating Model)?
+$a. Se basan en la no-linealidad entre esfuerzo y coste, sobre estos resultados aplican factores de corrección
+b. Se basan en métodos estadísticos calibrados que permiten cálculos muy ajustados
+c. Se basan en las relaciones lineales entre tamaño y esfuerzo
+
+?: Para caracterizar adecuadamente un objeto mediante mediciones se usa habitualmente...
+$a. Medición combinada
+b. Medición indirecta
+c. Medición directa
+
+?: Hablando de actividades, ¿qué son los Adelantos (Leads)? Seleccione una:
+a. Un adelanto (Lead) es la cantidad de tiempo que una actividad puede ser adelantada con respeto a otra que la sucede
+$b. Un adelanto (Lead) es la cantidad de tiempo que una actividad puede ser adelantada con respeto a otra que la precede
+c. Un adelanto (Lead) es la cantidad de tiempo que una actividad puede ser adelantada sin cambiar el camino crítico
+
+
+?: ¿Qué es el PBS? Seleccione una:
+a. Progress Breakdown Structure, es una representación del estado de avance en las actividades del proyecto
+$b. Product Breakdown Structure,es una representación en forma de árbol de los productos que hay que crear para alcanzar el final del proyecto
+c. Partial Breakdown Structure, es una visión parcial de la estructura de trabajos del proyecto
+
+
+?: ¿Que se entiende por gobernabilidad del proyecto? Seleccione una:
+$a. La gobernabilidad del proyecto es una función de supervisión que está alineada con el modelo de gobierno de la organización, y que abarca el ciclo de vida del proyecto
+b. Es un proceso de nombramiento de responsables del proyecto para que existan responsables del gobierno
+c. Es un proceso de otorgamiento de responsabilidades al Jefe de Proyecto para que éste ejerza su función de gobierno
+
+
+?: ¿Qué tipos de organización matricial existen? Seleccione una:
+a. Organizativa, Cultural y social
+b. Funcional, Matricial y Orientada a proyectos
+$c. Matricial débil, Matricial media y Fuertemente matricial
+
+
+?: Hablando de estimación de recursos para las actividades, ¿En qué consiste el Juicio de expertos? Seleccione una:
+a. Es la opinión de los directivos de la empresa sobre la actividad
+$b. Es la opinión de personas que han tenido experiencia previa con actividades similares
+c. Es la opinión de expertos contratados para ayudar en el proyecto
+
+
+?: ¿Qué son los ciclos de vida adaptativos? Seleccione una:
+a. Los ciclos de vida adaptativos son aquellos que evolucionan con la política de la empresa
+$b. Los ciclos de vida adaptativos tienen por objeto responder a los altos niveles de cambio y la participación continua de las partes interesadas
+c. Los ciclos de vida adaptativos son aquellos que pueden responder a los riesgos del proyecto
+
+
+?: Hablando de dependencia entre las actividades, ¿Qué es la Dependencia Discrecional? Seleccione una:
+$a. Son aquellas cuya secuencia de ejecución puede establecerse discrecionalmente, no están sujetas a una imposición concreta
+b. Son aquellas que no son obligatorias y, por tanto, es el equipo quien decide ponerlas en el proyecto
+c. Son aquellas actividades que no son necesarias para el proyecto
+
+
+?: Hablando de estimación de recursos para las actividades, ¿En qué consiste la estimación Estimación Bottom-Up? Seleccione una:
+a. Es una tarea que calcula primero los costes de las actividades más sencillas y después los de las más complejas
+b. Consiste en estimar las actividades por su importancia, comenzando por las de mayor importancia
+$c. Es una técnica de estimación que va a de las tareas de mayor detalle a la las de mayor nivel sumando los costes de las tareas componentes
+
+
+?: Hablando de actividades, ¿qué significa la precedencia SF? Seleccione una:
+$a. Start-to-Finish, es una relación en la cual una actividad no puede terminar hasta que otra actividad concreta haya comenzado
+b. Start-to-Finish, es una relación en la cual una actividad no puede terminar hasta que otra actividad concreta haya terminado
+c. Start-to-Finish, es una relación en la cual una actividad no puede comenzar hasta que otra actividad concreta haya terminado
+
+
+?: Hablando de estimación de duración de las actividades, ¿En qué consiste la Estimación por Analogía? Seleccione una:
+$a. Se usa información histórica y se basa en la estimación de una actividad por analogía con otras de similar tamaño o complejidad
+b. Se usa un catálogo de analogías entre actividades para estimar la duración
+c. Se comparan todas las actividades con otras actividades para comprobar su parecido
+
+
+?: Según el (PMBOK, 2013), las técnicas habituales para la definición de actividades son... Seleccione una:
+$a. Descomposición, Planificación Progresiva y Juicio de Expertos
+b. Las vistas de descomposición y las vistas de despliegue
+c. las técnicas Delphi y los Brainstormings
+
+
+?: ¿Cuál de las siguientes es una lista de atributos de una actividad? Seleccione una:
+a. Tipo, Clase, Aspecto y Evaluación
+b. Nombre, Dirección y Código
+$c. Título, Duración, Relación con el WBS y Nivel de actividad
+
+
+?: Hablando de dependencia entre las actividades, ¿Qué es la Dependencia Interna? Seleccione una:
+a. Son actividades que tienen relaciones con otras actividades, pero sus reslutados son propios del proyecto
+b. Son actividades que sólo se relacionan con ellas mismas
+$c. Las dependencias internas se refieren a relaciones entre las propias actividades del proyecto
+
+
+?: Hablando de estimación de duración de las actividades, ¿En qué consiste la Técnica Delphi? Seleccione una:
+a. Es un proceso basado en simulaciones de duración usando técnicas como por ejemplo Monte Carlo
+$b. Es un proceso iterativo de valoración por parte de expertos que, en cada iteración, valoran en función de los resultados de la anterior
+c. Es una técnica paramétrica de cálculo que consiste en iteraciones de cálculo que van afinando la duración de una actividad
+
+
+?: ¿Cuál es la organización funcional clásica de una empresa? Seleccione una:
+a. Es un modelo en que cada empleado realiza una sola función en un proyecto
+b. Es una organización en base a departamentos funcionales
+$c. Es una jerarquía en la que cada empleado tiene un superior claro
+
+
+?: Hablando de estimación de duración de las actividades, ¿En qué consiste la Estimación Paramétrica? Seleccione una:
+a. La estimación paramétrica se basa en el uso de tablas de actividades que están calculadas previamente
+b. La estimación paramétrica se basa en el uso de parámetros estándar para estimar las duraciones
+$c. La estimación paramétrica se basa en el uso de algún algoritmo de cálculo que recoge información histórica
+
+
+?: ¿Cuál es el concepto de éxito del proyecto? Seleccione una:
+a. El éxito del proyecto consiste en que todos los requisitos se hayan implementado
+b. El éxito del proyecto se mide en términos de que los plazos y los costes hayan sido los pactados al principio del proyecto
+$c. El éxito del proyecto se mide en términos de completar el proyecto dentro de las limitaciones de alcance, tiempo, costo, calidad, recursos y riesgo aprobado entre los directores de proyectos y la alta dirección
+
+
+?: ¿Cuál de las siguientes afirmaciones es cierta? Seleccione una:
+$a. La estructura organizacional es un factor del entorno de la empresa que puede afectar la disponibilidad de recursos e influenciar como se dirigen los proyectos
+b. Los proyectos se realizan desde empresas con organizaciones orientadas a proyectos para empresas con organización funcional
+c. Las empresas que se dedican a realizar proyectos deben tener una estructura orientada a proyectos, no pueden tener una estructura funcional
+
+
+?: Hablando de estimación de duración de las actividades, ¿En qué consisten las Técnicas de decisión por grupo? Seleccione una:
+$a. Este tipo de estimación usa brainstormings o técnicas Delphi entre un grupo de expertos, para hacer la estimación
+b. Es tipo de estimación consiste en agrupar los tiempos para que tareas similares se hagan en la misma franja de proyecto
+c. Este tipo de estimación forma grupos de actividades que son similares y las estima usando una técnica común
+
+
+?: Los procesos organizacionales que se llevan a cabo en un proyecto se pueden clasificar en... Seleccione una:
+a. Inicio, Elaboración, Construcción y Transición
+$b. "Inicio y planificación", "Ejecución, Monitorización y Control" y "Cierre"
+c. Arranque, Identificación, Priorización, Monitorización y Control
+
+
+?: Hablando de actividades, ¿qué son los Retardos (Lags)? Seleccione una:
+a. Un retardo (Lag) es la cantidad de tiempo que una actividad puede ser retrasada con respecto a otra que la sucede
+b. Un retardo (Lag) es la cantidad de tiempo que una actividad puede ser retrasada sin cambiar el camino crítico
+$c. Un retardo (Lag) es la cantidad de tiempo que una actividad puede ser retrasada con respecto a otra que la precede
+
+
+?: ¿Qué técnicas son habituales para hacer estimación de recursos para las actividades? Seleccione una:
+a. Identificación, Nombre, Descripción, Precedentes y Sucesoras entre otros
+b. Juicio de expertos, Estimación por analogía, Estimación paramétrica, Estimación de tres puntos, Técnicas de decisión por grupo y Análisis de reservas
+$c. Juicio de expertos, Análisis alternativos, Datos de estimación publicados, Estimación Bottom-Up y uso de Software de gestión y estimación de proyectos 
+
+
+?: La organización funcional de la empresa, ¿qué permite? Seleccione una:
+a. Que cada función sea realizada por más de un departamento de la empresa
+b. Que cada departamento tenga asignado un solo trabajo en el proyecto
+$c. Que cada departamento pueda realizar su trabajo independientemente de los demás
+
+
+?: ¿Qué característica especial se espera de un Jefe de proyecto que tenga un alcance global? Seleccione una:
+a. Debe tener capacidad de liderazgo
+$b. Debe tener competencias multiculturales
+c. Debe tener conocimiento de idiomas
+
+
+?: ¿Cuál de los siguientes es un beneficio aportado al proyecto por el WBS? Seleccione una:
+$a. Identifica el 100% de trabajo requerido para llevar a cabo el proyecto
+b. Identifica el 100% de los trabajos formales del proyecto
+c. Identifica un alto porcentaje de los trabajos del proyecto
+
+
+?: ¿Cuál de los siguientes es un beneficio aportado al proyecto por el WBS? Seleccione una:
+a. Ayuda a predecir la calidad del proyecto
+b. Permite predecir el grado de adecuación del proyecto al objetivo
+$c. Ayuda a establecer una correlación de cada actividad con la meta final del proyecto
+
+
+?: Hablando de estimación de duración de las actividades, ¿En qué consiste el Análisis de Reservas? Seleccione una:
+a. Consiste en estudiar las reservas de tiempo que se crean de manera natural al estimar muchas actividades
+$b. Las estimaciones pueden incluir tiempos reservados para contingencias (buffers) pensados para situaciones de riesgo en las que la duración podría extenderse
+c. Consiste en poner todas las holguras juntas para producir reservas de tiempo para el proyecto
+
+
+?: ¿Qué es un stakeholder? Seleccione una:
+a. Un stakeholder es cualquier individuo, grupo u organización que haya invertido dinero en el proyecto
+$b. Un stakeholder es cualquier individuo, grupo u organización que pueda afectar o sentirse afectado por cualquier decisión, actividad o resultado del proyecto
+c. Un stakeholder es cualquier individuo, grupo u organización que pueda sentirse afectado por aspectos socioculturales cuando el proyecto tiene caracter global
+
+
+?: De acuerdo a los formalismos del WBS... Seleccione una:
+a. ...toda actividad estará representada por una elipse
+b. ...toda actividad estará relacionada con otra actividad en el árbol
+$c. ...toda actividad da lugar a un resultado y no hay ningún resultado (a excepción del estado inicial) que no tenga una actividad previa
+
+
+?: Hablando de estimación de duración de las actividades, ¿En qué consiste la Estimación de tres puntos? Seleccione una:
+a. La estimación por tres puntos (o tres valores) se basa en hacer un cálculo de tres tipos de estimación de duración y quedarse con la más probable
+b. La estimación por tres puntos (o tres valores) se basa en hacer un cálculo de tres tipos de estimación de duración usando técnicas de simulación Monte Carlo
+$c. La estimación por tres puntos (o tres valores) se basa en hacer un cálculo de tres tipos de estimación de duración: más probable, optimista y pesimista
+
+
+?: Las relaciones entre los elementos de un WBS, ¿de qué tipos son? Seleccione una:
+$a. Son del tipo "está compuesto de" cuando se va de la raíz a las hojas y del tipo "forma parte de" cuando se va hacia la raíz
+b. Son del tipo "pertenece a" para determinar qué productos forman parte de otros más complejos
+c. Son del tipo "Será realizado por" para determinar qué trabajos realizarán qué personas en el proyecto
+
+
+?: ¿Cómo se comportan los stakeholders respecto a la responsabilidad y autoridad en le proyecto? Seleccione una:
+a. Tiene autoridad, pero no responsabilidad en el proyecto
+b. Tienen un papel bien definido con un nivel de responsabilidad y autoridad perfectamente acotado durante todo el proyecto
+$c. Tienen diferentes niveles de responsabilidad y autoridad que pueden varia a lo largo del proyecto
+
+
+?: Dentro de las actividades de los procesos organizacionales ¿Qué actividades están relacionadas con la Ejecución, Monitorización y control? Seleccione una:
+a. Definición de plantillas
+b. Requisitos guías para le cierre de proyecto
+$c. Procesos financieros y gestión de riesgos
+
+
+?: De acuerdo al PMBOK, ¿Qué documentos acompañan al WBS? Seleccione una:
+$a. Alcance del proyecto, WBS y Diccionario WBS
+b. El presupuesto y la estimación de personal
+c. El presupuesto y el Alcance del proyecto
+
+
+?: Hablando de actividades, ¿qué significa la precedencia SS? Seleccione una:
+a. Start-to-Start, es una relación que indica que una actividad no puede comenzar hasta que otra concreta haya terminado
+$b. Start-to-Start, es una relación que indica que una actividad no puede comenzar hasta que otra concreta haya comenzado
+c. Start-to-Start, es una relación que indica que una actividad varias actividades debeb comenzar juntas
+
+
+?: ¿Qué es un hito (milestone) en un proyecto? Seleccione una:
+$a. Un hito en un punto o evento importante en el proyecto
+b. Un hito es una marca del proyecto
+c. Un hito es una actividad más con una duración de un día
+
+
+?: Hablando de estimación de duración de las actividades, ¿En qué consiste la Estimación Paramétrica? Seleccione una:
+a. La estimación paramétrica se basa en el uso de tablas de actividades que están calculadas previamente
+$b. La estimación paramétrica se basa en el uso de algún algoritmo de cálculo que recoge información histórica
+c. La estimación paramétrica se basa en el uso de parámetros estándar para estimar las duraciones
+
+
+?: ¿Cuáles de los siguientes son activos de los procesos de una organización? Seleccione una:
+$a. Planes, Procesos, Políticas, Procedimientos y Conocimiento corporativo
+b. Financieros y Humanos
+c. Ecológicos, Globalizadores y Socioculturales
+
+
+?: ¿Qué técnicas son habituales para hacer estimación de la duración de las actividades? Seleccione una:
+$a. Juicio de expertos, Estimación por analogía, Estimación paramétrica, Estimación de tres puntos, Técnicas de decisión por grupo y Análisis de reservas
+b. Juicio de expertos, Análisis alternativos, Datos de estimación publicados, Estimación Bottom-Up y uso de Software de gestión y estimación de proyectos
+c. Identificación, Nombre, Descripción, Precedentes y Sucesoras entre otros
+
+
+?: Hablando de dependencia entre las actividades, ¿Qué es la Dependencia Externa? Seleccione una:
+a. Son actividades que tienen resultados más allá del alcance del proyecto
+b. Son actividades que no pertenecen al proyecto, aunque se ejecuten al mismo tiempo
+$c. Son actividades que incluyen relaciones a actividades externas no pertenecientes al proyecto
+
+
+?: Hablando de actividades, ¿qué significa la precedencia FF? Seleccione una:
+$a. Finish-to-Finish, es una relación de precedencia que indica que una actividad no puede terminar hasta que lo haya hecho otra concreta
+b. Finish-to-Finish, es una relación de precedencia que indica que varias actividades tienen que terminar juntas
+c. Finish-to-Finish, es una relación de precedencia que indica que una actividad no puede terminar hasta que otra concreta haya comenzado
+
+
+?: ¿Qué es una tarea hamaca? Seleccione una:
+$a. Una tarea hamaca está definida por un conjunto de tareas detalladas
+b. Una tarea hamaca es una tarea con holguras en el WBS
+c. Una tarea hamaca es una tarea que forma parte de una súper tarea
+
+
+?: ¿Es posible obtener información importante de la Arquitectura del Software para construir el WBS? Seleccione una:
+a. No, la arquitectura y la gestión de proyecto son fases diferentes
+b. Si, el proyecto y la arquitectura tienen los mismos stakeholders
+$c. Si, a partir de algunos estilos de disposición
+
+
+?: La organización y estilos culturales de una empresa, ¿Qué experiencias comunes incluyen? Seleccione una:
+$a. Visión, misión, valores, creencia y expectativas
+b. Resultados empresariales, posición de mercado y marketing corporativo
+c. Departamentos, oficinas, locales, etc.
+
+
+?: Hablando de dependencia entre las actividades, ¿Qué es la Dependencia Obligatoria? Seleccione una:
+a. Son actividades que deben comenzar obligatoriamente al mismo tiempo
+$b. Son actividades que debe realizarse obligatoriamente, bien sea por cuestiones contractuales o porque la naturaleza del trabajo las impone
+c. Son actividades que obligan al equipo a una atención especial
+
+
+?: ¿Qué es el OBS?
+$a. Organization Breakdown Structure, representa las responsabilidades sobre la realización de actividades del proyecto.
+
+
+?: ¿Qué es el WBS?
+$a. Work Breakdown Structure, se utiliza para representar la estructura de descomposición del trabajo.
+
+
+?: Según PMBOK, el plan de gestión del cronograma puede establecer…
+$a. …El desarrollo de modelo de cronograma del proyecto.
+
+
+?: ¿Qué es e RBS?
+$a. Resource Breakdown Structure, en una lista jerárquica de los recursos necesarios para la gestión y control del proyecto
+
+
+?: Hablando de actividades ¿Qué significa precedencia FS?
+$a. Finish-to-Start, es una relación de precedencia entre las actividades que indica que una actividad no puede empezar hasta que otra concreta haya terminado.
+
+
+?: Hablando de estimación de recursos para las actividades ¿En qué consiste la existencia de Datos de estimación publicados?
+$a. Consiste en actividades que, por experiencia previa, se tienen tabuladas y se puede calcular fácilmente los recursos que precisan aplicando dichas tablas.
+
+
+?: ¿En qué consiste la definición del cronograma del proyecto?
+$a. Es el proceso de análisis de secuencias de actividades, duraciones, requisitos de recursos y restricciones del propio cronograma para crear un modelo de programación del proyecto.
+b. Es un proceso de colocar todas las actividades en un margen de tiempo definido a priori para el proyecto
+c. Es el proceso de creacion de actividades y su descomposicion en tareas
+
+
+?: ¿Qué es el RBS? Seleccione una:
+$a. Resource Breakdown Structure, es una lista jerárquica de los recursos necesarios para la gestión y control del proyecto
+b. Rescue Breakdown Structure, es la lista de recursos de que dispone el equipo para recuperar situaciones complejas en el proyecto
+c. Relational Breakdown Structure, es un grafo representando las relaciones entre las diferentes actividades del proyecto
+
+
+?: La planificación temporal del proyecto es... Seleccione una:
+a. ...un proceso en el que se estima el tiempo que llevará la gestión del proyecto
+$b. ...un proceso en el cual se establecen políticas, procedimientos y documentación para planificar, desarrollar, gestionar ejecutar y controlar los tiempos del proyecto
+c. ...un proceso de cálculo de los tiempos de cada actividad de gestión del proyecto
+
+
+?: ¿Cuáles de los siguientes son elementos culturales de una empresa? Seleccione una:
+a. Oficinas, despachos, recursos y centros de desarrollo
+b. Personas, recursos financieros y disponibilidad
+$c. Visiones compartidas, valores, creencias y expectativas
+
+
+?: ¿Cómo se comportan los stakeholders respecto a la responsabilidad y autoridad en el proyecto?
+$a. Tienen diferentes niveles de responsabilidad y autoridad que pueden variar a lo largo del proyecto.
+
+
+?: Hablando de estimación de recursos para las actividades, ¿En qué consisten los Análisis alternativos? Seleccione una:
+a. Consiste en recalcular toda la estimación de recuros con otro métodos difenrente del usado por primera vez
+b. Son métodos experimentales que están poco probados en la industria
+$c. Son habitualmente métodos ad-hoc de cualquier tipo que ayudan a la estimación
+
+?: Según el (PMBOK, 2013), el plan de gestión del cronograma puede establecer...
+a. ...el criterio de las horas de trabajo por jornada
+$b. ...el desarrollo de modelo de cronograma del proyecto
+c. ...el criterio del tiempo a utilizar en los procesos de desarrollo de software
+
+?: Dentro de las actividades de los procesos organizacionales ¿Qué actividades estánrelacionadas con la Ejecución, Monitorización y control?
+a. Requisitos guías para le cierre de proyecto
+$b. Procesos financieros y gestión de riesgos
+c. Definición de plantillas
+
+?: ¿Qué componentes tiene una EDT?
+$a. Objetivos del proyecto, Componentes, Productos, Entregables, Paquetes de trabajo y Actividades Correcta
+b. WBS, OBS, PBS y RBS
+c. ID, Título, Nombre, Precedentes y Sucesoras
+
+?: Hablando de estimación de recursos para las actividades, ¿En qué consiste la existencia de Datos de estimación publicados?
+$a. Consiste en actividades que, por experiencia previa, se tienen tabuladas y se puede calcular fácilmente los recusos que precisan aplicando dichas tablas
+b. Consiste en tener listas de precios para las actividades
+c. Consiste en publicar los precios de las actividades del proyecto para que el cliente sepa los costes a priori
+
+?: Hablando de estimación de recursos para las actividades ¿En qué consiste la existenciade Datos de estimación publicados?
+$a. Consiste en actividades que, por experiencia previa, se tienen tabuladas y se puedecalcular fácilmente los recursos que precisan aplicando dichas tablas.
+
+?: ¿Cuál de las siguientes es un lista de atributos de una actividad?
+$a. Título, Duración, Relación con el WBS y Nivel de actividad
+b. Nombre, Dirección y Código
+c. Tipo, Clase, Aspecto y Evaluación
+
+?: ¿Qué es un stakehoder?
+a. Un stakeholder es cualquier individuo, grupo u organización que haya invertido dinero en el proyecto
+$b. Un stakeholder es cualquier individuo, grupo u organización que pueda afectar o sentirse afectado por cualquier decisión, actividad o resultado del proyecto
+c. Un stakeholder es cualquier individuo, grupo u organización que pueda sentirse afectado por aspectos socioculturales cuando el proyecto tiene caracter global
+
+?: Para realizar la gestión del equipo de proyecto se parte de algunos elementos de entrada, ¿Cuál de los siguientes es uno de ellos? Seleccione una:
+a. Registro de interesados
+b. Las normas básicas
+$c. Evaluaciones del desempeño del equipo
+
+
+?: Las salidas de la gestión del equipo de proyecto consisten principalmente en actualizaciones de los documentos que sirven para la gestión de recursos humanos del proyecto. ¿Cuál de los siguientes elementos se actualiza? Seleccione una:
+$a. Evaluaciones del desempeño del equipo
+b. Las normas básicas
+c. Plan de riesgos
+
+
+?: ¿Dónde se cargan los costes de formación del equipo de proyecto? Seleccione una:
+a. Se cargan al cliente del proyecto
+$b. Son parte del presupuesto del proyecto o pueden ser asumidos por la propia empresa
+c. Son parte de la formación de personal y son asumidos por la empresa
+
+
+?: Un equipo tiene dedicación a tiempo completo cuando... Seleccione una:
+a. Alguno de los miembros del proyecto se dedican exclusivamente a un proyecto
+b. Todos los miembros del proyecto se dedican exclusivamente a un proyecto
+$c. Una parte importante o todos los miembros del proyecto se dedican exclusivamente a un proyecto
+
+
+?: ¿Cuáles son los principales procesos de la gestión de recursos humanos? Seleccione una:
+a. Organigramas, matrices de responsabilidad y formatos de texto
+$b. Plan de gestión de RRHH, selección, desarrollo y gestión del equipo de proyecto
+c. Preasignación, negociación, adquisición, equipos virtuales y análisis de decisión multicriterio
+
+
+?: Dentro de los ámbitos principales de aportación de RRHH al proyecto, ¿Qué es la transferencia de personas de otros departamentos? Seleccione una:
+a. Se produce cuando se hace reestructuración de puestos de trabajo y las personas se transfieres a otros departamentos
+b. Se produce cuando las personas cambian el perfil tecnológico con el que trabajan en el proyecto
+$c. Cuando el personal necesario se busca en otros departamento o en otros proyectos
+
+
+?: ¿Cuál de los siguientes es uno de los producto del desarrollo del equipo de proyecto? Seleccione una:
+a. Plan de gestión de recursos humanos
+b. Asignaciones al equipo de proyecto
+$c. Las evaluaciones del desempeño del equipo
+
+
+?: ¿Qué es una matriz de responsabilidad? Seleccione una:
+a. Es un método de asignación de responsabilidades en un proyecto
+$b. Es una técnica para representar los recursos asignados a cada actividad en un proyecto
+c. Es una manera de representación jerárquica de la estructura de un proyecto
+
+
+?: ¿Quiénes componen el equipo de proyecto? Seleccione una:
+$a. El jefe de proyecto y todos aquellos que colaboran juntos para conseguir los objetivos del proyecto
+b. El jefe de proyecto y los jefes de equipo que colaboran juntos para conseguir los objetivos del proyecto
+c. El jefe de proyecto y los desarrolladores de software que colaboran juntos para conseguir los objetivos del proyecto
+
+
+?: Dentro de las técnicas para el desarrollo del equipo de proyecto, ¿En qué consiste la de "Herramientas de evaluación del personal"? Seleccione una:
+a. Son técnicas de autoevaluación para comprobar las carencias propias y seleccionar los cursos de formación adecuados
+$b. Estas técnicas dan al Jefe de proyecto una vista de las fortalezas y debilidades en ciertas áreas del equipo de proyecto
+c. Son herramientas que utiliza el jefe de proyecto para hacer la selección de miembros del equipo
+
+
+?: Dentro de las técnicas para el gestión del equipo de proyecto, ¿En qué consiste la de "Habilidades Interpersonales"? Seleccione una:
+a. Son técnicas de autoevaluación personal
+$b. Son técnicas para analizar las situaciones de conflicto e interactuar adecuadamente con los miembros del equipo
+c. Son técnicas de evaluación de terceros sobre las habilidades de cada miembro de equipo
+
+
+?: Dentro de las técnicas para el desarrollo del equipo de proyecto, ¿En qué consiste la de "Habilidades interpersonales"? Seleccione una:
+$a. Las habilidades interpersonales son competencias relacionadas con el entorno y ambiente de trabajo
+b. Son técnicas aplicadas a la selección de los miembros del equipo de proyecto
+c. Se refiere a competencias que debe tener el jefe de proyecto para negociar con el cliente
+
+
+?: Dentro del Plan de Recursos Humanos, ¿Qué son los calendarios de recursos? Seleccione una:
+a. Son calendarios de contratación de recursos necesarios para el proyecto
+$b. Son calendarios que identifican los días de trabajo en que cada recurso están disponibles
+c. Son calendarios de asignación de trabajos a recursos
+
+
+?: ¿En qué consiste la técnica de "Negociación" para la selección de miembros del equipo? Seleccione una:
+a. Se deben negociar las condiciones de trabajo con los miembros del equipo antes de asignarlos a proyecto
+b. Se negocia con el cliente la ubicación de los miembros del equipo durante el proyecto
+$c. Las asignaciones de personal a proyecto se hacen en entornos complejos y se debe negociar con los gestores funcionales, otros jefes de proyecto, organizaciones externas, etc.
+
+
+?: ¿En qué consiste el aislamiento dentro de la dependencia de los miembros del equipo? Seleccione una:
+$a. Las actividades se descomponen en subunidades independientes y el control se basa únicamente en relaciones jerárquicas
+b. Las actividades son absolutamente independientes y el control no es necesario
+c. Las actividades se descomponen en subunidades y las relaciones entre los miembros del equipo no existen
+
+
+?: Dentro de las técnicas para el gestión del equipo de proyecto, ¿En qué consiste la de "Evaluaciones del desempeño del proyecto"? Seleccione una:
+$a. Tiene entre otros objetivos el descubrimiento de problemas desconocidos o no resueltos
+b. Es la evaluación de los conocimientos de cada miembros del equipo de proyecto
+c. En evaluar el estado de avance del proyecto en comparación con el Plan de proyecto realizado
+
+
+?: Algunos ejemplos de habilidades interpersonales son... Seleccione una:
+$a. Liderazgo, Influencia y Toma de decisiones eficiente
+b. La escasez de recursos, las prioridades de programación y los estilos personales de trabajo
+
+
+?: Para realizar el desarrollo del equipo de proyecto se parte de algunos elementos de entrada, ¿Cuál de los siguientes es uno de ellos? Seleccione una:
+a. Plan de riesgos
+$b. Plan de gestión de recursos humanos
+c. Las normas básicas
+
+
+?: Para realizar el desarrollo del equipo de proyecto se parte de algunos elementos de entrada, ¿Cuál de los siguientes es uno de ellos? Seleccione una:
+a. Registro de interesados
+$b. El calendario de recursos
+c. Las normas básicas
+
+
+?: ¿Cuáles de los siguientes son factores que se deben estudiar a la hora de crear un equpo de proyecto y que forman su perfil profesional y personal? Seleccione una:
+a. Conocimientos sobre gestión de proyectos y sobre estructura de equipos de proyecto
+b. Márketing y conocimientos de macroeconomía
+$c. Actitudes requeridas en el trabajo y relación con otros perfiles
+
+
+?: ¿De quién es la responsabilidad de mejorar las condiciones de trabajo del equipo? Seleccione una:
+a. Del cliente que debe proveer espacios adecuados para el desarrollo del proyecto
+b. De la empresa que tiene contratados a sus miembros
+$c. Del Jefe de Proyecto
+
+
+?: Cuando se diseña el Plan de gestión de recusos humanos precisaremos de algunos documentos de entrada, ¿Cuál de los siguientes es uno de ellos? Seleccione una:
+a. Selección de miembros del equipo
+$b. Plan de gestión de proyecto
+c. Plan de riesgos
+
+
+?: ¿En qué consiste el Desarrollo del equipo de proyecto? Seleccione una:
+a. Esta fase consiste en la selección de perfiles de entre los miembros del equipo que se deben potenciar en detrimento otros menos colaborativos que deben ser sustituidos
+b. Esta fase se da durante el desarrollo del proyecto y cosiste en el mantenimiento de los miembros del equipo, sustituyendo las bajas por nuevo personal o asignando nuevos perfiles si fuera necesario
+$c. Esta fase se corresponde con todas las actividades realizadas para mejorar las competencias del equipo, la interrelación y comunicación entre sus miembros y la mejora del entorno del equipo
+
+
+?: ¿En qué consiste la técnica de "Análisis de decisión multicriterio" para la selección de miembros del equipo? Seleccione una:
+$a. Consiste en utilizar un método de análisis que permita hacer la mejor selección de equipo en función de las características más deseadas en el proyecto
+b. Consiste en establecer una serie de criterios comunes imprescindibles para los miembros del equipo de trabajo
+c. Consiste en evaluar los criterios que afectan al proyecto antes de seleccionar al equipo de trabajo
+
+
+?: Dentro de los ámbitos principales de aportación de RRHH al proyecto, ¿Qué es la asignación temporal? Seleccione una:
+a. Personas que trabajan en el proyecto a tiempo parcial
+b. Cuando el miembro del equipo se asigna por horas de trabajo al proyecto
+$c. Personas que se incorporan de la misma unidad organizativa para la ejecución de ese proyecto, pero que al finalizar éste continúan a disposición del Jefe de la Unidad
+
+
+?: Hay cinco técnicas generales para resolver conflictos, ¿Cuáles? Seleccione una:
+$a. Evitación, Aceptación, Reconciliación, Acción directa y Colaboración
+b. La clarificación de roles, La retroalimentación constructiva, El descubrimiento de problemas, El desarrollo de planes de formación y El establecimiento de metas
+c. Liderazgo, Influencia, Toma de decisiones eficiente, Prioridades de programación y Estilos personales de trabajo
+
+
+?: ¿Cuáles son los estados por los que pasa el desarrollo de un equipo de proyecto de acuerdo a la escalera de Tuckman? Seleccione una:
+a. Preasignación, negociación, adquisición y análisis de decisión
+$b. Formación, lucha, normalización, desarrollo y terminación
+c. Disponibilidad, experiencia, capacidad, actitud y habilidades
+
+
+?: ¿Qué responsabilidades representan las matrices RACI? Seleccione una:
+a. Revisor, Aprobador, Consultor e Informador
+b. Cualquier tipo de responsabilidad entre el equipo de proyecto
+$c. Responsable, Aprobador, Consultor e Informar
+
+
+?: En los entornos globales, ¿Qué debe potenciar el jefe de proyecto con relación al desarrollo del equipo de proyecto? Seleccione una:
+a. Debe potenciar el estudio de idiomas por parte de los miembros del equipo de proyecto para que puedan comunciarse
+b. Debe potenciar el estudio profundo de las culturas de los diferentes miembros del equipo para que ningún miembro de sienta desplazado
+$c. Debe incrementar la interrelación y las comunicaciones entre los miembros del equipo para mejorar la mutua confianza
+
+
+?: ¿En qué consiste la técnica de "Preasignación" para la selección de miembros del equipo? Seleccione una:
+$a. Se asignan personas por adelantado a un proyecto atendiendo los requisitos de su perfil tecnológico o competencia profesional
+b. El jefe de proyecto asigna los miembros sin intervención de otros jefes de proyecto
+c. El miembro del equipo es estable de otros proyecto anteriores y no hace falta asignar nuevos miembros
+
+
+?: Para realizar la selección del equipo de proyecto se parte de algunos elementos de entrada, ¿Cuál de los siguientes es uno de ellos? Seleccione una:
+$a. Factores ambientales de la empresa
+b. Calendario de recursos
+c. Asignaciones al equipo de proyecto
+
+
+?: ¿Cuáles de los siguientes son aspectos generales que se deben gestionar cuando se dirige un proyecto? Seleccione una:
+$a. Ser capaz de influir en el equipo de proyecto y cuidar del comportamiento ético y profesional
+b. Tener autoridad para solventar disputas y tener caracter comercial
+c. Tener atoridad para imponer criterios y apoyo para poder tomar decisiones duras (como despidos, sanciones, etc.)
+
+
+?: Dentro de los ámbitos principales de aportación de RRHH al proyecto, ¿Qué es la asignación permanente? Seleccione una:
+a. Se trata de personas que tiene una situación de trabajo estable en la empresa que desarrolla el proyecto
+b. Se trata de personas que se asignan al proyecto a tiempo completo
+$c. Se trata de personas con unos conocimientos específicos sobre un tema
+
+
+?: ¿De qué elemento formal forma parte la formación del equipo de proyecto? Seleccione una:
+$a. OBS
+b. WBS
+c. PB
+
+
+?: Dentro de las técnicas para el desarrollo del equipo de proyecto, ¿En qué consiste la de "Actividades de mejora de trabajo en equipo"? Seleccione una:
+$a. Son actividades orientadas a que mejoren todos los aspectos del equipo que lo hacen ser más eficiente
+b. Son actividades de la selección del equipo de proyecto que consisten en la búsqueda del equipo más eficiente
+c. Son actividades basadas en cursillos técnicos sobre aspectos tecnológicos necesarios para el proyecto
+
+
+?: ¿Quiénes son los socios comerciales del proyecto (Business partners)? Seleccione una:
+$a. Son empresas externas que tienen relación con el desarrollador del proyecto y que aportan algún tipo de experiencia particular
+b. Son empresas externas que participan en el proyecto para poder comercializar los resultados
+c. Son empresas externas que financian el proyecto con intereses comerciales
+
+
+?: ¿Qué objetivo puede tener la "Inteligencia emocional" para el desarrollo del equipo de proyecto? Seleccione una:
+a. Tiene por objetivo eliminas las emociones para hacer un equipo más eficiente
+$b. Sirve para reducir la tensión e incrementar la cooperación
+c. Tiene el objetivo de mejorar la inteligencia de los miembros para motivarlos emocionalmente
+
+
+?: Uno de los principales problemas a los que se enfrenta el Jefe de proyecto a la hora de seleccionar su equipo es... Seleccione una:
+$a. ...la disponibilidad (just-in-time) de las personas necesarias
+b. ...la disponibilidad de tiempo de las personas asignadas al proyecto
+c. ...el perfil tecnológico de las personas asignadas al proyecto
+
+
+?: Dentro de las técnicas para el gestión del equipo de proyecto, ¿En qué consiste la de "Observación y Conversación"? Seleccione una:
+$a. Es una de las técnicas principales para obtener una retroalimentación de lo que está ocurriendo y adelantarse a los problemas
+b. Es una técnica basada en la observación de las variables del entorno y la discusión de dichas variables para buscar la mejor solución a los problemas
+c. Es una técnica que consiste en poner algunas personas entre los miembros del equipo que observan el trabajos de los demás y los ayudan en caso de problemas
+
+
+?: ¿Cuál es el perfil básico del Jefe de Proyecto? Seleccione una:
+$a. Es la persona que se responsabiliza de que el proyecto se desarrolle dentro de los recursos
+b. Es la persona que tiene el perfil tecnológico más alto en el proyecto
+c. Es la persona que decide los criterios tecnológicos del proyecto
+
+
+?: Dentro de las técnicas para el desarrollo del equipo de proyecto, ¿En qué consiste la de "Reglas básicas"? Seleccione una:
+a. Son técnicas para definir los elementos tecnológicos en que puede partirse el proyecto hasta conseguir módulos básicos
+b. Son decisiones técnicas sobre las unidades de medida a utilizar para las estimaciones del proyecto
+$c. Facilitan a los miembros del equipo tener claro cuál es comportamiento aceptable entre los miembros del equipo
+
+
+?: Dentro de las técnicas para el desarrollo del equipo de proyecto, ¿En qué consiste la de "Formación"? Seleccione una:
+a. La formación consiste en la elaboración de cursos para mejorar las habilidades de comunicación de los miembros del equipo
+b. La formación es una técnica de gestión del equipo de proyecto
+$c. La formación incluye todas las actividades destinadas a mejorar las competencias técnicas de los miembros del equipo
+
+
+?: ¿En qué consiste la cooperación dentro de la dependencia de los miembros del equipo? Seleccione una:
+a. Se basa en hacer equipos muy pequeños altamente cohesionados para que cooperen
+b. Es un modelo de gestión de equipos de proyecto basado en un jefe de proyecto con gran autoridad que obliga a los miembros del equipo a coordinarse
+$c. Se basa en el equilibrio entre la colaboración necesaria entre los grupos y las personas que colaboran en un proyecto y la independencia de los grupos para hacer su trabajo
+
+
+?: Dentro de los ámbitos principales de aportación de RRHH al proyecto, ¿Qué es el reclutamiento de nuevas personas? Seleccione una:
+$a. Se produce cuando se necesitan personas con conocimientos no disponibles en los perfiles de que se dispone en el proyecto
+b. Se produce cuando se asignan personas de otros departamentos
+c. Se produce cuando se seleccionan personas por los departamentos de recursos humanos
+
+
+?: ¿Cuáles de los siguientes son objetivos destacables del desarrollo del equipo de proyecto? Seleccione una:
+a. Mejorar la calidad final del producto mediante técnias de desinformación que mantengas a los miembros del equipo alerta a los cambios
+b. Hacer del equipo un sistema cohesivo eliminando las disensiones mediante la eliminación de los miembros conflictivos
+$c. Mejorar el conocimiento y las habilidades de los miembros, mejorar el clima de confianza y crear una cultura de equipo dinámica, cohesiva y colaborativa
+
+
+?: Dentro de las técnicas para el gestión del equipo de proyecto, ¿En qué consiste la de "Resolución de conflictos"? Seleccione una:
+$a. Busca mayor productividad y unas relaciones de trabajo más positivas y productivas
+b. Es un compromiso entre todos los miembros del proyecto para que no haya conflictos
+c. Es el proceso realizado por el jefe de proyecto para imponer su criterio sin no hay acuerdos
+
+
+?: Dentro de los ámbitos principales de aportación de RRHH al proyecto, ¿Qué son los consultores? Seleccione una:
+$a. Los consultores son personas externas a la organización que poseen conocimientos muy específicos de los que no se dispone internamente
+b. Los consultores son personas externas a la organización que poseen conocimientos muy específicos sobre tecnología
+c. Los consultores son personas externas a la organización que poseen conocimientos muy específicos sobre gestión de proyectos
+
+
+?: ¿qué factores influyen en la decisión de conflictos por parte del jefe de proyecto? Seleccione una:
+a. La escasez de recursos, las Prioridades de programación y los Estilos personales de trabajo
+b. Evitación, Aceptación, Reconciliación, Acción directa y Colaboración
+$c. La importancia e intensidad, la presión, las posturas y la prisa
+
+
+?: Un equipo tiene dedicación a tiempo parcial cuando... Seleccione una:
+a. Los proyectos se desarrollan por personas que dedican parte del tiempo al desarrollo y parte a la gestión del proyecto
+b. os proyectos se desarrollan por personas que desarrollan el proyecto desde empresas externas
+$c. Los proyectos se desarrollan por personas que, además de dedicar tiempo al proyecto, también lo dedican a sus actividades habituales o a otros proyectos
+
+
+?: ¿Cuál de las siguientes NO es una técnica para la selección de miembros del equipo? Seleccione una:
+a. Análisis de decisión multicriterio
+b. Preasignación
+$c. Actividades de mejora de trabajo en equipo
+
+
+?: ¿En qué consiste la técnica de "Adquisición" para la selección de miembros del equipo? Seleccione una:
+a. El equipo de proyecto se adquiere de otros proyecto anteriores por su efectividad
+$b. Los perfiles buscados no se encuentran entre los recursos disponibles y entonces es necesario buscarlos en el mercado
+c. El jefe de proyecto debe negociar con otros jefes de proyecto la adquisición de miembros para su equipo
+
+
+?: ¿Cuál de las siguientes es una desventaja de la cooperación dentro de la dependencia de los miembros del equipo? Seleccione una:
+$a. Es complicado de poner en práctica en proyectos pequeños y con pocas personas trabajando
+b. Si el jefe de proyecto tiene demasiada autoridad se anulan lo miembros del equipo y éste no es muy productivo
+c. Si los miembros tiene malas relaciones, la cooperación es imposible
+
+
+?: ¿Cuáles de los siguiente son productos del plan de gestión de recursos humanos? Seleccione una:
+a. El WBS
+b. Plan de gestión de riesgos
+$c. Lista de roles y responsabilidades
+
+
+?: ¿En qué consiste la técnica de "Equipos virtuales" para la selección de miembros del equipo? Seleccione una:
+$a. Consiste en la creación de equipos virtuales, geográficamente distribuidos, que no realizan reuniones presenciales.
+b. Son equipos formados usando herramientas virtuales de selección como las redes sociales o los portales de empleo
+c. Son equipos que trabajan virtualmente en varios proyectos y por tanto no tienen asignación directa a ninguno
+
+
+?: ¿Cuál de las siguientes es una desventaja del aislamiento dentro de la dependencia de los miembros del equipo? Seleccione una:
+a. Si las interfaces entre los componentes cambian, los tiempos de comunicación de estos cambios pueden ser largos y provocar sobrecostes.
+
+
+?: ¿Qué procesos incluye la gestión de recursos humanos del proyecto? Seleccione una:
+$a. Aquellos que organizan, gestionan, dirigen el equipo de proyecto
+b. Incluye los procesos de preasignación, negociación y adquisición, entre otros
+c. Los que se refienren al descubrimiento de problemas desconocidos o no resueltos
+
+
+?: ¿En qué consiste la independencia dentro de la dependencia de los miembros del equipo? Seleccione una:
+$a. Las actividades se hacen muy dependientes y requieren de muchos tiempos cortos de planificación.
+
+
+?: Cuando se diseña el plan de gestión de recursos humanos precisaremos de algunos documentos de entrada ¿Cuál de los siguientes es uno de ellos? Seleccione una:
+$a. Plan de gestión de proyecto.
+
+
+?: Dentro del plan de recursos humanos ¿En qué consiste el concepto de autoridad? Seleccione una:
+$a. Es el derecho a asignar recursos, tomar decisiones, aprobar , aceptar entregables y ejercer influencia sobre otros para dirigir el proyecto.
+
+
+?: Dentro de los ámbitos principales de aportación de RRHH al proyecto ¿Qué es la asignación permanente? Selecciona una:
+$a. Se trata de persona con unos conocimientos específicos sobre un tema
+
+
+?: ¿Cuáles de las siguientes son herramientas de evaluación del personal? Selecciona una:
+$a. Encuestas de actitud, evaluaciones específicas, y entrevistas estructuradas
+
+
+?: ¿Qué maneras existen de documentar el equipo de proyecto y sus roles y responsabilidades? Selecciona una:
+$a. Organigramas y descripciones de puestos de trabajo, reuniones, etc.
+b. WBS, OBS, PBS y Red Lógica
+c. Documentación en papel o documentación digital
+
+
+?: ¿Cuál de las siguientes es una desventaja de la interdependencia dentro de la dependencia de los miembros del equipo? Seleccione una:
+a. Las jornadas de trabajo se alargan para poder albergar las reuniones de coordinación
+$b. Si los proyectos son muy grandes la coordinación de las decisiones pueden ser complejas
+c. Los miembros del equipo deben tener una relación personal fuerte y eso es difícil de conseguir
+
+?: Dentro de las técnicas para el desarrollo del equipo de proyecto, ¿En qué consiste la de "Reconocimientos y recompensas"?
+$a. Son una manera de motivar los comportamientos deseados y de implicar a las personas en el buen desarrollo del proyecto
+b. Son una forma de premiar al jefe de proyecto cuando los resultados obtenidos del proyecto son positivos
+c. Son una manera de conseguir que los miembros del equipo identifiquen los fallos de otros miembros y los comuniquen a los responsables
+
+?: Para realizar la selección del equipo de proyecto se parte de algunos elementos de entrada, ¿Cuál de los siguientes es uno de ellos?
+a. Plan de riesgos
+$b. Plan de gestión de recursos humanos
+c. Registro de interesados
+
+?: ¿Cuáles son los ámbitos de dependencia de los miembros del equipo?
+$a. Aislamiento, interdependencia y cooperación
+b. Dependencia a tiempo parcial y a tiempo completo
+c. Dependencia del jefe de proyecto o responsable funcional
+
+?: ¿Cuál de las siguientes es una técnica informal que ayuda en la elaboración del Plan de Gestión de Recursos Humanos del proyecto (PGRH)?
+a. La dedicación a tiempo completo
+$b. Las redes de contactos
+c. La dedicación a tiempo parcial
+
+?: ¿En qué consiste la interdependencia dentro de la dependencia de los miembros del equipo?
+$a. Las actividades se hacen muy dependientes y requieren de muchos tiempos cortos de planificación
+b. Durante el diseño se han establecido un nivel muy alto de acoplamiento y las decisiones son complejas
+c. Si el equipo es interdependiente, las decisiones llevan mucho tiempo y al proyecto le cuesta avanzar
+
+?: ¿Cuáles de los siguientes son factores que se deben estudiar a la hora de crear un equipo de proyecto y que forman su perfil profesional y personal?
+a. Conocimientos sobre gestión de proyectos y sobre estructura de equipos de proyecto
+b. Márketing y conocimientos de macroeconomía
+$c. Actitudes requeridas en el trabajo y relación con otros perfiles
+
+?: ¿Qué es un organigrama?
+a. Es un modo de representación basado en una Matriz de Asignación de Responsabilidades
+$b. Es la manera tradicional de representar la estructura de un equipo de proyecto
+c. Es un diagrama que representa el flujo de datos de un proyecto
+
+?: ¿Cuáles de las siguientes son técnicas que se usan para mejorar el desarrollo del equipo de proyecto?
+a. Observación y conversación, evaluaciones del desempeño del proyecto y resolución de conflictos
+b. Preasignación, negociación, adquisición equipos virtuales y análisis de decisión multicriterio
+$c. Habilidades interpersonales, formación, actividades de mejora de trabajo en equipo, reglas básicas y colocación
+
+?: ¿Qué papel juegan las reuniones como técnicas de soporte a la creación del Plan de Gestión de Recursos Humanos del proyecto (PGRH)?
+a. Son técnicas para la información de los resultados del PGRH
+b. Son técnicas auxiliares de negociación
+$c. Son técnicas usadas para coordinar las acciones durante la ejecución del proyecto y concretamente durante la elaboración de PGRH
+
+?: Dentro del Plan de Recursos Humanos, ¿en qué consiste el concepto de autoridad?
+a. Es el derecho a parar el proyecto si no se obtienen buenos resultados ejercido por la empresa desarrolladora
+b. Es el derecho a poder cambiar los objetivos del proyecto ejercido por los clientes
+$c. Es el derecho a asignar recursos, tomar decisiones, aprobar, aceptar entregables y ejercer influencia sobre otros para dirigir el proyecto
+
+?: Dentro de las técnicas para el desarrollo del equipo de proyecto, ¿En qué consiste la de "Colocación"?
+$a. Son técnicas para la preparación de los entornos de trabajo, la disponibilidad de medios o incluso la disposición de los miembros
+b. Son técnicas de la selección del equipo de proyecto destinadas a definir la estructura que debe tener dicho equipo
+
+?: ¿Cuál es la autoridad del Jefe de Proyecto en el proyecto?
+a. Es un miembro más del equipo cuya responasbilidad técnica le otorga algún privilegio
+$b. Varía en función del tipo de empresa y del proyecto
+c. Tiene la responsabilidad y autoridad máxima en el proyecto
+
+?: Son técnicas de evaluación de terceros sobre las habilidades de cada miembro de equipo
+$a. Las habilidades interpersonales son competencias relacionadas con el entorno y ambiente de trabajo
+b. Son técnicas aplicadas a la selección de los miembros del equipo de proyecto
+c. Se refiere a competencias que debe tener el jefe de proyecto para negociar con el cliente
+
+?: ¿Cuáles de las siguientes son técnicas de la Gestión del equipo de proyecto?
+$a. Observación y Conversación, Evaluaciones del desempeño del proyecto y Resolución de conflictos
+b. Formación, Actividades de mejora de trabajo en equipo y Herramientas de evaluación del personal
+
+?: ¿Qué ámbitos principales de aportación de RRHH al proyecto existen?
+a. Contratación y personal propio
+b. Ámbito académico, ámbito profesional, ámbito investigador y profesionales no cualificados
+$c. Asignación permanente, asignación temporal, reclutamiento de nuevas personas, transferencia de personas de otros departamentos, consultores y subcontratadas
+
+?: ¿En qué consiste la técnica de "Equipos virtuales" para la selección de miembros del equipo?
+a. Son equipos que trabajan virtualmente en varios proyectos y por tanto no tienen asignación directa a ninguno
+b. Son equipos formados usando herramientas virtuales de selección como las redes sociales o los portales de empleo
+$c. Consiste en la creación de equipos virtuales, geográficamente distribuidos, que no realizan reuniones presenciales
+
+?: ¿Cuál de las siguientes son herramientas de evaluación del personal?
+$a. Encuestas de actitud, evaluaciones específicas y entrevistas estructuradas
+b. Capacidad de liderazgo, reuniones de coordinación y formación continua
+c.La observación, la escucha y la decisión
+
+?: Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿En qué consiste el Análisis de reservas?
+a. Analiza si las reservas siguen estando disponibles para el proyecto
+b. Evalúa todas las reservas necesarias para corregir los riesgos identificados en el proyecto
+$c. Permite monitorizar el estado de las reservas de gestión y de contingencia del proyecto para determinar si las reservas son aún necesarias o si hacen falta reservas adicionales
+
+?: Dentro de las técnicas del Plan de gestión de costes, ¿En qué consisten las Reuniones
+$a. Son reuniones de planificación para desarrollar el plan de gestión de costes
+b. Son la comidas de trabajo, comentarios individuales, etc.
+c. Son reuniones informales para clarificar ideas antes de tomar decisiones
+
+?: ¿En qué consiste la estimación de costes del proyecto?
+$a. Es el proceso de desarrollar una aproximación de los recursos monetarios necesarios para completar las actividades del proyecto
+b. Consiste en estimar las tareas de desarrollo de software y calcular sus costes
+c. Es el proceso de agregación de los costes estimados de las actividades individuales o los paquetes de trabajo para establecer una línea base
+
+?: Hablando de las técnicas para la elaboración del presupuesto, ¿En qué consiste el Análisis de reservas?
+a. En calcular los costes de las reservas para corregir los efectos de los riesgos
+$b. En agregar al proyecto las reservas para contingencias y para la gestión del proyecto
+c. En establecer las políticas para la gestión de las reservas del proyecto
+
+?: Durante la ejecución del proyecto ¿qué son los gastos?
+a. Son las formas en que se van ejecutando las reservas cuando se superan las previsiones
+$b. Es la manera en que se van ejecutando los costes asociados a las diferentes actividades del proyecto
+c. Son los costes no previstos para el proyecto
+
+?: Con respecto a la técnica de Predicción dentro del Control de Costes, ¿Cómo se calcula el EAC considerando el valor actual del índice de rendimiento de costes?
+a. EAC = AC + (BAC – EV)
+$b. EAC = BAC / CPI
+c. EAC = AC + [(BAC – EV) / (CPI × SPI)]
+
+?: Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿En qué consiste la Evaluación del desempeño?
+$a. Esta técnica compara el coste del desempeño en el tiempo, las actividades del cronograma con sobrecostes o con superávits y la estimación de financiación para completar el trabajo
+b. Esta técnica evalúa las actividades con sobrecostes y las que han tenido superávits para aplicar las metodologías más eficientes a las primeras
+c. Esta técnica evalúa las actividades realizadas por cada miembro del equipo de trabajo para evaluar la eficiencia individual
+
+?: ¿Qué es la Línea Base de Coste?
+a. Es el valor de coste que no se debe superar
+$b. Es la estimación de cómo se realizarán los gastos a lo largo del proyecto
+c. Es el valor mínimo de coste del proyecto
+
+?: Con respecto a las salidas del Plan de Gestión de Costes, ¿En qué consisten las reglas de realización de mediciones?
+$a. Definir los puntos en el WBS en la que se realiza la medición, establecer las técnicas de medición del valor acumulado y establecer las metodologías de seguimiento
+b. Establecer las umbrales, la precisión y la exactitud
+c. En definir las reglas básicas de entendimiento con respecto a los miembros de equipo de proyecto
+
+?: Hablando de las técnicas para la elaboración del presupuesto, ¿En qué consiste el Juicio de expertos?
+a. Ayudan a eliminar del presupuesto reservas innecesarias
+$b. Ayudan a establecer otros costes asociados a otras unidades dentro de la organización
+c. Ayudan a ajustar el coste a otros proyectos similares
+
+?: Dentro de las técnicas usadas para la estimación de costes, ¿Qué es el Análisis de Reserva?
+a. Es una cantidad resultado de un análisis usando métodos cuantitativos
+$b. Es la estimación de costes realizada para contingencias derivadas de riesgos
+c. Es un porcentaje del coste estimado para la actividad o para proyecto
+
+?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste el Juicio de Expertos?
+a. Se basa en información histórica tabulada por expertos
+b. Se basa en aplicar técnicas Delphi usando expertos
+$c. Se basa en la opinión de expertos, basada en información histórica, para producir estimaciones
+
+?: Con respecto a las salidas del Plan de Gestión de Costes, ¿En qué consiste el nivel de precisión?
+a. Es la precisión con que se pueden estimar los conceptos más ambiguos de un presupuesto
+$b. Es el grado de precisión con el que se puede redondear un valor al estimar una actividad concreta
+c. Es el número de decimales con que se deben redondear todas las partidas del presupuesto
+
+?: En el contexto del Plan general de costes, hablando de técnicas analíticas para la elección de las estrategias de financiación del proyecto, ¿En qué consiste la Financiación con deuda (funding with debt)?
+a. Se buscan socios financieros que harán la inversión en el proyecto a cambio de obtener participación en los beneficios
+$b. Se solicitarán préstamos a bancos
+c. El proyecto será financiado la propia empresa
+
+?: Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿En qué consiste la utilización de aplicaciones de gestión de proyectos?
+a. Consiste en el uso de aplicaciones durante el desarrollo del proyecto
+b. Consiste en el uso de aplicaciones de contabilidad durante el desarrollo de proyectos
+?c. Consiste en el uso de aplicaciones de gestión de proyectos que permitan monitorizar las tres dimensiones del EVN (PV, EV y AC)
+
+?: ¿Cuáles de las siguientes son técnicas utilizadas habitualmente para la estimación de costes?
+a. Juicio de expertos, Conciliación del límite de financiación, Adquisición y Análisis de decisión multicriterio
+b. Juicio de expertos, Técnicas analíticas, Agregación de costes, Relaciones históricas y Reuniones
+$c. Juicio de Expertos, Estimación por analogía, Estimación paramétrica, Estimación de tres puntos, Análisis de reserva y Coste de la calidad
+
+?: Hablando de las técnicas para la elaboración del presupuesto, ¿En qué consiste la Agregación de costes?
+a. Se van agregando a las actividades los costes estructurales para saber el coste real
+$b. Se van agregando actividades de más bajo nivel en las que están más altas en el WBS hasta llegar a nivel del proyecto completo
+c. Se van agregando las diferentes reservas para prever los costes de los riesgos
+
+?: En el contexto del Plan general de costes, hablando de técnicas financieras a usar para decidir la viabilidad del proyecto, ¿En qué consiste la Tasa interna de rentabilidad?
+a. Es una razón financiera que compara el beneficio o la utilidad obtenida de un proyecto en relación a la inversión realizada
+$b. Mide la rentabilidad de los cobros y los pagos actualizados, generados por una inversión, en porcentaje a la inversión realizada
+c. La cantidad de tiempo necesaria para recuperar el coste de una inversión
+
+?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste la Estimación paramétrica?
+a. Se basa en la estimación del coste por analogía con otros elementos de similar tamaño o complejidad
+$b. Se basa en la estimación paramétrica a partir de información estadística entre datos históricos relevantes y otras variables
+c. Se basa en la opinión de expertos, basada en información histórica, para producir estimaciones
+
+?: Hablando de las técnicas para la elaboración del presupuesto, ¿En qué consiste la Conciliación del límite de financiación?
+a. En que el coste del proyecto debe ser, finalmente, conciliado con el coste de otros proyectos similares
+$b. En que el coste del proyecto debe ser, finalmente, conciliado con el gasto previsto para el proyecto
+c. En que el coste del proyecto debe ser, finalmente, conciliado con el presupuesto del proyecto
+
+?: Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿En qué consiste la Predicción?
+a. Es una actividad prevista para corregir los costes del proyecto en caso de que no se puedan evitar los riesgos
+$b. En el desarrollo de pronósticos para la estimación a la conclusión en base a la información actual
+c. Es una actividad que debe existir en todo proyecto para ver si se alcanza en el tiempo establecido, de manera que se anticipen los retrasos
+
+?: Durante la ejecución del proyecto ¿qué son los Requisitos de financiación?
+a. Es el valor de los créditos necesarios para el proyecto
+b. Es el coste que va generando el proyecto
+$c. Es la previsión de transferencia de fondos al proyecto
+
+?: En el contexto del Plan general de costes, hablando de técnicas financieras a usar para decidir la viabilidad del proyecto, ¿En qué consiste el Periodo de recuperación?
+$a. La cantidad de tiempo necesaria para recuperar el coste de una inversión
+b. Mide la rentabilidad de los cobros y los pagos actualizados, generados por una inversión, en porcentaje a la inversión realizada
+c. Es una razón financiera que compara el beneficio o la utilidad obtenida de un proyecto en relación a la inversión realizada
+
+?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es el Índice de rendimiento del cronograma (SPI)?
+$a. Es una medida de la eficiencia del cronograma realizado en un plazo con respecto al valor planeado. SPI=EV/PV
+b. Es una medida de la eficiencia del coste en un plazo con respecto al valor planeado. SPI=AC/PV
+c. Es una medida de la eficiencia del coste del trabajo desarrollado con respecto al coste en un plazo. SPI=EV/AC
+
+?: En el contexto del Plan general de costes, hablando de técnicas financieras a usar para decidir la viabilidad del proyecto, ¿En qué consiste el Flujo de caja descontado?
+a. Es un procedimiento que permite calcular el valor presente de un determinado número de flujos de caja futuros, originados por una inversión
+$b. Es una manera de evaluar las inversiones en función de sus ingresos futuros
+c. Es una razón financiera que compara el beneficio o la utilidad obtenida de un proyecto en relación a la inversión realizada
+
+?: ¿Qué procesos incluye la Gestión de Costes del proyecto?
+a. Los relacionados con la creación de una línea base de desarrollo del proyecto
+b. El análisis, la financiación y la gestión de coste-calidad
+$c. La planificación, estimación, presupuesto, financiación, gestión y control de los costes
+
+?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste la Estimación de tres puntos?
+a. Se basa en el cálculo de tres valores (optimista, medio y pesimista)
+$b. Se basa en el cálculo de tres valores (optimista, medio y pesimista) que se evalúa de acuerdo a métodos estadísticos
+c. Se basa en el cálculo de tres valores (optimista, medio y pesimista)
+
+?: Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿En qué consiste el Índice de rendimiento a completar?
+$a. Es una medida de la ejecución requerida de los costes para lograr, con los recursos restantes, cumplir con una meta de gestión específica
+b. Es una técnica consistente en el desarrollo de pronósticos para el estimación a la conclusión en base a la información actua
+c. Es una técnica de cálculo del rendimiento de las tareas realizadas hasta el momento en términos de coste/beneficio
+
+?: Pueden expresarse los costes en horas?
+a. No, los costes se miden en unidades monetarias
+$b. Sí, para evitar las fluctuaciones monetarias en el futuro
+c. No, sólo pueden medirse en unidades monetarias y porcentajes de beneficio
+
+?: ¿Cuál de los siguientes es una lista de elementos del Plan de gestión de costes?
+a. Definición de la jornada laboral, costes de las dietas y costes por kilómetro
+$b. Unidades de medida, Nivel de redondeos, y Nivel de precisión
+c. Costes de hora, Definición de riesgos y Requisitos de financiación
+
+?: Hablando de las técnicas analíticas para la elaboración del Plan de gestión de costes, ¿Qué estrategias de financiación principales se definen?
+a. Periodo de recuperación, Retorno de la inversión (ROI), Tasa interna de rentabilidad, Flujo de caja descontado y Valor presente neto (NPV)
+$b. Autofinanciación, Financiación de socios y Financiación con deuda
+c. Crear con medios propios, Comprar, Alquilar y Leasing
+
+?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste el uso de aplicaciones para gestión de proyectos?
+a. En utilizar herramientas de simulación de proyecto para adelantarse a los problemas
+$b. En utilizar herramientas que ayuden en la estimación de algunas actividades del proyecto
+c. En utilizar herramientas estadísticas que ofrezcan información sobre el proyecto
+
+?: ¿Qué describe el Plan de gestión de costes del proyecto?
+a. Permite la actualización de costes del proyecto en ejecución
+b. Describe los costes de cada actividad del proyecto
+$c. Describe cómo se planificarán, controlarán y estructurarán los costes del proyecto
+
+?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es el Índice de rendimiento del cronograma (SPI)?
+$a. Es una medida de la eficiencia del cronograma realizado en un plazo con respecto al valor planeado. SPI=EV/PV
+b. Es una medida de la eficiencia del coste del trabajo desarrollado con respecto al coste en un plazo. SPI=EV/AC
+c. Es una medida de la eficiencia del coste en un plazo con respecto al valor planeado. SPI=AC/PV
+
+?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste la Estimación paramétrica?
+$a. Se basa en la estimación paramétrica a partir de información estadística entre datos históricos relevantes y otras variables
+b. Se basa en la opinión de expertos, basada en información histórica, para producir estimaciones
+c. Se basa en la estimación del coste por analogía con otros elementos de similar tamaño o complejidad
+
+?: Con respecto a la técnicas de Control de Costes, ¿Qué es el To-Complete Performance Index (TCPI)?
+a. Es una proporción entre el trabajo que queda por realizar y el dinero presupuestado para realizarlo
+b. Es una proporción entre el trabajo que queda por realizar y el dinero necesario para realizarlo
+$c. Es una proporción entre el trabajo que queda por realizar y el dinero que queda para realizar el trabajo
+
+?: ¿Cuál es uno de los productos más importantes de la estimación de costes?
+$a. La estimación de costes desglosada o agrupada
+b. El presupuesto de adquisiciones
+c. El presupuesto de cliente
+
+?: Dentro de las técnicas del Plan de gestión de costes, ¿En qué consiste el Juicio de Expertos?
+$a. Consiste en la opinión de expertos que se basan en información histórica de otros proyectos similares
+b. Consiste en la opinión de expertos que se basan en la información de otros Planes de gestión de proyectos aunque no sean similares
+c. Consiste en la opinión de expertos cuando no existe información histórica de proyectos similares
+
+?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es la Variación del Coste (CV)?
+a. Es la medida de desviación de costes en un periodo con respecto al presupuesto planificado. CV=AC-PV
+$b. Es la medida de la desviación del trabajo realizado en un periodo con respecto al coste en dicho periodo. CV=EV-AC
+c. Es la medida de la desviación en la realización del cronograma con respecto al plan. CV=EV-PV
+
+?: ¿Qué es el Plan de gestión de costes?
+a. Es el proceso de evaluación de los costes de las actividades del proyecto
+b. Es el proceso que genera el presupuesto del proyecto
+$c. Es el proceso que establece las políticas, procedimientos y documentación para la planificación, la administración, los gastos y el control de costes del proyecto
+
+?: Con respecto a la técnica de Predicción dentro del Control de Costes, ¿Cómo se calcula el EAC considerando el ratio de presupuesto?
+a. EAC = BAC / CPI
+b. EAC = AC + [(BAC – EV) / (CPI × SPI)]
+$c. EAC = AC + (BAC – EV)
+
+?: Con respecto a la técnica de Predicción dentro del Control de Costes, ¿Qué es el BAC?
+$a. Es la estimación del presupuesto final del proyecto, con los datos actuales
+b. Es la estimación para la terminación de las actividades del proyecto, con los datos actuales
+c. Es el beneficio de las actividades con coste, con los datos actuales
+
+?: Hablando de las técnicas analíticas para la elaboración del Plan de gestión de costes, ¿Qué maneras de financiar los recursos necesarios se definen?
+$a. Crear con medios propios, Comprar, Alquilar y Leasing
+b. Periodo de recuperación, Retorno de la inversión (ROI), Tasa interna de rentabilidad, Flujo de caja descontado y Valor presente neto (NPV)
+c. Autofinanciación, Financiación de socios y Financiación con deuda
+
+?: Hablando de las técnicas analíticas para la elaboración del Plan de gestión de costes, ¿Qué maneras de financiar los recursos necesarios se definen?
+a. Autofinanciación, Financiación de socios y Financiación con deuda
+$b. Crear con medios propios, Comprar, Alquilar y Leasing
+c. Periodo de recuperación, Retorno de la inversión (ROI), Tasa interna de rentabilidad, Flujo de caja descontado y Valor presente neto (NPV)
+
+?: ¿En qué consiste la determinación del presupuesto?
+a. Determinar el Presupuesto es el proceso de evaluación de los costes estimados de las actividades para establecer una aproximación del coste del desarrollo de software
+b. Determinar el Presupuesto es el proceso de evaluación de los costes estimados de las actividades para establecer un documento de costes
+$c. Determinar el Presupuesto es el proceso de agregación de los costes estimados de las actividades para establecer una línea base
+
+?: Dentro de las técnicas del Plan de gestión de costes, ¿En qué consisten las Técnicas analíticas?
+a. En analizar los costes desde el punto de vista de la empresa que va a desarrollar el software
+b. Son técnicas relacionadas con la gestión del coste de los recursos humanos
+$c. Permiten elegir, entre otras, las estrategias de financiación, el modo de financiar los recursos necesarios y la viabilidad del proyecto
+
+?: Con respecto a las técnicas de Control de Costes, ¿Qué información se determina para la Evaluación del desempeño?
+a. Valor acumulado, Valor ganado y Rendimiento del valor ganado o acumulado
+$b. Análisis de la variación, Análisis de la tendencia y el Rendimiento del valor ganado o acumulado
+c. Valor planeado, Valor ganado o acumulado y Coste actual
+
+?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste el Análisis de Ofertas (Vendor Bid Analysis)?
+a. Se piden ofertas a proveedores para provocar bajadas de precios de desarrollo
+$b. Se solicitan ofertas a proveedores sobre algunas partes del desarrollo y se estudian
+c. Se piden ofertas a proveedores con experiencia y se estudian para ofertar lo mismo
+
+?: En el contexto del Plan general de costes, hablando de técnicas analíticas para la elección de las estrategias de financiación del proyecto, ¿En qué consiste la Autofinanciación?
+$a. El proyecto será financiado por la propia empresa
+b. El proyecto será financiado por el equipo de desarrollo
+c. Se buscan socios financieros que harán la inversión en el proyecto a cambio de obtener participación en los beneficios
+
+?: ¿Cuáles son las técnicas habituales para el Control de Costes del proyecto?
+a. Juicio de Expertos, Estimación por analogía, Estimación paramétrica, Estimación de tres puntos, Análisis de reserva y Coste de la calidad
+b. Agregación de costes, Análisis de reservas, Juicio de expertos, Relaciones históricas y Conciliación del límite de financiación
+$c. Gestión del Valor ganado o acumulado, Predicción, Índice de rendimiento a completar, Evaluación del desempeño, Aplicaciones de gestión de proyectos y Análisis de reservas
+
+?: Hablando de las técnicas analíticas para la elaboración del Plan de gestión de costes, ¿Qué técnicas financieras se pueden usar para decidir la viabilidad del proyecto?
+$a. Periodo de recuperación, Retorno de la inversión (ROI), Tasa interna de rentabilidad, Flujo de caja descontado y Valor presente neto (NPV)
+b. Autofinanciación, Financiación de socios y Financiación con deuda
+c. Crear con medios propios, Comprar, Alquilar y Leasing
+
+?: ¿En qué consiste el Control de Costes del proyecto?
+$a. Es el proceso de seguimiento de la situación del proyecto
+b. Es el proceso de control de gastos para que no superen los ingresos
+c. Es el proceso de abaratamiento de costes
+
+?: Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿En qué consiste el Análisis de reservas?
+a. Evalúa todas las reservas necesarias para corregir los riesgos identificados en el proyecto
+b. Analiza si las reservas siguen estando disponibles para el proyecto
+$c. Permite monitorizar el estado de las reservas de gestión y de contingencia del proyecto para determinar si las reservas son aún necesarias o si hacen falta reservas adicionales
+
+?: ¿Qué se obtiene de la elaboración del presupuesto?
+$a. El resultado final del presupuesto es un documento de los costes de los conceptos integrados en el proyecto
+b. El resultado final del presupuesto es un documento de proporción de costes/beneficios de los conceptos integrados en el proyecto
+c. El resultado final del presupuesto es un documento de los beneficios que suponen los conceptos integrados en el proyecto
+
+?: En el contexto del Plan general de costes, hablando de técnicas financieras a usar para decidir la viabilidad del proyecto, ¿En qué consiste el Flujo de caja descontado?
+a. Mide la rentabilidad de los cobros y los pagos actualizados, generados por una inversión, en porcentaje a la inversión realizada
+b. La cantidad de tiempo necesaria para recuperar el coste de una inversión
+$c. Es una razón financiera que compara el beneficio o la utilidad obtenida de un proyecto en relación a la inversión realizada
+
+?: En el contexto del Plan general de costes, hablando de técnicas analíticas para la elección de las estrategias de financiación del proyecto, ¿En qué consiste la Financiación de socios (funding with equity)?
+$a. Se buscan socios financieros que harán la inversión en el proyecto a cambio de obtener participación en los beneficios
+b. El proyecto será financiado la propia empresa
+c. Se solicitarán préstamos a bancos
+
+?: Con respecto a la técnica de Predicción dentro del Control de Costes, ¿Qué es el EAC?
+a. Es la estimación del activo contable del proyecto, con los datos actuales
+b. Es la estimación de las actividades con coste, con los datos actuales
+$c. Es la estimación de la terminación de las actividades del proyecto, con los datos actuales
+
+?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste la Estimación por analogía?
+$a. Se basa en la estimación del coste por analogía con otros elementos de similar tamaño o complejidad
+b. Se basa en la estimación paramétrica a partir de información estadística entre datos históricos relevantes y otras variables
+c. Se basa en la opinión de expertos, basada en información histórica, para producir estimaciones
+
+?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste el Coste de la calidad?
+a. Consiste en definir un manual de calidad que permita realizar la tarea con la mayor calidad posible
+$b. Consiste en comparar el coste de hacer una actividad con calidad frente al coste hacerla sin calidad
+c. Consiste en estudiar el coste de la calidad para eliminar procedimientos de calidad muy caros
+
+?: Hablando de las técnicas para la elaboración del presupuesto, ¿En qué consisten las Relaciones históricas?
+a. Consiste en buscar relaciones con otros proyectos para ajustar las actividades comunes
+$b. Consiste en usar como base la información histórica de otros proyectos similares
+c. Consiste en usar las relaciones con expertos para buscar su consejo
+
+?: Con respecto a la técnica de Predicción dentro del Control de Costes, ¿Cómo se calcula el EAC considerando ambos, el ratio de presupuesto y el valor actual del índice de rendimiento de costes?
+a. EAC = BAC / CPI
+b. EAC = AC + (BAC – EV)
+$c. EAC = AC + [(BAC – EV) / (CPI × SPI)]
+
+?: ¿Cuáles son las técnicas más habituales usadas para la elaboración de distintos aspectos del Plan de gestión de costes?
+a. Juicio de expertos, Estimación por analogía, Estimación paramétrica, Estimación de tres puntos, Análisis de reserva, Coste de la calidad, Aplicaciones para gestión de proyectos, Análisis de Ofertas (Vendor Bid Analysis) y Técnicas de tomas de decisión en grupo
+b. Agregación de costes, Análisis de reservas, Juicio de expertos, Relaciones históricas y Conciliación del límite de financiación
+$c. Juicio de expertos, Técnicas analíticas y Reuniones
+
+?: En la técnica de Gestión del Valor ganado o acumulado usada para el Control de Costes del proyecto, ¿Qué dimensiones se monitorizan?
+$a. El valor planeado, el valor ganado y el coste actual
+b. La línea base de coste y el valor del desempeño
+c. Todas las dimensiones relacionadas con la estimación de costes del proyecto
+
+?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es el Coste actual (AC)?
+a. Es el valor del trabajo realizado en un periodo, expresado en unidades económicas
+b. Es el presupuesto autorizado en un periodo, asignado al cronograma del proyecto
+$c. Es el valor de los gastos realizados en un periodo, en el proyecto
+
+?: En el contexto del Plan general de costes, hablando de técnicas financieras a usar para decidir la viabilidad del proyecto, ¿En qué consiste el Valor presente neto (NPV)?
+a. Mide la rentabilidad de los cobros y los pagos actualizados, generados por una inversión, en porcentaje a la inversión realizada
+b. Es una manera de evaluar las inversiones en función de sus ingresos futuros
+$c. Es un procedimiento que permite calcular el valor presente de un determinado número de flujos de caja futuros, originados por una inversión
+
+?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es el valor acumulado o ganado (EV)?
+a. Es el valor de los gastos realizados en un periodo, en el proyecto
+$b. Es el valor del trabajo realizado en un periodo, expresado en unidades económicas
+c. Es el valor de los beneficios en un periodo, calculados con respecto al proyecto
+
+?: Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿En qué consiste la Gestión del Valor ganado o acumulado?
+a. Es una metodología que consiste en calcular permanentemente los beneficios que se van obteniendo del proyecto
+$b. Es una metodología que combina mediciones alcance, cronograma y recursos para evaluar el desempeño y el progreso del proyecto
+c. Es una metodología que busca obtener beneficios del proyecto, eliminando aquellas actividades no productivas
+
+?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es el Valor Planeado (PV)?
+a. Es el valor de los beneficios calculados con respecto al proyecto
+b. Es el coste de la planificación del proyecto
+$c. Es el presupuesto autorizado, asignado al cronograma del proyecto
+
+?: Con respecto a la técnica de Predicción dentro del Control de Costes, ¿Qué es el ETC?
+a. Es la estimación del presupuesto final del proyecto, con los datos actuales
+b. Es la estimación técnica de costes, con los datos actuales
+$c. Es la estimación para la terminación de las actividades del proyecto, con los datos actuales
+
+?: En la elaboración del presupuesto, ¿Cuáles son las técnicas más habituales?
+$a. Agregación de costes, Análisis de reservas, Juicio de expertos, Relaciones históricas y Conciliación del límite de financiación
+b. Juicio de expertos, Técnicas analíticas y Reuniones
+c. Estimación por analogía, Estimación paramétrica, Estimación de tres puntos y Análisis de reserva
+
+?: Con respecto a la técnicas de Control de Costes, ¿Qué información se determina para la Evaluación del desempeño?
+$a. Análisis de la variación, Análisis de la tendencia y el Rendimiento del valor ganado o acumulado
+b. Valor planeado, Valor ganado o acumulado y Coste actual
+c. Valor acumulado, Valor ganado y Rendimiento del valor ganado o acumulado
+
+?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es el Índice de rendimiento de costes (CPI)?
+a. Es una medida de la eficiencia del cronograma realizado en un plazo con respecto al valor planeado. CPI=EV/PV
+$b. Es una medida de la eficiencia del coste del trabajo desarrollado con respecto al coste en un plazo. CPI=EV/AC
+c. Es una medida de la eficiencia del coste en un plazo con respecto al valor planeado. CPI=AC/PV
+
+?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es la Variación del cronograma (SV)?
+a. Es la medida de los que se ha desarrollado con respecto a los que ha costado en un periodo. SV=AC-EV
+$b. Es la medida de la desviación en la realización del cronograma con respecto al plan. SV=EV-PV
+c. Es la medida de la desviación de costes en un periodo con respecto al presupuesto planificado. SV=AC-PV
+
+?: ¿Cuál de las siguientes afirmaciones es cierta?
+a. La tabla de impactos debe ser simétrica en función de las amenazas y las oportunidades
+$b. Debe definirse una tabla de impactos para amenazas y otra para oportunidades
+c. La tabla de impactos es única para amenazas y oportunidades
+
+?: ¿En qué consiste la "Valoración económica" como producto de la fase de Planificación de la Gestión de cada Riesgo?
+a. Define los criterios para evaluar el estado del proyecto con técnicas como EVM
+$b. Define los criterios y técnicas usadas para la valoración, además de los propios resultados de las valoraciones
+c. Define los criterios de priorización de los riesgos, además de la lista de riesgos priorizados
+
+?: ¿Qué produce la fase de priorización?
+$a. Una lista de riesgos priorizados y otra de riesgos potenciales (no priorizados)
+b. Una lista de riesgos que tienen una probabilidad mayor del 50%
+c. Una lista de riesgos que tienen un impacto mayor del 50%
+
+?: ¿Cuál de las siguientes es cierta?
+a. La escala de valores de impacto suele ser lineal
+b. La escala de valores de probabilida suele ser logarítmica
+$c. La escala de valores de impacto suele ser logarítmica
+
+?: ¿En qué consiste la Monitorización de Riesgos?
+a. En disponer de recursos suficientes para poder poner en marcha la Gestión de Riesgos durante el desarrollo
+b. En esperar que ocurra un riesgo para tomer algún tipo de resolución
+$c. En controlar el progreso del proyecto en lo relativo a resolución de riesgos durante la fase de desarrollo
+
+?: En el contexto de las técnicas de Monitorización de Riesgos, ¿En qué consisten las Reuniones sobre el Estado del Proyecto?
+a. En que hay que tener un plan de reuniones extraordinarias para definir nuevos riesgos
+$b. En que en todas las reuniones periódicas sobre el estado del proyecto, la gestión de riesgos debe ser un punto del orden del día
+c. En que hay que comenzar por la fase primera de la gestión de riesgos cada cierto tiempo y rehacer la planificación de la gestión de riesgos
+
+?: ¿Qué es la Matriz de Probabilidad e Impacto?
+a. La Matriz de Probabilidad e impacto define los valores usados para priorizar los riesgos de mayor probabilidad de ocurrencia en el proyecto en función de su impacto
+$b. La Matriz de Probabilidad e impacto define los valores usados para priorizar los riesgos de acuerdo a la probabilidad de ocurrencia y a su impacto en el proyecto
+c. La Matriz de Probabilidad e impacto define los valores usados para calcular el impacto de los riesgos de mayor probabilidad en el proyecto
+
+?: La matriz de probabilidad e impacto, ¿Cómo se obtiene?
+$a. En función del apetito, la tolerancia y el umbral de riesgo
+b. En función de normativa que define los valores y rangos de la matriz
+c. En función de las estrategias proactivas frene al riesgo
+
+?: Dentro de las técnicas usadas en el Análisis de Riesgos, ¿Cómo se hace la Evaluación del impacto?
+a. Se hace de acuerdo a una escala de rangos que se definen en la matriz de probabilidad e impacto
+b. Se hace de acuerdo a una escala de rangos que se definen en la tabal de categorías
+$c. Se hace de acuerdo a una escala de rangos que se define en la tabla de escalas de impacto
+
+?: Dentro de las técnicas de Identificación de riesgos, hablando del análisis SWOT, ¿Cuál es el procedimiento?
+a. (1)Identificar las fortalezas y las oportunidades. (2) Identificar las amenazas y debilidades. (3) Estudiar en qué manera las fortalezas corrigen las amenazas y en qué manera las oportunidades permiten superar las debilidades
+b. (1)Identificar las amenazas y las debilidades. (2) Identificar las oportunidades y fortalezas. (3) Estudiar en qué manera las fortalezas corrigen las amenazas y en qué manera las oportunidades permiten superar las debilidades
+$c. (1)Identificar las fortalezas y debilidades de la organización (proyecto). (2) Identificar oportunidades y amenazas. (3) Estudiar en qué manera las fortalezas corrigen las amenazas y en qué manera las oportunidades permiten superar las debilidades
+
+?: Dentro de las técnicas de Priorización de los Riesgos, ¿En qué consiste la Ordenación por Probabilidad e Impacto?
+$a. En ordenar los riesgos por 1º probabilidad y 2º impacto para priorizar los riesgos
+b. En usar la Matriz de Probabilidad e Impacto para priorizar los riesgos
+c. En calcular el producto de la probabilidad por el impacto para priorizar los riesgos
+
+?: ¿Qué información añade a cada riesgo la Planificación de la Gestión de cada Riesgo?
+a. Define los roles y responsabilidades de la gestión de riesgos
+$b. Gestión del riesgo, Plan de Contingencia del riesgo y Valoración económica
+c. Definición de las políticas de riesgo para el proyecto
+
+?: ¿En qué consiste la Planificación de la gestión de cada riesgo?
+$a. En generar un plan para tratar cada riesgo de importancia alta del proyecto
+b. En definir las estrategias frente al riesgo
+c. En generar las políticas de gestión de riesgos
+
+?: ¿Cuál de las siguientes es verdadera?
+a. Los riesgos positivos se llaman fortalezas y los negativos debilidades
+$b. Los riesgos positivos se llaman oportunidades y los negativos amenazas
+c. Los riesgos positivos se llaman aceptaciones y los negativos evitaciones
+
+?: ¿Cuáles son las estrategias generales para las amenazas?
+a. Proactivas, reactivas y contingencias
+$b. Eliminación, Transferencia, Evitación y Retención
+c. Aprovechamiento, Mejora, Compartición y Aceptación
+
+?: La actitud frente al riesgo de la organización y de los stakeholders está influenciada por diversos factores, ¿Cuáles?
+a. Aceptación, mitigación, evitación y transferencia
+$b. El apetito, la tolerancia y el umbral de riesgo
+c. Actitud proactiva o reactiva
+
+?: ¿Qué es un Factor de Riesgo?
+a. Es un indicador del riesgo
+b. Es un porcentaje del riesgo total en función del número de stakeholders
+$c. Es un elemento que puede ser causa del riesgo
+
+?: El Risk Breakdown Structure (RBS) ¿qué es?
+$a. Es la identificación jerárquica de las categorías de riesgo
+b. Es la jerarquía de atributos que definen el riesgo
+c. Es la lista de riesgos del proyecto antes de priorizar
+
+?: ¿Cuáles son las estrategias generales para las oportunidades?
+$a. Aprovechamiento, Mejora, Compartición y Aceptación
+b. Proactivas, reactivas y contingencias
+c. Eliminación, Transferencia, Evitación y Retención
+
+?: Dentro de las técnicas de Identificación de riesgos, ¿Qué formatos habituales suelen tener las listas de control?
+$a. Listas de preguntas y listas de riesgos identificados
+b. Listas de rangos de los valores de la probabilidad y de los valores del impacto
+c. Listas de riesgos importantes y listas de reserva
+
+?: En el PMBOK se definen dos fases de análisis, ¿cuáles?
+a. Análisis proactivo y análisis reactivo
+$b. Análisis cualitativo y análisis cuentitativo
+c. Análisis de costes de riesgos y análisis de beneficios
+
+?: Dentro de las técnicas usadas habitualmente en la Planificación de la gestión de cada riesgo, ¿En qué consiste el Análisis coste-beneficio?
+$a. Es un procedimiento para formular y evaluar respuestas a los riesgos que sean consistentes en la comparación de costes y beneficios
+b. Es un procedimiento para calcular el coste y beneficio de las políticas de usar una estrategia reactiva (no controlar los riesgos) y proactiva
+c. Es un procedimiento para estimar el coste de la gestión de riesgos de cada actividad del proyecto y compararlo con los beneficio estimados del proyecto
+
+?: En el contexto de las técnicas de Monitorización de Riesgos, ¿En qué consiste el Análisis de Variación y de Tendencias?
+$a. En hacer análisis para comparar el estado del proyecto y de lo esperado en ese momento
+b. En el cálculo de las fluctuaciones monetarias de las reservas de riesgos del proyecto
+c. En hacer un seguimiento de la Gestión de Riesgos para comprobar que las reservas de riesgos siguen siendo suficientes para el proyecto
+
+?: ¿Qué es la Duración de un riesgo?
+$a. Es una combinación del momento en el que se sentirá su impacto y la duración del mismo
+b. Es el periodo de tiempo en el que es posible mitigar el riesgo
+c. Es el tiempo transcurrido desde que se identifica hasta que ya no es importante
+
+?: En el contexto de las técnicas de Resolución de proyectos, ¿En es la Aproximación de desgin-to-cost?
+a. En definir escenarios y se valorar estos escenarios
+b. En replantearse el objetivo del proyecto para determinar si el asumir el riesgo es productivo frente a otras opciones
+$c. Es una técnica de valoración de un desarrollo o una innovación
+
+?: Dentro de las técnicas de Identificación de riesgos, ¿En qué consiste el análisis basado en listas de control?
+a. En contestar a una serie de proeguntas sobre el valor del riesgo
+b. En definir listas de riesgos que posteriormente se revisan
+$c. En usar listas de riesgos o preguntas que proceden de experiencias anteriores
+
+?: ¿Qué mide la probabiliad de un riesgo?
+$a. Es el valor numérico de la posibilidad de que el riesgo ocurra
+b. Es la tabla de valores de impactos sobre el riesgo
+c. Es un valor que identifica si el riesgo es muy peligroso para le proyecto
+
+?: La metodología de Boehm tiene seis pasos
+$a. Identificación, Análisis, Priorización, Planificación de la gestión, Resolución y Monitorización
+b. Valoración, Priorización, Análisis Cuantitativo, Planificación de la respuesta, Monitorización y Control
+c. Planificación de la Gestión, Identificación, Análisis cualitativo, Análisis cuantitativo, Planificación de la respuesta y Monitorización
+
+?: En el contexto de las técnicas de Resolución de proyectos, ¿En qué consisten las Simulaciones?
+a. En crear prototipos, de manera que pueda evaluarse su viabilidad en términos de coste y riesgo
+b. En hacer valoraciones de elementos relacionados con las fuentes de riesgo
+$c. En definir escenarios y se valoran estos escenarios
+
+?: En el contexto de las técnicas de Resolución de proyectos, ¿En qué consiste las Encuestas?
+a. En replantearse el objetivo del proyecto para determinar si el asumir el riesgo es productivo frente a otras opciones
+b. En la valoración de un desarrollo o una innovación
+$c. En obtener información de interesados y determinar la viabilidad de ciertas actividades que son causa de riesgo
+
+?: ¿Cuáles son las estrategias generales para las oportunidades?
+a. Eliminación, Transferencia, Evitación y Retención
+b. Proactivas, reactivas y contingecnias
+$c.  Aprovechameinto, Mejora, Compartición y Aceptación
+
+?: ¿Cuál de las siguientes es la definición de riesgo que mejor se adapta a lo que se expone en la asignatura?
+$a. Un riesgo es un evento o condición incierta que, si sucede, tiene un efecto positivo o negativo en por lo menos uno de los objetivos del proyecto, tales como el alcance, el cronograma, el coste y la calidad (PMBOK)
+b. Un valor compuesto, resultante de la multiplicación de la probabilidad de ocurrencia de un evento por la pérdida que la misma implica (BOEHM)
+c. Un riesgo es cualquier suceso que pueda afectar negativamente a la marcha del proyecto en el futuro (RAE)
+
+?: ¿Cuáles son las técnicas habituales usadas en la priorización de riesgos?
+a. Las Simulaciones, la Matriz de Probabilidad e Impacto y el Juicio de expertos
+$b. La Ordenación por Probabilidad e Impacto, la Matriz de Probabilidad e Impacto y el Juicio de expertos
+c. El Análisis de coste-beneficio, la Matriz de Probabilidad e Impacto y el Juicio de expertos
+
+?: En el contexto de las técnicas de Resolución de proyectos, ¿En qué consisten los Benchmarks?
+a. En definir escenarios y se valoran estos escenarios
+$b. En valoraciones de elementos relacionados con las fuentes de riesgo
+c. En crear prototipos, de manera que pueda evaluarse su viabilidad en términos de coste y riesgo
+
+?: ¿En qué consiste la "Gestión de Riesgo" como producto de la fase de Planificación de la Gestión de cada Riesgo?
+a. Define la valoración y priorización del riesgo
+$b. Define la estrategia tomada para afrontar el riesgo
+c. Define la política de la organización y del proyecto con respecto a los riesgos
+
+?: Dentro de las técnicas usadas habitualmente en la Planificación de la gestión de cada riesgo, ¿En qué consisten los Planes de Contingencia?
+a. En definir estrategias generales que pueden resultar insuficientes o demasiado genéricas para poder controlar el riesgo
+b. En evaluar los costes del riesgo frente al coste de definir una estrategia de respuesta propia para le riesgo
+$c. En realizar un plan ad-hoc, identificando los eventos y las características del riesgo para definir medidas que se ejecutarán sólo en determinadas circunstancias
+
+?: Dentro de las técnicas de Identificación de riesgos, ¿Cuáles son las técnicas de Recopilación de Información mas habituales?
+a. Tormenta de ideas, Análisis del valor ganado, Delphi y Entrevistas
+$b. Tormentas de ideas, Delphi, Entrevistas y Análisis causal
+c. Análisis del valor ganado, Delphi,Análisis SWOT y Análisis causal
+
+?: Dentro de las técnicas de Identificación de riesgos y dentro de las técnicas de Recopilación de Información, ¿En qué consiste el análisis causal?
+a. Identifica las oportunidades sobrevenidas por actividades casuales del proyecto
+b. En definir las causas por las que el proyecto tiene riesgos
+$c. En técnicas sencillas de identificación de causas para un problema
+
+?: En el contexto de las técnicas de Monitorización de Riesgos, ¿En qué consiste el Análisis de Reserva?
+a. En revisar el estado de las reservas de tiempo para ver si las gestión de riesgos ha consumido alguna de estas reservas
+$b. En comprobar el estado de estas reservas, comparando su valor con los riesgos que debe cubrir hasta el final del proyecto
+c. En comparar el estado de estas reservas con las previsiones realizadas para afrontar el coste de la gestión de riesgos
+
+?: Dentro de las técnicas usadas en el Análisis de Riesgos, ¿Cómo se hace la Categorización de los riesgos?
+$a. Se hace de acuerdo a la definición de categorías realizada en la Planificación de la gestión de riesgos
+b. Se hace de acuerdo a la definición de categorías realizada en la Tabla de escalas de escalas de impacto
+c. Se hace de acuerdo a la definición de categorías realizada en la Matriz de probabilidad e impacto
+
+?: Dentro de las técnicas usadas en el Análisis de Riesgos, ¿Para qué es importante la Evaluación de la Urgencia de los Riesgos?
+$a. Para determinar el impacto total que tendrán los riesgos
+b. Para identificar los riesgos categorizados como temporales
+c. Para determinar las políticas de respuesta a esos riesgos
+
+?: Entre otras, ¿Qué cosas se definen durante la planificación de la gestión de riesgos?
+$a. Metodología, Categorías de riesgo, Definiciones de probabilidad e impacto y Matriz de probabilidad e impacto
+b. Probabilidad, Impacto y Alcance (probabilidad x impacto)
+c. Identificador, Nombre del riesgo, Descripción, Clase y Respuesta potencial
+
+?: ¿En qué consiste la identificación de riesgos?
+a. Es la creación de una lista con los riesgos importantes del proeycto y otra con los menos importantes
+b. Es un proceso de definición del identificador y el nombre de los riesgos del proyecto
+$c. Es un proceso de reflexión a través de diferentes técnicas para determinar qué cosas, elementos o circunstancias son riesgos del proyecto
+
+?: Dentro de las técnicas de Identificación de riesgos, ¿Cuáles de las siguientes son técnicas de diagramación?
+a. Diagramas de influencias y Análisis SWOT
+$b. Diagramas de Ishikawa y Diagramas de flujo
+c. Diagramas de clases y diagramas de despliegue
+
+?: ¿Cuál de las siguientes son algunas de las técnicas usadas en la Planificación de la gestión de cada riesgo?
+$a. Análisis coste-beneficio y Planes de Contingencia
+b. Análisis coste-beneficio y Análisis de la misión
+c. Análisis de la misión y Planes de Contingencia
+
+?: ¿Qué es un Indicador de riesgo?
+$a. Es un medida de la evaluación de un factor de riesgo
+b. Es un factor de riesgo individual
+c. Es un valor cuantificado del impacto del riesgo
+
+?: La metodología del PMBOK tiene seis pasos
+a. Valoración, Priorización, Análisis Cuantitativo, Planificación de la respuesta, Monitorización y Control
+b. Identificación, Análisis, Priorización, Planificación de la gestión, Resolución y Monitorización
+$c. Planificación de la Gestión, Identificación, Análisis cualitativo, Análisis cuantitativo, Planificación de la respuesta y Monitorización
+
+?: ¿Qué es el Impacto de un riesgo?
+a. Es una medida del peligro o beneficio real que el riesgo puede representar para el proyecto
+b. Es el periodo de tiempo en el que es posible mitigar el riesgo
+$c. Es el efecto que puede ocasionar el riesgo en caso de producirse
+
+?: ¿Qué técnicas se usan habitualmente en el Análisis de Riesgos?
+$a. Evaluación de la Probabilidad e Impacto de los riesgos, Categorización de Riesgos y Evaluación de la Urgencia de los Riesgos
+b. Análisis Cuantitativo y análisis cualitativo
+c. Calculo del alcance, EVM (Earned Value Management) y Priorización
+
+?: En el contexto de las técnicas de Resolución de proyectos, ¿En qué consiste el Análisis de la misión?
+$a. En replantearse el objetivo del proyecto para determinar si el asumir el riesgo es productivo frente a otras opciones
+b. En definir escenarios y se valoran estos escenarios
+c. En crear prototipos, de manera que pueda evaluarse su viabilidad en términos de coste y riesgo
+
+?: En función de las áreas que afectan, hay tres clases de riesgos, ¿Cuáles?
+$a. De proyecto, del producto y del negocio
+b. Amenazas, oportunidades, fortalezas y debilidades
+c. Conocidos, predecibles e impredecibles
+
+?: ¿Qué son la categorías de riesgo?
+$a. Las Categorías de Riesgo proporcionan una estructura que facilita la identificación y el manejo de los riesgos
+b. Las Categorías de Riesgo son una estructura que identificación los riesgos en función de los stakeholders
+c. Las Categorías de Riesgo proporcionan una estructura de definición de los riesgos para su posterior priorización
+
+?: ¿Cuál de las siguientes son algunas de las técnicas usadas en la Planificación de la gestión de cada riesgo?
+a. Análisis coste-beneficio y Análisis de la misión
+$b. Estrategias para Riesgos Negativos o Amenazas y Estrategias para Riesgos Positivos u Oportunidades
+c. Prototipos y simulaciones
+
+?: ¿Qué es la probabilidad de un riesgo?
+a. Es el número de veces que el riesgo ocurre en un proyecto
+b. Es una medida del efecto real que el riesgo puede tener en el proyecto
+$c. Es el porcentaje de probabilidades de que el riesgo ocurra
+
+?: ¿Qué es el Marco de Tiempo de un riesgo?
+a. Es una combinación del momento en el que se sentirá su impacto y la duración del mismo
+b. Es el tiempo transcurrido desde que se identifica hasta que ya no es importante
+$c. Es el periodo de tiempo en el que es posible mitigar el riesgo
+
+?: ¿Qué son las estrategia proactivas?
+$a. Aquellas que previamente evalúan todos los riesgos inherentes al proyecto
+b. Aquellas que dejan que los riesgos produzcan sus efectos y entonces se actúa en consecuencia
+c. Aquellas que no precisan de planes de contingencia
+
+?: Dentro de las técnicas de Identificación de riesgos, ¿En qué consiste el análisis SWOT?
+a. En identificar las fortalezas para evitar los riesgo
+$b. En examinar el proyecto desde el punto de vista de las Debilidades, Amenazas, Fortalezas y Oportunidades
+c. En identificar los riesgos de las amenazas y las debilidades
+
+?: ¿Cuáles son las principales técnicas de identificación de riesgos?
+a. Evaluación de la Probabilidad e Impacto de los riesgos, Categorización de Riesgos y Evaluación de la Urgencia de los Riesgos
+b. Ordenación por Probabilidad e Impacto, Matriz de Probabilidad e Impacto y Juicio de expertos
+$c. Técnicas de recopilación de Información, Análisis de listas de control, Análisis de supuestos, Técnicas de Diagramación, Análisis SWOT y Juicio de Expertos
+
+?: Dentro de las técnicas usadas en el Análisis de Riesgos, ¿Cómo se hace la Evaluación de la Probabilidad?
+$a. Se hace de acuerdo a una escala de rangos que se definen en la matriz de probabilidad e impacto
+b. Se hace contando el número de veces que se produce el riesgo durante el proyecto
+c. Se hace multiplicando el alcance por el impacto
+
+?: Una vez terminada la identificación, ¿Qué atributos se deberás obtener de cada riesgo?
+$a. Identificador, Nombre, Descripción, Clase y respuesta potencial
+b. Gestión del riesgo, Plan de contingencia y Valoración económica
+c. Probabilidad, Impacto y Alcance
+
+?: ¿Cuáles son las técnicas habituales para la Monitorización de Riesgos?
+a. Categorización de Riesgos, Evaluación de la Urgencia de los Riesgos, Benchmarks, Análisis de la misión y Encuestas
+$b. Reevaluación de los Riesgos, Auditorías de los Riesgos, Análisis de Variación y de Tendencias, Análisis de Reserva y Reuniones sobre el Estado del Proyecto
+c. Prototipos, Simulaciones, Benchmarks, Análisis de la misión, Encuestas, Aproximación de desgin-to-cost y Desarrollo incremental
+
+?: Si un riesgo tiene una probabilidad del 30% y un impacto sobre uno de los objetivos del proyecto del 40%, ¿Cuál es el alcance de ese riesgo para dicho objetivo?
+$a. 12%
+b. 70%
+c. 40%
+
+?: En función de su facilidad de detección, hay tres clases de riesgos, ¿Cuáles?
+a. De proyecto, del producto y del negocio
+b. Amenazas, oportunidades, fortalezas y debilidades
+$c. Conocidos, predecibles e impredecibles
+
+?: ¿Qué es la Importancia de un riesgo?
+$a. Es una medida del peligro o beneficio real que el riesgo puede representar para el proyecto
+b. Es el efecto que puede ocasionar el riesgo en caso de producirse
+c. Es el periodo de tiempo en el que es posible mitigar el riesgo
+
+?: Dentro de las técnicas de Identificación de riesgos y dentro de las técnicas de Recopilación de Información, ¿Qué elementos pueden usarse para dirigir el trabajo?
+a. La tabla de impactos
+b. La matris de probabilidad e impacto
+$c. El Risk Breakdows Structure
+
+?: Dentro de las técnicas de Priorización de los Riesgos, ¿En qué consiste el Juicio de expertos?
+$a. En solicitar la opinión de personas con experiencias en otros proyectos anteriores, sobre posibles riesgos en el proyecto
+b. Puede hacer que algunos riesgos se prioricen para ser monitorizados con más frecuencia a pesar de no haber sido priorizados mediante otras técnicas anteriores
+Este es el efcto, pero no explica en qué consiste el proceso.
+c. Las priorizaciones suelen estar basadas en experiencias con algunos tipos de riesgos mantenidos bajo control
+
+?: ¿Cuáles son dos de las principales diferencias entre BOEHM y PMBOK?
+a. La identificación de riesgos y las estrategias de resolución
+b. Las estrategias de priorización y la definición de objetivos de proyecto
+$c. La Planificación de la gestión de riesgos y el Análisis y Priorización
+
+?: En el contexto de las técnicas de Monitorización de Riesgos, ¿En qué consisten las Auditorías de los Riesgos?
+$a. En examimar, ver y documentar la efectividad de las respuestas a los riesgos y la del propio proceso de gestión de riesgos
+b. En contratar auditorías externas del proyecto que deben incluir a las actividades de gestión de riesgos
+c. En realizar revisiones a través de una lista de comprobación del proceso realizar en la gestión de riesgos
+
+?: Dentro de las técnicas de Identificación de riesgos, ¿En qué consiste el análisis de supuestos?
+a. En presuponer (hipótesis) que todos los riesgos del proyecto están identificados
+$b. En tomar una serie de hipótesis como base para concebir y desarrollar los riesgos
+c. En suponer riesgos y verificar que son del proyecto
+
+?: Dentro de las técnicas de Priorización de los Riesgos, ¿En qué consiste el uso de la Matriz de Probabilidad e Impacto?
+a. Se usa para definir las escalas de impacto del los riesgos
+$b. Se usa para priorizar el riesgo en función de la posición en dicha matriz
+c. Se usa para definir la escala de probabilidades que puede tener el riesgo
+
+?: ¿En qué consiste la fase de Análisis de riesgos?
+a. En establecer la respuesta y reservas necesarias para gestionar los riesgos
+$b. En examinar los riesgos en detalle para determinar su extensión, sus interrelaciones y su importancia
+c. En calcular la relación coste-beneficio de hacer una gestión de riesgos
+
+?: ¿Cuáles son las técnicas habituales para la Resolución de Riesgos?
+a. Evaluación de la Probabilidad e Impacto de los riesgos, Categorización de Riesgos y Evaluación de la Urgencia de los Riesgos
+$b. Prototipos, Simulaciones, Benchmarks, Análisis de la misión, Encuestas, Aproximación de desgin-to-cost y Desarrollo incremental
+c. Categorización de Riesgos, Evaluación de la Urgencia de los Riesgos, Benchmarks, Análisis de la misión y Encuestas
+
+?: En el contexto de las técnicas de Monitorización de Riesgos, ¿En qué consiste la Reevaluación de los Riesgos?
+a. En calcular el valor de las reservas cada cierto tiempo para ver si cubren el resto del proyecto
+$b. En revisiones y reevaluaciones de los riesgos con el objetivo de ver si aparecen nuevos riesgos y si algunos pueden ser eliminados
+c. En comprobar varias veces la evaluación de los riesgos para asegurar el valor calculado
+
+?: ¿En qué consiste la fase de Análisis de riesgos?
+a. En establecer la respuesta y reservas necesarias para gestionar los riesgos
+$b. En examinar los riesgos en detalle para determinar su extensión, sus interrelaciones y su importancia
+c. En calcular la relación coste-beneficio de hacer una gestión de riesgos
+
+?: ¿De qué tipo es el diagrama de la figura? Enlace alternativo: https://unioviedo-my.sharepoint.com/:i:/g/personal/garciaenol_uniovi_es/EaFAIA6HHKJFjImKzSlvcawB7S_3SEhu-Mczid1POpgOIw?e=aOl9U0
+a. Diagramas de flujo o de sistemas
+b. Diagrama de causa y efecto
+$c. Diagramas de influencias
+
+?: Dentro de las técnicas usadas habitualmente en la Planificación de la gestión de cada riesgo, ¿En qué consiste el Juicio de Expertos?
+a. En evaluar simulaciones del proyecto para evaluar los costes asociados a partir de la experiencia de personas que hayan estado en proyectos similares anteriores
+$b. En buscar modelos de respuesta en la experiencia de personas que hayan estado en proyectos similares anteriores
+c. En identificar riesgos a partir de la experiencia de personas que hayan estado en proyectos similares anteriores
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 5 de CMMI (no compartida con niveles inferiores)? Seleccione una:
+$a. Se establecen objetivos de mejora de procesos cuantitativos para la organización y se utilizan como criterios en la gestión de la mejora de procesos
+b. Los subprocesos que contribuyen significativamente al desempeño general del proceso se controlan con técnicas estadísticas y otras técnicas cuantitativas
+c. Se establece una meta cuantitativa de calidad tanto para el proceso de software como para el mantenimiento de software
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 2 de CMMI? Seleccione una:
+$a. Los éxitos de desarrollo de software son repetibles
+b. Se establece la mejora de estos procesos en el tiempo
+c. Los procesos están bien caracterizados y son entendidos por los miembros de la organización
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 2 de CMMI?
+$a. La disciplina ayuda a garantizar que se mantienen las prácticas existentes en momentos de estrés
+b. Se establece la mejora de estos procesos en el tiempo
+$c. Los proyectos establecen sus procesos definidos por el conjunto de procesos estándar de la organización de acuerdo las directrices de adaptación
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 2 de CMMI? Seleccione una:
+a. Se establece la mejora de estos procesos en el tiempo
+b. Los proyectos se realizan y se gestionan de acuerdo a planes documentados
+$c. Los proyectos establecen sus procesos definidos por el conjunto de procesos estándar de la organización de acuerdo las directrices de adaptación
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 5 de CMMI (no compartida con niveles inferiores)? Seleccione una:
+$a. La capacidad de la organización para responder rápidamente a los cambios y oportunidades se ve reforzada por la búsqueda de formas de acelerar y compartir el aprendizaje
+b. El sistema debe estar controlado cuantitativamente
+c. Se establece una meta cuantitativa de calidad tanto para el proceso de software como para el mantenimiento de software
+
+
+?: ¿Qué son los Modelos de Calidad? Seleccione una:
+a. Son aquellos que permiten definir un conjunto de criterios de desarrollo que guían la forma en que se aplica la Ingeniería del Software
+$b. Son aquellos que integran la mayor parte de las mejores prácticas
+c. Son aquellos que están acreditados por las entidades de homologación
+
+
+?: ¿Qué son las Tolerancias? Seleccione una:
+a. Son los umbrales que pueden indicar si el proceso está fuera de control
+$b. Es el rango especificado de resultados aceptables
+c. Es la capaciad del equipo para no implementar todos los procesos de calidad
+
+
+?: En la ingeniería del software se deben seguir prácticas adecuadas de ingeniería para controlar los errores durante el desarrollo. Estas prácticas se clasifican en dos tipos de actividaes, ¿Cuáles? Seleccione una:
+a. Detección y corrección
+$b. Constructivas y Analíticas
+c. Proyecto y Proceso
+
+
+?: ¿Qué parámetros que determinan la adecuación al uso? Seleccione una:
+a. Prevención, Detección y Corrección
+$b. Calidad de diseño, Calidad de conformidad, Disponibilidad y Servicio técnico
+c. Calidad Necesaria, Calidad Programada, y Calidad Realizada
+
+
+?: ¿Qué es la prevención? Seleccione una:
+$a. Evitar que haya errores en el proceso
+b. Evitar que los errores lleguen a manos del cliente
+c. Evitar que los clientes sepan que ha habido errores
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 5 de CMMI (no compartida con niveles inferiores)? Seleccione una:
+a. Los subprocesos que contribuyen significativamente al desempeño general del proceso se controlan con técnicas estadísticas y otras técnicas cuantitativas
+$b. Está enfocado en la mejora continua del rendimiento del proceso a través de mejoras tecnológicas incrementales e innovadoras
+c. Se establece una meta cuantitativa de calidad tanto para el proceso de software como para el mantenimiento de software
+
+
+?: ¿Qué son los Estándares de Calidad? Seleccione una:
+a. Son aquellos que están acreditados por las entidades académicas
+b. Son aquellos que integran la mayor parte de las mejores prácticas
+$c. Son aquellos que permiten definir un conjunto de criterios de desarrollo que guían la forma en que se aplica la Ingeniería del Software
+
+
+?: ¿Cuáles son las fases por las que ha pasado históricamente la gestión de la calidad? Seleccione una:
+a. Necesaria, Programada y Realizada
+$b. Control de la calidad, Garantía de calidad, Aseguramiento de calidad y Calidad total
+c. Impredecible, Repetible, Proactivo, Controlado y Mejora continua
+
+
+?: ¿Qué técnicas son habituales en la Planificación de la Calidad? Seleccione una:
+a. Análisis coste-beneficio, Coste de la calidad, Análisis de Procesos, Diseño de experimentos, Muestreo estadístico y Reuniones
+b. Análisis coste-beneficio, Coste de la calidad, 7QC Tools, Benchmarking, DOE, Muestreo estadístico, Auditorías de caliad y Reuniones
+$c. Análisis coste-beneficio, Coste de la calidad, 7QC Tools, Benchmarking, DOE, Muestreo estadístico, Reuniones y Otras herramientas de planificación de la calidad
+
+
+?: Dentro de los parámetros que determinan la adecuación al uso, ¿Qué es la calidad de diseño? Seleccione una:
+a. Es un aspecto de la calidad tiene que ver con el desempeño y la vida útil del producto
+b. Es un concepto de calidad basado en el producto o servicio cuyo objetivo es cumplir un conjunto de características medibles establecidas por el fabricante para satisfacer al cliente
+$c. Es la parte de la calidad que asegura que el producto diseñado satisfaga las necesidades del usuario
+
+
+?: Dentro de los parámetros que determinan la adecuación al uso, ¿Qué es la Disponibilidad? Seleccione una:
+a. Es un concepto de calidad basado en el producto o servicio cuyo objetivo es cumplir un conjunto de características medibles establecidas por el fabricante para satisfacer al cliente
+$b. Es un aspecto de la calidad tiene que ver con el desempeño y la vida útil del producto
+c. Es la parte de la calidad que asegura que el producto diseñado satisfaga las necesidades del usuario
+
+
+?: Dentro de los parámetros que determinan la adecuación al uso, ¿Qué aporta el Servicio técnico? Seleccione una:
+a. Es la parte de la calidad que asegura que el producto diseñado satisfaga las necesidades del usuario
+b. Tiene por objetivo cumplir un conjunto de características medibles establecidas por el fabricante para satisfacer al cliente
+$c. Tiene que ver con el factor humano, debe tener una velocidad de respuesta óptima y ser íntegro y competente
+
+
+?: En el contexto de las fases por las que ha pasado históricamente la gestión de la calidad, ¿Cuál es la característica principal de la fase de Calidad total? Seleccione una:
+$a. Integración del factor humano
+b. Prevención de defectos
+c. Prevención de defectos
+
+
+?: En la moderna gestión de la calidad se reconoce la importancia de los algunos conceptos, ¿Cuáles? Seleccione una:
+$a. La satisfacción del cliente, La prevención antes que la inspección, La mejora continua, La responsabilidad de la dirección y El coste de la calidad
+b. Planificar la calidad, Aseguramiento de la calidad y Control de calidad
+c. Calidad de software, Factores de calidad, Criterios de calidad y Métricas de calidad
+
+
+?: ¿Qué parámetros que determinan la adecuación al uso? Seleccione una:
+a. Calidad Necesaria, Calidad Programada, y Calidad Realizada
+$b. Calidad de diseño, Calidad de conformidad, Disponibilidad y Servicio técnico
+c. Prevención, Detección y Corrección
+
+
+?: ¿Qué constelaciones están publicadas actualmente? Seleccione una:
+a. CAR, PMC, AM y OPF
+$b. CMMI-DEV, CMMI-ACQ y CMMI-SVC
+c. SW-CMM.(1997), CMMI v1.02.(2000), CMMI v1.1.(2002), CMMI v1.2.(2006) y CMMI V1.3.(2010)
+
+
+?: Cuando se habla de software creado expresamente para las necesidades de un cliente, hay tres factores que influyen en la percepción de la calidad, ¿Cuáles? Seleccione una:
+a. Calidad de diseño, Calidad de conformidad y Disponibilidad
+$b. Calidad Necesaria, Calidad Programada, y Calidad Realizada
+c. Prevención, Detección y Corrección
+
+
+?: ¿En qué consiste el aseguramiento de la calidad? Seleccione una:
+a. Consiste en auditar los estándares de calidad y los resultados obtenidos a partir de medidas de control de calidad, a fin de garantizar que se utilicen definiciones operacionales y normas de calidad adecuadas
+b. Consiste en auditar los planes de calidad y los resultados obtenidos a partir de medidas de control de calidad, a fin de garantizar que se utilicen definiciones operacionales y normas de calidad adecuadas
+$c. Consiste en auditar los requisitos de calidad y los resultados obtenidos a partir de medidas de control de calidad, a fin de garantizar que se utilicen definiciones operacionales y normas de calidad adecuadas
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 3 de CMMI (no compartida con niveles inferiores)? Seleccione una:
+a. Los subprocesos que contribuyen significativamente al desempeño general del proceso se controlan con técnicas estadísticas y otras técnicas cuantitativas
+$b. Los procesos están bien caracterizados y son entendidos por los miembros de la organización
+c. El sistema debe estar controlado cuantitativamente
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 3 de CMMI (no compartida con niveles inferiores)? Seleccione una:
+$a. Se establece la mejora de estos procesos en el tiempo
+b. Se establece una meta cuantitativa de calidad tanto para el proceso de software como para el mantenimiento de software
+c. El sistema debe estar controlado cuantitativamente
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 3 de CMMI (no compartida con niveles inferiores)? Seleccione una:
+a. Los subprocesos que contribuyen significativamente al desempeño general del proceso se controlan con técnicas estadísticas y otras técnicas cuantitativas
+$b. Los proyectos establecen sus procesos definidos por el conjunto de procesos estándar de la organización de acuerdo las directrices de adaptación
+c. Se establece una meta cuantitativa de calidad tanto para el proceso de software como para el mantenimiento de software
+
+
+?: La implantación de un modelo o estándar de calidad en una empresa de software tiene diferentes niveles de implantación. Dentro del nivel de software, ¿Qué elementos se definen en los modelos clásicos? Seleccione una:
+$a. Factores, criterios y métricas
+b. Entidades y Proyectos
+c. %Modelos y Estándares
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 4 de CMMI (no compartida con niveles inferiores)? Seleccione una:
+a. Los efectos de las mejoras en los procesos desplegados son medidos y evaluados en relación con los objetivos cuantitativos de mejora de procesos
+$b. Está enfocado en la mejora continua del rendimiento del proceso a través de mejoras tecnológicas incrementales e innovadoras
+c. Se establece una meta cuantitativa de calidad tanto para el proceso de software como para el mantenimiento de software
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 4 de CMMI (no compartida con niveles inferiores)? Seleccione una:
+a. Los efectos de las mejoras en los procesos desplegados son medidos y evaluados en relación con los objetivos cuantitativos de mejora de procesos
+$b. Los subprocesos que contribuyen significativamente al desempeño general del proceso se controlan con técnicas estadísticas y otras técnicas cuantitativas
+c. Se establecen objetivos de mejora de procesos cuantitativos para la organización y se utilizan como criterios en la gestión de la mejora de procesos
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 4 de CMMI (no compartida con niveles inferiores)? Seleccione una:
+a. Se establecen objetivos de mejora de procesos cuantitativos para la organización y se utilizan como criterios en la gestión de la mejora de procesos
+b. Está enfocado en la mejora continua del rendimiento del proceso a través de mejoras tecnológicas incrementales e innovadoras
+$c. El sistema debe estar controlado cuantitativamente
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 1 de CMMI? Seleccione una:
+a. Se establecen procesos básicos de gestión de proyectos para el seguimiento de costes, plazos, y funcionalidad
+b. La disciplina ayuda a garantizar que se mantienen las prácticas existentes en momentos de estrés
+$c. La organización no suele ser capaz de repetir de nuevo los éxitos del pasado
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 1 de CMMI? Seleccione una:
+a. Los éxitos de desarrollo de software son repetibles
+$b. Las organizaciones se caracterizan por una tendencia a abandonar los procesos en el momento de la crisis
+c. Se establecen procesos básicos de gestión de proyectos para el seguimiento de costes, plazos, y funcionalidad
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 1 de CMMI? Seleccione una:
+a. Los proyectos se realizan y se gestionan de acuerdo a planes documentados
+$b. Los procesos de la organización suelen ser ad-hoc y por lo general no proporcionan un entorno estable
+c. Los éxitos de desarrollo de software son repetibles
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 1 de CMMI? Seleccione una:
+a. Se establecen procesos básicos de gestión de proyectos para el seguimiento de costes, plazos, y funcionalidad
+$b. El éxito del proyecto de software depende demasiado de contar en el proyecto con personas de calidad
+c. La disciplina ayuda a garantizar que se mantienen las prácticas existentes en momentos de estrés
+
+
+?: La implantación de un modelo o estándar de calidad en una empresa de software tiene diferentes niveles de implantación, ¿Cuales? Seleccione una:
+$a. Organización, Proceso, Software y Datos
+b. Impredecible, Repetible, Proactivo, Controlado y Mejora continua
+c. Inicial, Repetible, Definido, Administrado y Optimizado
+
+
+?: En el contexto de las fases por las que ha pasado históricamente la gestión de la calidad, ¿Cuál es la característica principal de la fase de Control de la calidad? Seleccione una:
+a. Integración del factor humano
+b. Prevención de defectos
+$c. Detección de defectos
+
+
+?: ¿En qué consiste el muestreo por atributos? Seleccione una:
+a. Hacer mediciones de los resultados
+b. El resultado se clasifica según una escala continua que mide el grado de conformidad
+$c. Comprobar que el resultado cumple o no con los requisitos
+
+
+?: ¿En qué consiste el Controld e calidad? Seleccione una:
+a. Es el proceso por el que se definen las variables a medir en la ejecución de actividades de calidad, a fin de evaluar el desempeño y recomendar cambios necesarios
+$b. Es el proceso por el que se monitorizan y registran los resultados de la ejecución de actividades de calidad, a fin de evaluar el desempeño y recomendar cambios necesarios
+c. Es el proceso por el que se evalúan los resultados de la ejecución de actividades de calidad, a fin de evaluar el desempeño y recomendar cambios necesarios
+
+
+?: La implantación de un modelo o estándar de calidad en una empresa de software tiene diferentes niveles de implantación. Dentro del nivel de organización, ¿Qué subniveles hay? Seleccione una:
+$a. Entidad y proyecto
+b. Factores, criterios y métricas
+c. Modelos y Estándares
+
+
+?: ¿Cuáles son las técnicas habituales del Control de calidad? Seleccione una:
+$a. Herramientas básicas de calidad, Muestreo estadístico, Inspección y Solicitudes de Cambio Aprobadas
+b. 7QC Tools, Muestreo estadístico, DOE y Solicitudes de Cambio Aprobadas
+c. Herramientas básicas de calidad, ABC, Inspección y Solicitudes de Cambio Aprobadas
+
+
+?: En la ingeniería del software se deben seguir prácticas adecuadas de ingeniería para controlar los errores durante el desarrollo, ¿Cuáles? Seleccione una:
+a. Calidad de diseño, Calidad de conformidad y Disponibilidad
+$b. Prevención, Detección y Corrección
+c. Calidad Necesaria, Calidad Programada, y Calidad Realizada
+
+
+?: En la ingeniería del software se debe tener un doble nivel de actuación para mejorar la calidad, ¿A qué niveles? Seleccione una:
+a. Detección y corrección
+$b. Proyecto y Proceso
+c. Constructivo y Analítico
+
+
+?: ¿Qué es la Calidad Realizada? Seleccione una:
+a. Lo que se ha especificado hacer
+$b. Lo que se ha hecho realmente
+c. Lo que quiere el cliente
+
+
+?: ¿Qué es la Calidad Programada? Seleccione una:
+$a. Lo que se ha especificado hacer
+b. Lo que se ha hecho realmente
+c. Lo que quiere el cliente
+
+
+?: ¿Qué es la Calidad Necesaria? Seleccione una:
+$a. Lo que quiere el cliente
+b. Lo que se ha hecho realmente
+c. Lo que se ha especificado hacer
+
+
+?: Dentro de los parámetros que determinan la adecuación al uso, ¿Qué es la Calidad de conformidad? Seleccione una:
+$a. Es un concepto de calidad basado en el producto o servicio cuyo objetivo es cumplir un conjunto de características medibles establecidas por el fabricante para satisfacer al cliente
+b. Es la parte de la calidad que asegura que el producto diseñado satisfaga las necesidades del usuario
+c. Es un aspecto de la calidad tiene que ver con el desempeño y la vida útil del producto
+
+
+?: En el contexto de las fases por las que ha pasado históricamente la gestión de la calidad, ¿Cuál es la característica principal de la fase de Aseguramiento de la calidad? Seleccione una:
+a. Prevención de defectos
+$b. Integración de todos los procesos
+c. Prevención de defectos
+
+
+?: ¿Cuáles son los niveles que habitualmente alcanzas las organizaciones de SW con CMMI? Seleccione una:
+a. 1 y 2
+$b. 2 y 3
+c. 3 y 4
+
+
+?: ¿Qué es la prevención? Seleccione una:
+a. Evitar que los errores lleguen a manos del cliente
+b. Evitar que los clientes sepan que ha habido errores
+$c. Evitar que haya errores en el proceso
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 4 de CMMI (no compartida con niveles inferiores)?
+$a. El sistema debe estar controlado cuantitativamente
+b. Se establecen objetivos de mejora de procesos cuantitativos para la organización y se utilizan como criterios en la gestión de la mejora de procesos
+c. Está enfocado en la mejora continua del rendimiento del proceso a través de mejoras tecnológicas incrementales e innovadoras
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 2 de CMMI?
+a. Los proyectos establecen sus procesos definidos por el conjunto de procesos estándar de la organización de acuerdo las directrices de adaptación
+b. Los procesos están bien caracterizados y son entendidos por los miembros de la organización
+$c. Se establecen procesos básicos de gestión de proyectos para el seguimiento de costes, plazos, y funcionalidad
+
+
+?: La implantación de un modelo o estándar de calidad en una empresa de software tiene diferentes niveles de implantación. Dentro del nivel de software, ¿Qué elementos se definen en los modelos clásicos?
+$a. Factores, criterios y métricas
+b. Entidades y Proyectos
+c. %Modelos y Estándares
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 5 de CMMI (no compartida con niveles inferiores)?
+$a. Los efectos de las mejoras en los procesos desplegados son medidos y evaluados en relación con los objetivos cuantitativos de mejora de procesos
+b. El sistema debe estar controlado cuantitativamente
+c. Los subprocesos que contribuyen significativamente al desempeño general del proceso se controlan con técnicas estadísticas y otras técnicas cuantitativas
+
+
+?: ¿Cuáles son los niveles de calidad CMMI?
+a. Impredecible, Repetible, Proactivo, Controlado y Mejora continua
+b. Control de la calidad, Garantía de calidad, Aseguramiento de calidad y Calidad total
+$c. Inicial, Repetible, Definido, Administrado y Optimizado

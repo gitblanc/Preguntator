@@ -1,0 +1,316 @@
+?: ¿Cuál de las siguientes es una característica propia del nivel 5 de CMMI (no compartida con niveles inferiores)? Seleccione una:
+$a. Se establecen objetivos de mejora de procesos cuantitativos para la organización y se utilizan como criterios en la gestión de la mejora de procesos
+b. Los subprocesos que contribuyen significativamente al desempeño general del proceso se controlan con técnicas estadísticas y otras técnicas cuantitativas
+c. Se establece una meta cuantitativa de calidad tanto para el proceso de software como para el mantenimiento de software
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 2 de CMMI? Seleccione una:
+$a. Los éxitos de desarrollo de software son repetibles
+b. Se establece la mejora de estos procesos en el tiempo
+c. Los procesos están bien caracterizados y son entendidos por los miembros de la organización
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 2 de CMMI?
+$a. La disciplina ayuda a garantizar que se mantienen las prácticas existentes en momentos de estrés
+b. Se establece la mejora de estos procesos en el tiempo
+$c. Los proyectos establecen sus procesos definidos por el conjunto de procesos estándar de la organización de acuerdo las directrices de adaptación
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 2 de CMMI? Seleccione una:
+a. Se establece la mejora de estos procesos en el tiempo
+b. Los proyectos se realizan y se gestionan de acuerdo a planes documentados
+$c. Los proyectos establecen sus procesos definidos por el conjunto de procesos estándar de la organización de acuerdo las directrices de adaptación
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 5 de CMMI (no compartida con niveles inferiores)? Seleccione una:
+$a. La capacidad de la organización para responder rápidamente a los cambios y oportunidades se ve reforzada por la búsqueda de formas de acelerar y compartir el aprendizaje
+b. El sistema debe estar controlado cuantitativamente
+c. Se establece una meta cuantitativa de calidad tanto para el proceso de software como para el mantenimiento de software
+
+
+?: ¿Qué son los Modelos de Calidad? Seleccione una:
+a. Son aquellos que permiten definir un conjunto de criterios de desarrollo que guían la forma en que se aplica la Ingeniería del Software
+$b. Son aquellos que integran la mayor parte de las mejores prácticas
+c. Son aquellos que están acreditados por las entidades de homologación
+
+
+?: ¿Qué son las Tolerancias? Seleccione una:
+a. Son los umbrales que pueden indicar si el proceso está fuera de control
+$b. Es el rango especificado de resultados aceptables
+c. Es la capaciad del equipo para no implementar todos los procesos de calidad
+
+
+?: En la ingeniería del software se deben seguir prácticas adecuadas de ingeniería para controlar los errores durante el desarrollo. Estas prácticas se clasifican en dos tipos de actividaes, ¿Cuáles? Seleccione una:
+a. Detección y corrección
+$b. Constructivas y Analíticas
+c. Proyecto y Proceso
+
+
+?: ¿Qué parámetros que determinan la adecuación al uso? Seleccione una:
+a. Prevención, Detección y Corrección
+$b. Calidad de diseño, Calidad de conformidad, Disponibilidad y Servicio técnico
+c. Calidad Necesaria, Calidad Programada, y Calidad Realizada
+
+
+?: ¿Qué es la prevención? Seleccione una:
+$a. Evitar que haya errores en el proceso
+b. Evitar que los errores lleguen a manos del cliente
+c. Evitar que los clientes sepan que ha habido errores
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 5 de CMMI (no compartida con niveles inferiores)? Seleccione una:
+a. Los subprocesos que contribuyen significativamente al desempeño general del proceso se controlan con técnicas estadísticas y otras técnicas cuantitativas
+$b. Está enfocado en la mejora continua del rendimiento del proceso a través de mejoras tecnológicas incrementales e innovadoras
+c. Se establece una meta cuantitativa de calidad tanto para el proceso de software como para el mantenimiento de software
+
+
+?: ¿Qué son los Estándares de Calidad? Seleccione una:
+a. Son aquellos que están acreditados por las entidades académicas
+b. Son aquellos que integran la mayor parte de las mejores prácticas
+$c. Son aquellos que permiten definir un conjunto de criterios de desarrollo que guían la forma en que se aplica la Ingeniería del Software
+
+
+?: ¿Cuáles son las fases por las que ha pasado históricamente la gestión de la calidad? Seleccione una:
+a. Necesaria, Programada y Realizada
+$b. Control de la calidad, Garantía de calidad, Aseguramiento de calidad y Calidad total
+c. Impredecible, Repetible, Proactivo, Controlado y Mejora continua
+
+
+?: ¿Qué técnicas son habituales en la Planificación de la Calidad? Seleccione una:
+a. Análisis coste-beneficio, Coste de la calidad, Análisis de Procesos, Diseño de experimentos, Muestreo estadístico y Reuniones
+b. Análisis coste-beneficio, Coste de la calidad, 7QC Tools, Benchmarking, DOE, Muestreo estadístico, Auditorías de caliad y Reuniones
+$c. Análisis coste-beneficio, Coste de la calidad, 7QC Tools, Benchmarking, DOE, Muestreo estadístico, Reuniones y Otras herramientas de planificación de la calidad
+
+
+?: Dentro de los parámetros que determinan la adecuación al uso, ¿Qué es la calidad de diseño? Seleccione una:
+a. Es un aspecto de la calidad tiene que ver con el desempeño y la vida útil del producto
+b. Es un concepto de calidad basado en el producto o servicio cuyo objetivo es cumplir un conjunto de características medibles establecidas por el fabricante para satisfacer al cliente
+$c. Es la parte de la calidad que asegura que el producto diseñado satisfaga las necesidades del usuario
+
+
+?: Dentro de los parámetros que determinan la adecuación al uso, ¿Qué es la Disponibilidad? Seleccione una:
+a. Es un concepto de calidad basado en el producto o servicio cuyo objetivo es cumplir un conjunto de características medibles establecidas por el fabricante para satisfacer al cliente
+$b. Es un aspecto de la calidad tiene que ver con el desempeño y la vida útil del producto
+c. Es la parte de la calidad que asegura que el producto diseñado satisfaga las necesidades del usuario
+
+
+?: Dentro de los parámetros que determinan la adecuación al uso, ¿Qué aporta el Servicio técnico? Seleccione una:
+a. Es la parte de la calidad que asegura que el producto diseñado satisfaga las necesidades del usuario
+b. Tiene por objetivo cumplir un conjunto de características medibles establecidas por el fabricante para satisfacer al cliente
+$c. Tiene que ver con el factor humano, debe tener una velocidad de respuesta óptima y ser íntegro y competente
+
+
+?: En el contexto de las fases por las que ha pasado históricamente la gestión de la calidad, ¿Cuál es la característica principal de la fase de Calidad total? Seleccione una:
+$a. Integración del factor humano
+b. Prevención de defectos
+c. Prevención de defectos
+
+
+?: En la moderna gestión de la calidad se reconoce la importancia de los algunos conceptos, ¿Cuáles? Seleccione una:
+$a. La satisfacción del cliente, La prevención antes que la inspección, La mejora continua, La responsabilidad de la dirección y El coste de la calidad
+b. Planificar la calidad, Aseguramiento de la calidad y Control de calidad
+c. Calidad de software, Factores de calidad, Criterios de calidad y Métricas de calidad
+
+
+?: ¿Qué parámetros que determinan la adecuación al uso? Seleccione una:
+a. Calidad Necesaria, Calidad Programada, y Calidad Realizada
+$b. Calidad de diseño, Calidad de conformidad, Disponibilidad y Servicio técnico
+c. Prevención, Detección y Corrección
+
+
+?: ¿Qué constelaciones están publicadas actualmente? Seleccione una:
+a. CAR, PMC, AM y OPF
+$b. CMMI-DEV, CMMI-ACQ y CMMI-SVC
+c. SW-CMM.(1997), CMMI v1.02.(2000), CMMI v1.1.(2002), CMMI v1.2.(2006) y CMMI V1.3.(2010)
+
+
+?: Cuando se habla de software creado expresamente para las necesidades de un cliente, hay tres factores que influyen en la percepción de la calidad, ¿Cuáles? Seleccione una:
+a. Calidad de diseño, Calidad de conformidad y Disponibilidad
+$b. Calidad Necesaria, Calidad Programada, y Calidad Realizada
+c. Prevención, Detección y Corrección
+
+
+?: ¿En qué consiste el aseguramiento de la calidad? Seleccione una:
+a. Consiste en auditar los estándares de calidad y los resultados obtenidos a partir de medidas de control de calidad, a fin de garantizar que se utilicen definiciones operacionales y normas de calidad adecuadas
+b. Consiste en auditar los planes de calidad y los resultados obtenidos a partir de medidas de control de calidad, a fin de garantizar que se utilicen definiciones operacionales y normas de calidad adecuadas
+$c. Consiste en auditar los requisitos de calidad y los resultados obtenidos a partir de medidas de control de calidad, a fin de garantizar que se utilicen definiciones operacionales y normas de calidad adecuadas
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 3 de CMMI (no compartida con niveles inferiores)? Seleccione una:
+a. Los subprocesos que contribuyen significativamente al desempeño general del proceso se controlan con técnicas estadísticas y otras técnicas cuantitativas
+$b. Los procesos están bien caracterizados y son entendidos por los miembros de la organización
+c. El sistema debe estar controlado cuantitativamente
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 3 de CMMI (no compartida con niveles inferiores)? Seleccione una:
+$a. Se establece la mejora de estos procesos en el tiempo
+b. Se establece una meta cuantitativa de calidad tanto para el proceso de software como para el mantenimiento de software
+c. El sistema debe estar controlado cuantitativamente
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 3 de CMMI (no compartida con niveles inferiores)? Seleccione una:
+a. Los subprocesos que contribuyen significativamente al desempeño general del proceso se controlan con técnicas estadísticas y otras técnicas cuantitativas
+$b. Los proyectos establecen sus procesos definidos por el conjunto de procesos estándar de la organización de acuerdo las directrices de adaptación
+c. Se establece una meta cuantitativa de calidad tanto para el proceso de software como para el mantenimiento de software
+
+
+?: La implantación de un modelo o estándar de calidad en una empresa de software tiene diferentes niveles de implantación. Dentro del nivel de software, ¿Qué elementos se definen en los modelos clásicos? Seleccione una:
+$a. Factores, criterios y métricas
+b. Entidades y Proyectos
+c. %Modelos y Estándares
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 4 de CMMI (no compartida con niveles inferiores)? Seleccione una:
+a. Los efectos de las mejoras en los procesos desplegados son medidos y evaluados en relación con los objetivos cuantitativos de mejora de procesos
+$b. Está enfocado en la mejora continua del rendimiento del proceso a través de mejoras tecnológicas incrementales e innovadoras
+c. Se establece una meta cuantitativa de calidad tanto para el proceso de software como para el mantenimiento de software
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 4 de CMMI (no compartida con niveles inferiores)? Seleccione una:
+a. Los efectos de las mejoras en los procesos desplegados son medidos y evaluados en relación con los objetivos cuantitativos de mejora de procesos
+$b. Los subprocesos que contribuyen significativamente al desempeño general del proceso se controlan con técnicas estadísticas y otras técnicas cuantitativas
+c. Se establecen objetivos de mejora de procesos cuantitativos para la organización y se utilizan como criterios en la gestión de la mejora de procesos
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 4 de CMMI (no compartida con niveles inferiores)? Seleccione una:
+a. Se establecen objetivos de mejora de procesos cuantitativos para la organización y se utilizan como criterios en la gestión de la mejora de procesos
+b. Está enfocado en la mejora continua del rendimiento del proceso a través de mejoras tecnológicas incrementales e innovadoras
+$c. El sistema debe estar controlado cuantitativamente
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 1 de CMMI? Seleccione una:
+a. Se establecen procesos básicos de gestión de proyectos para el seguimiento de costes, plazos, y funcionalidad
+b. La disciplina ayuda a garantizar que se mantienen las prácticas existentes en momentos de estrés
+$c. La organización no suele ser capaz de repetir de nuevo los éxitos del pasado
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 1 de CMMI? Seleccione una:
+a. Los éxitos de desarrollo de software son repetibles
+$b. Las organizaciones se caracterizan por una tendencia a abandonar los procesos en el momento de la crisis
+c. Se establecen procesos básicos de gestión de proyectos para el seguimiento de costes, plazos, y funcionalidad
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 1 de CMMI? Seleccione una:
+a. Los proyectos se realizan y se gestionan de acuerdo a planes documentados
+$b. Los procesos de la organización suelen ser ad-hoc y por lo general no proporcionan un entorno estable
+c. Los éxitos de desarrollo de software son repetibles
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 1 de CMMI? Seleccione una:
+a. Se establecen procesos básicos de gestión de proyectos para el seguimiento de costes, plazos, y funcionalidad
+$b. El éxito del proyecto de software depende demasiado de contar en el proyecto con personas de calidad
+c. La disciplina ayuda a garantizar que se mantienen las prácticas existentes en momentos de estrés
+
+
+?: La implantación de un modelo o estándar de calidad en una empresa de software tiene diferentes niveles de implantación, ¿Cuales? Seleccione una:
+$a. Organización, Proceso, Software y Datos
+b. Impredecible, Repetible, Proactivo, Controlado y Mejora continua
+c. Inicial, Repetible, Definido, Administrado y Optimizado
+
+
+?: En el contexto de las fases por las que ha pasado históricamente la gestión de la calidad, ¿Cuál es la característica principal de la fase de Control de la calidad? Seleccione una:
+a. Integración del factor humano
+b. Prevención de defectos
+$c. Detección de defectos
+
+
+?: ¿En qué consiste el muestreo por atributos? Seleccione una:
+a. Hacer mediciones de los resultados
+b. El resultado se clasifica según una escala continua que mide el grado de conformidad
+$c. Comprobar que el resultado cumple o no con los requisitos
+
+
+?: ¿En qué consiste el Controld e calidad? Seleccione una:
+a. Es el proceso por el que se definen las variables a medir en la ejecución de actividades de calidad, a fin de evaluar el desempeño y recomendar cambios necesarios
+$b. Es el proceso por el que se monitorizan y registran los resultados de la ejecución de actividades de calidad, a fin de evaluar el desempeño y recomendar cambios necesarios
+c. Es el proceso por el que se evalúan los resultados de la ejecución de actividades de calidad, a fin de evaluar el desempeño y recomendar cambios necesarios
+
+
+?: La implantación de un modelo o estándar de calidad en una empresa de software tiene diferentes niveles de implantación. Dentro del nivel de organización, ¿Qué subniveles hay? Seleccione una:
+$a. Entidad y proyecto
+b. Factores, criterios y métricas
+c. Modelos y Estándares
+
+
+?: ¿Cuáles son las técnicas habituales del Control de calidad? Seleccione una:
+$a. Herramientas básicas de calidad, Muestreo estadístico, Inspección y Solicitudes de Cambio Aprobadas
+b. 7QC Tools, Muestreo estadístico, DOE y Solicitudes de Cambio Aprobadas
+c. Herramientas básicas de calidad, ABC, Inspección y Solicitudes de Cambio Aprobadas
+
+
+?: En la ingeniería del software se deben seguir prácticas adecuadas de ingeniería para controlar los errores durante el desarrollo, ¿Cuáles? Seleccione una:
+a. Calidad de diseño, Calidad de conformidad y Disponibilidad
+$b. Prevención, Detección y Corrección
+c. Calidad Necesaria, Calidad Programada, y Calidad Realizada
+
+
+?: En la ingeniería del software se debe tener un doble nivel de actuación para mejorar la calidad, ¿A qué niveles? Seleccione una:
+a. Detección y corrección
+$b. Proyecto y Proceso
+c. Constructivo y Analítico
+
+
+?: ¿Qué es la Calidad Realizada? Seleccione una:
+a. Lo que se ha especificado hacer
+$b. Lo que se ha hecho realmente
+c. Lo que quiere el cliente
+
+
+?: ¿Qué es la Calidad Programada? Seleccione una:
+$a. Lo que se ha especificado hacer
+b. Lo que se ha hecho realmente
+c. Lo que quiere el cliente
+
+
+?: ¿Qué es la Calidad Necesaria? Seleccione una:
+$a. Lo que quiere el cliente
+b. Lo que se ha hecho realmente
+c. Lo que se ha especificado hacer
+
+
+?: Dentro de los parámetros que determinan la adecuación al uso, ¿Qué es la Calidad de conformidad? Seleccione una:
+$a. Es un concepto de calidad basado en el producto o servicio cuyo objetivo es cumplir un conjunto de características medibles establecidas por el fabricante para satisfacer al cliente
+b. Es la parte de la calidad que asegura que el producto diseñado satisfaga las necesidades del usuario
+c. Es un aspecto de la calidad tiene que ver con el desempeño y la vida útil del producto
+
+
+?: En el contexto de las fases por las que ha pasado históricamente la gestión de la calidad, ¿Cuál es la característica principal de la fase de Aseguramiento de la calidad? Seleccione una:
+a. Prevención de defectos
+$b. Integración de todos los procesos
+c. Prevención de defectos
+
+
+?: ¿Cuáles son los niveles que habitualmente alcanzas las organizaciones de SW con CMMI? Seleccione una:
+a. 1 y 2
+$b. 2 y 3
+c. 3 y 4
+
+
+?: ¿Qué es la prevención? Seleccione una:
+a. Evitar que los errores lleguen a manos del cliente
+b. Evitar que los clientes sepan que ha habido errores
+$c. Evitar que haya errores en el proceso
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 4 de CMMI (no compartida con niveles inferiores)?
+$a. El sistema debe estar controlado cuantitativamente
+b. Se establecen objetivos de mejora de procesos cuantitativos para la organización y se utilizan como criterios en la gestión de la mejora de procesos
+c. Está enfocado en la mejora continua del rendimiento del proceso a través de mejoras tecnológicas incrementales e innovadoras
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 2 de CMMI?
+a. Los proyectos establecen sus procesos definidos por el conjunto de procesos estándar de la organización de acuerdo las directrices de adaptación
+b. Los procesos están bien caracterizados y son entendidos por los miembros de la organización
+$c. Se establecen procesos básicos de gestión de proyectos para el seguimiento de costes, plazos, y funcionalidad
+
+
+?: La implantación de un modelo o estándar de calidad en una empresa de software tiene diferentes niveles de implantación. Dentro del nivel de software, ¿Qué elementos se definen en los modelos clásicos?
+$a. Factores, criterios y métricas
+b. Entidades y Proyectos
+c. %Modelos y Estándares
+
+
+?: ¿Cuál de las siguientes es una característica propia del nivel 5 de CMMI (no compartida con niveles inferiores)?
+$a. Los efectos de las mejoras en los procesos desplegados son medidos y evaluados en relación con los objetivos cuantitativos de mejora de procesos
+b. El sistema debe estar controlado cuantitativamente
+c. Los subprocesos que contribuyen significativamente al desempeño general del proceso se controlan con técnicas estadísticas y otras técnicas cuantitativas

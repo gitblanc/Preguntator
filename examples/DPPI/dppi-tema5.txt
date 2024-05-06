@@ -342,3 +342,23 @@ $c. Es el presupuesto autorizado, asignado al cronograma del proyecto
 a. Es la estimación del presupuesto final del proyecto, con los datos actuales
 b. Es la estimación técnica de costes, con los datos actuales
 $c. Es la estimación para la terminación de las actividades del proyecto, con los datos actuales
+
+?: En la elaboración del presupuesto, ¿Cuáles son las técnicas más habituales?
+$a. Agregación de costes, Análisis de reservas, Juicio de expertos, Relaciones históricas y Conciliación del límite de financiación
+b. Juicio de expertos, Técnicas analíticas y Reuniones
+c. Estimación por analogía, Estimación paramétrica, Estimación de tres puntos y Análisis de reserva
+
+?: Con respecto a la técnicas de Control de Costes, ¿Qué información se determina para la Evaluación del desempeño?
+$a. Análisis de la variación, Análisis de la tendencia y el Rendimiento del valor ganado o acumulado
+b. Valor planeado, Valor ganado o acumulado y Coste actual
+c. Valor acumulado, Valor ganado y Rendimiento del valor ganado o acumulado
+
+?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es el Índice de rendimiento de costes (CPI)?
+a. Es una medida de la eficiencia del cronograma realizado en un plazo con respecto al valor planeado. CPI=EV/PV
+$b. Es una medida de la eficiencia del coste del trabajo desarrollado con respecto al coste en un plazo. CPI=EV/AC
+c. Es una medida de la eficiencia del coste en un plazo con respecto al valor planeado. CPI=AC/PV
+
+?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es la Variación del cronograma (SV)?
+a. Es la medida de los que se ha desarrollado con respecto a los que ha costado en un periodo. SV=AC-EV
+$b. Es la medida de la desviación en la realización del cronograma con respecto al plan. SV=EV-PV
+c. Es la medida de la desviación de costes en un periodo con respecto al presupuesto planificado. SV=AC-PV

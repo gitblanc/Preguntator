@@ -38,42 +38,42 @@ $a. En función del apetito, la tolerancia y el umbral de riesgo
 b. En función de normativa que define los valores y rangos de la matriz
 c. En función de las estrategias proactivas frene al riesgo
 
-Dentro de las técnicas usadas en el Análisis de Riesgos, ¿Cómo se hace la Evaluación del impacto?
+?: Dentro de las técnicas usadas en el Análisis de Riesgos, ¿Cómo se hace la Evaluación del impacto?
 a. Se hace de acuerdo a una escala de rangos que se definen en la matriz de probabilidad e impacto
 b. Se hace de acuerdo a una escala de rangos que se definen en la tabal de categorías
 $c. Se hace de acuerdo a una escala de rangos que se define en la tabla de escalas de impacto
 
-Dentro de las técnicas de Identificación de riesgos, hablando del análisis SWOT, ¿Cuál es el procedimiento?
+?: Dentro de las técnicas de Identificación de riesgos, hablando del análisis SWOT, ¿Cuál es el procedimiento?
 a. (1)Identificar las fortalezas y las oportunidades. (2) Identificar las amenazas y debilidades. (3) Estudiar en qué manera las fortalezas corrigen las amenazas y en qué manera las oportunidades permiten superar las debilidades
 b. (1)Identificar las amenazas y las debilidades. (2) Identificar las oportunidades y fortalezas. (3) Estudiar en qué manera las fortalezas corrigen las amenazas y en qué manera las oportunidades permiten superar las debilidades
 $c. (1)Identificar las fortalezas y debilidades de la organización (proyecto). (2) Identificar oportunidades y amenazas. (3) Estudiar en qué manera las fortalezas corrigen las amenazas y en qué manera las oportunidades permiten superar las debilidades
 
-Dentro de las técnicas de Priorización de los Riesgos, ¿En qué consiste la Ordenación por Probabilidad e Impacto?
+?: Dentro de las técnicas de Priorización de los Riesgos, ¿En qué consiste la Ordenación por Probabilidad e Impacto?
 $a. En ordenar los riesgos por 1º probabilidad y 2º impacto para priorizar los riesgos
 b. En usar la Matriz de Probabilidad e Impacto para priorizar los riesgos
 c. En calcular el producto de la probabilidad por el impacto para priorizar los riesgos
 
-¿Qué información añade a cada riesgo la Planificación de la Gestión de cada Riesgo?
+?: ¿Qué información añade a cada riesgo la Planificación de la Gestión de cada Riesgo?
 a. Define los roles y responsabilidades de la gestión de riesgos
 $b. Gestión del riesgo, Plan de Contingencia del riesgo y Valoración económica
 c. Definición de las políticas de riesgo para el proyecto
 
-¿En qué consiste la Planificación de la gestión de cada riesgo?
+?: ¿En qué consiste la Planificación de la gestión de cada riesgo?
 $a. En generar un plan para tratar cada riesgo de importancia alta del proyecto
 b. En definir las estrategias frente al riesgo
 c. En generar las políticas de gestión de riesgos
 
-¿Cuál de las siguientes es verdadera?
+?: ¿Cuál de las siguientes es verdadera?
 a. Los riesgos positivos se llaman fortalezas y los negativos debilidades
 $b. Los riesgos positivos se llaman oportunidades y los negativos amenazas
 c. Los riesgos positivos se llaman aceptaciones y los negativos evitaciones
 
-¿Cuáles son las estrategias generales para las amenazas?
+?: ¿Cuáles son las estrategias generales para las amenazas?
 a. Proactivas, reactivas y contingencias
 $b. Eliminación, Transferencia, Evitación y Retención
 c. Aprovechamiento, Mejora, Compartición y Aceptación
 
-La actitud frente al riesgo de la organización y de los stakeholders está influenciada por diversos factores, ¿Cuáles?
+?: La actitud frente al riesgo de la organización y de los stakeholders está influenciada por diversos factores, ¿Cuáles?
 a. Aceptación, mitigación, evitación y transferencia
 $b. El apetito, la tolerancia y el umbral de riesgo
 c. Actitud proactiva o reactiva

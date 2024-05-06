@@ -1,0 +1,344 @@
+?: Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿En qué consiste el Análisis de reservas?
+a. Analiza si las reservas siguen estando disponibles para el proyecto
+b. Evalúa todas las reservas necesarias para corregir los riesgos identificados en el proyecto
+$c. Permite monitorizar el estado de las reservas de gestión y de contingencia del proyecto para determinar si las reservas son aún necesarias o si hacen falta reservas adicionales
+
+?: Dentro de las técnicas del Plan de gestión de costes, ¿En qué consisten las Reuniones
+$a. Son reuniones de planificación para desarrollar el plan de gestión de costes
+b. Son la comidas de trabajo, comentarios individuales, etc.
+c. Son reuniones informales para clarificar ideas antes de tomar decisiones
+
+?: ¿En qué consiste la estimación de costes del proyecto?
+$a. Es el proceso de desarrollar una aproximación de los recursos monetarios necesarios para completar las actividades del proyecto
+b. Consiste en estimar las tareas de desarrollo de software y calcular sus costes
+c. Es el proceso de agregación de los costes estimados de las actividades individuales o los paquetes de trabajo para establecer una línea base
+
+?: Hablando de las técnicas para la elaboración del presupuesto, ¿En qué consiste el Análisis de reservas?
+a. En calcular los costes de las reservas para corregir los efectos de los riesgos
+$b. En agregar al proyecto las reservas para contingencias y para la gestión del proyecto
+c. En establecer las políticas para la gestión de las reservas del proyecto
+
+?: Durante la ejecución del proyecto ¿qué son los gastos?
+a. Son las formas en que se van ejecutando las reservas cuando se superan las previsiones
+$b. Es la manera en que se van ejecutando los costes asociados a las diferentes actividades del proyecto
+c. Son los costes no previstos para el proyecto
+
+?: Con respecto a la técnica de Predicción dentro del Control de Costes, ¿Cómo se calcula el EAC considerando el valor actual del índice de rendimiento de costes?
+a. EAC = AC + (BAC – EV)
+$b. EAC = BAC / CPI
+c. EAC = AC + [(BAC – EV) / (CPI × SPI)]
+
+?: Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿En qué consiste la Evaluación del desempeño?
+$a. Esta técnica compara el coste del desempeño en el tiempo, las actividades del cronograma con sobrecostes o con superávits y la estimación de financiación para completar el trabajo
+b. Esta técnica evalúa las actividades con sobrecostes y las que han tenido superávits para aplicar las metodologías más eficientes a las primeras
+c. Esta técnica evalúa las actividades realizadas por cada miembro del equipo de trabajo para evaluar la eficiencia individual
+
+?: ¿Qué es la Línea Base de Coste?
+a. Es el valor de coste que no se debe superar
+$b. Es la estimación de cómo se realizarán los gastos a lo largo del proyecto
+c. Es el valor mínimo de coste del proyecto
+
+?: Con respecto a las salidas del Plan de Gestión de Costes, ¿En qué consisten las reglas de realización de mediciones?
+$a. Definir los puntos en el WBS en la que se realiza la medición, establecer las técnicas de medición del valor acumulado y establecer las metodologías de seguimiento
+b. Establecer las umbrales, la precisión y la exactitud
+c. En definir las reglas básicas de entendimiento con respecto a los miembros de equipo de proyecto
+
+?: Hablando de las técnicas para la elaboración del presupuesto, ¿En qué consiste el Juicio de expertos?
+a. Ayudan a eliminar del presupuesto reservas innecesarias
+$b. Ayudan a establecer otros costes asociados a otras unidades dentro de la organización
+c. Ayudan a ajustar el coste a otros proyectos similares
+
+?: Dentro de las técnicas usadas para la estimación de costes, ¿Qué es el Análisis de Reserva?
+a. Es una cantidad resultado de un análisis usando métodos cuantitativos
+$b. Es la estimación de costes realizada para contingencias derivadas de riesgos
+c. Es un porcentaje del coste estimado para la actividad o para proyecto
+
+?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste el Juicio de Expertos?
+a. Se basa en información histórica tabulada por expertos
+b. Se basa en aplicar técnicas Delphi usando expertos
+$c. Se basa en la opinión de expertos, basada en información histórica, para producir estimaciones
+
+?: Con respecto a las salidas del Plan de Gestión de Costes, ¿En qué consiste el nivel de precisión?
+a. Es la precisión con que se pueden estimar los conceptos más ambiguos de un presupuesto
+$b. Es el grado de precisión con el que se puede redondear un valor al estimar una actividad concreta
+c. Es el número de decimales con que se deben redondear todas las partidas del presupuesto
+
+?: En el contexto del Plan general de costes, hablando de técnicas analíticas para la elección de las estrategias de financiación del proyecto, ¿En qué consiste la Financiación con deuda (funding with debt)?
+a. Se buscan socios financieros que harán la inversión en el proyecto a cambio de obtener participación en los beneficios
+$b. Se solicitarán préstamos a bancos
+c. El proyecto será financiado la propia empresa
+
+?: Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿En qué consiste la utilización de aplicaciones de gestión de proyectos?
+a. Consiste en el uso de aplicaciones durante el desarrollo del proyecto
+b. Consiste en el uso de aplicaciones de contabilidad durante el desarrollo de proyectos
+?c. Consiste en el uso de aplicaciones de gestión de proyectos que permitan monitorizar las tres dimensiones del EVN (PV, EV y AC)
+
+?: ¿Cuáles de las siguientes son técnicas utilizadas habitualmente para la estimación de costes?
+a. Juicio de expertos, Conciliación del límite de financiación, Adquisición y Análisis de decisión multicriterio
+b. Juicio de expertos, Técnicas analíticas, Agregación de costes, Relaciones históricas y Reuniones
+$c. Juicio de Expertos, Estimación por analogía, Estimación paramétrica, Estimación de tres puntos, Análisis de reserva y Coste de la calidad
+
+?: Hablando de las técnicas para la elaboración del presupuesto, ¿En qué consiste la Agregación de costes?
+a. Se van agregando a las actividades los costes estructurales para saber el coste real
+$b. Se van agregando actividades de más bajo nivel en las que están más altas en el WBS hasta llegar a nivel del proyecto completo
+c. Se van agregando las diferentes reservas para prever los costes de los riesgos
+
+?: En el contexto del Plan general de costes, hablando de técnicas financieras a usar para decidir la viabilidad del proyecto, ¿En qué consiste la Tasa interna de rentabilidad?
+a. Es una razón financiera que compara el beneficio o la utilidad obtenida de un proyecto en relación a la inversión realizada
+$b. Mide la rentabilidad de los cobros y los pagos actualizados, generados por una inversión, en porcentaje a la inversión realizada
+c. La cantidad de tiempo necesaria para recuperar el coste de una inversión
+
+?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste la Estimación paramétrica?
+a. Se basa en la estimación del coste por analogía con otros elementos de similar tamaño o complejidad
+$b. Se basa en la estimación paramétrica a partir de información estadística entre datos históricos relevantes y otras variables
+c. Se basa en la opinión de expertos, basada en información histórica, para producir estimaciones
+
+?: Hablando de las técnicas para la elaboración del presupuesto, ¿En qué consiste la Conciliación del límite de financiación?
+a. En que el coste del proyecto debe ser, finalmente, conciliado con el coste de otros proyectos similares
+$b. En que el coste del proyecto debe ser, finalmente, conciliado con el gasto previsto para el proyecto
+c. En que el coste del proyecto debe ser, finalmente, conciliado con el presupuesto del proyecto
+
+?: Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿En qué consiste la Predicción?
+a. Es una actividad prevista para corregir los costes del proyecto en caso de que no se puedan evitar los riesgos
+$b. En el desarrollo de pronósticos para la estimación a la conclusión en base a la información actual
+c. Es una actividad que debe existir en todo proyecto para ver si se alcanza en el tiempo establecido, de manera que se anticipen los retrasos
+
+?: Durante la ejecución del proyecto ¿qué son los Requisitos de financiación?
+a. Es el valor de los créditos necesarios para el proyecto
+b. Es el coste que va generando el proyecto
+$c. Es la previsión de transferencia de fondos al proyecto
+
+?: En el contexto del Plan general de costes, hablando de técnicas financieras a usar para decidir la viabilidad del proyecto, ¿En qué consiste el Periodo de recuperación?
+$a. La cantidad de tiempo necesaria para recuperar el coste de una inversión
+b. Mide la rentabilidad de los cobros y los pagos actualizados, generados por una inversión, en porcentaje a la inversión realizada
+c. Es una razón financiera que compara el beneficio o la utilidad obtenida de un proyecto en relación a la inversión realizada
+
+?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es el Índice de rendimiento del cronograma (SPI)?
+$a. Es una medida de la eficiencia del cronograma realizado en un plazo con respecto al valor planeado. SPI=EV/PV
+b. Es una medida de la eficiencia del coste en un plazo con respecto al valor planeado. SPI=AC/PV
+c. Es una medida de la eficiencia del coste del trabajo desarrollado con respecto al coste en un plazo. SPI=EV/AC
+
+?: En el contexto del Plan general de costes, hablando de técnicas financieras a usar para decidir la viabilidad del proyecto, ¿En qué consiste el Flujo de caja descontado?
+a. Es un procedimiento que permite calcular el valor presente de un determinado número de flujos de caja futuros, originados por una inversión
+$b. Es una manera de evaluar las inversiones en función de sus ingresos futuros
+c. Es una razón financiera que compara el beneficio o la utilidad obtenida de un proyecto en relación a la inversión realizada
+
+?: ¿Qué procesos incluye la Gestión de Costes del proyecto?
+a. Los relacionados con la creación de una línea base de desarrollo del proyecto
+b. El análisis, la financiación y la gestión de coste-calidad
+$c. La planificación, estimación, presupuesto, financiación, gestión y control de los costes
+
+?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste la Estimación de tres puntos?
+a. Se basa en el cálculo de tres valores (optimista, medio y pesimista)
+$b. Se basa en el cálculo de tres valores (optimista, medio y pesimista) que se evalúa de acuerdo a métodos estadísticos
+c. Se basa en el cálculo de tres valores (optimista, medio y pesimista)
+
+?: Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿En qué consiste el Índice de rendimiento a completar?
+$a. Es una medida de la ejecución requerida de los costes para lograr, con los recursos restantes, cumplir con una meta de gestión específica
+b. Es una técnica consistente en el desarrollo de pronósticos para el estimación a la conclusión en base a la información actua
+c. Es una técnica de cálculo del rendimiento de las tareas realizadas hasta el momento en términos de coste/beneficio
+
+?: Pueden expresarse los costes en horas?
+a. No, los costes se miden en unidades monetarias
+$b. Sí, para evitar las fluctuaciones monetarias en el futuro
+c. No, sólo pueden medirse en unidades monetarias y porcentajes de beneficio
+
+?: ¿Cuál de los siguientes es una lista de elementos del Plan de gestión de costes?
+a. Definición de la jornada laboral, costes de las dietas y costes por kilómetro
+$b. Unidades de medida, Nivel de redondeos, y Nivel de precisión
+c. Costes de hora, Definición de riesgos y Requisitos de financiación
+
+?: Hablando de las técnicas analíticas para la elaboración del Plan de gestión de costes, ¿Qué estrategias de financiación principales se definen?
+a. Periodo de recuperación, Retorno de la inversión (ROI), Tasa interna de rentabilidad, Flujo de caja descontado y Valor presente neto (NPV)
+$b. Autofinanciación, Financiación de socios y Financiación con deuda
+c. Crear con medios propios, Comprar, Alquilar y Leasing
+
+?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste el uso de aplicaciones para gestión de proyectos?
+a. En utilizar herramientas de simulación de proyecto para adelantarse a los problemas
+$b. En utilizar herramientas que ayuden en la estimación de algunas actividades del proyecto
+c. En utilizar herramientas estadísticas que ofrezcan información sobre el proyecto
+
+?: ¿Qué describe el Plan de gestión de costes del proyecto?
+a. Permite la actualización de costes del proyecto en ejecución
+b. Describe los costes de cada actividad del proyecto
+$c. Describe cómo se planificarán, controlarán y estructurarán los costes del proyecto
+
+?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es el Índice de rendimiento del cronograma (SPI)?
+$a. Es una medida de la eficiencia del cronograma realizado en un plazo con respecto al valor planeado. SPI=EV/PV
+b. Es una medida de la eficiencia del coste del trabajo desarrollado con respecto al coste en un plazo. SPI=EV/AC
+c. Es una medida de la eficiencia del coste en un plazo con respecto al valor planeado. SPI=AC/PV
+
+?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste la Estimación paramétrica?
+$a. Se basa en la estimación paramétrica a partir de información estadística entre datos históricos relevantes y otras variables
+b. Se basa en la opinión de expertos, basada en información histórica, para producir estimaciones
+c. Se basa en la estimación del coste por analogía con otros elementos de similar tamaño o complejidad
+
+?: Con respecto a la técnicas de Control de Costes, ¿Qué es el To-Complete Performance Index (TCPI)?
+a. Es una proporción entre el trabajo que queda por realizar y el dinero presupuestado para realizarlo
+b. Es una proporción entre el trabajo que queda por realizar y el dinero necesario para realizarlo
+$c. Es una proporción entre el trabajo que queda por realizar y el dinero que queda para realizar el trabajo
+
+?: ¿Cuál es uno de los productos más importantes de la estimación de costes?
+$a. La estimación de costes desglosada o agrupada
+b. El presupuesto de adquisiciones
+c. El presupuesto de cliente
+
+?: Dentro de las técnicas del Plan de gestión de costes, ¿En qué consiste el Juicio de Expertos?
+$a. Consiste en la opinión de expertos que se basan en información histórica de otros proyectos similares
+b. Consiste en la opinión de expertos que se basan en la información de otros Planes de gestión de proyectos aunque no sean similares
+c. Consiste en la opinión de expertos cuando no existe información histórica de proyectos similares
+
+?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es la Variación del Coste (CV)?
+a. Es la medida de desviación de costes en un periodo con respecto al presupuesto planificado. CV=AC-PV
+$b. Es la medida de la desviación del trabajo realizado en un periodo con respecto al coste en dicho periodo. CV=EV-AC
+c. Es la medida de la desviación en la realización del cronograma con respecto al plan. CV=EV-PV
+
+?: ¿Qué es el Plan de gestión de costes?
+a. Es el proceso de evaluación de los costes de las actividades del proyecto
+b. Es el proceso que genera el presupuesto del proyecto
+$c. Es el proceso que establece las políticas, procedimientos y documentación para la planificación, la administración, los gastos y el control de costes del proyecto
+
+?: Con respecto a la técnica de Predicción dentro del Control de Costes, ¿Cómo se calcula el EAC considerando el ratio de presupuesto?
+a. EAC = BAC / CPI
+b. EAC = AC + [(BAC – EV) / (CPI × SPI)]
+$c. EAC = AC + (BAC – EV)
+
+?: Con respecto a la técnica de Predicción dentro del Control de Costes, ¿Qué es el BAC?
+$a. Es la estimación del presupuesto final del proyecto, con los datos actuales
+b. Es la estimación para la terminación de las actividades del proyecto, con los datos actuales
+c. Es el beneficio de las actividades con coste, con los datos actuales
+
+?: Hablando de las técnicas analíticas para la elaboración del Plan de gestión de costes, ¿Qué maneras de financiar los recursos necesarios se definen?
+$a. Crear con medios propios, Comprar, Alquilar y Leasing
+b. Periodo de recuperación, Retorno de la inversión (ROI), Tasa interna de rentabilidad, Flujo de caja descontado y Valor presente neto (NPV)
+c. Autofinanciación, Financiación de socios y Financiación con deuda
+
+?: Hablando de las técnicas analíticas para la elaboración del Plan de gestión de costes, ¿Qué maneras de financiar los recursos necesarios se definen?
+a. Autofinanciación, Financiación de socios y Financiación con deuda
+$b. Crear con medios propios, Comprar, Alquilar y Leasing
+c. Periodo de recuperación, Retorno de la inversión (ROI), Tasa interna de rentabilidad, Flujo de caja descontado y Valor presente neto (NPV)
+
+?: ¿En qué consiste la determinación del presupuesto?
+a. Determinar el Presupuesto es el proceso de evaluación de los costes estimados de las actividades para establecer una aproximación del coste del desarrollo de software
+b. Determinar el Presupuesto es el proceso de evaluación de los costes estimados de las actividades para establecer un documento de costes
+$c. Determinar el Presupuesto es el proceso de agregación de los costes estimados de las actividades para establecer una línea base
+
+?: Dentro de las técnicas del Plan de gestión de costes, ¿En qué consisten las Técnicas analíticas?
+a. En analizar los costes desde el punto de vista de la empresa que va a desarrollar el software
+b. Son técnicas relacionadas con la gestión del coste de los recursos humanos
+$c. Permiten elegir, entre otras, las estrategias de financiación, el modo de financiar los recursos necesarios y la viabilidad del proyecto
+
+?: Con respecto a las técnicas de Control de Costes, ¿Qué información se determina para la Evaluación del desempeño?
+a. Valor acumulado, Valor ganado y Rendimiento del valor ganado o acumulado
+$b. Análisis de la variación, Análisis de la tendencia y el Rendimiento del valor ganado o acumulado
+c. Valor planeado, Valor ganado o acumulado y Coste actual
+
+?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste el Análisis de Ofertas (Vendor Bid Analysis)?
+a. Se piden ofertas a proveedores para provocar bajadas de precios de desarrollo
+$b. Se solicitan ofertas a proveedores sobre algunas partes del desarrollo y se estudian
+c. Se piden ofertas a proveedores con experiencia y se estudian para ofertar lo mismo
+
+?: En el contexto del Plan general de costes, hablando de técnicas analíticas para la elección de las estrategias de financiación del proyecto, ¿En qué consiste la Autofinanciación?
+$a. El proyecto será financiado por la propia empresa
+b. El proyecto será financiado por el equipo de desarrollo
+c. Se buscan socios financieros que harán la inversión en el proyecto a cambio de obtener participación en los beneficios
+
+?: ¿Cuáles son las técnicas habituales para el Control de Costes del proyecto?
+a. Juicio de Expertos, Estimación por analogía, Estimación paramétrica, Estimación de tres puntos, Análisis de reserva y Coste de la calidad
+b. Agregación de costes, Análisis de reservas, Juicio de expertos, Relaciones históricas y Conciliación del límite de financiación
+$c. Gestión del Valor ganado o acumulado, Predicción, Índice de rendimiento a completar, Evaluación del desempeño, Aplicaciones de gestión de proyectos y Análisis de reservas
+
+?: Hablando de las técnicas analíticas para la elaboración del Plan de gestión de costes, ¿Qué técnicas financieras se pueden usar para decidir la viabilidad del proyecto?
+$a. Periodo de recuperación, Retorno de la inversión (ROI), Tasa interna de rentabilidad, Flujo de caja descontado y Valor presente neto (NPV)
+b. Autofinanciación, Financiación de socios y Financiación con deuda
+c. Crear con medios propios, Comprar, Alquilar y Leasing
+
+?: ¿En qué consiste el Control de Costes del proyecto?
+$a. Es el proceso de seguimiento de la situación del proyecto
+b. Es el proceso de control de gastos para que no superen los ingresos
+c. Es el proceso de abaratamiento de costes
+
+?: Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿En qué consiste el Análisis de reservas?
+a. Evalúa todas las reservas necesarias para corregir los riesgos identificados en el proyecto
+b. Analiza si las reservas siguen estando disponibles para el proyecto
+$c. Permite monitorizar el estado de las reservas de gestión y de contingencia del proyecto para determinar si las reservas son aún necesarias o si hacen falta reservas adicionales
+
+?: ¿Qué se obtiene de la elaboración del presupuesto?
+$a. El resultado final del presupuesto es un documento de los costes de los conceptos integrados en el proyecto
+b. El resultado final del presupuesto es un documento de proporción de costes/beneficios de los conceptos integrados en el proyecto
+c. El resultado final del presupuesto es un documento de los beneficios que suponen los conceptos integrados en el proyecto
+
+?: En el contexto del Plan general de costes, hablando de técnicas financieras a usar para decidir la viabilidad del proyecto, ¿En qué consiste el Flujo de caja descontado?
+a. Mide la rentabilidad de los cobros y los pagos actualizados, generados por una inversión, en porcentaje a la inversión realizada
+b. La cantidad de tiempo necesaria para recuperar el coste de una inversión
+$c. Es una razón financiera que compara el beneficio o la utilidad obtenida de un proyecto en relación a la inversión realizada
+
+?: En el contexto del Plan general de costes, hablando de técnicas analíticas para la elección de las estrategias de financiación del proyecto, ¿En qué consiste la Financiación de socios (funding with equity)?
+$a. Se buscan socios financieros que harán la inversión en el proyecto a cambio de obtener participación en los beneficios
+b. El proyecto será financiado la propia empresa
+c. Se solicitarán préstamos a bancos
+
+?: Con respecto a la técnica de Predicción dentro del Control de Costes, ¿Qué es el EAC?
+a. Es la estimación del activo contable del proyecto, con los datos actuales
+b. Es la estimación de las actividades con coste, con los datos actuales
+$c. Es la estimación de la terminación de las actividades del proyecto, con los datos actuales
+
+?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste la Estimación por analogía?
+$a. Se basa en la estimación del coste por analogía con otros elementos de similar tamaño o complejidad
+b. Se basa en la estimación paramétrica a partir de información estadística entre datos históricos relevantes y otras variables
+c. Se basa en la opinión de expertos, basada en información histórica, para producir estimaciones
+
+?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste el Coste de la calidad?
+a. Consiste en definir un manual de calidad que permita realizar la tarea con la mayor calidad posible
+$b. Consiste en comparar el coste de hacer una actividad con calidad frente al coste hacerla sin calidad
+c. Consiste en estudiar el coste de la calidad para eliminar procedimientos de calidad muy caros
+
+?: Hablando de las técnicas para la elaboración del presupuesto, ¿En qué consisten las Relaciones históricas?
+a. Consiste en buscar relaciones con otros proyectos para ajustar las actividades comunes
+$b. Consiste en usar como base la información histórica de otros proyectos similares
+c. Consiste en usar las relaciones con expertos para buscar su consejo
+
+?: Con respecto a la técnica de Predicción dentro del Control de Costes, ¿Cómo se calcula el EAC considerando ambos, el ratio de presupuesto y el valor actual del índice de rendimiento de costes?
+a. EAC = BAC / CPI
+b. EAC = AC + (BAC – EV)
+$c. EAC = AC + [(BAC – EV) / (CPI × SPI)]
+
+?: ¿Cuáles son las técnicas más habituales usadas para la elaboración de distintos aspectos del Plan de gestión de costes?
+a. Juicio de expertos, Estimación por analogía, Estimación paramétrica, Estimación de tres puntos, Análisis de reserva, Coste de la calidad, Aplicaciones para gestión de proyectos, Análisis de Ofertas (Vendor Bid Analysis) y Técnicas de tomas de decisión en grupo
+b. Agregación de costes, Análisis de reservas, Juicio de expertos, Relaciones históricas y Conciliación del límite de financiación
+$c. Juicio de expertos, Técnicas analíticas y Reuniones
+
+?: En la técnica de Gestión del Valor ganado o acumulado usada para el Control de Costes del proyecto, ¿Qué dimensiones se monitorizan?
+$a. El valor planeado, el valor ganado y el coste actual
+b. La línea base de coste y el valor del desempeño
+c. Todas las dimensiones relacionadas con la estimación de costes del proyecto
+
+?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es el Coste actual (AC)?
+a. Es el valor del trabajo realizado en un periodo, expresado en unidades económicas
+b. Es el presupuesto autorizado en un periodo, asignado al cronograma del proyecto
+$c. Es el valor de los gastos realizados en un periodo, en el proyecto
+
+?: En el contexto del Plan general de costes, hablando de técnicas financieras a usar para decidir la viabilidad del proyecto, ¿En qué consiste el Valor presente neto (NPV)?
+a. Mide la rentabilidad de los cobros y los pagos actualizados, generados por una inversión, en porcentaje a la inversión realizada
+b. Es una manera de evaluar las inversiones en función de sus ingresos futuros
+$c. Es un procedimiento que permite calcular el valor presente de un determinado número de flujos de caja futuros, originados por una inversión
+
+?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es el valor acumulado o ganado (EV)?
+a. Es el valor de los gastos realizados en un periodo, en el proyecto
+$b. Es el valor del trabajo realizado en un periodo, expresado en unidades económicas
+c. Es el valor de los beneficios en un periodo, calculados con respecto al proyecto
+
+?: Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿En qué consiste la Gestión del Valor ganado o acumulado?
+a. Es una metodología que consiste en calcular permanentemente los beneficios que se van obteniendo del proyecto
+$b. Es una metodología que combina mediciones alcance, cronograma y recursos para evaluar el desempeño y el progreso del proyecto
+c. Es una metodología que busca obtener beneficios del proyecto, eliminando aquellas actividades no productivas
+
+?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es el Valor Planeado (PV)?
+a. Es el valor de los beneficios calculados con respecto al proyecto
+b. Es el coste de la planificación del proyecto
+$c. Es el presupuesto autorizado, asignado al cronograma del proyecto
+
+?: Con respecto a la técnica de Predicción dentro del Control de Costes, ¿Qué es el ETC?
+a. Es la estimación del presupuesto final del proyecto, con los datos actuales
+b. Es la estimación técnica de costes, con los datos actuales
+$c. Es la estimación para la terminación de las actividades del proyecto, con los datos actuales

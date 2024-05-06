@@ -314,3 +314,9 @@ c. %Modelos y Estándares
 $a. Los efectos de las mejoras en los procesos desplegados son medidos y evaluados en relación con los objetivos cuantitativos de mejora de procesos
 b. El sistema debe estar controlado cuantitativamente
 c. Los subprocesos que contribuyen significativamente al desempeño general del proceso se controlan con técnicas estadísticas y otras técnicas cuantitativas
+
+
+?: ¿Cuáles son los niveles de calidad CMMI?
+a. Impredecible, Repetible, Proactivo, Controlado y Mejora continua
+b. Control de la calidad, Garantía de calidad, Aseguramiento de calidad y Calidad total
+$c. Inicial, Repetible, Definido, Administrado y Optimizado

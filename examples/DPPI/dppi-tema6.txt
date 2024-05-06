@@ -1,0 +1,370 @@
+?: ¿Cuál de las siguientes afirmaciones es cierta?
+a. La tabla de impactos debe ser simétrica en función de las amenazas y las oportunidades
+$b. Debe definirse una tabla de impactos para amenazas y otra para oportunidades
+c. La tabla de impactos es única para amenazas y oportunidades
+
+?: ¿En qué consiste la "Valoración económica" como producto de la fase de Planificación de la Gestión de cada Riesgo?
+a. Define los criterios para evaluar el estado del proyecto con técnicas como EVM
+$b. Define los criterios y técnicas usadas para la valoración, además de los propios resultados de las valoraciones
+c. Define los criterios de priorización de los riesgos, además de la lista de riesgos priorizados
+
+?: ¿Qué produce la fase de priorización?
+$a. Una lista de riesgos priorizados y otra de riesgos potenciales (no priorizados)
+b. Una lista de riesgos que tienen una probabilidad mayor del 50%
+c. Una lista de riesgos que tienen un impacto mayor del 50%
+
+?: ¿Cuál de las siguientes es cierta?
+a. La escala de valores de impacto suele ser lineal
+b. La escala de valores de probabilida suele ser logarítmica
+$c. La escala de valores de impacto suele ser logarítmica
+
+?: ¿En qué consiste la Monitorización de Riesgos?
+a. En disponer de recursos suficientes para poder poner en marcha la Gestión de Riesgos durante el desarrollo
+b. En esperar que ocurra un riesgo para tomer algún tipo de resolución
+$c. En controlar el progreso del proyecto en lo relativo a resolución de riesgos durante la fase de desarrollo
+
+?: En el contexto de las técnicas de Monitorización de Riesgos, ¿En qué consisten las Reuniones sobre el Estado del Proyecto?
+a. En que hay que tener un plan de reuniones extraordinarias para definir nuevos riesgos
+$b. En que en todas las reuniones periódicas sobre el estado del proyecto, la gestión de riesgos debe ser un punto del orden del día
+c. En que hay que comenzar por la fase primera de la gestión de riesgos cada cierto tiempo y rehacer la planificación de la gestión de riesgos
+
+?: ¿Qué es la Matriz de Probabilidad e Impacto?
+a. La Matriz de Probabilidad e impacto define los valores usados para priorizar los riesgos de mayor probabilidad de ocurrencia en el proyecto en función de su impacto
+$b. La Matriz de Probabilidad e impacto define los valores usados para priorizar los riesgos de acuerdo a la probabilidad de ocurrencia y a su impacto en el proyecto
+c. La Matriz de Probabilidad e impacto define los valores usados para calcular el impacto de los riesgos de mayor probabilidad en el proyecto
+
+?: La matriz de probabilidad e impacto, ¿Cómo se obtiene?
+$a. En función del apetito, la tolerancia y el umbral de riesgo
+b. En función de normativa que define los valores y rangos de la matriz
+c. En función de las estrategias proactivas frene al riesgo
+
+Dentro de las técnicas usadas en el Análisis de Riesgos, ¿Cómo se hace la Evaluación del impacto?
+a. Se hace de acuerdo a una escala de rangos que se definen en la matriz de probabilidad e impacto
+b. Se hace de acuerdo a una escala de rangos que se definen en la tabal de categorías
+$c. Se hace de acuerdo a una escala de rangos que se define en la tabla de escalas de impacto
+
+Dentro de las técnicas de Identificación de riesgos, hablando del análisis SWOT, ¿Cuál es el procedimiento?
+a. (1)Identificar las fortalezas y las oportunidades. (2) Identificar las amenazas y debilidades. (3) Estudiar en qué manera las fortalezas corrigen las amenazas y en qué manera las oportunidades permiten superar las debilidades
+b. (1)Identificar las amenazas y las debilidades. (2) Identificar las oportunidades y fortalezas. (3) Estudiar en qué manera las fortalezas corrigen las amenazas y en qué manera las oportunidades permiten superar las debilidades
+$c. (1)Identificar las fortalezas y debilidades de la organización (proyecto). (2) Identificar oportunidades y amenazas. (3) Estudiar en qué manera las fortalezas corrigen las amenazas y en qué manera las oportunidades permiten superar las debilidades
+
+Dentro de las técnicas de Priorización de los Riesgos, ¿En qué consiste la Ordenación por Probabilidad e Impacto?
+$a. En ordenar los riesgos por 1º probabilidad y 2º impacto para priorizar los riesgos
+b. En usar la Matriz de Probabilidad e Impacto para priorizar los riesgos
+c. En calcular el producto de la probabilidad por el impacto para priorizar los riesgos
+
+¿Qué información añade a cada riesgo la Planificación de la Gestión de cada Riesgo?
+a. Define los roles y responsabilidades de la gestión de riesgos
+$b. Gestión del riesgo, Plan de Contingencia del riesgo y Valoración económica
+c. Definición de las políticas de riesgo para el proyecto
+
+¿En qué consiste la Planificación de la gestión de cada riesgo?
+$a. En generar un plan para tratar cada riesgo de importancia alta del proyecto
+b. En definir las estrategias frente al riesgo
+c. En generar las políticas de gestión de riesgos
+
+¿Cuál de las siguientes es verdadera?
+a. Los riesgos positivos se llaman fortalezas y los negativos debilidades
+$b. Los riesgos positivos se llaman oportunidades y los negativos amenazas
+c. Los riesgos positivos se llaman aceptaciones y los negativos evitaciones
+
+¿Cuáles son las estrategias generales para las amenazas?
+a. Proactivas, reactivas y contingencias
+$b. Eliminación, Transferencia, Evitación y Retención
+c. Aprovechamiento, Mejora, Compartición y Aceptación
+
+La actitud frente al riesgo de la organización y de los stakeholders está influenciada por diversos factores, ¿Cuáles?
+a. Aceptación, mitigación, evitación y transferencia
+$b. El apetito, la tolerancia y el umbral de riesgo
+c. Actitud proactiva o reactiva
+
+?: ¿Qué es un Factor de Riesgo?
+a. Es un indicador del riesgo
+b. Es un porcentaje del riesgo total en función del número de stakeholders
+$c. Es un elemento que puede ser causa del riesgo
+
+?: El Risk Breakdown Structure (RBS) ¿qué es?
+$a. Es la identificación jerárquica de las categorías de riesgo
+b. Es la jerarquía de atributos que definen el riesgo
+c. Es la lista de riesgos del proyecto antes de priorizar
+
+?: ¿Cuáles son las estrategias generales para las oportunidades?
+$a. Aprovechamiento, Mejora, Compartición y Aceptación
+b. Proactivas, reactivas y contingencias
+c. Eliminación, Transferencia, Evitación y Retención
+
+?: Dentro de las técnicas de Identificación de riesgos, ¿Qué formatos habituales suelen tener las listas de control?
+$a. Listas de preguntas y listas de riesgos identificados
+b. Listas de rangos de los valores de la probabilidad y de los valores del impacto
+c. Listas de riesgos importantes y listas de reserva
+
+?: En el PMBOK se definen dos fases de análisis, ¿cuáles?
+a. Análisis proactivo y análisis reactivo
+$b. Análisis cualitativo y análisis cuentitativo
+c. Análisis de costes de riesgos y análisis de beneficios
+
+?: Dentro de las técnicas usadas habitualmente en la Planificación de la gestión de cada riesgo, ¿En qué consiste el Análisis coste-beneficio?
+$a. Es un procedimiento para formular y evaluar respuestas a los riesgos que sean consistentes en la comparación de costes y beneficios
+b. Es un procedimiento para calcular el coste y beneficio de las políticas de usar una estrategia reactiva (no controlar los riesgos) y proactiva
+c. Es un procedimiento para estimar el coste de la gestión de riesgos de cada actividad del proyecto y compararlo con los beneficio estimados del proyecto
+
+?: En el contexto de las técnicas de Monitorización de Riesgos, ¿En qué consiste el Análisis de Variación y de Tendencias?
+$a. En hacer análisis para comparar el estado del proyecto y de lo esperado en ese momento
+b. En el cálculo de las fluctuaciones monetarias de las reservas de riesgos del proyecto
+c. En hacer un seguimiento de la Gestión de Riesgos para comprobar que las reservas de riesgos siguen siendo suficientes para el proyecto
+
+?: ¿Qué es la Duración de un riesgo?
+$a. Es una combinación del momento en el que se sentirá su impacto y la duración del mismo
+b. Es el periodo de tiempo en el que es posible mitigar el riesgo
+c. Es el tiempo transcurrido desde que se identifica hasta que ya no es importante
+
+?: En el contexto de las técnicas de Resolución de proyectos, ¿En es la Aproximación de desgin-to-cost?
+a. En definir escenarios y se valorar estos escenarios
+b. En replantearse el objetivo del proyecto para determinar si el asumir el riesgo es productivo frente a otras opciones
+$c. Es una técnica de valoración de un desarrollo o una innovación
+
+?: Dentro de las técnicas de Identificación de riesgos, ¿En qué consiste el análisis basado en listas de control?
+a. En contestar a una serie de proeguntas sobre el valor del riesgo
+b. En definir listas de riesgos que posteriormente se revisan
+$c. En usar listas de riesgos o preguntas que proceden de experiencias anteriores
+
+?: ¿Qué mide la probabiliad de un riesgo?
+$a. Es el valor numérico de la posibilidad de que el riesgo ocurra
+b. Es la tabla de valores de impactos sobre el riesgo
+c. Es un valor que identifica si el riesgo es muy peligroso para le proyecto
+
+?: La metodología de Boehm tiene seis pasos
+$a. Identificación, Análisis, Priorización, Planificación de la gestión, Resolución y Monitorización
+b. Valoración, Priorización, Análisis Cuantitativo, Planificación de la respuesta, Monitorización y Control
+c. Planificación de la Gestión, Identificación, Análisis cualitativo, Análisis cuantitativo, Planificación de la respuesta y Monitorización
+
+?: En el contexto de las técnicas de Resolución de proyectos, ¿En qué consisten las Simulaciones?
+a. En crear prototipos, de manera que pueda evaluarse su viabilidad en términos de coste y riesgo
+b. En hacer valoraciones de elementos relacionados con las fuentes de riesgo
+$c. En definir escenarios y se valoran estos escenarios
+
+?: En el contexto de las técnicas de Resolución de proyectos, ¿En qué consiste las Encuestas?
+a. En replantearse el objetivo del proyecto para determinar si el asumir el riesgo es productivo frente a otras opciones
+b. En la valoración de un desarrollo o una innovación
+$c. En obtener información de interesados y determinar la viabilidad de ciertas actividades que son causa de riesgo
+
+?: ¿Cuáles son las estrategias generales para las oportunidades?
+a. Eliminación, Transferencia, Evitación y Retención
+b. Proactivas, reactivas y contingecnias
+$c.  Aprovechameinto, Mejora, Compartición y Aceptación
+
+?: ¿Cuál de las siguientes es la definición de riesgo que mejor se adapta a lo que se expone en la asignatura?
+$a. Un riesgo es un evento o condición incierta que, si sucede, tiene un efecto positivo o negativo en por lo menos uno de los objetivos del proyecto, tales como el alcance, el cronograma, el coste y la calidad (PMBOK)
+b. Un valor compuesto, resultante de la multiplicación de la probabilidad de ocurrencia de un evento por la pérdida que la misma implica (BOEHM)
+c. Un riesgo es cualquier suceso que pueda afectar negativamente a la marcha del proyecto en el futuro (RAE)
+
+?: ¿Cuáles son las técnicas habituales usadas en la priorización de riesgos?
+a. Las Simulaciones, la Matriz de Probabilidad e Impacto y el Juicio de expertos
+$b. La Ordenación por Probabilidad e Impacto, la Matriz de Probabilidad e Impacto y el Juicio de expertos
+c. El Análisis de coste-beneficio, la Matriz de Probabilidad e Impacto y el Juicio de expertos
+
+?: En el contexto de las técnicas de Resolución de proyectos, ¿En qué consisten los Benchmarks?
+a. En definir escenarios y se valoran estos escenarios
+$b. En valoraciones de elementos relacionados con las fuentes de riesgo
+c. En crear prototipos, de manera que pueda evaluarse su viabilidad en términos de coste y riesgo
+
+?: ¿En qué consiste la "Gestión de Riesgo" como producto de la fase de Planificación de la Gestión de cada Riesgo?
+a. Define la valoración y priorización del riesgo
+$b. Define la estrategia tomada para afrontar el riesgo
+c. Define la política de la organización y del proyecto con respecto a los riesgos
+
+?: Dentro de las técnicas usadas habitualmente en la Planificación de la gestión de cada riesgo, ¿En qué consisten los Planes de Contingencia?
+a. En definir estrategias generales que pueden resultar insuficientes o demasiado genéricas para poder controlar el riesgo
+b. En evaluar los costes del riesgo frente al coste de definir una estrategia de respuesta propia para le riesgo
+$c. En realizar un plan ad-hoc, identificando los eventos y las características del riesgo para definir medidas que se ejecutarán sólo en determinadas circunstancias
+
+?: Dentro de las técnicas de Identificación de riesgos, ¿Cuáles son las técnicas de Recopilación de Información mas habituales?
+a. Tormenta de ideas, Análisis del valor ganado, Delphi y Entrevistas
+$b. Tormentas de ideas, Delphi, Entrevistas y Análisis causal
+c. Análisis del valor ganado, Delphi,Análisis SWOT y Análisis causal
+
+?: Dentro de las técnicas de Identificación de riesgos y dentro de las técnicas de Recopilación de Información, ¿En qué consiste el análisis causal?
+a. Identifica las oportunidades sobrevenidas por actividades casuales del proyecto
+b. En definir las causas por las que el proyecto tiene riesgos
+$c. En técnicas sencillas de identificación de causas para un problema
+
+?: En el contexto de las técnicas de Monitorización de Riesgos, ¿En qué consiste el Análisis de Reserva?
+a. En revisar el estado de las reservas de tiempo para ver si las gestión de riesgos ha consumido alguna de estas reservas
+$b. En comprobar el estado de estas reservas, comparando su valor con los riesgos que debe cubrir hasta el final del proyecto
+c. En comparar el estado de estas reservas con las previsiones realizadas para afrontar el coste de la gestión de riesgos
+
+?: Dentro de las técnicas usadas en el Análisis de Riesgos, ¿Cómo se hace la Categorización de los riesgos?
+$a. Se hace de acuerdo a la definición de categorías realizada en la Planificación de la gestión de riesgos
+b. Se hace de acuerdo a la definición de categorías realizada en la Tabla de escalas de escalas de impacto
+c. Se hace de acuerdo a la definición de categorías realizada en la Matriz de probabilidad e impacto
+
+?: Dentro de las técnicas usadas en el Análisis de Riesgos, ¿Para qué es importante la Evaluación de la Urgencia de los Riesgos?
+$a. Para determinar el impacto total que tendrán los riesgos
+b. Para identificar los riesgos categorizados como temporales
+c. Para determinar las políticas de respuesta a esos riesgos
+
+?: Entre otras, ¿Qué cosas se definen durante la planificación de la gestión de riesgos?
+$a. Metodología, Categorías de riesgo, Definiciones de probabilidad e impacto y Matriz de probabilidad e impacto
+b. Probabilidad, Impacto y Alcance (probabilidad x impacto)
+c. Identificador, Nombre del riesgo, Descripción, Clase y Respuesta potencial
+
+?: ¿En qué consiste la identificación de riesgos?
+a. Es la creación de una lista con los riesgos importantes del proeycto y otra con los menos importantes
+b. Es un proceso de definición del identificador y el nombre de los riesgos del proyecto
+$c. Es un proceso de reflexión a través de diferentes técnicas para determinar qué cosas, elementos o circunstancias son riesgos del proyecto
+
+?: Dentro de las técnicas de Identificación de riesgos, ¿Cuáles de las siguientes son técnicas de diagramación?
+a. Diagramas de influencias y Análisis SWOT
+$b. Diagramas de Ishikawa y Diagramas de flujo
+c. Diagramas de clases y diagramas de despliegue
+
+?: ¿Cuál de las siguientes son algunas de las técnicas usadas en la Planificación de la gestión de cada riesgo?
+$a. Análisis coste-beneficio y Planes de Contingencia
+b. Análisis coste-beneficio y Análisis de la misión
+c. Análisis de la misión y Planes de Contingencia
+
+?: ¿Qué es un Indicador de riesgo?
+$a. Es un medida de la evaluación de un factor de riesgo
+b. Es un factor de riesgo individual
+c. Es un valor cuantificado del impacto del riesgo
+
+?: La metodología del PMBOK tiene seis pasos
+a. Valoración, Priorización, Análisis Cuantitativo, Planificación de la respuesta, Monitorización y Control
+b. Identificación, Análisis, Priorización, Planificación de la gestión, Resolución y Monitorización
+$c. Planificación de la Gestión, Identificación, Análisis cualitativo, Análisis cuantitativo, Planificación de la respuesta y Monitorización
+
+?: ¿Qué es el Impacto de un riesgo?
+a. Es una medida del peligro o beneficio real que el riesgo puede representar para el proyecto
+b. Es el periodo de tiempo en el que es posible mitigar el riesgo
+$c. Es el efecto que puede ocasionar el riesgo en caso de producirse
+
+?: ¿Qué técnicas se usan habitualmente en el Análisis de Riesgos?
+$a. Evaluación de la Probabilidad e Impacto de los riesgos, Categorización de Riesgos y Evaluación de la Urgencia de los Riesgos
+b. Análisis Cuantitativo y análisis cualitativo
+c. Calculo del alcance, EVM (Earned Value Management) y Priorización
+
+?: En el contexto de las técnicas de Resolución de proyectos, ¿En qué consiste el Análisis de la misión?
+$a. En replantearse el objetivo del proyecto para determinar si el asumir el riesgo es productivo frente a otras opciones
+b. En definir escenarios y se valoran estos escenarios
+c. En crear prototipos, de manera que pueda evaluarse su viabilidad en términos de coste y riesgo
+
+?: En función de las áreas que afectan, hay tres clases de riesgos, ¿Cuáles?
+$a. De proyecto, del producto y del negocio
+b. Amenazas, oportunidades, fortalezas y debilidades
+c. Conocidos, predecibles e impredecibles
+
+?: ¿Qué son la categorías de riesgo?
+$a. Las Categorías de Riesgo proporcionan una estructura que facilita la identificación y el manejo de los riesgos
+b. Las Categorías de Riesgo son una estructura que identificación los riesgos en función de los stakeholders
+c. Las Categorías de Riesgo proporcionan una estructura de definición de los riesgos para su posterior priorización
+
+?: ¿Cuál de las siguientes son algunas de las técnicas usadas en la Planificación de la gestión de cada riesgo?
+a. Análisis coste-beneficio y Análisis de la misión
+$b. Estrategias para Riesgos Negativos o Amenazas y Estrategias para Riesgos Positivos u Oportunidades
+c. Prototipos y simulaciones
+
+?: ¿Qué es la probabilidad de un riesgo?
+a. Es el número de veces que el riesgo ocurre en un proyecto
+b. Es una medida del efecto real que el riesgo puede tener en el proyecto
+$c. Es el porcentaje de probabilidades de que el riesgo ocurra
+
+?: ¿Qué es el Marco de Tiempo de un riesgo?
+a. Es una combinación del momento en el que se sentirá su impacto y la duración del mismo
+b. Es el tiempo transcurrido desde que se identifica hasta que ya no es importante
+$c. Es el periodo de tiempo en el que es posible mitigar el riesgo
+
+?: ¿Qué son las estrategia proactivas?
+$a. Aquellas que previamente evalúan todos los riesgos inherentes al proyecto
+b. Aquellas que dejan que los riesgos produzcan sus efectos y entonces se actúa en consecuencia
+c. Aquellas que no precisan de planes de contingencia
+
+?: Dentro de las técnicas de Identificación de riesgos, ¿En qué consiste el análisis SWOT?
+a. En identificar las fortalezas para evitar los riesgo
+$b. En examinar el proyecto desde el punto de vista de las Debilidades, Amenazas, Fortalezas y Oportunidades
+c. En identificar los riesgos de las amenazas y las debilidades
+
+?: ¿Cuáles son las principales técnicas de identificación de riesgos?
+a. Evaluación de la Probabilidad e Impacto de los riesgos, Categorización de Riesgos y Evaluación de la Urgencia de los Riesgos
+b. Ordenación por Probabilidad e Impacto, Matriz de Probabilidad e Impacto y Juicio de expertos
+$c. Técnicas de recopilación de Información, Análisis de listas de control, Análisis de supuestos, Técnicas de Diagramación, Análisis SWOT y Juicio de Expertos
+
+?: Dentro de las técnicas usadas en el Análisis de Riesgos, ¿Cómo se hace la Evaluación de la Probabilidad?
+$a. Se hace de acuerdo a una escala de rangos que se definen en la matriz de probabilidad e impacto
+b. Se hace contando el número de veces que se produce el riesgo durante el proyecto
+c. Se hace multiplicando el alcance por el impacto
+
+?: Una vez terminada la identificación, ¿Qué atributos se deberás obtener de cada riesgo?
+$a. Identificador, Nombre, Descripción, Clase y respuesta potencial
+b. Gestión del riesgo, Plan de contingencia y Valoración económica
+c. Probabilidad, Impacto y Alcance
+
+?: ¿Cuáles son las técnicas habituales para la Monitorización de Riesgos?
+a. Categorización de Riesgos, Evaluación de la Urgencia de los Riesgos, Benchmarks, Análisis de la misión y Encuestas
+$b. Reevaluación de los Riesgos, Auditorías de los Riesgos, Análisis de Variación y de Tendencias, Análisis de Reserva y Reuniones sobre el Estado del Proyecto
+c. Prototipos, Simulaciones, Benchmarks, Análisis de la misión, Encuestas, Aproximación de desgin-to-cost y Desarrollo incremental
+
+?: Si un riesgo tiene una probabilidad del 30% y un impacto sobre uno de los objetivos del proyecto del 40%, ¿Cuál es el alcance de ese riesgo para dicho objetivo?
+$a. 12%
+b. 70%
+c. 40%
+
+?: En función de su facilidad de detección, hay tres clases de riesgos, ¿Cuáles?
+a. De proyecto, del producto y del negocio
+b. Amenazas, oportunidades, fortalezas y debilidades
+$c. Conocidos, predecibles e impredecibles
+
+?: ¿Qué es la Importancia de un riesgo?
+$a. Es una medida del peligro o beneficio real que el riesgo puede representar para el proyecto
+b. Es el efecto que puede ocasionar el riesgo en caso de producirse
+c. Es el periodo de tiempo en el que es posible mitigar el riesgo
+
+?: Dentro de las técnicas de Identificación de riesgos y dentro de las técnicas de Recopilación de Información, ¿Qué elementos pueden usarse para dirigir el trabajo?
+a. La tabla de impactos
+b. La matris de probabilidad e impacto
+$c. El Risk Breakdows Structure
+
+?: Dentro de las técnicas de Priorización de los Riesgos, ¿En qué consiste el Juicio de expertos?
+$a. En solicitar la opinión de personas con experiencias en otros proyectos anteriores, sobre posibles riesgos en el proyecto
+b. Puede hacer que algunos riesgos se prioricen para ser monitorizados con más frecuencia a pesar de no haber sido priorizados mediante otras técnicas anteriores
+Este es el efcto, pero no explica en qué consiste el proceso.
+c. Las priorizaciones suelen estar basadas en experiencias con algunos tipos de riesgos mantenidos bajo control
+
+?: ¿Cuáles son dos de las principales diferencias entre BOEHM y PMBOK?
+a. La identificación de riesgos y las estrategias de resolución
+b. Las estrategias de priorización y la definición de objetivos de proyecto
+$c. La Planificación de la gestión de riesgos y el Análisis y Priorización
+
+?: En el contexto de las técnicas de Monitorización de Riesgos, ¿En qué consisten las Auditorías de los Riesgos?
+$a. En examimar, ver y documentar la efectividad de las respuestas a los riesgos y la del propio proceso de gestión de riesgos
+b. En contratar auditorías externas del proyecto que deben incluir a las actividades de gestión de riesgos
+c. En realizar revisiones a través de una lista de comprobación del proceso realizar en la gestión de riesgos
+
+?: Dentro de las técnicas de Identificación de riesgos, ¿En qué consiste el análisis de supuestos?
+a. En presuponer (hipótesis) que todos los riesgos del proyecto están identificados
+$b. En tomar una serie de hipótesis como base para concebir y desarrollar los riesgos
+c. En suponer riesgos y verificar que son del proyecto
+
+?: Dentro de las técnicas de Priorización de los Riesgos, ¿En qué consiste el uso de la Matriz de Probabilidad e Impacto?
+a. Se usa para definir las escalas de impacto del los riesgos
+$b. Se usa para priorizar el riesgo en función de la posición en dicha matriz
+c. Se usa para definir la escala de probabilidades que puede tener el riesgo
+
+?: ¿En qué consiste la fase de Análisis de riesgos?
+a. En establecer la respuesta y reservas necesarias para gestionar los riesgos
+$b. En examinar los riesgos en detalle para determinar su extensión, sus interrelaciones y su importancia
+c. En calcular la relación coste-beneficio de hacer una gestión de riesgos
+
+?: ¿Cuáles son las técnicas habituales para la Resolución de Riesgos?
+a. Evaluación de la Probabilidad e Impacto de los riesgos, Categorización de Riesgos y Evaluación de la Urgencia de los Riesgos
+$b. Prototipos, Simulaciones, Benchmarks, Análisis de la misión, Encuestas, Aproximación de desgin-to-cost y Desarrollo incremental
+c. Categorización de Riesgos, Evaluación de la Urgencia de los Riesgos, Benchmarks, Análisis de la misión y Encuestas
+
+?: En el contexto de las técnicas de Monitorización de Riesgos, ¿En qué consiste la Reevaluación de los Riesgos?
+a. En calcular el valor de las reservas cada cierto tiempo para ver si cubren el resto del proyecto
+$b. En revisiones y reevaluaciones de los riesgos con el objetivo de ver si aparecen nuevos riesgos y si algunos pueden ser eliminados
+c. En comprobar varias veces la evaluación de los riesgos para asegurar el valor calculado
+
+?: ¿En qué consiste la fase de Análisis de riesgos?
+a. En establecer la respuesta y reservas necesarias para gestionar los riesgos
+$b. En examinar los riesgos en detalle para determinar su extensión, sus interrelaciones y su importancia
+c. En calcular la relación coste-beneficio de hacer una gestión de riesgos

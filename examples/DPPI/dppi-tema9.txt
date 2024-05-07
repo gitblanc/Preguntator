@@ -1,0 +1,401 @@
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Qué es la variación de coste (CV)? Seleccione una:
+a. Es la diferencia entre la línea base del proyecto y el trabajo realizado realmente (CV = BCWP - BCWS)
+b. Es la diferencia entre lo que ha costado realmente y el trabajo realizado realmente (CV = ACWP - BCWS)
+$c. Es la diferencia entre la línea base del poryecto y lo que ha costado realmente (CV = BCWP - ACWP)
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Cuál es el índice de rendimiento de costes (CPI)? Seleccione una:
+$a. Compara el coste presupuestado con el coste real, CPI = BCWP / ACWP
+b. Compara la variación de costes con la variación de tiempos, CPI = CV / SV
+c. Compara la programación planeada con la ejecución real, CPI = BCWP / BCWS
+
+
+?: ¿Qué es el PMIS? Seleccione una:
+a. Project Management Interface System
+b. Project Management Infrastructure System
+$c. Project Management Information System
+
+
+?: Dentro de los elementos básicos del control del alcance, ¿Qué objetivo cumple tener un sistema de auditoría o revisión periódica? Seleccione una:
+a. Asegurar el cumplimiento del desempeño
+$b. Asegurar la integridad de la información
+c. Asegurar la buena dirección del proyecto
+
+
+?: Según Pritchard, ¿En qué consiste la terminación positiva? Seleccione una:
+a. Es positiva cuando el proyecto ha sido terminado en los plazos previstos
+b. Es positiva cuando el proyecto es rentable
+$c. Es positiva cuando el proyecto alcanza sus objetivos
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Qué es la variación del cronograma (SV)? Seleccione una:
+a. Es la diferencia entre lo que ha costado realmente y el trabajo realizado realmente (SV = ACWP - BCWS)
+$b. Es la diferencia entre la línea base del proyecto y el trabajo realizado realmente (SV = BCWP - BCWS)
+c. Es la diferencia entre la línea base del proyecto y lo que ha costado realmente (SV = BCWP - ACWP)
+
+
+?: ¿En qué consiste el seguimiento de un proyecto? Seleccione una:
+a. En el control de la ejecución del proyecto para verificar que el proyecto no sufre retrasos
+$b. En la supervisión continua o periódica de la ejecución de un proyecto para asegurarse de que se desarrolla de acuerdo al plan previsto
+c. En la revisión de la ejecución del proyecto para conseguir que se desarrolle dentro de los costes acordados
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Que representa el ACWP? Seleccione una:
+$a. Es el valor del coste de trabaja hasta el momento, representa cuánto ha costado el proyecto hasta el momento actual
+b. Es la línea base, representa cuanto trabajo debería estar hecho al coste presupuestado
+c. Es el valor del trabajo realizado, representa cuanto trabajo está terminado en el momento actual
+
+
+?: Dentro de los elementos básicos del control del alcance, ¿Que elementos ayudan a tener una manera de informar del estado de las variables del proceso? Seleccione una:
+a. El alcance, el coste, el cronograma y la calidad
+b. Los diagramas de Pareto y lo sgráficos ABC
+$c. El SIGP y los cuadros de mandos
+
+
+?: Según Meredith y Mantel, ¿En qué consiste la terminación por Hambre? Seleccione una:
+$a. Los recursos para el proyecto van disminuyendo hasta el punto en que no hay actividad
+b. El proyecto termina porque no se adapta al presupuesto
+c. Esta terminación ocurre cuando se termina el proyecto porque se anula su presupuesto
+
+
+?: ¿en qué consiste el Crashing and Fast Tracking? Seleccione una:
+a. Es un proceso provocado por una saturación de trabajo en el proyecto y las tareas siguientes son atropelladas por las anteriores que no han terminado
+b. Es el momento en que el proyecto ya no es viable y se estrella (crashing) obligando a abandonarlo
+$c. En replanificar el proyecto con el objetivo de acelerarlo para que se pueda terminar en una fecha anterior a la prevista
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Que es el BCWP? Seleccione una:
+$a. Coste presupuestado del trabajo realizado
+b. Coste presupuestado del trabajo progamado
+c. Coste real del trabajo realizado
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Que representa el BCWP? Seleccione una:
+$a. Es el valor del trabajo realizado, representa cuanto trabajo está terminado en el momento actual
+b. Es el valor del coste de trabaja hasta el momento, representa cuánto ha costado el proyecto hasta el momento actual
+c. Es la línea base, representa cuanto trabajo debería estar hecho al coste presupuestado
+
+
+?: Dentro de los elementos básicos del control del alcance, ¿Qué objetivo cumple tener un formato de identificación y nomenclatura? Seleccione una:
+a. Tener una lista de distribución de documentos
+b. Tener una codificación de los equipos destinados al proyecto
+$c. Evitar términos confusos
+
+
+?: ¿Qué quiere decir que la formación deber tener integridad? Seleccione una:
+$a. Que no se puede formar al usuario en un entorno para, posteriormente, volver a formarle en el mismo entorno pero con modificaciones
+b. Que no puede obligarse a usuario a hacer operaciones que pongan en peligro su integridad
+c. QUe la formación debe realizarse en un curso que integre todos los aspectos y no en diferentes cursos
+
+
+?: ¿Qué se representa en el gráfico de la cadena crítica? Seleccione una:
+a. El estado de desempeño del proyecto en un momento dado
+b. El tiempo hasta el final del proyecto
+$c. El consumo de reservas del camino crítico
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Que es el ACWP? Seleccione una:
+$a. Coste real del trabajo realizado
+b. Coste presupuestado del trabajo progamado
+c. Coste presupuestado del trabajo realizado
+
+
+?: Dentro de los elementos básicos del control del alcance, ¿Qué objetivo cumple tener un proceso de gestión de cambios? Seleccione una:
+a. Gestionar los cambios de personal que afecten al proyecto
+$b. Gestionar la línea base y los cambios del proyecto
+c. Gestionar los cambios de tecnología durante el proyecto
+
+
+?: En qué consiste el Control de costes Seleccione una:
+$a. En realizar un seguimiento de los costes reales para detectar las desviaciones y tomar las acciones correctoras que permitan corregir dichas desviaciones
+b. En no consumir todas las reservas dinerarias previstas para el proyecto
+c. En mantener los costes por debajo de lo presupuestado inicialmente
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Cuál es el índice de rendimiento de cronograma (SPI)? Seleccione una:
+$a. Compara la ejecución del cronograma planeada con la real, SPI = BCWP / BCWS
+b. Compara la variación de costes con la variación de tiempos, SPI = CV / SV
+c. Compara el coste presupuestado con el coste real, SPI = BCWP / ACWP
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Cuál es el coste estimado en la terminación (ECAC)? Seleccione una:
+$a. Es la proyección del coste total final en función del coste y del desempeño actuales. EACA = BAC x (ACWP / BCWP)
+b. Es la proyección del coste total final en función de la variación de coste y el coste actuales. EACA = BAC x (CV / ACWP)
+c. Es la proyección del coste total final en función de la variación de cronograma y la de coste actuales. EACA = BAC x (SV / CV)
+
+
+?: Según Pritchard, ¿En qué consiste la terminación negativa? Seleccione una:
+a. Es negativa cuando se ha superado el coste previsto
+b. Es negativa cuando el proyecto ha tenido una duración más larga que el cronograma previsto
+$c. Es negativa cuando el proyecto no alcanza sus objetivos
+
+
+?: ¿Cuáles son los principios básicos para la formación de los usuarios? Seleccione una:
+a. La información debe estar planificada, adaptada, acordada con el usuario y no debe ser redundante ni contradictoria
+$b. La información debe ser cierta, completa, tener integridad, estar acotada y no debe ser redundante ni contradictoria
+c. La información debe ser cierta, completa, tener integridad, estar acotada y no debe ser demasiado amplia ni compleja
+d. La información debe estar planificada, adaptada, acordada con el usuario y no debe ser demasiado amplia ni compleja
+
+
+?: Las técnicas usuales para controlar y comunicar los avances del proyecto permiten informar a los diferentes stakeholders sobre el estado del proyecto. Dentro de ellas, ¿Qué son las reuniones de avance de proyecto? Seleccione una:
+$a. Son reuniones con el objetivo de definir el estado actual de avance del proyecto, los riesgos futuros y las posibles decisiones a tomar para maximizar los beneficios del proyecto
+b. Son reuniones realizadas después de cada Informe de Avance del Proyecto para discutirlo
+c. Son reuniones con la dirección de la organización para informar sobre el estado del proyecto
+
+
+?: Son varias las razones para terminar un proyecto, de ellas, ¿Qué son la razones políticas? Seleccione una:
+a. Las leyes impiden que se termine el proyecto
+$b. Decisiones de política organizacional hacen abandonar el proyecto
+c. Los cambios políticos provocados por unas elecciones hacen el proyecto inviable
+
+
+?: ¿Cuáles son los tipos de final de proyecto según Meredith y Mantel? Seleccione una:
+$a. Extinción, adición, integración y hambre
+b. Finalización o proyecto "sin fin"
+c. Positiva y negativa
+
+
+?: Son varias las razones para terminar un proyecto, de ellas, ¿Qué son la razones de negocio? Seleccione una:
+a. El coste del proyecto no lo hace rentable
+$b. El proyecto ya no está alineado con la estrategia de la organización
+c. El proyecto no termina de funcionar o no se adapta a los requisitos del negocio
+
+
+?: ¿Cuándo termina realmente un proyecto? Seleccione una:
+$a. Cuando se han completado las actividades posteriores a su terminación
+b. Cuando se ha cobrado el proyecto
+c. Cuando éste se ha entregado al cliente
+
+
+?: Son varias las razones para terminar un proyecto, de ellas, ¿Qué son la razones de cronograma? Seleccione una:
+$a. La fecha de entrega se ha sobrepasado para un producto donde era vital
+b. El proyecto tiene tanta complejidad que los requisitos no dejan de aumentar
+c. El proyecto tiene tantos cambios que parece no acabarse nunca
+
+
+?: ¿En qué se basa el método de la cadena crítica? Seleccione una:
+$a. En el camino crítico y las reservas
+b. En el plazo crítico para llegar a los hitos
+c. En la cadena de actividades para terminar el proyecto
+
+
+?: ¿Según Furtel, ¿Cómo se debe comenzar cualquier solicitud de cambio? Seleccione una:
+a. Deben pasar por el Director de proyecto antes de ir al "Change Control Board"
+$b. Debe existir un "Change Control Board" que debe recepcionar las solicitudes
+c. Deben ser iniciados por el Jefe de Proyecto y estudiados por el "Change Control Board"
+
+
+?: ¿En qué consiste la gestión del cambio desde el punto de vista del usuario final? Seleccione una:
+a. En atender las solicitudes de cambio de los usuarios finales
+$b. En realizar acciones orientadas a facilitar el paso de los usuarios al nuevo sistema
+c. En gestionar la selección de nuevos usuarios para el sistema
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Cuál es el tiempo estimado en la terminación (ETAC)? Seleccione una:
+$a. Es la proyección del coste total final en función de la línea base y del desempeño actuales. ETAC = Tiempo planeado x (BCWS / BCWP) (Ver la referencia de la pregunta en Furtel)
+b. Es la proyección del coste total final en función de la línea base y de la variación de cronograma actuales. ETAC = Tiempo Planeado x (BCWS / SV)
+c. Es la proyección del coste total final en función de la línea base y del coste actuales. ETAC = Tiempo planeado x (BCWS / ACWP)
+
+
+?: Durante la ejecución del proyecto el Jefe de proyecto es el responsable de... Seleccione una:
+a. La Dirección del proyecto, la Coordinación con el cliente y los Aspectos legales
+b. La Dirección del proyecto, la Gestión de costes y Consecución de beneficios del proyecto
+$c. La Dirección del proyecto, el impulso al desarrollo del proyecto y la toma de decisiones
+
+
+?: Las técnicas usuales para controlar y comunicar los avances del proyecto permiten informar a los diferentes stakeholders sobre el estado del proyecto. Dentro de ellas, ¿Qué es la realización de pruebas y de auditorías? Seleccione una:
+$a. Son revisiones realizadas a todo o parte del proyecto para identificar fortalezas y debilidades
+b. Son revisiones realizadas para identificar riesgos que afecten negativamente al proyecto
+c. Son revisiones realizadas para buscar responsables de los fallos del proyecto
+
+
+?: Según Furtel, ¿Cuáles son las principales razones para terminar un proyecto? Seleccione una:
+a. Lógicas e ilógicas o b. De negocio, técnicas, de alcance, de cronograma, de coste, de calidad y políticas
+$b. De negocio, técnicas, de alcance, de cronograma, de coste, de calidad y políticas
+c. Presupuestarias, plazos, costes y calidad
+
+
+?: Las técnicas usuales para controlar y comunicar los avances del proyecto permiten informar a los diferentes stakeholders sobre el estado del proyecto. Dentro de ellas, ¿En qué consiste la entrega de elementos "tangibles"? Seleccione una:
+$a. En identificar elementos que cubren una parte de los objetivos del proyecto, de manera que se pueden hacer entregas parciales y de este modo verificar el avance del proyecto
+b. En definir hitos internos que deben ser certificados para hacerlos tangibles al cliente
+c. En seleccionar elementos que físicamente se puedan tocar para hacer entregas, por ejemplo documentos en papel
+
+
+?: Según Furtel, para el control y seguimiento del proyecto y cuando dicho proyecto debe organizar al personal a partir de cero, se deben establecer procesos simples, claros (qué hacer) y procedimientos (cómo hacerlo) que todos deben seguir. Esto debe incluir, entre otros... Seleccione una:
+$a. Procedimientos para el control de cambios y gestión de la configuración, para la realización de informes y para el control de calidad
+b. Procedimientos para el control de costes, alcance, cronograma y calidad
+c. Procedimientos para gestión de personal, gestión de costes, gestión de plazos, gestión de calidad y gestión de riesgos
+
+
+?: Según Meredith y Mantel, ¿En qué consiste la terminación por Integración? Seleccione una:
+a. De manera jerárquica se da la orden de integrar lo que esté realizado hasta ese momento y de da por terminado el proyecto
+b. El proyecto realiza la integración final de productos desarrollados y se da por termiando
+$c. El equipo de proyecto, los procesos y los productos se integran en el departamento que realizará la explotación de manera planificada
+
+
+?: ¿Cuál suele ser realmente la última actividad del proyecto? (según Furtel) Seleccione una:
+$a. Realizar el cierre administrativo financiero del proyecto
+b. Publicar el informe final incluyendo lecciones aprendidas y recomendaciones para la mejora del proceso
+c. Programar y realizar un acto de cierre de proyecto
+
+
+?: Dentro de las técnicas que ayudan a controlar los costes, ¿En qué consiste el uso de herramientas de simulación y estimación de costes? Seleccione una:
+a. Son herramientas que toman decisiones sobre el proyecto en función de escenarios de ejecución
+$b. Son herramientas que permiten diseñar escenarios de ejecución del proyecto hasta la conclusión y valorarlos para poder tomar decisiones
+c. SOn herramientas que simulan el proyecto y lo comparan con lo realizado para ver dónde se han cometido fallos
+
+
+?: ¿Qué dos técnicas recomienda Furtel para hacer la evaluación del desempeño? Seleccione una:
+$a. La Gestión del valor ganado y la Cadena crítica
+b. La Cadena crítica y las Reuniones de avance de proyecto
+c. La Gestión del valor ganado y las Reuniones de avance de proyecto
+
+
+?: Las técnicas usuales para controlar y comunicar los avances del proyecto permiten informar a los diferentes stakeholders sobre el estado del proyecto. Dentro de ellas, ¿En qué consiste la entrega de elementos “tangibles”? Seleccione una:
+$a. En identificar elementos que cubren una parte de los objetivos del proyecto, de manera que se pueden hacer entregas parciales y de este modo verificar el avance del proyecto
+b. En definir hitos internos que deben ser certificados para hacerlos tangibles al cliente
+c. En seleccionar elementos que físicamente se puedan tocar para hacer entregas, por ejemplo documentos en papel
+
+
+?: Según Furtel (Furtel y otros, 2005) , ¿Cuáles son los elementos básicos del control del alcance? Seleccione una:
+a. Un formato de documentación, un proceso de gestión de costes, una manera de informar del estado de las variables del proceso y un sistema de auditoría o revisión periódica
+$b. Un formato de identificación y nomenclatura, un proceso de gestión de cambios, una manera de informar del estado de las variables del proceso y un sistema de auditoría o revisión periódica
+c. Un formato de identificación y nomenclatura, un proceso de gestión de costes, una manera de informar del estado de avance del proyecto y un sistema de auditoría o revisión periódica
+
+
+?: Las técnicas usuales para controlar y comunicar los avances del proyecto permiten informar a los diferentes stakeholders sobre el estado del proyecto. Dentro de ellas, ¿Qué son los hitos de control? Seleccione una:
+$a. Son elementos no necesariamente tangibles que permiten identificar el estado de avance del proyecto
+b. Son tareas ficticias que permiten controlar el el estado de avance del proyecto
+c. Son tareas introducidas en el cronograma para controlar el avance del proyecto
+
+
+?: ¿Cuáles son los tipos de final de proyecto según Pritchard? Seleccione una:
+a. Extinción, adición, integración y hambre
+b. Finalización o proyecto "sin fin"
+$c. Positiva y negativa
+
+
+?: El seguimiento y control de un proyecto es un conjunto de actividades que pretenden conseguir que el proyecto se ajuste a los planes establecidos a priori y que consiga los objetivos que para él se hayan determinado. ¿Cuáles son estos objetivos? Seleccione una:
+a. Mejora continua, financiación, cumplimiento y mantenimiento
+$b. Alcance, coste, plazo y calidad
+c. Requisitos, usabilidad, accesibilidad y fiabilidad
+
+
+?: ¿Qué es un cuadro de mandos desde el punto de vista del SIGP? Seleccione una:
+$a. Es una visión parcial de algunas variables relacionadas para ofrecer una vista conjunta de algún aspecto del proyecto
+b. Es una colección de gráficos que muestran información parcial del proyecto
+c. Es una herramienta que tienes los SIGP para seleccionar variables del proyecto
+
+
+?: ¿Cuál es la principal ventaja del método de la Cadena Crítica frente al EVM? Seleccione una:
+a. La precisión de los cálculos
+b. La mayor información sobre el proyecto
+$c. La sencillez de los cálculos a realizar
+
+
+?: Dentro de las técnicas que ayudan a controlar los costes, ¿En qué consiste el uso de la contabilidad analítica? Seleccione una:
+a. Usar herramientas de contabilidad analítica que hagan regularmente un análisis del desempeño del proyecto
+b. Usar herramientas de contabilidad analítica que realicen regularmente la gestión de pagos para evitar sobrecostes
+$c. Usar herramientas de contabilidad analítica que permitan cargar los costes a cada actividad del proyecto
+
+
+?: Según Meredith y Mantel, ¿En qué consiste la terminación por Extinción? Seleccione una:
+a. Esta terminación ocurre cuando se termina el proyecto por una orden jerárquica
+b. Los recursos para el proyecto van disminuyendo hasta el punto en que no hay actividad
+$c. Esta terminación ocurre cuando el proyecto termina porque es satisfactorio, insatisfactorio, sustituido o “asesinado”
+
+
+?: Dentro de los elementos básicos del control del alcance, ¿Qué objetivo cumple tener un formato de identificación y nomenclatura? Seleccione una:
+a. Tener una lista de distribución de documentos
+$b. Evitar términos confusos
+c. Tener una codificación de los equipos destinados al proyecto
+
+
+?: ¿Cuál de los siguientes NO es un beneficio propio de la gestión del cambio? Seleccione una:
+a. Mejora de la productividad de los usuarios
+b. Aumento de la satisfacción de los usuarios
+$c. Mejora de las condiciones de trabajo de los usuario
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Que es el BCWS? Seleccione una:
+$a. Coste presupuestado del trabajo programado
+b. Coste presupuestado del trabajo realizado
+c. Coste real del trabajo realizado
+
+
+?: Dentro de las técnicas que ayudan a controlar los costes, ¿En qué consiste centrar el esfuerzo en las partidas de mayor coste? Seleccione una:
+a. Consiste en partir tareas para que su coste no sea significativo y su control no sea necesario, centrando la atención en las que no se pueden partir
+b. Consiste en unir actividades para que el coste global de todas ellas sea suficientemente alto como para que tenga sentido prestales atención
+$c. Consiste en usar técnicas como la Ley de Pareto o los diagramas ABC para decidir qué actividades requieren mayor atención
+
+
+?: Dentro de las técnicas que ayudan a controlar los costes, ¿En qué consiste el desglose en actividades sencillas? Seleccione una:
+a. En definir actividades de dos o tres días como máximo para evitar la sobrecarga de los equipos de trabajo
+$b. En definir actividades cortas y con costes y tiempos bien calculados y definidos para facilitar las estimaciones
+c. En diseñar el proyecto en base a actividades cortas para identificar mejor los hitos
+
+
+?: ¿A qué nos puede ayudar la aplicación de técnicas como las de los gráficos ABC o la ley de Pareto (80/20) con respecto del SIGP? Seleccione una:
+a. No pueden ayudar a seleccionar las adquisiciones con mayor coste para centrar los esfuerzos en ellas
+$b. Nos pueden ayudar a seleccionar aquellas variables que tienen más impacto y que deben ser observadas con más atención
+c. Nos pueden ayudar a seleccionar los riesgos más importantes para el proyecto
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Qué representa el BCWS? Seleccione una:
+$a. Es la línea base, representa cuanto trabajo debería estar hehco al coste presupuestado
+b. Es el valor del coste de trabaja hasta el momento, representa cuánto ha costado el proyecto hasta el momento actual
+c. Es el valor del trabajo realizado, representa cuanto trabajo está terminado en el momento actual
+
+
+?: ¿Cuál de las siguientes NO es una actividad propia de la gestión del cambio? Seleccione una:
+a. Programar actividades de formación de los usuarios finales
+b. Facilitar la implicación del usuario final en la definición del nuevo sistema
+$c. Planear contingencias para el caso de rechazo del usuario final
+
+
+?: ¿Cómo se pueden definir los costes internos? Seleccione una:
+a. Son costes temporales que la organización pagará al final del proyecto
+b. Son los costes de los equipos usados en el proyecto
+$c. Son los costes en los que incurre el proyecto por haber usado recursos propios de la organización
+
+
+?: ¿Qué tipos de costes exiten en un proyecto desde el punto de vista del origen? Seleccione una:
+$a. Costes internos y externos
+b. Costes de proveedores y de clientes
+c. Costes financieros y laborales
+
+
+?: ¿Qué es el Sistema de Información de Gestión del Proyecto (SIGP)? Seleccione una:
+a. Es un sistema que permite consultar las posibles acciones a tomar para corregir la marcha del proyecto
+$b. Es un sistema que permite consultar en todo momento la situación del proyecto en función de la planificación aprobada
+c. Es un sistema que permite actuar sobre el proyecto para corregir las desviaciones
+
+
+?: ¿Qué quiere decir que la formación debe ser completa? son los informes de avance del proyecto?
+a. Que el usuario debe recibir formación sobre el sistema y sobre los conceptos informáticos que requiera el sistema
+b. Que el usuario debe recibir formación suponiendo que no sabe nada sobre el sistema ni el dominio
+$c. Que el usuario debe recibir formación de todos y cada uno de los aspectos que le atañen para su trabajo con el sistema
+
+
+?: Son varias las razones para terminar un proyecto, de ellas, ¿Qué son la razones de calidad?
+a. El proyecto resulta muy caro de mantener porque se ha construido sin calidad
+$b. El proyecto no termina de funcionar o no se adapta a los requisitos
+c. El proyecto resulta tan caro que no es interesante explotarlo
+
+
+?: ¿Cómo se pueden identificar los costes internos?
+a. Haciendo bloques grandes de costes que pueden manejarse con más facilidad
+b. Convirtiéndolos en externos
+$c. Mediante sistemas de contabilidad analítica
+
+
+?: Las técnicas usuales para controlar y comunicar los avances del proyecto permiten informar a los diferentes stakeholders sobre el estado del proyecto. Dentro de ellas, ¿Qué son los informes de avance del proyecto?
+$a. Son informes basados en la evaluación del desempeño y en técnicas como la Earned Value Management
+b. Son informes que informan del estado de avance de las actividades del proyecto
+c. Son informes que presentan el estado de los costes en un momento del proyecto
+
+
+?: ¿Cuál suele ser realmente la última actividad del proyecto?
+a. Programar y realizar un acto de cierre de proyecto
+b. Publicar el informe final incluyendo lecciones aprendidas y recomendaciones para la mejora del proceso
+$c. Realizar el cierre administrativo financiero del proyecto

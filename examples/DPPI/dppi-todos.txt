@@ -2835,3 +2835,782 @@ c. Los subprocesos que contribuyen significativamente al desempeño general del 
 a. Impredecible, Repetible, Proactivo, Controlado y Mejora continua
 b. Control de la calidad, Garantía de calidad, Aseguramiento de calidad y Calidad total
 $c. Inicial, Repetible, Definido, Administrado y Optimizado
+
+
+?: Dentro de las técnicas de búsqueda de aspectos legales y normativos, ¿En qué consisten los Estudios con entidad propia? Seleccione una:
+a. Consiste en hacer una consultoría de normativa TIC que sea de aplicación a la tecnología usada en el proyecto
+$b. Consiste en consultar a expertos del dominio de aplicación para ver qué aspectos del proyecto pueden estar afectados por alguna norma o ley
+c. Consiste en que sea la propia organización quien haga estudios de normativa y no externalice estos procesos
+
+
+?: ¿Cuáles de los siguientes criterios formarán parte del Plan de Gestión de las comunicaciones? Seleccione una:
+a. El método para crear el informe de desempeño
+b. El método para evaluar los costes del personal asignado a las comunicaciones
+$c. El método para actualizar y refinar el plan de gestión de las comunicaciones
+
+
+?: ¿Cómo es la comunicación interactiva? Seleccione una:
+a. Es información que se envía a los receptores sin posibilidad de contestación, por ejemplo informes, faxes, blogs, etc.
+b. Es información que busca el usuario en algún lugar, por ejemplo, repositorios, páginas web, etc.
+$c. Es comunicación multidireccional, como por ejemplo emails, reuniones, videoconferencias, teléfono, etc.
+
+
+?: ¿Cuáles de los siguientes criterios formarán parte del Plan de Gestión de las comunicaciones? Seleccione una:
+$a. El Glosario de terminología común
+b. La provisión de aceso a los repositorios
+c. La lista de distribución de documento
+
+
+?: ¿Cuáles son las técnicas de Gestión de las Comunicaciones? Seleccione una:
+$a. Tecnología de comunicaciones, Modelos de comunicaciones, Métodos de comunicación, Sistemas de gestión de la información e Informes de desempeño
+b. Análisis de los requisitos de comunicación, Tecnología de comunicaciones, Modelos de comunicaciones, Métodos de comunicación, Sistemas de gestión de la información y Reuniones
+c. Sistemas de Gestión de Información, Juicio de expertos y Reuniones
+
+
+?: La norma propone la elaboración de una serie de documentos, ¿Son todos obligatorios? Seleccione una:
+a. Si
+b. No
+$c. No, pero hay que justificar los que no aparezcan
+
+
+?: AENOR es una entidad de normalización... Seleccione una:
+a. ...de ámbito nacional y sectorial
+b. ...de ámbito internacional y multisectorial
+c. ...de ámbito internacional y sectorial
+$d. ...de ámbito nacional y multisectorial
+
+
+?: ¿Cuáles de los siguientes son factores que influyen en las decisiones de selección de Tecnologías de comunicación? Seleccione una:
+a. La codificación y decodificación del mensaje
+$b. La Urgencia de la información requerida y la Facilidad de uso
+c. La transmisión y aceptación del mensaje
+
+
+?: ¿Qué proceso es importante hacer a la hora de planear un proyecto para evitar compliaciones legales futuras? Seleccione una:
+a. Hacer estudios con entidad propia para saber si nos afecta alguna ley
+b. Usar herramientas para buscar las normas y las leyes que nos afectan
+$c. Identificar la legislación, la normativa, las patentes y los derechos de autor que puedan condicionar el diseño del proyecto
+
+
+?: En qué consiste la Gestión de las Comunicaciones? Seleccione una:
+$a. Gestionar las comunicaciones es el proceso de crear, recoger, distribuir, guardar y mantener la información del proyecto de acuerdo a la planificación de la gestión de las comunicaciones
+b. Gestionar las comunicaciones es el proceso de segimiento de la información del proyecto de acuerdo a la planificación de la gestión de las comunicaciones
+c. Gestionar las comunicaciones es el proceso de definir los requisitos de la información del proyecto de acuerdo a la planificación de la gestión de las comunicaciones
+
+
+?: Un equipo de proyecto compuesto por 4 personas, ¿Cuántos canales de comunicación genera? Seleccione una:
+a. 4
+$b. 6
+c. 8
+
+
+?: ¿Cuáles de los siguientes criterios formarán parte del Plan de Gestión de las comunicaciones? Seleccione una:
+a. La adaptación de los modelos de comunicación a los requisitos del proyecto
+$b. La persona responsable de comunicar la información
+c. Asegurar que la información está disponible para las personas en tiempo y forma
+
+
+?: ¿En qué consiste el Control de la Comunicaciones? Seleccione una:
+a. Es el proceso de crear, recoger, distribuir, guardar y mantener la información del proyecto de acuerdo a la planificación de la gestión de las comunicaciones
+$b. El Control de las Comunicaciones es el proceso de seguimiento y control de las comunicaciones a través de todo el ciclo de vida del proyecto para garantizar las necesidades de información de los interesados en el proyecto se cumplen
+c. Es el proceso de definir los requisitos de la información del proyecto de acuerdo a la planificación de la gestión de las comunicaciones
+
+
+?: ¿Cuales de las siguientes son técnicas para la planificación de la Gestión de las Comunicaciones? Seleccione una:
+a. Las tecnologías de comunicación y los Sistemas de gestión de la información
+b. Los Sistemas de Gestión de Información y el Juicio de expertos
+$c. El Análisis de los requisitos de comunicación y las Reuniones
+
+
+?: ¿En qué consiste la planificación de la Gestión de las Comunicaciones? Seleccione una:
+$a. Es el proceso para definir los canales y procesos de comunicación relacionados con el proyecto
+b. Es el proceso para formalizar los modelos y métodos de comunicación relacionados con el proyecto
+c. Es el proceso para formalizar los procesos y procedimientos de comunicación relacionados con el proyecto
+
+
+?: W3C es una entidad de normalización... Seleccione una:
+a. ...de ámbito nacional y multisectorial
+$b. ...de ámbito internacional y sectorial
+c. ...de ámbito internacional y multisectorial
+d. ...de ámbito nacional y sectorial
+
+
+?: ¿Cuáles de los siguientes criterios formarán parte del Plan de Gestión de las comunicaciones? Seleccione una:
+a. La adaptación de los modelos de comunicación a los requisitos del proyecto
+$b. Los métodos o tecnologías utilizados para transmitir la información
+
+
+?: ¿Cuáles de los siguientes criterios formarán parte del Plan de Gestión de las comunicaciones? Seleccione una:
+$a. La persona responsable de autorizar la divulgación de información confidencial
+b. La persona responsable de poner información en los medios de tipo pull
+c. La persona responsable de realizar los informes de desempeño
+
+
+?: Cuáles de los siguientes criterios formarán parte del Plan de Gestión de las comunicaciones? Seleccione una:
+$a. Los diagramas de flujo de la información que circula dentro del proyecto
+b. Los flujogramas de trabajo
+c. Los organigramas jerárquidos del equipo de proyecto
+
+
+?: ¿Cuáles de los siguientes criterios formarán parte del Plan de Gestión de las comunicaciones? Seleccione una:
+$a. Los requisitos de comunicación de los interesados
+b. Los registros de las comunicaciones
+c. La distribución de medios de comunicación entre los miembros del equipo de proyecto
+
+
+?: Dentro de las técnicas de búsqueda de aspectos legales y normativos, ¿En qué consiste el Juicio de expertos? Seleccione una:
+a. Consiste en usar expertos en vez de normas, ya que los expertos tienen experiencia directa
+b. Consiste en preguntar a expertos en normas para que nos aconsejen cómo usarlas
+$c. Consiste en ayudarse de personas con experiencia para identificar normativa o legislación que pueda afectar al proyecto
+
+
+?: Pedir explicaciones por una decisión de un miembro del equipo por parte del jefe de proyecto, ¿Que tipo de comunciación sería? Seleccione una:
+a. Vertical y extraoficial
+b. Formal y oficial
+$c. Interna y oral
+
+
+?: ¿Cuáles son los tipos de normas por su capacidad para demostrar su uso? Seleccione una:
+a. Orientativas y de uso obligatorio
+$b. Certificables y no certificables
+c. Internacionales, nacionales, etc.
+
+
+?: ¿Cómo es la comunicación tipo push? Seleccione una:
+$a. Es información que se envía a los receptores sin posibilidad de contestación, por ejemplo informes, faxes, blogs, etc.
+b. Es comunicación multidireccional, como por ejemplo emails, reuniones, videoconferencias, teléfono, etc.
+c. Es información que busca el usuario en algún lugar, por ejemplo, repositorios, páginas web, etc.
+
+
+?: ¿Cuáles de los siguientes criterios formarán parte del Plan de Gestión de las comunicaciones? Seleccione una:
+a. El archivado de la documentación
+b. La provisión de acceso a los Sistemas de trabajo colaborativo
+$c. Los recursos asignados para las actividades de comunicación
+
+
+?: Dentro de las técnicas de búsqueda de aspectos legales y normativos, ¿En qué consiste la Codificación? Seleccione una:
+$a. Consiste en identificar las normas por su código
+b. Consiste en codificar las normas de manera que sólo las puedan leer quienes tienen permisos
+c. Consiste en escribir programas que permitan buscas las normas
+
+
+?: ¿Cuáles de los siguientes son factores que influyen en las decisiones de selección de Tecnologías de comunicación? Seleccione una:
+$a. La Urgencia de la información requerida y la Facilidad de uso
+b. La codificación y decodificación del mensaje
+c. La transmisión y aceptación del mensaje
+
+
+?: ¿Cuáles de los siguientes criterios formarán parte del Plan de Gestión de las comunicaciones? Seleccione una:
+a. Las pérdidas de información por denegaciópn de servicio
+$b. Las restricciones en materia de comunicación
+c. La adaptación de las medidas de seguridad por acceos no permitidos
+
+
+?: ISO es una entidad de normalización... Seleccione una:
+a. ...de ámbito internacional y sectorial
+$b. ...de ámbito internacional y multisectorial
+c. ...de ámbito nacional y multisectorial
+d. ...de ámbito nacional y sectorial
+
+
+?: ¿Cuáles son las principales técnicas de búsqueda de aspectos legales y normativos? Seleccione una:
+a. Integración, Juicio de expertos, Herramientas, Estudios con entidad propia, Normativa de la Organización y Consulta
+b. Integración, Juicio de expertos, Consulta, Estudios con entidad propia, Normativa de la Organización y Consenso
+$c. Codificación, Juicio de expertos, Herramientas, Estudios con entidad propia, Normativa de la Organización y Mejora de procesos
+
+
+?: Entre la información usada para determinar los requisitos de comunicación está... Seleccione una:
+$a. Los organigramas
+b. La urgencia
+c. Los cronogramas
+
+
+?: Dentro de las técnicas de búsqueda de aspectos legales y normativos, ¿En qué consiste la Mejora de procesos? Seleccione una:
+$a. Consiste en generar o identificar normativa para la organización que mejore los procesos en los proyectos, a partir del proyecto actual
+b. Consiste enmejorar los procesos del proyecto usando las normas adecuadas Esto es lo que hacen las normas habitualmente, pero no es lo que recoje esta técnica
+c. Consiste en mejorar las normas que se van a aplicar a un proyecto si tienen defectos o no se adaptan
+
+
+?: ¿Cuáles de los siguientes criterios formarán parte del Plan de Gestión de las comunicaciones? Seleccione una:
+$a. El motivo de la distribución de cada tipo de información
+b. Las listas de distribución de documentos
+c. Los medios físicos de información
+
+
+?: La Sensibilidad y confidencialidad de la información es un factor de decisión, ¿en qué técnica de planifiación de la gestiñon de las comunicaciones influye? Seleccione una:
+$a. Tecnología de comunicación
+b. Modelos de comunicación
+c. Métodos de comunicación
+
+
+?: ¿Cómo es la comunicación interactiva? Seleccione una:
+$a. Es comunicación multidireccional, como por ejemplo emails, reuniones, videoconferencias, teléfono, etc.
+b. Es información que se envía a los receptores sin posibilidad de contestación, por ejemplo informes, faxes, blogs, etc.
+c. Es información que busca el usuario en algún lugar, por ejemplo, repositorios, páginas web, etc.
+
+
+?: ¿Cuáles son los tipos de normas por su ámbito de aplicación? Seleccione una:
+$a. Internacionales, nacionales, etc.
+b. Orientativas y de uso obligatorio
+c. Terminología, ensayo, etc.
+
+
+?: La planificación de comunicación tiene tres procesos importantes, ¿Cuáles? Seleccione una:
+$a. Planificar la Gestión de las Comunicaciones, Gestionar las Comunicaciones y Controlar las Comunicaciones
+b. La Creación, la Distribución y el Almacenamiento
+c. El Control, el Seguimiento y la Disposición final de la información del proyecto
+
+
+?: Dentro de las técnicas de gestión de las Comuncaciones, ¿Qué sistemas se usarán para la comunicación? Seleccione una:
+a. Comunicación escrita, vertical, formal y oficial
+b. Lo sinformes de desempeño
+$c. Copias en papel, gestión de documentos electrónicos y Herramientas electrónicas de gestión de proyectos
+
+
+?: Dentro de las técnicas para la planificación de la Gestión de las Comunicaciones, ¿En qué consiste el Análisis de los requisitos de comunicación? Seleccione una:
+a. En determinar el número de canales que van a usar la comunciación
+$b. En determinar los requisitos de comunicación necesaria y el valor de esa información
+c. En determinar los métodos que se usen para realizar la comunicación
+
+
+?: ¿Cuáles de los siguientes criterios formarán parte del Plan de Gestión de las comunicaciones? Seleccione una:
+$a. El plazo y la frecuencia para la distribución de la información
+b. El archivado de la documentación
+c. Los registros de las comunicaciones
+
+
+?: ¿Cuáles son las técnicas del Control de las Comunicaciones? Seleccione una:
+a. Tecnología de comunicaciones, Modelos de comunicaciones, Métodos de comunicación, Sistemas de gestión de la información e Informes de desempeño
+$b. Sistemas de gestión de la información, Juicio de expertos y Reuniones
+c. Análisis de los requisitos de comunicación, Tecnología de comunicaciones, Modelos de comunicaciones, Métodos de comunicación, Sistemas de gestión de la información y Reuniones
+
+
+?: ¿En qué consiste la normalización? Seleccione una:
+a. Obliga a seguir unos procedimientos rigurosos para conseguir los estándares de calidad
+b. Define procedimientos que corrigen el modo de hacer habitual cuando está equivocado
+$c. Permite aprovecharse de las mejores prácticas realizadas por otros profesionales con mayor experiencia en el campo que sea de aplicación
+
+
+?: ¿Cuáles de los siguientes criterios formarán parte del Plan de Gestión de las comunicaciones? Seleccione una:
+a. El proceso de actualización de riesgos de comunicación
+b. El proceso de creación del informe de desempeño
+$c. El proceso de escalación
+
+
+?: ¿Cuáles de los siguientes criterios formarán parte del Plan de Gestión de las comunicaciones? Seleccione una:
+a. La provisión de acceso de los stakeholder a la información que requieren en cada momento
+b. La actualización de la información en los medios de comunicación
+$c. La persona o los grupos que recibirán la información
+
+
+?: ¿Qué problemas principales trata de solucionar la norma? Seleccione una:
+$a. Los relacionados con las etapas de definición, construcción, pruebas, implantación y puesta en servicio
+b. Los relacionados con las etapas de definición y desarrollo del proyecto
+c. Los relacionados con la etapa de definición del proyecto
+
+
+?: Un email del Jefe de Proyecto comunicando que se va a disponer de licencias de un producto, ¿Que tipo de comunciación sería? Seleccione una:
+a. Escrita y horizontal
+$b. Vertical e informal
+c. Interna y extraoficial
+
+
+?: ¿En qué fase se elabora documentación usando la Norma UNE157801? Seleccione una:
+$a. En la fase previa al propio desarrollo del proyecto
+b. En la fase de mantenimiento del proyecto
+c. En la fase de desarrollo del proyecto
+
+
+?: Dentro de la Planificación de la gestión de las comunicaciones, en la técnica para definir los métodos de comunicación, ¿Cómo pueden clasificarse los fiferentes métodos de comunicación? Seleccione una:
+a. Interna y externa, formar e informal, vertical y horizontal, oficial y extraoficial y escrita y oral
+b. Codificación, Transmisión, Decodificación, Aceptación y Respuesta
+$c. Interactiva, pusk y pull
+
+
+?: Dentro de las técnicas de búsqueda de aspectos legales y normativos, ¿En qué consiste el uso de Herramientas? Seleccione una:
+$a. Consiste en buscar normas a través de herramientas de búsqueda especilizada
+b. Consiste en usar herramientas para nos ayuden a implantar las normas
+c. Consiste en generar normas adaptadas al proyecto usando herramientas
+
+
+?: Un informe de progreso para el cliente, ¿Que tipo de comunciación sería? Seleccione una:
+$a. Formal y externa
+b. Oficial y vertical
+c. Escrita e informal
+
+
+?: Un equipo de proyecto compuesto por 6 personas, ¿Cuántos canales de comunicación genera? Seleccione una:
+a. 12
+b. 6
+$c. 15
+
+
+?: ¿Cuáles son los tipos de normas por el objeto normalizado?
+a. Certificables y no certificables.
+$b. Terminología, ensayo, etc.
+c. Internacionales, nacionales, etc.
+
+
+?: Entre la información usada para determinar los requisitos de comunicación está...
+a. La información sobre las tecnologías a usar.
+$b. Las necesidades de información interna y externa.
+c. La codificación, transmisión y aceptación del mensaje.
+
+
+?: Publicar algunos resultados del proyecto para información del cliente, ¿qué tipo de comunciación sería?
+a. Escrita y extraoficial.
+b. Vertical e informal.
+$c. Externa y formal.
+
+
+?: ¿En qué fase se elabora documentación usando la Norma UNE-157801?
+a. En la fase de desarrollo del proyecto.
+$b. En la fase previa al propio desarrollo del proyecto.
+c. En la fase de mantenimiento del proyecto.
+
+
+?: Dentro de las técnicas de búsqueda de aspectos legales y normativos, ¿en qué consiste la normativa de la organización?
+a. Consiste en generar o identificar normativa para la organización que mejore los procesos en los proyectos.
+$b. Consiste en integrar en el proyecto toda la normativa aplicable, que sea propia de la organización.
+c. Consiste en identificar la noramtiva de la organización que se contradiga con la de los estudios con entidad propia.
+
+
+?: Dentro de la Planificación de la gestión de las comunicaciones, al definir los modelos de comunicación, en la calidad de dicha comunicación influyen diferentes factores que componen el canal de comunicación, ¿cuáles?
+a. Las necesidades de información interna y externa, la facilidad de uso y el entorno del proyecto.
+$b. Codificación, Transmisión, Decodificación, Aceptación y Respuesta.
+c. La urgencia de la información requerida y la facilidad de uso.
+
+
+?: ¿Cuáles son los tipos de normas por su capacidad legal para obligar al cumplimiento?
+a. Terminología, ensayo, etc.
+$b. Orientativas y de uso obligatorio.
+c. Certificables y no certificables.
+
+
+?: ¿Cómo es la comunicación tipo pull
+$a. Es información que busca el usuario en algún lugar, por ejemplo, repositorios, páginas web, etc.
+b. Es información que se envía a los receptores sin posibilidad de contestación, por ejemplo informes, faxes, blogs, etc.
+c. Es comunicación multidireccional, como por ejemplo emails, reuniones, videoconferencias, teléfono, etc.
+
+
+?: ¿Qué son los informes de desempeño?
+a. Son inforrmes sobre los resultados finales del proyecto.
+b. Son cuadros de mando que usan los componentes del equipo.
+$c. Son informes que se realizan periódicamente para informar a los stakeholders del proyecto sobre los aspectos que les interesan en relación al avance del proyecto.
+
+
+?: IEEE es una entidad de normalización...
+a. ...de ámbito internacional y multisectorial.
+$b. ...de ámbito internacional y sectorial.
+c. ...de ámbito nacional y sectorial.
+d. ...de ámbito nacional y multisectorial.
+
+
+?: OMG es una entidad de normalización...
+a. ...de ámbito internacional y multisectorial.
+$b. ...de ámbito internacional y sectorial.
+c. ...de ámbito nacional y sectorial.
+d. ...de ámbito nacional y multisectorial.
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Qué es la variación de coste (CV)? Seleccione una:
+a. Es la diferencia entre la línea base del proyecto y el trabajo realizado realmente (CV = BCWP - BCWS)
+b. Es la diferencia entre lo que ha costado realmente y el trabajo realizado realmente (CV = ACWP - BCWS)
+$c. Es la diferencia entre la línea base del poryecto y lo que ha costado realmente (CV = BCWP - ACWP)
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Cuál es el índice de rendimiento de costes (CPI)? Seleccione una:
+$a. Compara el coste presupuestado con el coste real, CPI = BCWP / ACWP
+b. Compara la variación de costes con la variación de tiempos, CPI = CV / SV
+c. Compara la programación planeada con la ejecución real, CPI = BCWP / BCWS
+
+
+?: ¿Qué es el PMIS? Seleccione una:
+a. Project Management Interface System
+b. Project Management Infrastructure System
+$c. Project Management Information System
+
+
+?: Dentro de los elementos básicos del control del alcance, ¿Qué objetivo cumple tener un sistema de auditoría o revisión periódica? Seleccione una:
+a. Asegurar el cumplimiento del desempeño
+$b. Asegurar la integridad de la información
+c. Asegurar la buena dirección del proyecto
+
+
+?: Según Pritchard, ¿En qué consiste la terminación positiva? Seleccione una:
+a. Es positiva cuando el proyecto ha sido terminado en los plazos previstos
+b. Es positiva cuando el proyecto es rentable
+$c. Es positiva cuando el proyecto alcanza sus objetivos
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Qué es la variación del cronograma (SV)? Seleccione una:
+a. Es la diferencia entre lo que ha costado realmente y el trabajo realizado realmente (SV = ACWP - BCWS)
+$b. Es la diferencia entre la línea base del proyecto y el trabajo realizado realmente (SV = BCWP - BCWS)
+c. Es la diferencia entre la línea base del proyecto y lo que ha costado realmente (SV = BCWP - ACWP)
+
+
+?: ¿En qué consiste el seguimiento de un proyecto? Seleccione una:
+a. En el control de la ejecución del proyecto para verificar que el proyecto no sufre retrasos
+$b. En la supervisión continua o periódica de la ejecución de un proyecto para asegurarse de que se desarrolla de acuerdo al plan previsto
+c. En la revisión de la ejecución del proyecto para conseguir que se desarrolle dentro de los costes acordados
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Que representa el ACWP? Seleccione una:
+$a. Es el valor del coste de trabaja hasta el momento, representa cuánto ha costado el proyecto hasta el momento actual
+b. Es la línea base, representa cuanto trabajo debería estar hecho al coste presupuestado
+c. Es el valor del trabajo realizado, representa cuanto trabajo está terminado en el momento actual
+
+
+?: Dentro de los elementos básicos del control del alcance, ¿Que elementos ayudan a tener una manera de informar del estado de las variables del proceso? Seleccione una:
+a. El alcance, el coste, el cronograma y la calidad
+b. Los diagramas de Pareto y lo sgráficos ABC
+$c. El SIGP y los cuadros de mandos
+
+
+?: Según Meredith y Mantel, ¿En qué consiste la terminación por Hambre? Seleccione una:
+$a. Los recursos para el proyecto van disminuyendo hasta el punto en que no hay actividad
+b. El proyecto termina porque no se adapta al presupuesto
+c. Esta terminación ocurre cuando se termina el proyecto porque se anula su presupuesto
+
+
+?: ¿en qué consiste el Crashing and Fast Tracking? Seleccione una:
+a. Es un proceso provocado por una saturación de trabajo en el proyecto y las tareas siguientes son atropelladas por las anteriores que no han terminado
+b. Es el momento en que el proyecto ya no es viable y se estrella (crashing) obligando a abandonarlo
+$c. En replanificar el proyecto con el objetivo de acelerarlo para que se pueda terminar en una fecha anterior a la prevista
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Que es el BCWP? Seleccione una:
+$a. Coste presupuestado del trabajo realizado
+b. Coste presupuestado del trabajo progamado
+c. Coste real del trabajo realizado
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Que representa el BCWP? Seleccione una:
+$a. Es el valor del trabajo realizado, representa cuanto trabajo está terminado en el momento actual
+b. Es el valor del coste de trabaja hasta el momento, representa cuánto ha costado el proyecto hasta el momento actual
+c. Es la línea base, representa cuanto trabajo debería estar hecho al coste presupuestado
+
+
+?: Dentro de los elementos básicos del control del alcance, ¿Qué objetivo cumple tener un formato de identificación y nomenclatura? Seleccione una:
+a. Tener una lista de distribución de documentos
+b. Tener una codificación de los equipos destinados al proyecto
+$c. Evitar términos confusos
+
+
+?: ¿Qué quiere decir que la formación deber tener integridad? Seleccione una:
+$a. Que no se puede formar al usuario en un entorno para, posteriormente, volver a formarle en el mismo entorno pero con modificaciones
+b. Que no puede obligarse a usuario a hacer operaciones que pongan en peligro su integridad
+c. QUe la formación debe realizarse en un curso que integre todos los aspectos y no en diferentes cursos
+
+
+?: ¿Qué se representa en el gráfico de la cadena crítica? Seleccione una:
+a. El estado de desempeño del proyecto en un momento dado
+b. El tiempo hasta el final del proyecto
+$c. El consumo de reservas del camino crítico
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Que es el ACWP? Seleccione una:
+$a. Coste real del trabajo realizado
+b. Coste presupuestado del trabajo progamado
+c. Coste presupuestado del trabajo realizado
+
+
+?: Dentro de los elementos básicos del control del alcance, ¿Qué objetivo cumple tener un proceso de gestión de cambios? Seleccione una:
+a. Gestionar los cambios de personal que afecten al proyecto
+$b. Gestionar la línea base y los cambios del proyecto
+c. Gestionar los cambios de tecnología durante el proyecto
+
+
+?: En qué consiste el Control de costes Seleccione una:
+$a. En realizar un seguimiento de los costes reales para detectar las desviaciones y tomar las acciones correctoras que permitan corregir dichas desviaciones
+b. En no consumir todas las reservas dinerarias previstas para el proyecto
+c. En mantener los costes por debajo de lo presupuestado inicialmente
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Cuál es el índice de rendimiento de cronograma (SPI)? Seleccione una:
+$a. Compara la ejecución del cronograma planeada con la real, SPI = BCWP / BCWS
+b. Compara la variación de costes con la variación de tiempos, SPI = CV / SV
+c. Compara el coste presupuestado con el coste real, SPI = BCWP / ACWP
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Cuál es el coste estimado en la terminación (ECAC)? Seleccione una:
+$a. Es la proyección del coste total final en función del coste y del desempeño actuales. EACA = BAC x (ACWP / BCWP)
+b. Es la proyección del coste total final en función de la variación de coste y el coste actuales. EACA = BAC x (CV / ACWP)
+c. Es la proyección del coste total final en función de la variación de cronograma y la de coste actuales. EACA = BAC x (SV / CV)
+
+
+?: Según Pritchard, ¿En qué consiste la terminación negativa? Seleccione una:
+a. Es negativa cuando se ha superado el coste previsto
+b. Es negativa cuando el proyecto ha tenido una duración más larga que el cronograma previsto
+$c. Es negativa cuando el proyecto no alcanza sus objetivos
+
+
+?: ¿Cuáles son los principios básicos para la formación de los usuarios? Seleccione una:
+a. La información debe estar planificada, adaptada, acordada con el usuario y no debe ser redundante ni contradictoria
+$b. La información debe ser cierta, completa, tener integridad, estar acotada y no debe ser redundante ni contradictoria
+c. La información debe ser cierta, completa, tener integridad, estar acotada y no debe ser demasiado amplia ni compleja
+d. La información debe estar planificada, adaptada, acordada con el usuario y no debe ser demasiado amplia ni compleja
+
+
+?: Las técnicas usuales para controlar y comunicar los avances del proyecto permiten informar a los diferentes stakeholders sobre el estado del proyecto. Dentro de ellas, ¿Qué son las reuniones de avance de proyecto? Seleccione una:
+$a. Son reuniones con el objetivo de definir el estado actual de avance del proyecto, los riesgos futuros y las posibles decisiones a tomar para maximizar los beneficios del proyecto
+b. Son reuniones realizadas después de cada Informe de Avance del Proyecto para discutirlo
+c. Son reuniones con la dirección de la organización para informar sobre el estado del proyecto
+
+
+?: Son varias las razones para terminar un proyecto, de ellas, ¿Qué son la razones políticas? Seleccione una:
+a. Las leyes impiden que se termine el proyecto
+$b. Decisiones de política organizacional hacen abandonar el proyecto
+c. Los cambios políticos provocados por unas elecciones hacen el proyecto inviable
+
+
+?: ¿Cuáles son los tipos de final de proyecto según Meredith y Mantel? Seleccione una:
+$a. Extinción, adición, integración y hambre
+b. Finalización o proyecto "sin fin"
+c. Positiva y negativa
+
+
+?: Son varias las razones para terminar un proyecto, de ellas, ¿Qué son la razones de negocio? Seleccione una:
+a. El coste del proyecto no lo hace rentable
+$b. El proyecto ya no está alineado con la estrategia de la organización
+c. El proyecto no termina de funcionar o no se adapta a los requisitos del negocio
+
+
+?: ¿Cuándo termina realmente un proyecto? Seleccione una:
+$a. Cuando se han completado las actividades posteriores a su terminación
+b. Cuando se ha cobrado el proyecto
+c. Cuando éste se ha entregado al cliente
+
+
+?: Son varias las razones para terminar un proyecto, de ellas, ¿Qué son la razones de cronograma? Seleccione una:
+$a. La fecha de entrega se ha sobrepasado para un producto donde era vital
+b. El proyecto tiene tanta complejidad que los requisitos no dejan de aumentar
+c. El proyecto tiene tantos cambios que parece no acabarse nunca
+
+
+?: ¿En qué se basa el método de la cadena crítica? Seleccione una:
+$a. En el camino crítico y las reservas
+b. En el plazo crítico para llegar a los hitos
+c. En la cadena de actividades para terminar el proyecto
+
+
+?: ¿Según Furtel, ¿Cómo se debe comenzar cualquier solicitud de cambio? Seleccione una:
+a. Deben pasar por el Director de proyecto antes de ir al "Change Control Board"
+$b. Debe existir un "Change Control Board" que debe recepcionar las solicitudes
+c. Deben ser iniciados por el Jefe de Proyecto y estudiados por el "Change Control Board"
+
+
+?: ¿En qué consiste la gestión del cambio desde el punto de vista del usuario final? Seleccione una:
+a. En atender las solicitudes de cambio de los usuarios finales
+$b. En realizar acciones orientadas a facilitar el paso de los usuarios al nuevo sistema
+c. En gestionar la selección de nuevos usuarios para el sistema
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Cuál es el tiempo estimado en la terminación (ETAC)? Seleccione una:
+$a. Es la proyección del coste total final en función de la línea base y del desempeño actuales. ETAC = Tiempo planeado x (BCWS / BCWP) (Ver la referencia de la pregunta en Furtel)
+b. Es la proyección del coste total final en función de la línea base y de la variación de cronograma actuales. ETAC = Tiempo Planeado x (BCWS / SV)
+c. Es la proyección del coste total final en función de la línea base y del coste actuales. ETAC = Tiempo planeado x (BCWS / ACWP)
+
+
+?: Durante la ejecución del proyecto el Jefe de proyecto es el responsable de... Seleccione una:
+a. La Dirección del proyecto, la Coordinación con el cliente y los Aspectos legales
+b. La Dirección del proyecto, la Gestión de costes y Consecución de beneficios del proyecto
+$c. La Dirección del proyecto, el impulso al desarrollo del proyecto y la toma de decisiones
+
+
+?: Las técnicas usuales para controlar y comunicar los avances del proyecto permiten informar a los diferentes stakeholders sobre el estado del proyecto. Dentro de ellas, ¿Qué es la realización de pruebas y de auditorías? Seleccione una:
+$a. Son revisiones realizadas a todo o parte del proyecto para identificar fortalezas y debilidades
+b. Son revisiones realizadas para identificar riesgos que afecten negativamente al proyecto
+c. Son revisiones realizadas para buscar responsables de los fallos del proyecto
+
+
+?: Según Furtel, ¿Cuáles son las principales razones para terminar un proyecto? Seleccione una:
+a. Lógicas e ilógicas o b. De negocio, técnicas, de alcance, de cronograma, de coste, de calidad y políticas
+$b. De negocio, técnicas, de alcance, de cronograma, de coste, de calidad y políticas
+c. Presupuestarias, plazos, costes y calidad
+
+
+?: Las técnicas usuales para controlar y comunicar los avances del proyecto permiten informar a los diferentes stakeholders sobre el estado del proyecto. Dentro de ellas, ¿En qué consiste la entrega de elementos "tangibles"? Seleccione una:
+$a. En identificar elementos que cubren una parte de los objetivos del proyecto, de manera que se pueden hacer entregas parciales y de este modo verificar el avance del proyecto
+b. En definir hitos internos que deben ser certificados para hacerlos tangibles al cliente
+c. En seleccionar elementos que físicamente se puedan tocar para hacer entregas, por ejemplo documentos en papel
+
+
+?: Según Furtel, para el control y seguimiento del proyecto y cuando dicho proyecto debe organizar al personal a partir de cero, se deben establecer procesos simples, claros (qué hacer) y procedimientos (cómo hacerlo) que todos deben seguir. Esto debe incluir, entre otros... Seleccione una:
+$a. Procedimientos para el control de cambios y gestión de la configuración, para la realización de informes y para el control de calidad
+b. Procedimientos para el control de costes, alcance, cronograma y calidad
+c. Procedimientos para gestión de personal, gestión de costes, gestión de plazos, gestión de calidad y gestión de riesgos
+
+
+?: Según Meredith y Mantel, ¿En qué consiste la terminación por Integración? Seleccione una:
+a. De manera jerárquica se da la orden de integrar lo que esté realizado hasta ese momento y de da por terminado el proyecto
+b. El proyecto realiza la integración final de productos desarrollados y se da por termiando
+$c. El equipo de proyecto, los procesos y los productos se integran en el departamento que realizará la explotación de manera planificada
+
+
+?: ¿Cuál suele ser realmente la última actividad del proyecto? (según Furtel) Seleccione una:
+$a. Realizar el cierre administrativo financiero del proyecto
+b. Publicar el informe final incluyendo lecciones aprendidas y recomendaciones para la mejora del proceso
+c. Programar y realizar un acto de cierre de proyecto
+
+
+?: Dentro de las técnicas que ayudan a controlar los costes, ¿En qué consiste el uso de herramientas de simulación y estimación de costes? Seleccione una:
+a. Son herramientas que toman decisiones sobre el proyecto en función de escenarios de ejecución
+$b. Son herramientas que permiten diseñar escenarios de ejecución del proyecto hasta la conclusión y valorarlos para poder tomar decisiones
+c. SOn herramientas que simulan el proyecto y lo comparan con lo realizado para ver dónde se han cometido fallos
+
+
+?: ¿Qué dos técnicas recomienda Furtel para hacer la evaluación del desempeño? Seleccione una:
+$a. La Gestión del valor ganado y la Cadena crítica
+b. La Cadena crítica y las Reuniones de avance de proyecto
+c. La Gestión del valor ganado y las Reuniones de avance de proyecto
+
+
+?: Las técnicas usuales para controlar y comunicar los avances del proyecto permiten informar a los diferentes stakeholders sobre el estado del proyecto. Dentro de ellas, ¿En qué consiste la entrega de elementos “tangibles”? Seleccione una:
+$a. En identificar elementos que cubren una parte de los objetivos del proyecto, de manera que se pueden hacer entregas parciales y de este modo verificar el avance del proyecto
+b. En definir hitos internos que deben ser certificados para hacerlos tangibles al cliente
+c. En seleccionar elementos que físicamente se puedan tocar para hacer entregas, por ejemplo documentos en papel
+
+
+?: Según Furtel (Furtel y otros, 2005) , ¿Cuáles son los elementos básicos del control del alcance? Seleccione una:
+a. Un formato de documentación, un proceso de gestión de costes, una manera de informar del estado de las variables del proceso y un sistema de auditoría o revisión periódica
+$b. Un formato de identificación y nomenclatura, un proceso de gestión de cambios, una manera de informar del estado de las variables del proceso y un sistema de auditoría o revisión periódica
+c. Un formato de identificación y nomenclatura, un proceso de gestión de costes, una manera de informar del estado de avance del proyecto y un sistema de auditoría o revisión periódica
+
+
+?: Las técnicas usuales para controlar y comunicar los avances del proyecto permiten informar a los diferentes stakeholders sobre el estado del proyecto. Dentro de ellas, ¿Qué son los hitos de control? Seleccione una:
+$a. Son elementos no necesariamente tangibles que permiten identificar el estado de avance del proyecto
+b. Son tareas ficticias que permiten controlar el el estado de avance del proyecto
+c. Son tareas introducidas en el cronograma para controlar el avance del proyecto
+
+
+?: ¿Cuáles son los tipos de final de proyecto según Pritchard? Seleccione una:
+a. Extinción, adición, integración y hambre
+b. Finalización o proyecto "sin fin"
+$c. Positiva y negativa
+
+
+?: El seguimiento y control de un proyecto es un conjunto de actividades que pretenden conseguir que el proyecto se ajuste a los planes establecidos a priori y que consiga los objetivos que para él se hayan determinado. ¿Cuáles son estos objetivos? Seleccione una:
+a. Mejora continua, financiación, cumplimiento y mantenimiento
+$b. Alcance, coste, plazo y calidad
+c. Requisitos, usabilidad, accesibilidad y fiabilidad
+
+
+?: ¿Qué es un cuadro de mandos desde el punto de vista del SIGP? Seleccione una:
+$a. Es una visión parcial de algunas variables relacionadas para ofrecer una vista conjunta de algún aspecto del proyecto
+b. Es una colección de gráficos que muestran información parcial del proyecto
+c. Es una herramienta que tienes los SIGP para seleccionar variables del proyecto
+
+
+?: ¿Cuál es la principal ventaja del método de la Cadena Crítica frente al EVM? Seleccione una:
+a. La precisión de los cálculos
+b. La mayor información sobre el proyecto
+$c. La sencillez de los cálculos a realizar
+
+
+?: Dentro de las técnicas que ayudan a controlar los costes, ¿En qué consiste el uso de la contabilidad analítica? Seleccione una:
+a. Usar herramientas de contabilidad analítica que hagan regularmente un análisis del desempeño del proyecto
+b. Usar herramientas de contabilidad analítica que realicen regularmente la gestión de pagos para evitar sobrecostes
+$c. Usar herramientas de contabilidad analítica que permitan cargar los costes a cada actividad del proyecto
+
+
+?: Según Meredith y Mantel, ¿En qué consiste la terminación por Extinción? Seleccione una:
+a. Esta terminación ocurre cuando se termina el proyecto por una orden jerárquica
+b. Los recursos para el proyecto van disminuyendo hasta el punto en que no hay actividad
+$c. Esta terminación ocurre cuando el proyecto termina porque es satisfactorio, insatisfactorio, sustituido o “asesinado”
+
+
+?: Dentro de los elementos básicos del control del alcance, ¿Qué objetivo cumple tener un formato de identificación y nomenclatura? Seleccione una:
+a. Tener una lista de distribución de documentos
+$b. Evitar términos confusos
+c. Tener una codificación de los equipos destinados al proyecto
+
+
+?: ¿Cuál de los siguientes NO es un beneficio propio de la gestión del cambio? Seleccione una:
+a. Mejora de la productividad de los usuarios
+b. Aumento de la satisfacción de los usuarios
+$c. Mejora de las condiciones de trabajo de los usuario
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Que es el BCWS? Seleccione una:
+$a. Coste presupuestado del trabajo programado
+b. Coste presupuestado del trabajo realizado
+c. Coste real del trabajo realizado
+
+
+?: Dentro de las técnicas que ayudan a controlar los costes, ¿En qué consiste centrar el esfuerzo en las partidas de mayor coste? Seleccione una:
+a. Consiste en partir tareas para que su coste no sea significativo y su control no sea necesario, centrando la atención en las que no se pueden partir
+b. Consiste en unir actividades para que el coste global de todas ellas sea suficientemente alto como para que tenga sentido prestales atención
+$c. Consiste en usar técnicas como la Ley de Pareto o los diagramas ABC para decidir qué actividades requieren mayor atención
+
+
+?: Dentro de las técnicas que ayudan a controlar los costes, ¿En qué consiste el desglose en actividades sencillas? Seleccione una:
+a. En definir actividades de dos o tres días como máximo para evitar la sobrecarga de los equipos de trabajo
+$b. En definir actividades cortas y con costes y tiempos bien calculados y definidos para facilitar las estimaciones
+c. En diseñar el proyecto en base a actividades cortas para identificar mejor los hitos
+
+
+?: ¿A qué nos puede ayudar la aplicación de técnicas como las de los gráficos ABC o la ley de Pareto (80/20) con respecto del SIGP? Seleccione una:
+a. No pueden ayudar a seleccionar las adquisiciones con mayor coste para centrar los esfuerzos en ellas
+$b. Nos pueden ayudar a seleccionar aquellas variables que tienen más impacto y que deben ser observadas con más atención
+c. Nos pueden ayudar a seleccionar los riesgos más importantes para el proyecto
+
+
+?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Qué representa el BCWS? Seleccione una:
+$a. Es la línea base, representa cuanto trabajo debería estar hehco al coste presupuestado
+b. Es el valor del coste de trabaja hasta el momento, representa cuánto ha costado el proyecto hasta el momento actual
+c. Es el valor del trabajo realizado, representa cuanto trabajo está terminado en el momento actual
+
+
+?: ¿Cuál de las siguientes NO es una actividad propia de la gestión del cambio? Seleccione una:
+a. Programar actividades de formación de los usuarios finales
+b. Facilitar la implicación del usuario final en la definición del nuevo sistema
+$c. Planear contingencias para el caso de rechazo del usuario final
+
+
+?: ¿Cómo se pueden definir los costes internos? Seleccione una:
+a. Son costes temporales que la organización pagará al final del proyecto
+b. Son los costes de los equipos usados en el proyecto
+$c. Son los costes en los que incurre el proyecto por haber usado recursos propios de la organización
+
+
+?: ¿Qué tipos de costes exiten en un proyecto desde el punto de vista del origen? Seleccione una:
+$a. Costes internos y externos
+b. Costes de proveedores y de clientes
+c. Costes financieros y laborales
+
+
+?: ¿Qué es el Sistema de Información de Gestión del Proyecto (SIGP)? Seleccione una:
+a. Es un sistema que permite consultar las posibles acciones a tomar para corregir la marcha del proyecto
+$b. Es un sistema que permite consultar en todo momento la situación del proyecto en función de la planificación aprobada
+c. Es un sistema que permite actuar sobre el proyecto para corregir las desviaciones
+
+
+?: ¿Qué quiere decir que la formación debe ser completa? son los informes de avance del proyecto?
+a. Que el usuario debe recibir formación sobre el sistema y sobre los conceptos informáticos que requiera el sistema
+b. Que el usuario debe recibir formación suponiendo que no sabe nada sobre el sistema ni el dominio
+$c. Que el usuario debe recibir formación de todos y cada uno de los aspectos que le atañen para su trabajo con el sistema
+
+
+?: Son varias las razones para terminar un proyecto, de ellas, ¿Qué son la razones de calidad?
+a. El proyecto resulta muy caro de mantener porque se ha construido sin calidad
+$b. El proyecto no termina de funcionar o no se adapta a los requisitos
+c. El proyecto resulta tan caro que no es interesante explotarlo
+
+
+?: ¿Cómo se pueden identificar los costes internos?
+a. Haciendo bloques grandes de costes que pueden manejarse con más facilidad
+b. Convirtiéndolos en externos
+$c. Mediante sistemas de contabilidad analítica
+
+
+?: Las técnicas usuales para controlar y comunicar los avances del proyecto permiten informar a los diferentes stakeholders sobre el estado del proyecto. Dentro de ellas, ¿Qué son los informes de avance del proyecto?
+$a. Son informes basados en la evaluación del desempeño y en técnicas como la Earned Value Management
+b. Son informes que informan del estado de avance de las actividades del proyecto
+c. Son informes que presentan el estado de los costes en un momento del proyecto
+
+
+?: ¿Cuál suele ser realmente la última actividad del proyecto?
+a. Programar y realizar un acto de cierre de proyecto
+b. Publicar el informe final incluyendo lecciones aprendidas y recomendaciones para la mejora del proceso
+$c. Realizar el cierre administrativo financiero del proyecto

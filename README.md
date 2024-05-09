@@ -10,6 +10,8 @@
 
 **Preguntator** is a web application that allow you to auto-evaluate yourself for your test-type exams.
 
+> Huge thanks to this repository contributors :D
+
 ## How to use it?
 
 > More detailed in the Wiki

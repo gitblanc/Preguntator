@@ -11,11 +11,15 @@
 **Preguntator** is a web application that allow you to auto-evaluate yourself for your test-type exams.
 
 ## How to use it?
+
+> More detailed in the Wiki
+
 It's very easy. Follow this instructions:
 1. Create a file (e.g: `softwareDesign.txt`). It *has to be* a .txt file.
 2. Follow the structure above on the txt with as many questions as you want
 ````
 ?: This is a question. Can have multiple quotes but without a new line.
+[this_can_be_an_image.jpg]
 a. This can be one answer
 $b. Anotherone concatenated. But wait, this is the correct answer :)
 c. We can still here until we get bored...
@@ -34,15 +38,20 @@ b. You see? :)
 ````
 3. Now open https://preguntator.netlify.app
 4. Select a file to open (the previous one you created)
-<img width="1278" alt="image" src="https://github.com/gitblanc/Preguntator/assets/87705461/a54c16e4-0cde-4002-8ee6-db254dedf30a">
+<img width="1278" alt="image" src="https://github.com/gitblanc/Preguntator/assets/87705461/d63e4b70-8b2d-4cf3-a139-ff105b02a0dc">
+  - If you put images on the `.txt` file, add them on the File Uploader:
+
+<img width="1278" alt="image" src="https://github.com/gitblanc/Preguntator/assets/87705461/4b97ec95-27d3-49a2-8713-140193703981">
+
 
 5. Click on mix 'em!
-<img width="1278" alt="image" src="https://github.com/gitblanc/Preguntator/assets/87705461/308aa7fe-5003-4af8-a427-85ccf081a3f9">
+<img width="1278" alt="image" src="https://github.com/gitblanc/Preguntator/assets/87705461/b1bf911b-44c8-48b2-b706-83b65b059fbf">
+
 
 6. Try the test and show the answers then
-<img width="1278" alt="image" src="https://github.com/gitblanc/Preguntator/assets/87705461/61f049d1-5244-4f67-b163-35389f9feeec">
+<img width="1278" alt="image" src="https://github.com/gitblanc/Preguntator/assets/87705461/1e6ce276-e074-4fa9-bce1-0d60e6d850db">
 
-<img width="1278" alt="image" src="https://github.com/gitblanc/Preguntator/assets/87705461/de873e6e-242c-485b-a7a9-53d0d3c0b9de">
+<img width="1278" alt="image" src="https://github.com/gitblanc/Preguntator/assets/87705461/204e20d5-bbc5-499e-98d5-4472bd8ff9f0">
 
 
 Do your best!! ~ gitblanc :)

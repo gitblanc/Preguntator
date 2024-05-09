@@ -196,8 +196,7 @@ const FileUploader = () => {
 					<p>
 						{index + 1}. {pregunta}
 					</p>
-					{ image && !images[image] ? <span className="text-danger">Parece que no has subido la imagen: { image }</span> : "" }
-					{ image && images[image] ? <img className="mb-2" src={ URL.createObjectURL(images[image]) } alt="image about question" /> : "" }
+					{ image ? renderImage(image) : "" }
 					{respuestas.map((respuesta, i) => {
 						const respuestaClassName = showAnswers
 							? respuesta.esRespuestaCorrecta
@@ -250,6 +249,22 @@ const FileUploader = () => {
 			);
 		});
 	};
+
+	const renderImage = (image) => {
+		if (images[image]) {
+			if (images[image].size > 40000)
+				return (<img className="mb-2" width={ "500px" } src={ URL.createObjectURL(images[image]) } alt="image about question" /> );
+
+			return (
+				<div className="d-flex flex-column">
+					<span className="text-warning mb-2">La imagen '{ image }' es demasiado pequeña. Se recomienda un tamaño mínimo de 500 píxeles de ancho.</span>
+					<img className="mb-2" width={ "500px" } src={ URL.createObjectURL(images[image]) } alt="image about question" />
+				</div>
+			);
+		}
+
+		return (<span className="text-danger">Parece que no has subido la imagen: { image }</span>);
+	}
 
 	const toggleShowAnswers = () => {
 		setRespuestasCorrectas(0);

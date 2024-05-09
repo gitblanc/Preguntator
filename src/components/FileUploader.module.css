@@ -26,6 +26,10 @@ input[type="file"] {
 	margin-bottom: 10px;
 }
 
+input {
+	margin-right: 5px;
+}
+
 button {
 	padding: 13px 20px;
 	background-color: #5630bc;

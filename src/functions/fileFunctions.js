@@ -19,6 +19,7 @@ export function desordenarPreguntasRespuestas(texto) {
 				pregunta: line.substring(3), // Eliminar el prefijo '?:'
 				respuestas: [],
 				respuestasCorrectas: [],
+				image: null
 			};
 			preguntasRespuestas.push(preguntaActual);
 		} else if (line.startsWith("$")) {
@@ -27,6 +28,10 @@ export function desordenarPreguntasRespuestas(texto) {
 			respuesta = respuesta.substring(2); // Eliminar el prefijo 'a.', 'b.', 'c.', 'd.'
 			preguntaActual.respuestas.push(respuesta);
 			preguntaActual.respuestasCorrectas.push(respuesta);
+		} else if (line.startsWith("[") && line.endsWith("]")) { // Find image
+			const nameImage = line.substring(1, line.length - 1);
+
+			preguntaActual.image = nameImage;
 		} else if (
 			// Respuesta normal
 			line.startsWith("a.") ||
@@ -67,6 +72,7 @@ export function desordenarPreguntasRespuestas(texto) {
 			return {
 				pregunta: pregunta.pregunta,
 				respuestas: respuestasDesordenadas,
+				image: pregunta.image
 			};
 		}
 	);

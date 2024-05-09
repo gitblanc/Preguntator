@@ -30,4 +30,3 @@ docs/build
 
 #mongoDB key and firebase config
 .env
-

@@ -59,8 +59,10 @@ const FileUploader = () => {
 	const handleImageChage = (event) => {
 		const files = event.target.files;
 
-    	if (files && files.length > 0) {
-			const allImagesValid = Array.from(files).every((file) => file.type.startsWith("image/"));
+		if (files && files.length > 0) {
+			const allImagesValid = Array.from(files).every((file) =>
+				file.type.startsWith("image/")
+			);
 
 			if (allImagesValid) {
 				setSelectedFileImages(files);
@@ -70,7 +72,7 @@ const FileUploader = () => {
 
 		console.log("Solo se permiten subir archivos de imagen.");
 		setSelectedFileImages(null);
-	}
+	};
 
 	const handleFileUpload = () => {
 		if (!selectedFile) {
@@ -125,7 +127,7 @@ const FileUploader = () => {
 		};
 
 		reader.readAsText(selectedFile);
-	}
+	};
 
 	const handleAnswerClick = (preguntaIndex, respuestaIndex) => {
 		const answerKey = `${preguntaIndex}-${respuestaIndex}`;
@@ -143,39 +145,38 @@ const FileUploader = () => {
 	};
 
 	const handleFileImagesUpload = (callback) => {
-		let counter = 0; 
-	  
+		let counter = 0;
+
 		const handleImageLoad = async (image, blob) => {
 			imagesDic[image.name] = blob;
 			counter++;
-		
+
 			if (counter === selectedFileImages.length) {
 				await callback();
 			}
 		};
-	  
+
 		// Iterar sobre cada imagen seleccionada
 		Array.from(selectedFileImages).forEach((image) => {
 			const reader = new FileReader();
-		
+
 			// Configurar la función de manejo de carga del lector
 			reader.onload = (e) => {
 				const dataUrl = e.target.result;
 				const blob = dataURLToBlob(dataUrl);
-		
+
 				// Llamar a la función de manejo de carga de imagen
 				handleImageLoad(image, blob);
 			};
-		
+
 			// Leer el contenido de la imagen como URL de datos
 			reader.readAsDataURL(image);
 		});
 	};
-	  
 
 	const dataURLToBlob = (dataUrl) => {
-		const parts = dataUrl.split(';base64,');
-		const contentType = parts[0].split(':')[1];
+		const parts = dataUrl.split(";base64,");
+		const contentType = parts[0].split(":")[1];
 		const raw = window.atob(parts[1]);
 		const rawLength = raw.length;
 		const uInt8Array = new Uint8Array(rawLength);
@@ -185,7 +186,7 @@ const FileUploader = () => {
 		}
 
 		return new Blob([uInt8Array], { type: contentType });
-	}
+	};
 
 	const renderRespuestas = () => {
 		return preguntasRespuestasDesordenadas.map((item, index) => {
@@ -196,7 +197,7 @@ const FileUploader = () => {
 					<p>
 						{index + 1}. {pregunta}
 					</p>
-					{ image ? renderImage(image) : "" }
+					{image ? renderImage(image) : ""}
 					{respuestas.map((respuesta, i) => {
 						const respuestaClassName = showAnswers
 							? respuesta.esRespuestaCorrecta
@@ -253,18 +254,33 @@ const FileUploader = () => {
 	const renderImage = (image) => {
 		if (images[image]) {
 			if (images[image].size > 40000)
-				return (<img className="mb-2" width={ "500px" } src={ URL.createObjectURL(images[image]) } alt="image about question" /> );
+				return (
+					<img
+						className="mb-2"
+						width={"500px"}
+						src={URL.createObjectURL(images[image])}
+						alt="image about question"
+					/>
+				);
 
 			return (
 				<div className="d-flex flex-column">
-					<span className="text-warning mb-2">La imagen '{ image }' es demasiado pequeña. Se recomienda un tamaño mínimo de 500 píxeles de ancho.</span>
-					<img className="mb-2" width={ "500px" } src={ URL.createObjectURL(images[image]) } alt="image about question" />
+					<img
+						className="mb-2"
+						width={"500px"}
+						src={URL.createObjectURL(images[image])}
+						alt="image about question"
+					/>
 				</div>
 			);
 		}
 
-		return (<span className="text-danger">Parece que no has subido la imagen: { image }</span>);
-	}
+		return (
+			<span className="text-danger">
+				Parece que no has subido la imagen: {image}
+			</span>
+		);
+	};
 
 	const toggleShowAnswers = () => {
 		setRespuestasCorrectas(0);
@@ -296,7 +312,7 @@ const FileUploader = () => {
 							id="imgInput"
 							accept="image/*"
 							placeholder="Sube las imágenes asociadas a las preguntas"
-							onChange={ handleImageChage }
+							onChange={handleImageChage}
 							className={styles.customInput}
 							multiple
 						/>

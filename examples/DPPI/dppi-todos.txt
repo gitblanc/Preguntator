@@ -395,7 +395,7 @@ c. Acelera el ritmo de esfuerzo del equipo de desarrollo
 
 ?: Una desventaja del modelo de ciclo de vida en cascada es...
 a. Es un modelo pensado para hacer desarrollos en ensamblador
-b. No refleja realmente el proceso de desarrollo del software, ya que casi nunca se cierra totalmente una fase antes de comenzar la siguiente
+$b. No refleja realmente el proceso de desarrollo del software, ya que casi nunca se cierra totalmente una fase antes de comenzar la siguiente
 c. Es un modelo muy antiguo y la informática ha evolucionado
 
 ?: ¿Quién ha definido la ingeniería del software como "Una disciplina cuyo propósito es la producción de software de calidad, software que se entrega en el tiempo acordado, dentro del presupuesto y que satisface los requisitos"?

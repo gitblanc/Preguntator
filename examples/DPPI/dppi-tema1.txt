@@ -118,22 +118,22 @@ a. Una metodología para el desarrollo de procesos software orientados a objetos
 $b. Una metodología para el desarrollo de proyectos software orientados a objetos que propone un modelo de procesos iterativo e incremental
 c. Una metodología para el desarrollo de proyectos software estructurados que propone un modelo de procesos iterativo e incremental
 
-¿Qué es Scrum?
+?: ¿Qué es Scrum?
 $a. Scrum es un marco de trabajo en el que equipos cross-funcionales pueden crear productos o desarrollar proyectos de una forma iterativa e incremental.
 b. Scrum es un método de fabricacion de software que divide el proceso en iteraciones, las iteraciones en fases y éstas en Sprints.
 c. Scrum es una metodología ágil que consiste en desarrollar software en pequeños paquetes que se deben integrar al final del proyecto.
 
-Una reunión para preparar el Sprint, típicamente dividida en dos partes. ¿Quién asiste?
+?: Una reunión para preparar el Sprint, típicamente dividida en dos partes. ¿Quién asiste?
 a. Primera Parte: Dueño de Producto (opcional, pero disponible para aclaraciones), Equipo, ScrumMaster. Segunda Parte: Equipo, ScrumMaster, Dueño de Producto.
 $b. Primera Parte: Dueño de Producto, Equipo, ScrumMaster. Segunda Parte: Equipo, ScrumMaster, Dueño de Producto (opcional, pero disponible para aclaraciones).
 c. Primera Parte: Dueño de Producto, Equipo, ScrumMaster. Segunda Parte: Equipo, ScrumMaster (opcional, pero disponible para aclaraciones), Dueño de Producto.
 
-¿Qué es una actividad en un Proyecto?
+?: ¿Qué es una actividad en un Proyecto?
 $a. En un elemento de trabajo compuesto por tareas
 b. Es cualquier trabajo que no sea una tarea
 c. Es el perfil de una determinada persona participando enun proyecto
 
-¿Qué es un sistema en el entorno de los proyectos informáticos?
+?: ¿Qué es un sistema en el entorno de los proyectos informáticos?
 a. Es un elemento de software que es necesario para realizar el proyecto
 b. Es un elemento de hardware
 $c. Un sistema es básicamente un conjunto de elementos organizados para actuar en conjunto con un objetivo claro

@@ -861,8 +861,8 @@ c. No se usan los sistemas de estimación
 
 ?: Para caracterizar adecuadamente un objeto mediante mediciones se usa habitualmente...
 a. Medición indirecta
-b. Medición combinada
-$c. Medición directa (En casos raros se precisa una sola variable para caracterizar al objeto, si además la variable se puede valorar mediante medición directa, este modelo de medición podría ser válido, pero no es habitual)
+$b. Medición combinada
+c. Medición directa (En casos raros se precisa una sola variable para caracterizar al objeto, si además la variable se puede valorar mediante medición directa, este modelo de medición podría ser válido, pero no es habitual)
 
 ?: ¿Cuál de las siguientes afirmaciones es falsa?:
 $a. Las métricas de software conforman un sistema uniforme y estandarizado de medidas

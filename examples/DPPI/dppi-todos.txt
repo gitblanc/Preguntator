@@ -2523,10 +2523,10 @@ c. Los procesos están bien caracterizados y son entendidos por los miembros de 
 ?: ¿Cuál de las siguientes es una característica propia del nivel 2 de CMMI?
 $a. La disciplina ayuda a garantizar que se mantienen las prácticas existentes en momentos de estrés
 b. Se establece la mejora de estos procesos en el tiempo
-$c. Los proyectos establecen sus procesos definidos por el conjunto de procesos estándar de la organización de acuerdo las directrices de adaptación
+c. Los proyectos establecen sus procesos definidos por el conjunto de procesos estándar de la organización de acuerdo las directrices de adaptación
 
 
-?: ¿Cuál de las siguientes es una característica propia del nivel 2 de CMMI? Seleccione una:
+?: ¿Cuál de las siguientes es una característica propia del nivel 3 de CMMI? Seleccione una:
 a. Se establece la mejora de estos procesos en el tiempo
 b. Los proyectos se realizan y se gestionan de acuerdo a planes documentados
 $c. Los proyectos establecen sus procesos definidos por el conjunto de procesos estándar de la organización de acuerdo las directrices de adaptación
@@ -2670,7 +2670,7 @@ b. Entidades y Proyectos
 c. %Modelos y Estándares
 
 
-?: ¿Cuál de las siguientes es una característica propia del nivel 4 de CMMI (no compartida con niveles inferiores)? Seleccione una:
+?: ¿Cuál de las siguientes es una característica propia del nivel 5 de CMMI (no compartida con niveles inferiores)? Seleccione una:
 a. Los efectos de las mejoras en los procesos desplegados son medidos y evaluados en relación con los objetivos cuantitativos de mejora de procesos
 $b. Está enfocado en la mejora continua del rendimiento del proceso a través de mejoras tecnológicas incrementales e innovadoras
 c. Se establece una meta cuantitativa de calidad tanto para el proceso de software como para el mantenimiento de software

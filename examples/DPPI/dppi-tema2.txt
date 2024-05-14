@@ -505,3 +505,7 @@ $a. Medición combinada
 b. Medición indirecta
 c. Medición directa
 
+?: ¿Qué es una métrica?
+a. Es una operación que se realiza para obtener una medida
+$b. Es un concepto formal con base matemática
+c. Es una medida

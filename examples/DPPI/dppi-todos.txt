@@ -3609,3 +3609,9 @@ c. Son informes que presentan el estado de los costes en un momento del proyecto
 a. Programar y realizar un acto de cierre de proyecto
 b. Publicar el informe final incluyendo lecciones aprendidas y recomendaciones para la mejora del proceso
 $c. Realizar el cierre administrativo financiero del proyecto
+
+
+?: ¿Qué es una métrica?
+a. Es una operación que se realiza para obtener una medida
+$b. Es un concepto formal con base matemática
+c. Es una medida

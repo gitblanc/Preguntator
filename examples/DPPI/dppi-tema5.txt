@@ -338,11 +338,6 @@ a. Es el valor de los beneficios calculados con respecto al proyecto
 b. Es el coste de la planificación del proyecto
 $c. Es el presupuesto autorizado, asignado al cronograma del proyecto
 
-?: Con respecto a la técnica de Predicción dentro del Control de Costes, ¿Qué es el ETC?
-a. Es la estimación del presupuesto final del proyecto, con los datos actuales
-b. Es la estimación técnica de costes, con los datos actuales
-$c. Es la estimación para la terminación de las actividades del proyecto, con los datos actuales
-
 ?: En la elaboración del presupuesto, ¿Cuáles son las técnicas más habituales?
 $a. Agregación de costes, Análisis de reservas, Juicio de expertos, Relaciones históricas y Conciliación del límite de financiación
 b. Juicio de expertos, Técnicas analíticas y Reuniones

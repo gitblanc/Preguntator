@@ -1840,7 +1840,7 @@ c. El proyecto será financiado la propia empresa
 ?: Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿En qué consiste la utilización de aplicaciones de gestión de proyectos?
 a. Consiste en el uso de aplicaciones durante el desarrollo del proyecto
 b. Consiste en el uso de aplicaciones de contabilidad durante el desarrollo de proyectos
-?c. Consiste en el uso de aplicaciones de gestión de proyectos que permitan monitorizar las tres dimensiones del EVN (PV, EV y AC)
+$c. Consiste en el uso de aplicaciones de gestión de proyectos que permitan monitorizar las tres dimensiones del EVN (PV, EV y AC)
 
 ?: ¿Cuáles de las siguientes son técnicas utilizadas habitualmente para la estimación de costes?
 a. Juicio de expertos, Conciliación del límite de financiación, Adquisición y Análisis de decisión multicriterio

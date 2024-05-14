@@ -3581,7 +3581,7 @@ $b. Es un sistema que permite consultar en todo momento la situación del proyec
 c. Es un sistema que permite actuar sobre el proyecto para corregir las desviaciones
 
 
-?: ¿Qué quiere decir que la formación debe ser completa? son los informes de avance del proyecto?
+?: ¿Qué quiere decir que la formación debe ser completa?
 a. Que el usuario debe recibir formación sobre el sistema y sobre los conceptos informáticos que requiera el sistema
 b. Que el usuario debe recibir formación suponiendo que no sabe nada sobre el sistema ni el dominio
 $c. Que el usuario debe recibir formación de todos y cada uno de los aspectos que le atañen para su trabajo con el sistema

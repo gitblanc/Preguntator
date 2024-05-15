@@ -1982,10 +1982,6 @@ $a. Crear con medios propios, Comprar, Alquilar y Leasing
 b. Periodo de recuperación, Retorno de la inversión (ROI), Tasa interna de rentabilidad, Flujo de caja descontado y Valor presente neto (NPV)
 c. Autofinanciación, Financiación de socios y Financiación con deuda
 
-?: Hablando de las técnicas analíticas para la elaboración del Plan de gestión de costes, ¿Qué maneras de financiar los recursos necesarios se definen?
-a. Autofinanciación, Financiación de socios y Financiación con deuda
-$b. Crear con medios propios, Comprar, Alquilar y Leasing
-c. Periodo de recuperación, Retorno de la inversión (ROI), Tasa interna de rentabilidad, Flujo de caja descontado y Valor presente neto (NPV)
 
 ?: ¿En qué consiste la determinación del presupuesto?
 a. Determinar el Presupuesto es el proceso de evaluación de los costes estimados de las actividades para establecer una aproximación del coste del desarrollo de software

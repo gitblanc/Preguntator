@@ -840,7 +840,7 @@ b. Aplicativos, módulos y librerías
 c. Atributos internos y externos
 
 ?: El estándar BS5750 (BS 5750-8, 1991) define los principios de aseguramiento de calidad de los productos y servicios, en él, las mediciones son necesarias como:
-$a. Descriptores, Prescriptore y Predictores Correcta
+$a. Descriptores, Prescriptore y Predictores
 b. Evaluadores, Comparadores y Decisores
 c. Métricas, Mediciones y Medidas
 
@@ -911,7 +911,7 @@ b. Debe estar presentada en algún documento estándar de alguna metodología
 $c. Debe ser válida para el propósito que se pretende y debe obtener resultados significativos con respecto a ese propósito
 
 ?: Cuál de las siguientes es un ejemplo de escala de intervalo
-a. Las distancias Incorrecta
+a. Las distancias
 $b. La temperatura
 c. Los horarios
 
@@ -1298,7 +1298,7 @@ $b. Procesos financieros y gestión de riesgos
 c. Definición de plantillas
 
 ?: ¿Qué componentes tiene una EDT?
-$a. Objetivos del proyecto, Componentes, Productos, Entregables, Paquetes de trabajo y Actividades Correcta
+$a. Objetivos del proyecto, Componentes, Productos, Entregables, Paquetes de trabajo y Actividades
 b. WBS, OBS, PBS y RBS
 c. ID, Título, Nombre, Precedentes y Sucesoras
 

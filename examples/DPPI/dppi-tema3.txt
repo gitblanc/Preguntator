@@ -336,7 +336,7 @@ $b. Procesos financieros y gestión de riesgos
 c. Definición de plantillas
 
 ?: ¿Qué componentes tiene una EDT?
-$a. Objetivos del proyecto, Componentes, Productos, Entregables, Paquetes de trabajo y Actividades Correcta
+$a. Objetivos del proyecto, Componentes, Productos, Entregables, Paquetes de trabajo y Actividades
 b. WBS, OBS, PBS y RBS
 c. ID, Título, Nombre, Precedentes y Sucesoras
 

@@ -2810,12 +2810,6 @@ b. Los procesos están bien caracterizados y son entendidos por los miembros de 
 $c. Se establecen procesos básicos de gestión de proyectos para el seguimiento de costes, plazos, y funcionalidad
 
 
-?: La implantación de un modelo o estándar de calidad en una empresa de software tiene diferentes niveles de implantación. Dentro del nivel de software, ¿Qué elementos se definen en los modelos clásicos?
-$a. Factores, criterios y métricas
-b. Entidades y Proyectos
-c. %Modelos y Estándares
-
-
 ?: ¿Cuál de las siguientes es una característica propia del nivel 5 de CMMI (no compartida con niveles inferiores)?
 $a. Los efectos de las mejoras en los procesos desplegados son medidos y evaluados en relación con los objetivos cuantitativos de mejora de procesos
 b. El sistema debe estar controlado cuantitativamente

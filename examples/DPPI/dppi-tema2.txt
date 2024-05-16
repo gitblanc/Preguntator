@@ -134,7 +134,7 @@ b. La complejidad del programa es 42
 c. La calidad del programa A es del 97
 
 ?: ¿Cuál de las siguientes afirmaciones es correcta?:
-$a. Para que una medición sea válida debe ser exacta, el error y la incertidumbre de dicha medición estarán acotados 2.1.1.1 El proceso de la medición y sus características
+$a. Para que una medición sea válida debe ser exacta, el error y la incertidumbre de dicha medición estarán acotados
 b. Una métrica es una medida
 c. Las métricas usadas en software son siempre significativas
 
@@ -283,11 +283,6 @@ a. El paso de E a F debe ser de tal manera que represente todas las observacione
 $b. El paso de E a F debe ser de tal manera que represente todas las observaciones, conservando todas las relaciones y operaciones del sistema relacional empírico
 c. El paso de E a F debe ser de tal manera que represente todas las observaciones, conservando todas las relaciones y operaciones del sistema relacional empírico sólo si se trata de un isomorfismo
 
-?: Kitchenham y McDermid (Kitchenham, y otros, 1986) sugirieron que la recolección de datos para tener éxito debe cumplir algunos requisitos. ¿Cuán de los siguientes es uno de ellos?
-$a. La recolección de datos está integrada dentro del proceso de desarrollo
-b. La recolección de datos debe estar automatizada siempre
-c. Los datos que no pueden ser recogidos automáticamente carecen de interés
-
 ?: La corriente económica de estimación de software ¿Qué características tiene?
 $a. Se caracteriza por el desarrollo de sistemas de métricas orientados a estimar el coste de los sistemas de software ya realizado
 b. Se caracteriza por buscar modelos que calculen el coste más rentable para un proyecto
@@ -328,20 +323,10 @@ a. Slim
 b. Walston & Felix
 $c. CoCoMo
 
-?: Una de las razones por las cuales las métricas no son usadas más ampliamente en la industria del software es que resulta difícil en la práctica obtener datos adecuados Idealmente, ¿Cómo deberían ser los valores de las métricas?
-a. Deberían medir siempre atributos internos del objeto
-$b. Repetibles, comparables y verificados
-c. Prescriptores, predictores y comparadores
-
 ?: Pero para que una medición sea válida se debe asegurar su calidad, lo que obliga a ésta a tener una serie de características importantes (Fenton, 1991) (Fenton, y otros, 1996), una de ellas es
 a. Debe estar presentada en algún documento estándar de alguna metodología
 $b. Debe ser válida para el propósito que se pretende y debe obtener resultados significativos con respecto a ese propósito
 c. Debe haber sido probada con éxito en algún proyecto
-
-?: Las escalas absolutas son escalas de ratio, pero en donde el valor asignado es también un estándar, de modo que no admiten transformación posible, la única transformación de escala es la identidad, ¿Cómo se representa esto matemáticamente?. Seleccione una:
-a. T(x)=αm,α>0
-b. T(x)=αm+β,α>0
-$c. T(x) = x
 
 ?: El objetivo de una teoría de la medición es...
 a. conseguir poner de acuerdo a los profesionales y otros stakeholders en un conjunto de métricas a usar
@@ -358,46 +343,20 @@ $a. Un sistema relacional empírico
 b. Un sistema relacional formal
 c. Ninguno de ambos, poque sólo hay una operación
 
-?: De acuerdo a la Teoría Representacional (Jáñez, 1989), para realizar esta medición cuantitativa... Seleccione una:
-a. se necesita construir dos sistemas: directo e indirecto y establecer entre ellos una función isomófica que transforma el uno en el otro
-$b. se necesita construir dos sistemas: empírico y numérico y establecer entre ellos una función homomórfica que transforma el uno en el otro
-c. se necesita construir dos sistemas: directo e indirecto y establecer entre ellos una función homomórfica que transforma el uno en el otro
-
 ?: Henry y Kafura describieron una métrica compleja para los procedimientos, basada en los flujos de información. En este mátrica, ¿Qué es el fan-out?
 a. Es la lista de campos de las bases de datos actualizadas en un procedimiento
 b. Es la lista de atributos que haya en los objetos que sean valor de retorno
-$c. Es el número de flujos de datos locales que salen del procedimiento más el número
-de estructuras de datos que el procedimiento actualiza
+$c. Es el número de flujos de datos locales que salen del procedimiento más el número de estructuras de datos que el procedimiento actualiza
 
 ?: La calidad de medición requiere la valoración de los siguientes aspectos:
 a. Complejidad, Flexibilidad, Consistencia y Adecuación
 $b. Escala, Unicidad, Representatividad y Significación
 c. Desviación, Derivación, Variación y Corrección
 
-?: Las escalas absolutas son escalas de ratio pero en donde el valor asignado es también un estándar, de modo que no admiten transformación posible, la única transformación de escala es la identidad, ¿Cómo se representa esto matemáticamente?
-a. T(x)=αm+β,α>0
-$b. T(x) = x
-c. T(x)=αm,α>0
-
-?: Atendiendo a las entidades sobre las que se aplica, una métrica de software puede clasificarse como métrica de... Seleccione una:
-$a. Procesos, productos y recursos
-b. Aplicativos, módulos y librerías
-c. Atributos internos y externos
-
 ?: El estándar BS5750 (BS 5750-8, 1991) define los principios de aseguramiento de calidad de los productos y servicios, en él, las mediciones son necesarias como:
 $a. Descriptores, Prescriptore y Predictores
 b. Evaluadores, Comparadores y Decisores
 c. Métricas, Mediciones y Medidas
-
-?: La metrología orientada al dominio del sujeto debe ofrecer un entorno teórico para la representación y la escalación, adaptable a cualquier problema de medición individual del dominio. Este entorno debe proveer a la disciplina de dos cosas, ¿Cuáles? Seleccione una:
-$a. Un conjunto comprensible de conceptos básicos y un sistema de teorías coherentes que liguen esos conceptos
-b. Un sistema de condiciones heredadas y uno de condiciones interrelacionadas
-c. Un sistema de unidades de medida y uno de transformaciones de escala
-
-?: Pero para que una medición sea válida se debe asegurar su calidad, lo que obliga a ésta a tener una serie de características importantes (Fenton, 1991) (Fenton, y otros, 1996), una de ellas es
-a. El código usado debe estar recogido en alguna publicación reconocida
-$b. El código usado en la medición no debe ser arbitrario, debe estar definido de manera que represente adecuadamente las propiedades medidas
-c. El código usado en la medición debe ser acordado por la comunidad de usuarios
 
 ?: DeMarco, en su libro Controlling Software Projects (DeMarco, 1982), identifica varias razones que provocan dificultad de estimación del coste del software. Una de ellas es:
 $a. Se menosprecian o no se tienen en cuenta las no linealidades de las duraciones de las tareas en proyectos grandes
@@ -429,11 +388,6 @@ $a. Hay que medir para conocer y se puede hacer con las métricas
 b. Hay un sistema uniforme de medidas
 c. Son muy significativas
 
-?: Pero para que una medición sea válida se debe asegurar su calidad, lo que obliga a ésta a tener una serie de características importantes (Fenton, 1991) (Fenton, y otros,1996), una de ellas es
-$a. Los resultados de las medidas deben tener integridad, debe ser posible, por tanto, demostrar la imparcialidad de la medición
-b. Los resultados de las medidas deben tener integridad, esto es deben tener asociada una unidad de medida
-c. Los resultados de las medidas deben tener integridad con respecto al proyecto lo que supone que se han probado en muchos proyectos anterires
-
 ?: Desde el punto de vista de la calidad de la medición, la Representatividad define las condiciones en que debe definirse la función de transformación T para que el homomorfismo entre el sistema relacional empírico y formal aseguren la correspondencia entre las propiedades observadas y el sistema formal de representación elegido, ¿Qué quiere decir esto?
 $a. Que se debe demostrar formalmente que la escala elegida y las transfomraciones del homomorfismo tienen sentido
 b. Que las mediciones deben hacerso usando el sistema numérico y no el empírico
@@ -445,15 +399,9 @@ b. La usabilidad del proyecto debe ser del 30%
 c. La calidad del proyecto es del 77%
 
 ?: ¿Cuál es la diferencia entre una métrica y una pseudométrica?
-$a. El axioma de desigualdad triangular es más estricto en la métrica
-b. El axioma de identidad es más estricto en la métrica
+a. El axioma de desigualdad triangular es más estricto en la métrica
+$b. El axioma de identidad es más estricto en la métrica
 c. El axioma de simetría es más estricto en la métrica
-
-?: Pero para que una medición sea válida se debe asegurar su calidad, lo que obliga a
-ésta a tener una serie de características importantes (Fenton, 1991) (Fenton, y otros, 1996), una de ellas es
-a. Debe haber sido probada con éxito en algún proyecto
-b. Debe estar presentada en algún documento estándar de alguna metodología
-$c. Debe ser válida para el propósito que se pretende y debe obtener resultados significativos con respecto a ese propósito
 
 ?: Cuál de las siguientes es un ejemplo de escala de intervalo
 a. Las distancias
@@ -464,21 +412,6 @@ c. Los horarios
 a. ...no influye la percepción del observador
 b. ...se están midiendo valores intrínsecos al objeto a medir
 $c. ...es la percepción del observador la que valora el objeto a medir
-
-?: Las escalas de ratio permiten...
-a. ...que las medidas en escalas absolutas puedan ser transformadas
-$b. ...que las relaciones entre dos medidas se mantengan en los cambios de escala
-c. ...que las escalas nominales puedan tener representación en el conjunto de los números reales
-
-?: Las condiciones de unicidad y representatividad de una medición indirecta orientada a objeto deben ser de una de estas dos clases:
-a. Condiciones simples y complejas
-b. Condiciones directas e indirectas
-$c. Condiciones heredadas e interrelacionadas
-
-?: Sea un conjunto formado por ficheros de código, sobre el cual se mide el número de errores, donde existen las relaciones "más errores que" y "menos errores que" y donde se define la operación "aglutinar errores de dos o más ficheros", ¿Que forma?
-$a. Un sistema relacional empírico
-b. Un sistema relacional formal
-c. Ninguno de ambos, poque sólo hay una operación
 
 ?: En el método de cálculo de esfuerzo en función del tamaño funcional usado en clase…
 a. Se usa un enfoque no lineal del comportamiento
@@ -500,12 +433,3 @@ $a. Se basan en la no-linealidad entre esfuerzo y coste, sobre estos resultados 
 b. Se basan en métodos estadísticos calibrados que permiten cálculos muy ajustados
 c. Se basan en las relaciones lineales entre tamaño y esfuerzo
 
-?: Para caracterizar adecuadamente un objeto mediante mediciones se usa habitualmente...
-$a. Medición combinada
-b. Medición indirecta
-c. Medición directa
-
-?: ¿Qué es una métrica?
-a. Es una operación que se realiza para obtener una medida
-$b. Es un concepto formal con base matemática
-c. Es una medida

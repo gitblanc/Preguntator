@@ -29,12 +29,12 @@ c. Preasignación, negociación, adquisición, equipos virtuales y análisis de 
 
 
 ?: Dentro de los ámbitos principales de aportación de RRHH al proyecto, ¿Qué es la transferencia de personas de otros departamentos? Seleccione una:
-a. Se produce cuando se hace reestructuración de puestos de trabajo y las personas se transfieres a otros departamentos
+a. Se produce cuando se hace reestructuración de puestos de trabajo y las personas se transfieren a otros departamentos
 b. Se produce cuando las personas cambian el perfil tecnológico con el que trabajan en el proyecto
-$c. Cuando el personal necesario se busca en otros departamento o en otros proyectos
+$c. Cuando el personal necesario se busca en otros departamentos o en otros proyectos
 
 
-?: ¿Cuál de los siguientes es uno de los producto del desarrollo del equipo de proyecto? Seleccione una:
+?: ¿Cuál de los siguientes es uno de los productos del desarrollo del equipo de proyecto? Seleccione una:
 a. Plan de gestión de recursos humanos
 b. Asignaciones al equipo de proyecto
 $c. Las evaluaciones del desempeño del equipo
@@ -72,7 +72,7 @@ c. Se refiere a competencias que debe tener el jefe de proyecto para negociar co
 
 ?: Dentro del Plan de Recursos Humanos, ¿Qué son los calendarios de recursos? Seleccione una:
 a. Son calendarios de contratación de recursos necesarios para el proyecto
-$b. Son calendarios que identifican los días de trabajo en que cada recurso están disponibles
+$b. Son calendarios que identifican los días de trabajo en que cada recurso está disponible
 c. Son calendarios de asignación de trabajos a recursos
 
 
@@ -111,7 +111,7 @@ $b. El calendario de recursos
 c. Las normas básicas
 
 
-?: ¿Cuáles de los siguientes son factores que se deben estudiar a la hora de crear un equpo de proyecto y que forman su perfil profesional y personal? Seleccione una:
+?: ¿Cuáles de los siguientes son factores que se deben estudiar a la hora de crear un equipo de proyecto y que forman su perfil profesional y personal? Seleccione una:
 a. Conocimientos sobre gestión de proyectos y sobre estructura de equipos de proyecto
 b. Márketing y conocimientos de macroeconomía
 $c. Actitudes requeridas en el trabajo y relación con otros perfiles
@@ -144,7 +144,7 @@ c. Consiste en evaluar los criterios que afectan al proyecto antes de selecciona
 ?: Dentro de los ámbitos principales de aportación de RRHH al proyecto, ¿Qué es la asignación temporal? Seleccione una:
 a. Personas que trabajan en el proyecto a tiempo parcial
 b. Cuando el miembro del equipo se asigna por horas de trabajo al proyecto
-$c. Personas que se incorporan de la misma unidad organizativa para la ejecución de ese proyecto, pero que al finalizar éste continúan a disposición del Jefe de la Unidad
+$c. Personas que se incorporan de la misma unidad organizativa para la ejecución de ese proyecto, pero que al finalizar este continúan a disposición del Jefe de la Unidad
 
 
 ?: Hay cinco técnicas generales para resolver conflictos, ¿Cuáles? Seleccione una:
@@ -186,7 +186,7 @@ c. Asignaciones al equipo de proyecto
 ?: ¿Cuáles de los siguientes son aspectos generales que se deben gestionar cuando se dirige un proyecto? Seleccione una:
 $a. Ser capaz de influir en el equipo de proyecto y cuidar del comportamiento ético y profesional
 b. Tener autoridad para solventar disputas y tener caracter comercial
-c. Tener atoridad para imponer criterios y apoyo para poder tomar decisiones duras (como despidos, sanciones, etc.)
+c. Tener autoridad para imponer criterios y apoyo para poder tomar decisiones duras (como despidos, sanciones, etc.)
 
 
 ?: Dentro de los ámbitos principales de aportación de RRHH al proyecto, ¿Qué es la asignación permanente? Seleccione una:
@@ -198,7 +198,7 @@ $c. Se trata de personas con unos conocimientos específicos sobre un tema
 ?: ¿De qué elemento formal forma parte la formación del equipo de proyecto? Seleccione una:
 $a. OBS
 b. WBS
-c. PB
+c. PBS
 
 
 ?: Dentro de las técnicas para el desarrollo del equipo de proyecto, ¿En qué consiste la de "Actividades de mejora de trabajo en equipo"? Seleccione una:
@@ -262,12 +262,12 @@ c. Se produce cuando se seleccionan personas por los departamentos de recursos h
 
 
 ?: ¿Cuáles de los siguientes son objetivos destacables del desarrollo del equipo de proyecto? Seleccione una:
-a. Mejorar la calidad final del producto mediante técnias de desinformación que mantengas a los miembros del equipo alerta a los cambios
+a. Mejorar la calidad final del producto mediante técnicas de desinformación que mantengan a los miembros del equipo alerta a los cambios
 b. Hacer del equipo un sistema cohesivo eliminando las disensiones mediante la eliminación de los miembros conflictivos
 $c. Mejorar el conocimiento y las habilidades de los miembros, mejorar el clima de confianza y crear una cultura de equipo dinámica, cohesiva y colaborativa
 
 
-?: Dentro de las técnicas para el gestión del equipo de proyecto, ¿En qué consiste la de "Resolución de conflictos"? Seleccione una:
+?: Dentro de las técnicas para la gestión del equipo de proyecto, ¿En qué consiste la de "Resolución de conflictos"? Seleccione una:
 $a. Busca mayor productividad y unas relaciones de trabajo más positivas y productivas
 b. Es un compromiso entre todos los miembros del proyecto para que no haya conflictos
 c. Es el proceso realizado por el jefe de proyecto para imponer su criterio sin no hay acuerdos
@@ -279,7 +279,7 @@ b. Los consultores son personas externas a la organización que poseen conocimie
 c. Los consultores son personas externas a la organización que poseen conocimientos muy específicos sobre gestión de proyectos
 
 
-?: ¿qué factores influyen en la decisión de conflictos por parte del jefe de proyecto? Seleccione una:
+?: ¿Qué factores influyen en la decisión de conflictos por parte del jefe de proyecto? Seleccione una:
 a. La escasez de recursos, las Prioridades de programación y los Estilos personales de trabajo
 b. Evitación, Aceptación, Reconciliación, Acción directa y Colaboración
 $c. La importancia e intensidad, la presión, las posturas y la prisa
@@ -287,7 +287,7 @@ $c. La importancia e intensidad, la presión, las posturas y la prisa
 
 ?: Un equipo tiene dedicación a tiempo parcial cuando... Seleccione una:
 a. Los proyectos se desarrollan por personas que dedican parte del tiempo al desarrollo y parte a la gestión del proyecto
-b. os proyectos se desarrollan por personas que desarrollan el proyecto desde empresas externas
+b. Los proyectos se desarrollan por personas que desarrollan el proyecto desde empresas externas
 $c. Los proyectos se desarrollan por personas que, además de dedicar tiempo al proyecto, también lo dedican a sus actividades habituales o a otros proyectos
 
 
@@ -305,11 +305,11 @@ c. El jefe de proyecto debe negociar con otros jefes de proyecto la adquisición
 
 ?: ¿Cuál de las siguientes es una desventaja de la cooperación dentro de la dependencia de los miembros del equipo? Seleccione una:
 $a. Es complicado de poner en práctica en proyectos pequeños y con pocas personas trabajando
-b. Si el jefe de proyecto tiene demasiada autoridad se anulan lo miembros del equipo y éste no es muy productivo
+b. Si el jefe de proyecto tiene demasiada autoridad se anulan lo miembros del equipo y este no es muy productivo
 c. Si los miembros tiene malas relaciones, la cooperación es imposible
 
 
-?: ¿Cuáles de los siguiente son productos del plan de gestión de recursos humanos? Seleccione una:
+?: ¿Cuáles de los siguientes son productos del plan de gestión de recursos humanos? Seleccione una:
 a. El WBS
 b. Plan de gestión de riesgos
 $c. Lista de roles y responsabilidades
@@ -328,27 +328,11 @@ a. Si las interfaces entre los componentes cambian, los tiempos de comunicación
 ?: ¿Qué procesos incluye la gestión de recursos humanos del proyecto? Seleccione una:
 $a. Aquellos que organizan, gestionan, dirigen el equipo de proyecto
 b. Incluye los procesos de preasignación, negociación y adquisición, entre otros
-c. Los que se refienren al descubrimiento de problemas desconocidos o no resueltos
+c. Los que se refieren al descubrimiento de problemas desconocidos o no resueltos
 
 
 ?: ¿En qué consiste la independencia dentro de la dependencia de los miembros del equipo? Seleccione una:
 $a. Las actividades se hacen muy dependientes y requieren de muchos tiempos cortos de planificación.
-
-
-?: Cuando se diseña el plan de gestión de recursos humanos precisaremos de algunos documentos de entrada ¿Cuál de los siguientes es uno de ellos? Seleccione una:
-$a. Plan de gestión de proyecto.
-
-
-?: Dentro del plan de recursos humanos ¿En qué consiste el concepto de autoridad? Seleccione una:
-$a. Es el derecho a asignar recursos, tomar decisiones, aprobar , aceptar entregables y ejercer influencia sobre otros para dirigir el proyecto.
-
-
-?: Dentro de los ámbitos principales de aportación de RRHH al proyecto ¿Qué es la asignación permanente? Selecciona una:
-$a. Se trata de persona con unos conocimientos específicos sobre un tema
-
-
-?: ¿Cuáles de las siguientes son herramientas de evaluación del personal? Selecciona una:
-$a. Encuestas de actitud, evaluaciones específicas, y entrevistas estructuradas
 
 
 ?: ¿Qué maneras existen de documentar el equipo de proyecto y sus roles y responsabilidades? Selecciona una:
@@ -387,11 +371,6 @@ $a. Las actividades se hacen muy dependientes y requieren de muchos tiempos cort
 b. Durante el diseño se han establecido un nivel muy alto de acoplamiento y las decisiones son complejas
 c. Si el equipo es interdependiente, las decisiones llevan mucho tiempo y al proyecto le cuesta avanzar
 
-?: ¿Cuáles de los siguientes son factores que se deben estudiar a la hora de crear un equipo de proyecto y que forman su perfil profesional y personal?
-a. Conocimientos sobre gestión de proyectos y sobre estructura de equipos de proyecto
-b. Márketing y conocimientos de macroeconomía
-$c. Actitudes requeridas en el trabajo y relación con otros perfiles
-
 ?: ¿Qué es un organigrama?
 a. Es un modo de representación basado en una Matriz de Asignación de Responsabilidades
 $b. Es la manera tradicional de representar la estructura de un equipo de proyecto
@@ -417,7 +396,7 @@ $a. Son técnicas para la preparación de los entornos de trabajo, la disponibil
 b. Son técnicas de la selección del equipo de proyecto destinadas a definir la estructura que debe tener dicho equipo
 
 ?: ¿Cuál es la autoridad del Jefe de Proyecto en el proyecto?
-a. Es un miembro más del equipo cuya responasbilidad técnica le otorga algún privilegio
+a. Es un miembro más del equipo cuya responsabilidad técnica le otorga algún privilegio
 $b. Varía en función del tipo de empresa y del proyecto
 c. Tiene la responsabilidad y autoridad máxima en el proyecto
 
@@ -434,11 +413,6 @@ b. Formación, Actividades de mejora de trabajo en equipo y Herramientas de eval
 a. Contratación y personal propio
 b. Ámbito académico, ámbito profesional, ámbito investigador y profesionales no cualificados
 $c. Asignación permanente, asignación temporal, reclutamiento de nuevas personas, transferencia de personas de otros departamentos, consultores y subcontratadas
-
-?: ¿En qué consiste la técnica de "Equipos virtuales" para la selección de miembros del equipo?
-a. Son equipos que trabajan virtualmente en varios proyectos y por tanto no tienen asignación directa a ninguno
-b. Son equipos formados usando herramientas virtuales de selección como las redes sociales o los portales de empleo
-$c. Consiste en la creación de equipos virtuales, geográficamente distribuidos, que no realizan reuniones presenciales
 
 ?: ¿Cuál de las siguientes son herramientas de evaluación del personal?
 $a. Encuestas de actitud, evaluaciones específicas y entrevistas estructuradas

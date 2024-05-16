@@ -6,11 +6,11 @@ c. Un adelanto (Lead) es la cantidad de tiempo que una actividad puede ser adela
 
 ?: ¿Qué es el PBS? Seleccione una:
 a. Progress Breakdown Structure, es una representación del estado de avance en las actividades del proyecto
-$b. Product Breakdown Structure,es una representación en forma de árbol de los productos que hay que crear para alcanzar el final del proyecto
+$b. Product Breakdown Structure, es una representación en forma de árbol de los productos que hay que crear para alcanzar el final del proyecto
 c. Partial Breakdown Structure, es una visión parcial de la estructura de trabajos del proyecto
 
 
-?: ¿Que se entiende por gobernabilidad del proyecto? Seleccione una:
+?: ¿Qué se entiende por gobernabilidad del proyecto? Seleccione una:
 $a. La gobernabilidad del proyecto es una función de supervisión que está alineada con el modelo de gobierno de la organización, y que abarca el ciclo de vida del proyecto
 b. Es un proceso de nombramiento de responsables del proyecto para que existan responsables del gobierno
 c. Es un proceso de otorgamiento de responsabilidades al Jefe de Proyecto para que éste ejerza su función de gobierno
@@ -101,7 +101,7 @@ $c. El éxito del proyecto se mide en términos de completar el proyecto dentro 
 
 
 ?: ¿Cuál de las siguientes afirmaciones es cierta? Seleccione una:
-$a. La estructura organizacional es un factor del entorno de la empresa que puede afectar la disponibilidad de recursos e influenciar como se dirigen los proyectos
+$a. La estructura organizacional es un factor del entorno de la empresa que puede afectar la disponibilidad de recursos e influenciar cómo se dirigen los proyectos
 b. Los proyectos se realizan desde empresas con organizaciones orientadas a proyectos para empresas con organización funcional
 c. Las empresas que se dedican a realizar proyectos deben tener una estructura orientada a proyectos, no pueden tener una estructura funcional
 
@@ -187,7 +187,7 @@ c. Son del tipo "Será realizado por" para determinar qué trabajos realizarán 
 ?: ¿Cómo se comportan los stakeholders respecto a la responsabilidad y autoridad en le proyecto? Seleccione una:
 a. Tiene autoridad, pero no responsabilidad en el proyecto
 b. Tienen un papel bien definido con un nivel de responsabilidad y autoridad perfectamente acotado durante todo el proyecto
-$c. Tienen diferentes niveles de responsabilidad y autoridad que pueden varia a lo largo del proyecto
+$c. Tienen diferentes niveles de responsabilidad y autoridad que pueden variar a lo largo del proyecto
 
 
 ?: Dentro de las actividades de los procesos organizacionales ¿Qué actividades están relacionadas con la Ejecución, Monitorización y control? Seleccione una:
@@ -212,12 +212,6 @@ c. Start-to-Start, es una relación que indica que una actividad varias activida
 $a. Un hito en un punto o evento importante en el proyecto
 b. Un hito es una marca del proyecto
 c. Un hito es una actividad más con una duración de un día
-
-
-?: Hablando de estimación de duración de las actividades, ¿En qué consiste la Estimación Paramétrica? Seleccione una:
-a. La estimación paramétrica se basa en el uso de tablas de actividades que están calculadas previamente
-$b. La estimación paramétrica se basa en el uso de algún algoritmo de cálculo que recoge información histórica
-c. La estimación paramétrica se basa en el uso de parámetros estándar para estimar las duraciones
 
 
 ?: ¿Cuáles de los siguientes son activos de los procesos de una organización? Seleccione una:
@@ -252,8 +246,8 @@ c. Una tarea hamaca es una tarea que forma parte de una súper tarea
 
 ?: ¿Es posible obtener información importante de la Arquitectura del Software para construir el WBS? Seleccione una:
 a. No, la arquitectura y la gestión de proyecto son fases diferentes
-b. Si, el proyecto y la arquitectura tienen los mismos stakeholders
-$c. Si, a partir de algunos estilos de disposición
+b. Sí, el proyecto y la arquitectura tienen los mismos stakeholders
+$c. Sí, a partir de algunos estilos de disposición
 
 
 ?: La organización y estilos culturales de una empresa, ¿Qué experiencias comunes incluyen? Seleccione una:
@@ -276,20 +270,8 @@ $a. Organization Breakdown Structure, representa las responsabilidades sobre la 
 $a. Work Breakdown Structure, se utiliza para representar la estructura de descomposición del trabajo.
 
 
-?: Según PMBOK, el plan de gestión del cronograma puede establecer…
-$a. …El desarrollo de modelo de cronograma del proyecto.
-
-
-?: ¿Qué es e RBS?
-$a. Resource Breakdown Structure, en una lista jerárquica de los recursos necesarios para la gestión y control del proyecto
-
-
 ?: Hablando de actividades ¿Qué significa precedencia FS?
 $a. Finish-to-Start, es una relación de precedencia entre las actividades que indica que una actividad no puede empezar hasta que otra concreta haya terminado.
-
-
-?: Hablando de estimación de recursos para las actividades ¿En qué consiste la existencia de Datos de estimación publicados?
-$a. Consiste en actividades que, por experiencia previa, se tienen tabuladas y se puede calcular fácilmente los recursos que precisan aplicando dichas tablas.
 
 
 ?: ¿En qué consiste la definición del cronograma del proyecto?
@@ -316,12 +298,8 @@ b. Personas, recursos financieros y disponibilidad
 $c. Visiones compartidas, valores, creencias y expectativas
 
 
-?: ¿Cómo se comportan los stakeholders respecto a la responsabilidad y autoridad en el proyecto?
-$a. Tienen diferentes niveles de responsabilidad y autoridad que pueden variar a lo largo del proyecto.
-
-
 ?: Hablando de estimación de recursos para las actividades, ¿En qué consisten los Análisis alternativos? Seleccione una:
-a. Consiste en recalcular toda la estimación de recuros con otro métodos difenrente del usado por primera vez
+a. Consiste en recalcular toda la estimación de recuros con otro métodos diferente del usado por primera vez
 b. Son métodos experimentales que están poco probados en la industria
 $c. Son habitualmente métodos ad-hoc de cualquier tipo que ayudan a la estimación
 
@@ -329,11 +307,6 @@ $c. Son habitualmente métodos ad-hoc de cualquier tipo que ayudan a la estimaci
 a. ...el criterio de las horas de trabajo por jornada
 $b. ...el desarrollo de modelo de cronograma del proyecto
 c. ...el criterio del tiempo a utilizar en los procesos de desarrollo de software
-
-?: Dentro de las actividades de los procesos organizacionales ¿Qué actividades estánrelacionadas con la Ejecución, Monitorización y control?
-a. Requisitos guías para le cierre de proyecto
-$b. Procesos financieros y gestión de riesgos
-c. Definición de plantillas
 
 ?: ¿Qué componentes tiene una EDT?
 $a. Objetivos del proyecto, Componentes, Productos, Entregables, Paquetes de trabajo y Actividades
@@ -344,17 +317,3 @@ c. ID, Título, Nombre, Precedentes y Sucesoras
 $a. Consiste en actividades que, por experiencia previa, se tienen tabuladas y se puede calcular fácilmente los recusos que precisan aplicando dichas tablas
 b. Consiste en tener listas de precios para las actividades
 c. Consiste en publicar los precios de las actividades del proyecto para que el cliente sepa los costes a priori
-
-?: Hablando de estimación de recursos para las actividades ¿En qué consiste la existenciade Datos de estimación publicados?
-$a. Consiste en actividades que, por experiencia previa, se tienen tabuladas y se puedecalcular fácilmente los recursos que precisan aplicando dichas tablas.
-
-?: ¿Cuál de las siguientes es un lista de atributos de una actividad?
-$a. Título, Duración, Relación con el WBS y Nivel de actividad
-b. Nombre, Dirección y Código
-c. Tipo, Clase, Aspecto y Evaluación
-
-?: ¿Qué es un stakehoder?
-a. Un stakeholder es cualquier individuo, grupo u organización que haya invertido dinero en el proyecto
-$b. Un stakeholder es cualquier individuo, grupo u organización que pueda afectar o sentirse afectado por cualquier decisión, actividad o resultado del proyecto
-c. Un stakeholder es cualquier individuo, grupo u organización que pueda sentirse afectado por aspectos socioculturales cuando el proyecto tiene caracter global
-

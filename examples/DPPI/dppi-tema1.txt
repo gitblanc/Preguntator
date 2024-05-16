@@ -419,8 +419,8 @@ b. Para RUP, la vida de un sistema se divide en 5 fases.
 $c. Para RUP, la vida de un sistema se divide en ciclos.
 
 ?: ¿Cual de los siguientes principios NO pertenece a la metodología XP (eXtreme Programming)?
-a. P2P Programming: La programación se comparte directamente con el cliente.
-$b. Pair Programming: La programación se hace entre dos personas.
+$a. P2P Programming: La programación se comparte directamente con el cliente.
+b. Pair Programming: La programación se hace entre dos personas.
 c. Integración continua: El software se integra múltiples veces al día.
 
 ?: La Pila de producto o Product Backlog es

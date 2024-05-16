@@ -78,7 +78,7 @@ c. Impredecible, Repetible, Proactivo, Controlado y Mejora continua
 
 ?: ¿Qué técnicas son habituales en la Planificación de la Calidad? Seleccione una:
 a. Análisis coste-beneficio, Coste de la calidad, Análisis de Procesos, Diseño de experimentos, Muestreo estadístico y Reuniones
-b. Análisis coste-beneficio, Coste de la calidad, 7QC Tools, Benchmarking, DOE, Muestreo estadístico, Auditorías de caliad y Reuniones
+b. Análisis coste-beneficio, Coste de la calidad, 7QC Tools, Benchmarking, DOE, Muestreo estadístico, Auditorías de calidad y Reuniones
 $c. Análisis coste-beneficio, Coste de la calidad, 7QC Tools, Benchmarking, DOE, Muestreo estadístico, Reuniones y Otras herramientas de planificación de la calidad
 
 
@@ -110,12 +110,6 @@ c. Prevención de defectos
 $a. La satisfacción del cliente, La prevención antes que la inspección, La mejora continua, La responsabilidad de la dirección y El coste de la calidad
 b. Planificar la calidad, Aseguramiento de la calidad y Control de calidad
 c. Calidad de software, Factores de calidad, Criterios de calidad y Métricas de calidad
-
-
-?: ¿Qué parámetros que determinan la adecuación al uso? Seleccione una:
-a. Calidad Necesaria, Calidad Programada, y Calidad Realizada
-$b. Calidad de diseño, Calidad de conformidad, Disponibilidad y Servicio técnico
-c. Prevención, Detección y Corrección
 
 
 ?: ¿Qué constelaciones están publicadas actualmente? Seleccione una:
@@ -157,7 +151,7 @@ c. Se establece una meta cuantitativa de calidad tanto para el proceso de softwa
 ?: La implantación de un modelo o estándar de calidad en una empresa de software tiene diferentes niveles de implantación. Dentro del nivel de software, ¿Qué elementos se definen en los modelos clásicos? Seleccione una:
 $a. Factores, criterios y métricas
 b. Entidades y Proyectos
-c. %Modelos y Estándares
+c. Modelos y Estándares
 
 
 ?: ¿Cuál de las siguientes es una característica propia del nivel 5 de CMMI (no compartida con niveles inferiores)? Seleccione una:
@@ -220,7 +214,7 @@ b. El resultado se clasifica según una escala continua que mide el grado de con
 $c. Comprobar que el resultado cumple o no con los requisitos
 
 
-?: ¿En qué consiste el Controld e calidad? Seleccione una:
+?: ¿En qué consiste el Control de calidad? Seleccione una:
 a. Es el proceso por el que se definen las variables a medir en la ejecución de actividades de calidad, a fin de evaluar el desempeño y recomendar cambios necesarios
 $b. Es el proceso por el que se monitorizan y registran los resultados de la ejecución de actividades de calidad, a fin de evaluar el desempeño y recomendar cambios necesarios
 c. Es el proceso por el que se evalúan los resultados de la ejecución de actividades de calidad, a fin de evaluar el desempeño y recomendar cambios necesarios
@@ -274,22 +268,10 @@ b. Es la parte de la calidad que asegura que el producto diseñado satisfaga las
 c. Es un aspecto de la calidad tiene que ver con el desempeño y la vida útil del producto
 
 
-?: En el contexto de las fases por las que ha pasado históricamente la gestión de la calidad, ¿Cuál es la característica principal de la fase de Aseguramiento de la calidad? Seleccione una:
-a. Prevención de defectos
-$b. Integración de todos los procesos
-c. Prevención de defectos
-
-
 ?: ¿Cuáles son los niveles que habitualmente alcanzas las organizaciones de SW con CMMI? Seleccione una:
 a. 1 y 2
 $b. 2 y 3
 c. 3 y 4
-
-
-?: ¿Qué es la prevención? Seleccione una:
-a. Evitar que los errores lleguen a manos del cliente
-b. Evitar que los clientes sepan que ha habido errores
-$c. Evitar que haya errores en el proceso
 
 
 ?: ¿Cuál de las siguientes es una característica propia del nivel 4 de CMMI (no compartida con niveles inferiores)?
@@ -302,12 +284,6 @@ c. Está enfocado en la mejora continua del rendimiento del proceso a través de
 a. Los proyectos establecen sus procesos definidos por el conjunto de procesos estándar de la organización de acuerdo las directrices de adaptación
 b. Los procesos están bien caracterizados y son entendidos por los miembros de la organización
 $c. Se establecen procesos básicos de gestión de proyectos para el seguimiento de costes, plazos, y funcionalidad
-
-
-?: La implantación de un modelo o estándar de calidad en una empresa de software tiene diferentes niveles de implantación. Dentro del nivel de software, ¿Qué elementos se definen en los modelos clásicos?
-$a. Factores, criterios y métricas
-b. Entidades y Proyectos
-c. %Modelos y Estándares
 
 
 ?: ¿Cuál de las siguientes es una característica propia del nivel 5 de CMMI (no compartida con niveles inferiores)?

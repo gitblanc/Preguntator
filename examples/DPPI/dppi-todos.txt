@@ -990,990 +990,6 @@ b. El éxito del proyecto se mide en términos de que los plazos y los costes ha
 $c. El éxito del proyecto se mide en términos de completar el proyecto dentro de las limitaciones de alcance, tiempo, costo, calidad, recursos y riesgo aprobado entre los directores de proyectos y la alta dirección
 
 
-?: ¿Cuál de las siguientes afirmaciones es cierta? Seleccione una:
-$a. La estructura organizacional es un factor del entorno de la empresa que puede afectar la disponibilidad de recursos e influenciar cómo se dirigen los proyectos
-b. Los proyectos se realizan desde empresas con organizaciones orientadas a proyectos para empresas con organización funcional
-c. Las empresas que se dedican a realizar proyectos deben tener una estructura orientada a proyectos, no pueden tener una estructura funcional
-
-
-?: Hablando de estimación de duración de las actividades, ¿En qué consisten las Técnicas de decisión por grupo? Seleccione una:
-$a. Este tipo de estimación usa brainstormings o técnicas Delphi entre un grupo de expertos, para hacer la estimación
-b. Es tipo de estimación consiste en agrupar los tiempos para que tareas similares se hagan en la misma franja de proyecto
-c. Este tipo de estimación forma grupos de actividades que son similares y las estima usando una técnica común
-
-
-?: Los procesos organizacionales que se llevan a cabo en un proyecto se pueden clasificar en... Seleccione una:
-a. Inicio, Elaboración, Construcción y Transición
-$b. "Inicio y planificación", "Ejecución, Monitorización y Control" y "Cierre"
-c. Arranque, Identificación, Priorización, Monitorización y Control
-
-
-?: Hablando de actividades, ¿qué son los Retardos (Lags)? Seleccione una:
-a. Un retardo (Lag) es la cantidad de tiempo que una actividad puede ser retrasada con respecto a otra que la sucede
-b. Un retardo (Lag) es la cantidad de tiempo que una actividad puede ser retrasada sin cambiar el camino crítico
-$c. Un retardo (Lag) es la cantidad de tiempo que una actividad puede ser retrasada con respecto a otra que la precede
-
-
-?: ¿Qué técnicas son habituales para hacer estimación de recursos para las actividades? Seleccione una:
-a. Identificación, Nombre, Descripción, Precedentes y Sucesoras entre otros
-b. Juicio de expertos, Estimación por analogía, Estimación paramétrica, Estimación de tres puntos, Técnicas de decisión por grupo y Análisis de reservas
-$c. Juicio de expertos, Análisis alternativos, Datos de estimación publicados, Estimación Bottom-Up y uso de Software de gestión y estimación de proyectos 
-
-
-?: La organización funcional de la empresa, ¿qué permite? Seleccione una:
-a. Que cada función sea realizada por más de un departamento de la empresa
-b. Que cada departamento tenga asignado un solo trabajo en el proyecto
-$c. Que cada departamento pueda realizar su trabajo independientemente de los demás
-
-
-?: ¿Qué característica especial se espera de un Jefe de proyecto que tenga un alcance global? Seleccione una:
-a. Debe tener capacidad de liderazgo
-$b. Debe tener competencias multiculturales
-c. Debe tener conocimiento de idiomas
-
-
-?: ¿Cuál de los siguientes es un beneficio aportado al proyecto por el WBS? Seleccione una:
-$a. Identifica el 100% de trabajo requerido para llevar a cabo el proyecto
-b. Identifica el 100% de los trabajos formales del proyecto
-c. Identifica un alto porcentaje de los trabajos del proyecto
-
-
-?: ¿Cuál de los siguientes es un beneficio aportado al proyecto por el WBS? Seleccione una:
-a. Ayuda a predecir la calidad del proyecto
-b. Permite predecir el grado de adecuación del proyecto al objetivo
-$c. Ayuda a establecer una correlación de cada actividad con la meta final del proyecto
-
-
-?: Hablando de estimación de duración de las actividades, ¿En qué consiste el Análisis de Reservas? Seleccione una:
-a. Consiste en estudiar las reservas de tiempo que se crean de manera natural al estimar muchas actividades
-$b. Las estimaciones pueden incluir tiempos reservados para contingencias (buffers) pensados para situaciones de riesgo en las que la duración podría extenderse
-c. Consiste en poner todas las holguras juntas para producir reservas de tiempo para el proyecto
-
-
-?: ¿Qué es un stakeholder? Seleccione una:
-a. Un stakeholder es cualquier individuo, grupo u organización que haya invertido dinero en el proyecto
-$b. Un stakeholder es cualquier individuo, grupo u organización que pueda afectar o sentirse afectado por cualquier decisión, actividad o resultado del proyecto
-c. Un stakeholder es cualquier individuo, grupo u organización que pueda sentirse afectado por aspectos socioculturales cuando el proyecto tiene caracter global
-
-
-?: De acuerdo a los formalismos del WBS... Seleccione una:
-a. ...toda actividad estará representada por una elipse
-b. ...toda actividad estará relacionada con otra actividad en el árbol
-$c. ...toda actividad da lugar a un resultado y no hay ningún resultado (a excepción del estado inicial) que no tenga una actividad previa
-
-
-?: Hablando de estimación de duración de las actividades, ¿En qué consiste la Estimación de tres puntos? Seleccione una:
-a. La estimación por tres puntos (o tres valores) se basa en hacer un cálculo de tres tipos de estimación de duración y quedarse con la más probable
-b. La estimación por tres puntos (o tres valores) se basa en hacer un cálculo de tres tipos de estimación de duración usando técnicas de simulación Monte Carlo
-$c. La estimación por tres puntos (o tres valores) se basa en hacer un cálculo de tres tipos de estimación de duración: más probable, optimista y pesimista
-
-
-?: Las relaciones entre los elementos de un WBS, ¿de qué tipos son? Seleccione una:
-$a. Son del tipo "está compuesto de" cuando se va de la raíz a las hojas y del tipo "forma parte de" cuando se va hacia la raíz
-b. Son del tipo "pertenece a" para determinar qué productos forman parte de otros más complejos
-c. Son del tipo "Será realizado por" para determinar qué trabajos realizarán qué personas en el proyecto
-
-
-?: ¿Cómo se comportan los stakeholders respecto a la responsabilidad y autoridad en le proyecto? Seleccione una:
-a. Tiene autoridad, pero no responsabilidad en el proyecto
-b. Tienen un papel bien definido con un nivel de responsabilidad y autoridad perfectamente acotado durante todo el proyecto
-$c. Tienen diferentes niveles de responsabilidad y autoridad que pueden variar a lo largo del proyecto
-
-
-?: Dentro de las actividades de los procesos organizacionales ¿Qué actividades están relacionadas con la Ejecución, Monitorización y control? Seleccione una:
-a. Definición de plantillas
-b. Requisitos guías para le cierre de proyecto
-$c. Procesos financieros y gestión de riesgos
-
-
-?: De acuerdo al PMBOK, ¿Qué documentos acompañan al WBS? Seleccione una:
-$a. Alcance del proyecto, WBS y Diccionario WBS
-b. El presupuesto y la estimación de personal
-c. El presupuesto y el Alcance del proyecto
-
-
-?: Hablando de actividades, ¿qué significa la precedencia SS? Seleccione una:
-a. Start-to-Start, es una relación que indica que una actividad no puede comenzar hasta que otra concreta haya terminado
-$b. Start-to-Start, es una relación que indica que una actividad no puede comenzar hasta que otra concreta haya comenzado
-c. Start-to-Start, es una relación que indica que una actividad varias actividades debeb comenzar juntas
-
-
-?: ¿Qué es un hito (milestone) en un proyecto? Seleccione una:
-$a. Un hito en un punto o evento importante en el proyecto
-b. Un hito es una marca del proyecto
-c. Un hito es una actividad más con una duración de un día
-
-
-?: ¿Cuáles de los siguientes son activos de los procesos de una organización? Seleccione una:
-$a. Planes, Procesos, Políticas, Procedimientos y Conocimiento corporativo
-b. Financieros y Humanos
-c. Ecológicos, Globalizadores y Socioculturales
-
-
-?: ¿Qué técnicas son habituales para hacer estimación de la duración de las actividades? Seleccione una:
-$a. Juicio de expertos, Estimación por analogía, Estimación paramétrica, Estimación de tres puntos, Técnicas de decisión por grupo y Análisis de reservas
-b. Juicio de expertos, Análisis alternativos, Datos de estimación publicados, Estimación Bottom-Up y uso de Software de gestión y estimación de proyectos
-c. Identificación, Nombre, Descripción, Precedentes y Sucesoras entre otros
-
-
-?: Hablando de dependencia entre las actividades, ¿Qué es la Dependencia Externa? Seleccione una:
-a. Son actividades que tienen resultados más allá del alcance del proyecto
-b. Son actividades que no pertenecen al proyecto, aunque se ejecuten al mismo tiempo
-$c. Son actividades que incluyen relaciones a actividades externas no pertenecientes al proyecto
-
-
-?: Hablando de actividades, ¿qué significa la precedencia FF? Seleccione una:
-$a. Finish-to-Finish, es una relación de precedencia que indica que una actividad no puede terminar hasta que lo haya hecho otra concreta
-b. Finish-to-Finish, es una relación de precedencia que indica que varias actividades tienen que terminar juntas
-c. Finish-to-Finish, es una relación de precedencia que indica que una actividad no puede terminar hasta que otra concreta haya comenzado
-
-
-?: ¿Qué es una tarea hamaca? Seleccione una:
-$a. Una tarea hamaca está definida por un conjunto de tareas detalladas
-b. Una tarea hamaca es una tarea con holguras en el WBS
-c. Una tarea hamaca es una tarea que forma parte de una súper tarea
-
-
-?: ¿Es posible obtener información importante de la Arquitectura del Software para construir el WBS? Seleccione una:
-a. No, la arquitectura y la gestión de proyecto son fases diferentes
-b. Sí, el proyecto y la arquitectura tienen los mismos stakeholders
-$c. Sí, a partir de algunos estilos de disposición
-
-
-?: La organización y estilos culturales de una empresa, ¿Qué experiencias comunes incluyen? Seleccione una:
-$a. Visión, misión, valores, creencia y expectativas
-b. Resultados empresariales, posición de mercado y marketing corporativo
-c. Departamentos, oficinas, locales, etc.
-
-
-?: Hablando de dependencia entre las actividades, ¿Qué es la Dependencia Obligatoria? Seleccione una:
-a. Son actividades que deben comenzar obligatoriamente al mismo tiempo
-$b. Son actividades que debe realizarse obligatoriamente, bien sea por cuestiones contractuales o porque la naturaleza del trabajo las impone
-c. Son actividades que obligan al equipo a una atención especial
-
-
-?: ¿Qué es el OBS?
-$a. Organization Breakdown Structure, representa las responsabilidades sobre la realización de actividades del proyecto.
-
-
-?: ¿Qué es el WBS?
-$a. Work Breakdown Structure, se utiliza para representar la estructura de descomposición del trabajo.
-
-
-?: Hablando de actividades ¿Qué significa precedencia FS?
-$a. Finish-to-Start, es una relación de precedencia entre las actividades que indica que una actividad no puede empezar hasta que otra concreta haya terminado.
-
-
-?: ¿En qué consiste la definición del cronograma del proyecto?
-$a. Es el proceso de análisis de secuencias de actividades, duraciones, requisitos de recursos y restricciones del propio cronograma para crear un modelo de programación del proyecto.
-b. Es un proceso de colocar todas las actividades en un margen de tiempo definido a priori para el proyecto
-c. Es el proceso de creacion de actividades y su descomposicion en tareas
-
-
-?: ¿Qué es el RBS? Seleccione una:
-$a. Resource Breakdown Structure, es una lista jerárquica de los recursos necesarios para la gestión y control del proyecto
-b. Rescue Breakdown Structure, es la lista de recursos de que dispone el equipo para recuperar situaciones complejas en el proyecto
-c. Relational Breakdown Structure, es un grafo representando las relaciones entre las diferentes actividades del proyecto
-
-
-?: La planificación temporal del proyecto es... Seleccione una:
-a. ...un proceso en el que se estima el tiempo que llevará la gestión del proyecto
-$b. ...un proceso en el cual se establecen políticas, procedimientos y documentación para planificar, desarrollar, gestionar ejecutar y controlar los tiempos del proyecto
-c. ...un proceso de cálculo de los tiempos de cada actividad de gestión del proyecto
-
-
-?: ¿Cuáles de los siguientes son elementos culturales de una empresa? Seleccione una:
-a. Oficinas, despachos, recursos y centros de desarrollo
-b. Personas, recursos financieros y disponibilidad
-$c. Visiones compartidas, valores, creencias y expectativas
-
-
-?: Hablando de estimación de recursos para las actividades, ¿En qué consisten los Análisis alternativos? Seleccione una:
-a. Consiste en recalcular toda la estimación de recuros con otro métodos diferente del usado por primera vez
-b. Son métodos experimentales que están poco probados en la industria
-$c. Son habitualmente métodos ad-hoc de cualquier tipo que ayudan a la estimación
-
-?: Según el (PMBOK, 2013), el plan de gestión del cronograma puede establecer...
-a. ...el criterio de las horas de trabajo por jornada
-$b. ...el desarrollo de modelo de cronograma del proyecto
-c. ...el criterio del tiempo a utilizar en los procesos de desarrollo de software
-
-?: ¿Qué componentes tiene una EDT?
-$a. Objetivos del proyecto, Componentes, Productos, Entregables, Paquetes de trabajo y Actividades
-b. WBS, OBS, PBS y RBS
-c. ID, Título, Nombre, Precedentes y Sucesoras
-
-?: Hablando de estimación de recursos para las actividades, ¿En qué consiste la existencia de Datos de estimación publicados?
-$a. Consiste en actividades que, por experiencia previa, se tienen tabuladas y se puede calcular fácilmente los recusos que precisan aplicando dichas tablas
-b. Consiste en tener listas de precios para las actividades
-c. Consiste en publicar los precios de las actividades del proyecto para que el cliente sepa los costes a priori
-
-?: Para realizar la gestión del equipo de proyecto se parte de algunos elementos de entrada, ¿Cuál de los siguientes es uno de ellos? Seleccione una:
-a. Registro de interesados
-b. Las normas básicas
-$c. Evaluaciones del desempeño del equipo
-
-
-?: Las salidas de la gestión del equipo de proyecto consisten principalmente en actualizaciones de los documentos que sirven para la gestión de recursos humanos del proyecto. ¿Cuál de los siguientes elementos se actualiza? Seleccione una:
-$a. Evaluaciones del desempeño del equipo
-b. Las normas básicas
-c. Plan de riesgos
-
-
-?: ¿Dónde se cargan los costes de formación del equipo de proyecto? Seleccione una:
-a. Se cargan al cliente del proyecto
-$b. Son parte del presupuesto del proyecto o pueden ser asumidos por la propia empresa
-c. Son parte de la formación de personal y son asumidos por la empresa
-
-
-?: Un equipo tiene dedicación a tiempo completo cuando... Seleccione una:
-a. Alguno de los miembros del proyecto se dedican exclusivamente a un proyecto
-b. Todos los miembros del proyecto se dedican exclusivamente a un proyecto
-$c. Una parte importante o todos los miembros del proyecto se dedican exclusivamente a un proyecto
-
-
-?: ¿Cuáles son los principales procesos de la gestión de recursos humanos? Seleccione una:
-a. Organigramas, matrices de responsabilidad y formatos de texto
-$b. Plan de gestión de RRHH, selección, desarrollo y gestión del equipo de proyecto
-c. Preasignación, negociación, adquisición, equipos virtuales y análisis de decisión multicriterio
-
-
-?: Dentro de los ámbitos principales de aportación de RRHH al proyecto, ¿Qué es la transferencia de personas de otros departamentos? Seleccione una:
-a. Se produce cuando se hace reestructuración de puestos de trabajo y las personas se transfieren a otros departamentos
-b. Se produce cuando las personas cambian el perfil tecnológico con el que trabajan en el proyecto
-$c. Cuando el personal necesario se busca en otros departamentos o en otros proyectos
-
-
-?: ¿Cuál de los siguientes es uno de los productos del desarrollo del equipo de proyecto? Seleccione una:
-a. Plan de gestión de recursos humanos
-b. Asignaciones al equipo de proyecto
-$c. Las evaluaciones del desempeño del equipo
-
-
-?: ¿Qué es una matriz de responsabilidad? Seleccione una:
-a. Es un método de asignación de responsabilidades en un proyecto
-$b. Es una técnica para representar los recursos asignados a cada actividad en un proyecto
-c. Es una manera de representación jerárquica de la estructura de un proyecto
-
-
-?: ¿Quiénes componen el equipo de proyecto? Seleccione una:
-$a. El jefe de proyecto y todos aquellos que colaboran juntos para conseguir los objetivos del proyecto
-b. El jefe de proyecto y los jefes de equipo que colaboran juntos para conseguir los objetivos del proyecto
-c. El jefe de proyecto y los desarrolladores de software que colaboran juntos para conseguir los objetivos del proyecto
-
-
-?: Dentro de las técnicas para el desarrollo del equipo de proyecto, ¿En qué consiste la de "Herramientas de evaluación del personal"? Seleccione una:
-a. Son técnicas de autoevaluación para comprobar las carencias propias y seleccionar los cursos de formación adecuados
-$b. Estas técnicas dan al Jefe de proyecto una vista de las fortalezas y debilidades en ciertas áreas del equipo de proyecto
-c. Son herramientas que utiliza el jefe de proyecto para hacer la selección de miembros del equipo
-
-
-?: Dentro de las técnicas para el gestión del equipo de proyecto, ¿En qué consiste la de "Habilidades Interpersonales"? Seleccione una:
-a. Son técnicas de autoevaluación personal
-$b. Son técnicas para analizar las situaciones de conflicto e interactuar adecuadamente con los miembros del equipo
-c. Son técnicas de evaluación de terceros sobre las habilidades de cada miembro de equipo
-
-
-?: Dentro de las técnicas para el desarrollo del equipo de proyecto, ¿En qué consiste la de "Habilidades interpersonales"? Seleccione una:
-$a. Las habilidades interpersonales son competencias relacionadas con el entorno y ambiente de trabajo
-b. Son técnicas aplicadas a la selección de los miembros del equipo de proyecto
-c. Se refiere a competencias que debe tener el jefe de proyecto para negociar con el cliente
-
-
-?: Dentro del Plan de Recursos Humanos, ¿Qué son los calendarios de recursos? Seleccione una:
-a. Son calendarios de contratación de recursos necesarios para el proyecto
-$b. Son calendarios que identifican los días de trabajo en que cada recurso está disponible
-c. Son calendarios de asignación de trabajos a recursos
-
-
-?: ¿En qué consiste la técnica de "Negociación" para la selección de miembros del equipo? Seleccione una:
-a. Se deben negociar las condiciones de trabajo con los miembros del equipo antes de asignarlos a proyecto
-b. Se negocia con el cliente la ubicación de los miembros del equipo durante el proyecto
-$c. Las asignaciones de personal a proyecto se hacen en entornos complejos y se debe negociar con los gestores funcionales, otros jefes de proyecto, organizaciones externas, etc.
-
-
-?: ¿En qué consiste el aislamiento dentro de la dependencia de los miembros del equipo? Seleccione una:
-$a. Las actividades se descomponen en subunidades independientes y el control se basa únicamente en relaciones jerárquicas
-b. Las actividades son absolutamente independientes y el control no es necesario
-c. Las actividades se descomponen en subunidades y las relaciones entre los miembros del equipo no existen
-
-
-?: Dentro de las técnicas para el gestión del equipo de proyecto, ¿En qué consiste la de "Evaluaciones del desempeño del proyecto"? Seleccione una:
-$a. Tiene entre otros objetivos el descubrimiento de problemas desconocidos o no resueltos
-b. Es la evaluación de los conocimientos de cada miembros del equipo de proyecto
-c. En evaluar el estado de avance del proyecto en comparación con el Plan de proyecto realizado
-
-
-?: Algunos ejemplos de habilidades interpersonales son... Seleccione una:
-$a. Liderazgo, Influencia y Toma de decisiones eficiente
-b. La escasez de recursos, las prioridades de programación y los estilos personales de trabajo
-
-
-?: Para realizar el desarrollo del equipo de proyecto se parte de algunos elementos de entrada, ¿Cuál de los siguientes es uno de ellos? Seleccione una:
-a. Plan de riesgos
-$b. Plan de gestión de recursos humanos
-c. Las normas básicas
-
-
-?: Para realizar el desarrollo del equipo de proyecto se parte de algunos elementos de entrada, ¿Cuál de los siguientes es uno de ellos? Seleccione una:
-a. Registro de interesados
-$b. El calendario de recursos
-c. Las normas básicas
-
-
-?: ¿Cuáles de los siguientes son factores que se deben estudiar a la hora de crear un equipo de proyecto y que forman su perfil profesional y personal? Seleccione una:
-a. Conocimientos sobre gestión de proyectos y sobre estructura de equipos de proyecto
-b. Márketing y conocimientos de macroeconomía
-$c. Actitudes requeridas en el trabajo y relación con otros perfiles
-
-
-?: ¿De quién es la responsabilidad de mejorar las condiciones de trabajo del equipo? Seleccione una:
-a. Del cliente que debe proveer espacios adecuados para el desarrollo del proyecto
-b. De la empresa que tiene contratados a sus miembros
-$c. Del Jefe de Proyecto
-
-
-?: Cuando se diseña el Plan de gestión de recusos humanos precisaremos de algunos documentos de entrada, ¿Cuál de los siguientes es uno de ellos? Seleccione una:
-a. Selección de miembros del equipo
-$b. Plan de gestión de proyecto
-c. Plan de riesgos
-
-
-?: ¿En qué consiste el Desarrollo del equipo de proyecto? Seleccione una:
-a. Esta fase consiste en la selección de perfiles de entre los miembros del equipo que se deben potenciar en detrimento otros menos colaborativos que deben ser sustituidos
-b. Esta fase se da durante el desarrollo del proyecto y cosiste en el mantenimiento de los miembros del equipo, sustituyendo las bajas por nuevo personal o asignando nuevos perfiles si fuera necesario
-$c. Esta fase se corresponde con todas las actividades realizadas para mejorar las competencias del equipo, la interrelación y comunicación entre sus miembros y la mejora del entorno del equipo
-
-
-?: ¿En qué consiste la técnica de "Análisis de decisión multicriterio" para la selección de miembros del equipo? Seleccione una:
-$a. Consiste en utilizar un método de análisis que permita hacer la mejor selección de equipo en función de las características más deseadas en el proyecto
-b. Consiste en establecer una serie de criterios comunes imprescindibles para los miembros del equipo de trabajo
-c. Consiste en evaluar los criterios que afectan al proyecto antes de seleccionar al equipo de trabajo
-
-
-?: Dentro de los ámbitos principales de aportación de RRHH al proyecto, ¿Qué es la asignación temporal? Seleccione una:
-a. Personas que trabajan en el proyecto a tiempo parcial
-b. Cuando el miembro del equipo se asigna por horas de trabajo al proyecto
-$c. Personas que se incorporan de la misma unidad organizativa para la ejecución de ese proyecto, pero que al finalizar este continúan a disposición del Jefe de la Unidad
-
-
-?: Hay cinco técnicas generales para resolver conflictos, ¿Cuáles? Seleccione una:
-$a. Evitación, Aceptación, Reconciliación, Acción directa y Colaboración
-b. La clarificación de roles, La retroalimentación constructiva, El descubrimiento de problemas, El desarrollo de planes de formación y El establecimiento de metas
-c. Liderazgo, Influencia, Toma de decisiones eficiente, Prioridades de programación y Estilos personales de trabajo
-
-
-?: ¿Cuáles son los estados por los que pasa el desarrollo de un equipo de proyecto de acuerdo a la escalera de Tuckman? Seleccione una:
-a. Preasignación, negociación, adquisición y análisis de decisión
-$b. Formación, lucha, normalización, desarrollo y terminación
-c. Disponibilidad, experiencia, capacidad, actitud y habilidades
-
-
-?: ¿Qué responsabilidades representan las matrices RACI? Seleccione una:
-a. Revisor, Aprobador, Consultor e Informador
-b. Cualquier tipo de responsabilidad entre el equipo de proyecto
-$c. Responsable, Aprobador, Consultor e Informar
-
-
-?: En los entornos globales, ¿Qué debe potenciar el jefe de proyecto con relación al desarrollo del equipo de proyecto? Seleccione una:
-a. Debe potenciar el estudio de idiomas por parte de los miembros del equipo de proyecto para que puedan comunciarse
-b. Debe potenciar el estudio profundo de las culturas de los diferentes miembros del equipo para que ningún miembro de sienta desplazado
-$c. Debe incrementar la interrelación y las comunicaciones entre los miembros del equipo para mejorar la mutua confianza
-
-
-?: ¿En qué consiste la técnica de "Preasignación" para la selección de miembros del equipo? Seleccione una:
-$a. Se asignan personas por adelantado a un proyecto atendiendo los requisitos de su perfil tecnológico o competencia profesional
-b. El jefe de proyecto asigna los miembros sin intervención de otros jefes de proyecto
-c. El miembro del equipo es estable de otros proyecto anteriores y no hace falta asignar nuevos miembros
-
-
-?: Para realizar la selección del equipo de proyecto se parte de algunos elementos de entrada, ¿Cuál de los siguientes es uno de ellos? Seleccione una:
-$a. Factores ambientales de la empresa
-b. Calendario de recursos
-c. Asignaciones al equipo de proyecto
-
-
-?: ¿Cuáles de los siguientes son aspectos generales que se deben gestionar cuando se dirige un proyecto? Seleccione una:
-$a. Ser capaz de influir en el equipo de proyecto y cuidar del comportamiento ético y profesional
-b. Tener autoridad para solventar disputas y tener caracter comercial
-c. Tener autoridad para imponer criterios y apoyo para poder tomar decisiones duras (como despidos, sanciones, etc.)
-
-
-?: Dentro de los ámbitos principales de aportación de RRHH al proyecto, ¿Qué es la asignación permanente? Seleccione una:
-a. Se trata de personas que tiene una situación de trabajo estable en la empresa que desarrolla el proyecto
-b. Se trata de personas que se asignan al proyecto a tiempo completo
-$c. Se trata de personas con unos conocimientos específicos sobre un tema
-
-
-?: ¿De qué elemento formal forma parte la formación del equipo de proyecto? Seleccione una:
-$a. OBS
-b. WBS
-c. PBS
-
-
-?: Dentro de las técnicas para el desarrollo del equipo de proyecto, ¿En qué consiste la de "Actividades de mejora de trabajo en equipo"? Seleccione una:
-$a. Son actividades orientadas a que mejoren todos los aspectos del equipo que lo hacen ser más eficiente
-b. Son actividades de la selección del equipo de proyecto que consisten en la búsqueda del equipo más eficiente
-c. Son actividades basadas en cursillos técnicos sobre aspectos tecnológicos necesarios para el proyecto
-
-
-?: ¿Quiénes son los socios comerciales del proyecto (Business partners)? Seleccione una:
-$a. Son empresas externas que tienen relación con el desarrollador del proyecto y que aportan algún tipo de experiencia particular
-b. Son empresas externas que participan en el proyecto para poder comercializar los resultados
-c. Son empresas externas que financian el proyecto con intereses comerciales
-
-
-?: ¿Qué objetivo puede tener la "Inteligencia emocional" para el desarrollo del equipo de proyecto? Seleccione una:
-a. Tiene por objetivo eliminas las emociones para hacer un equipo más eficiente
-$b. Sirve para reducir la tensión e incrementar la cooperación
-c. Tiene el objetivo de mejorar la inteligencia de los miembros para motivarlos emocionalmente
-
-
-?: Uno de los principales problemas a los que se enfrenta el Jefe de proyecto a la hora de seleccionar su equipo es... Seleccione una:
-$a. ...la disponibilidad (just-in-time) de las personas necesarias
-b. ...la disponibilidad de tiempo de las personas asignadas al proyecto
-c. ...el perfil tecnológico de las personas asignadas al proyecto
-
-
-?: Dentro de las técnicas para el gestión del equipo de proyecto, ¿En qué consiste la de "Observación y Conversación"? Seleccione una:
-$a. Es una de las técnicas principales para obtener una retroalimentación de lo que está ocurriendo y adelantarse a los problemas
-b. Es una técnica basada en la observación de las variables del entorno y la discusión de dichas variables para buscar la mejor solución a los problemas
-c. Es una técnica que consiste en poner algunas personas entre los miembros del equipo que observan el trabajos de los demás y los ayudan en caso de problemas
-
-
-?: ¿Cuál es el perfil básico del Jefe de Proyecto? Seleccione una:
-$a. Es la persona que se responsabiliza de que el proyecto se desarrolle dentro de los recursos
-b. Es la persona que tiene el perfil tecnológico más alto en el proyecto
-c. Es la persona que decide los criterios tecnológicos del proyecto
-
-
-?: Dentro de las técnicas para el desarrollo del equipo de proyecto, ¿En qué consiste la de "Reglas básicas"? Seleccione una:
-a. Son técnicas para definir los elementos tecnológicos en que puede partirse el proyecto hasta conseguir módulos básicos
-b. Son decisiones técnicas sobre las unidades de medida a utilizar para las estimaciones del proyecto
-$c. Facilitan a los miembros del equipo tener claro cuál es comportamiento aceptable entre los miembros del equipo
-
-
-?: Dentro de las técnicas para el desarrollo del equipo de proyecto, ¿En qué consiste la de "Formación"? Seleccione una:
-a. La formación consiste en la elaboración de cursos para mejorar las habilidades de comunicación de los miembros del equipo
-b. La formación es una técnica de gestión del equipo de proyecto
-$c. La formación incluye todas las actividades destinadas a mejorar las competencias técnicas de los miembros del equipo
-
-
-?: ¿En qué consiste la cooperación dentro de la dependencia de los miembros del equipo? Seleccione una:
-a. Se basa en hacer equipos muy pequeños altamente cohesionados para que cooperen
-b. Es un modelo de gestión de equipos de proyecto basado en un jefe de proyecto con gran autoridad que obliga a los miembros del equipo a coordinarse
-$c. Se basa en el equilibrio entre la colaboración necesaria entre los grupos y las personas que colaboran en un proyecto y la independencia de los grupos para hacer su trabajo
-
-
-?: Dentro de los ámbitos principales de aportación de RRHH al proyecto, ¿Qué es el reclutamiento de nuevas personas? Seleccione una:
-$a. Se produce cuando se necesitan personas con conocimientos no disponibles en los perfiles de que se dispone en el proyecto
-b. Se produce cuando se asignan personas de otros departamentos
-c. Se produce cuando se seleccionan personas por los departamentos de recursos humanos
-
-
-?: ¿Cuáles de los siguientes son objetivos destacables del desarrollo del equipo de proyecto? Seleccione una:
-a. Mejorar la calidad final del producto mediante técnicas de desinformación que mantengan a los miembros del equipo alerta a los cambios
-b. Hacer del equipo un sistema cohesivo eliminando las disensiones mediante la eliminación de los miembros conflictivos
-$c. Mejorar el conocimiento y las habilidades de los miembros, mejorar el clima de confianza y crear una cultura de equipo dinámica, cohesiva y colaborativa
-
-
-?: Dentro de las técnicas para la gestión del equipo de proyecto, ¿En qué consiste la de "Resolución de conflictos"? Seleccione una:
-$a. Busca mayor productividad y unas relaciones de trabajo más positivas y productivas
-b. Es un compromiso entre todos los miembros del proyecto para que no haya conflictos
-c. Es el proceso realizado por el jefe de proyecto para imponer su criterio sin no hay acuerdos
-
-
-?: Dentro de los ámbitos principales de aportación de RRHH al proyecto, ¿Qué son los consultores? Seleccione una:
-$a. Los consultores son personas externas a la organización que poseen conocimientos muy específicos de los que no se dispone internamente
-b. Los consultores son personas externas a la organización que poseen conocimientos muy específicos sobre tecnología
-c. Los consultores son personas externas a la organización que poseen conocimientos muy específicos sobre gestión de proyectos
-
-
-?: ¿Qué factores influyen en la decisión de conflictos por parte del jefe de proyecto? Seleccione una:
-a. La escasez de recursos, las Prioridades de programación y los Estilos personales de trabajo
-b. Evitación, Aceptación, Reconciliación, Acción directa y Colaboración
-$c. La importancia e intensidad, la presión, las posturas y la prisa
-
-
-?: Un equipo tiene dedicación a tiempo parcial cuando... Seleccione una:
-a. Los proyectos se desarrollan por personas que dedican parte del tiempo al desarrollo y parte a la gestión del proyecto
-b. Los proyectos se desarrollan por personas que desarrollan el proyecto desde empresas externas
-$c. Los proyectos se desarrollan por personas que, además de dedicar tiempo al proyecto, también lo dedican a sus actividades habituales o a otros proyectos
-
-
-?: ¿Cuál de las siguientes NO es una técnica para la selección de miembros del equipo? Seleccione una:
-a. Análisis de decisión multicriterio
-b. Preasignación
-$c. Actividades de mejora de trabajo en equipo
-
-
-?: ¿En qué consiste la técnica de "Adquisición" para la selección de miembros del equipo? Seleccione una:
-a. El equipo de proyecto se adquiere de otros proyecto anteriores por su efectividad
-$b. Los perfiles buscados no se encuentran entre los recursos disponibles y entonces es necesario buscarlos en el mercado
-c. El jefe de proyecto debe negociar con otros jefes de proyecto la adquisición de miembros para su equipo
-
-
-?: ¿Cuál de las siguientes es una desventaja de la cooperación dentro de la dependencia de los miembros del equipo? Seleccione una:
-$a. Es complicado de poner en práctica en proyectos pequeños y con pocas personas trabajando
-b. Si el jefe de proyecto tiene demasiada autoridad se anulan lo miembros del equipo y este no es muy productivo
-c. Si los miembros tiene malas relaciones, la cooperación es imposible
-
-
-?: ¿Cuáles de los siguientes son productos del plan de gestión de recursos humanos? Seleccione una:
-a. El WBS
-b. Plan de gestión de riesgos
-$c. Lista de roles y responsabilidades
-
-
-?: ¿En qué consiste la técnica de "Equipos virtuales" para la selección de miembros del equipo? Seleccione una:
-$a. Consiste en la creación de equipos virtuales, geográficamente distribuidos, que no realizan reuniones presenciales.
-b. Son equipos formados usando herramientas virtuales de selección como las redes sociales o los portales de empleo
-c. Son equipos que trabajan virtualmente en varios proyectos y por tanto no tienen asignación directa a ninguno
-
-
-?: ¿Cuál de las siguientes es una desventaja del aislamiento dentro de la dependencia de los miembros del equipo? Seleccione una:
-a. Si las interfaces entre los componentes cambian, los tiempos de comunicación de estos cambios pueden ser largos y provocar sobrecostes.
-
-
-?: ¿Qué procesos incluye la gestión de recursos humanos del proyecto? Seleccione una:
-$a. Aquellos que organizan, gestionan, dirigen el equipo de proyecto
-b. Incluye los procesos de preasignación, negociación y adquisición, entre otros
-c. Los que se refieren al descubrimiento de problemas desconocidos o no resueltos
-
-
-?: ¿En qué consiste la independencia dentro de la dependencia de los miembros del equipo? Seleccione una:
-$a. Las actividades se hacen muy dependientes y requieren de muchos tiempos cortos de planificación.
-
-
-?: ¿Qué maneras existen de documentar el equipo de proyecto y sus roles y responsabilidades? Selecciona una:
-$a. Organigramas y descripciones de puestos de trabajo, reuniones, etc.
-b. WBS, OBS, PBS y Red Lógica
-c. Documentación en papel o documentación digital
-
-
-?: ¿Cuál de las siguientes es una desventaja de la interdependencia dentro de la dependencia de los miembros del equipo? Seleccione una:
-a. Las jornadas de trabajo se alargan para poder albergar las reuniones de coordinación
-$b. Si los proyectos son muy grandes la coordinación de las decisiones pueden ser complejas
-c. Los miembros del equipo deben tener una relación personal fuerte y eso es difícil de conseguir
-
-?: Dentro de las técnicas para el desarrollo del equipo de proyecto, ¿En qué consiste la de "Reconocimientos y recompensas"?
-$a. Son una manera de motivar los comportamientos deseados y de implicar a las personas en el buen desarrollo del proyecto
-b. Son una forma de premiar al jefe de proyecto cuando los resultados obtenidos del proyecto son positivos
-c. Son una manera de conseguir que los miembros del equipo identifiquen los fallos de otros miembros y los comuniquen a los responsables
-
-?: Para realizar la selección del equipo de proyecto se parte de algunos elementos de entrada, ¿Cuál de los siguientes es uno de ellos?
-a. Plan de riesgos
-$b. Plan de gestión de recursos humanos
-c. Registro de interesados
-
-?: ¿Cuáles son los ámbitos de dependencia de los miembros del equipo?
-$a. Aislamiento, interdependencia y cooperación
-b. Dependencia a tiempo parcial y a tiempo completo
-c. Dependencia del jefe de proyecto o responsable funcional
-
-?: ¿Cuál de las siguientes es una técnica informal que ayuda en la elaboración del Plan de Gestión de Recursos Humanos del proyecto (PGRH)?
-a. La dedicación a tiempo completo
-$b. Las redes de contactos
-c. La dedicación a tiempo parcial
-
-?: ¿En qué consiste la interdependencia dentro de la dependencia de los miembros del equipo?
-$a. Las actividades se hacen muy dependientes y requieren de muchos tiempos cortos de planificación
-b. Durante el diseño se han establecido un nivel muy alto de acoplamiento y las decisiones son complejas
-c. Si el equipo es interdependiente, las decisiones llevan mucho tiempo y al proyecto le cuesta avanzar
-
-?: ¿Qué es un organigrama?
-a. Es un modo de representación basado en una Matriz de Asignación de Responsabilidades
-$b. Es la manera tradicional de representar la estructura de un equipo de proyecto
-c. Es un diagrama que representa el flujo de datos de un proyecto
-
-?: ¿Cuáles de las siguientes son técnicas que se usan para mejorar el desarrollo del equipo de proyecto?
-a. Observación y conversación, evaluaciones del desempeño del proyecto y resolución de conflictos
-b. Preasignación, negociación, adquisición equipos virtuales y análisis de decisión multicriterio
-$c. Habilidades interpersonales, formación, actividades de mejora de trabajo en equipo, reglas básicas y colocación
-
-?: ¿Qué papel juegan las reuniones como técnicas de soporte a la creación del Plan de Gestión de Recursos Humanos del proyecto (PGRH)?
-a. Son técnicas para la información de los resultados del PGRH
-b. Son técnicas auxiliares de negociación
-$c. Son técnicas usadas para coordinar las acciones durante la ejecución del proyecto y concretamente durante la elaboración de PGRH
-
-?: Dentro del Plan de Recursos Humanos, ¿en qué consiste el concepto de autoridad?
-a. Es el derecho a parar el proyecto si no se obtienen buenos resultados ejercido por la empresa desarrolladora
-b. Es el derecho a poder cambiar los objetivos del proyecto ejercido por los clientes
-$c. Es el derecho a asignar recursos, tomar decisiones, aprobar, aceptar entregables y ejercer influencia sobre otros para dirigir el proyecto
-
-?: Dentro de las técnicas para el desarrollo del equipo de proyecto, ¿En qué consiste la de "Colocación"?
-$a. Son técnicas para la preparación de los entornos de trabajo, la disponibilidad de medios o incluso la disposición de los miembros
-b. Son técnicas de la selección del equipo de proyecto destinadas a definir la estructura que debe tener dicho equipo
-
-?: ¿Cuál es la autoridad del Jefe de Proyecto en el proyecto?
-a. Es un miembro más del equipo cuya responsabilidad técnica le otorga algún privilegio
-$b. Varía en función del tipo de empresa y del proyecto
-c. Tiene la responsabilidad y autoridad máxima en el proyecto
-
-?: Son técnicas de evaluación de terceros sobre las habilidades de cada miembro de equipo
-$a. Las habilidades interpersonales son competencias relacionadas con el entorno y ambiente de trabajo
-b. Son técnicas aplicadas a la selección de los miembros del equipo de proyecto
-c. Se refiere a competencias que debe tener el jefe de proyecto para negociar con el cliente
-
-?: ¿Cuáles de las siguientes son técnicas de la Gestión del equipo de proyecto?
-$a. Observación y Conversación, Evaluaciones del desempeño del proyecto y Resolución de conflictos
-b. Formación, Actividades de mejora de trabajo en equipo y Herramientas de evaluación del personal
-
-?: ¿Qué ámbitos principales de aportación de RRHH al proyecto existen?
-a. Contratación y personal propio
-b. Ámbito académico, ámbito profesional, ámbito investigador y profesionales no cualificados
-$c. Asignación permanente, asignación temporal, reclutamiento de nuevas personas, transferencia de personas de otros departamentos, consultores y subcontratadas
-
-?: ¿Cuál de las siguientes son herramientas de evaluación del personal?
-$a. Encuestas de actitud, evaluaciones específicas y entrevistas estructuradas
-b. Capacidad de liderazgo, reuniones de coordinación y formación continua
-c.La observación, la escucha y la decisión
-
-?: Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿En qué consiste el Análisis de reservas?
-a. Analiza si las reservas siguen estando disponibles para el proyecto
-b. Evalúa todas las reservas necesarias para corregir los riesgos identificados en el proyecto
-$c. Permite monitorizar el estado de las reservas de gestión y de contingencia del proyecto para determinar si las reservas son aún necesarias o si hacen falta reservas adicionales
-
-?: Dentro de las técnicas del Plan de gestión de costes, ¿En qué consisten las Reuniones?
-$a. Son reuniones de planificación para desarrollar el plan de gestión de costes
-b. Son la comidas de trabajo, comentarios individuales, etc.
-c. Son reuniones informales para clarificar ideas antes de tomar decisiones
-
-?: ¿En qué consiste la estimación de costes del proyecto?
-$a. Es el proceso de desarrollar una aproximación de los recursos monetarios necesarios para completar las actividades del proyecto
-b. Consiste en estimar las tareas de desarrollo de software y calcular sus costes
-c. Es el proceso de agregación de los costes estimados de las actividades individuales o los paquetes de trabajo para establecer una línea base
-
-?: Hablando de las técnicas para la elaboración del presupuesto, ¿En qué consiste el Análisis de reservas?
-a. En calcular los costes de las reservas para corregir los efectos de los riesgos
-$b. En agregar al proyecto las reservas para contingencias y para la gestión del proyecto
-c. En establecer las políticas para la gestión de las reservas del proyecto
-
-?: Durante la ejecución del proyecto ¿qué son los gastos?
-a. Son las formas en que se van ejecutando las reservas cuando se superan las previsiones
-$b. Es la manera en que se van ejecutando los costes asociados a las diferentes actividades del proyecto
-c. Son los costes no previstos para el proyecto
-
-?: Con respecto a la técnica de Predicción dentro del Control de Costes, ¿Cómo se calcula el EAC considerando el valor actual del índice de rendimiento de costes?
-a. EAC = AC + (BAC – EV)
-$b. EAC = BAC / CPI
-c. EAC = AC + [(BAC – EV) / (CPI × SPI)]
-
-?: Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿En qué consiste la Evaluación del desempeño?
-$a. Esta técnica compara el coste del desempeño en el tiempo, las actividades del cronograma con sobrecostes o con superávits y la estimación de financiación para completar el trabajo
-b. Esta técnica evalúa las actividades con sobrecostes y las que han tenido superávits para aplicar las metodologías más eficientes a las primeras
-c. Esta técnica evalúa las actividades realizadas por cada miembro del equipo de trabajo para evaluar la eficiencia individual
-
-?: ¿Qué es la Línea Base de Coste?
-a. Es el valor de coste que no se debe superar
-$b. Es la estimación de cómo se realizarán los gastos a lo largo del proyecto
-c. Es el valor mínimo de coste del proyecto
-
-?: Con respecto a las salidas del Plan de Gestión de Costes, ¿En qué consisten las reglas de realización de mediciones?
-$a. Definir los puntos en el WBS en la que se realiza la medición, establecer las técnicas de medición del valor acumulado y establecer las metodologías de seguimiento
-b. Establecer las umbrales, la precisión y la exactitud
-c. En definir las reglas básicas de entendimiento con respecto a los miembros de equipo de proyecto
-
-?: Hablando de las técnicas para la elaboración del presupuesto, ¿En qué consiste el Juicio de expertos?
-a. Ayudan a eliminar del presupuesto reservas innecesarias
-$b. Ayudan a establecer otros costes asociados a otras unidades dentro de la organización
-c. Ayudan a ajustar el coste a otros proyectos similares
-
-?: Dentro de las técnicas usadas para la estimación de costes, ¿Qué es el Análisis de Reserva?
-a. Es una cantidad resultado de un análisis usando métodos cuantitativos
-$b. Es la estimación de costes realizada para contingencias derivadas de riesgos
-c. Es un porcentaje del coste estimado para la actividad o para proyecto
-
-?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste el Juicio de Expertos?
-a. Se basa en información histórica tabulada por expertos
-b. Se basa en aplicar técnicas Delphi usando expertos
-$c. Se basa en la opinión de expertos, basada en información histórica, para producir estimaciones
-
-?: Con respecto a las salidas del Plan de Gestión de Costes, ¿En qué consiste el nivel de precisión?
-a. Es la precisión con que se pueden estimar los conceptos más ambiguos de un presupuesto
-$b. Es el grado de precisión con el que se puede redondear un valor al estimar una actividad concreta
-c. Es el número de decimales con que se deben redondear todas las partidas del presupuesto
-
-?: En el contexto del Plan general de costes, hablando de técnicas analíticas para la elección de las estrategias de financiación del proyecto, ¿En qué consiste la Financiación con deuda (funding with debt)?
-a. Se buscan socios financieros que harán la inversión en el proyecto a cambio de obtener participación en los beneficios
-$b. Se solicitarán préstamos a bancos
-c. El proyecto será financiado la propia empresa
-
-?: Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿En qué consiste la utilización de aplicaciones de gestión de proyectos?
-a. Consiste en el uso de aplicaciones durante el desarrollo del proyecto
-b. Consiste en el uso de aplicaciones de contabilidad durante el desarrollo de proyectos
-$c. Consiste en el uso de aplicaciones de gestión de proyectos que permitan monitorizar las tres dimensiones del EVM (PV, EV y AC)
-
-?: ¿Cuáles de las siguientes son técnicas utilizadas habitualmente para la estimación de costes?
-a. Juicio de expertos, Conciliación del límite de financiación, Adquisición y Análisis de decisión multicriterio
-b. Juicio de expertos, Técnicas analíticas, Agregación de costes, Relaciones históricas y Reuniones
-$c. Juicio de Expertos, Estimación por analogía, Estimación paramétrica, Estimación de tres puntos, Análisis de reserva y Coste de la calidad
-
-?: Hablando de las técnicas para la elaboración del presupuesto, ¿En qué consiste la Agregación de costes?
-a. Se van agregando a las actividades los costes estructurales para saber el coste real
-$b. Se van agregando actividades de más bajo nivel en las que están más altas en el WBS hasta llegar a nivel del proyecto completo
-c. Se van agregando las diferentes reservas para prever los costes de los riesgos
-
-?: En el contexto del Plan general de costes, hablando de técnicas financieras a usar para decidir la viabilidad del proyecto, ¿En qué consiste la Tasa interna de rentabilidad?
-a. Es una razón financiera que compara el beneficio o la utilidad obtenida de un proyecto en relación a la inversión realizada
-$b. Mide la rentabilidad de los cobros y los pagos actualizados, generados por una inversión, en porcentaje a la inversión realizada
-c. La cantidad de tiempo necesaria para recuperar el coste de una inversión
-
-?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste la Estimación paramétrica?
-a. Se basa en la estimación del coste por analogía con otros elementos de similar tamaño o complejidad
-$b. Se basa en la estimación paramétrica a partir de información estadística entre datos históricos relevantes y otras variables
-c. Se basa en la opinión de expertos, basada en información histórica, para producir estimaciones
-
-?: Hablando de las técnicas para la elaboración del presupuesto, ¿En qué consiste la Conciliación del límite de financiación?
-a. En que el coste del proyecto debe ser, finalmente, conciliado con el coste de otros proyectos similares
-$b. En que el coste del proyecto debe ser, finalmente, conciliado con el gasto previsto para el proyecto
-c. En que el coste del proyecto debe ser, finalmente, conciliado con el presupuesto del proyecto
-
-?: Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿En qué consiste la Predicción?
-a. Es una actividad prevista para corregir los costes del proyecto en caso de que no se puedan evitar los riesgos
-$b. En el desarrollo de pronósticos para la estimación a la conclusión en base a la información actual
-c. Es una actividad que debe existir en todo proyecto para ver si se alcanza en el tiempo establecido, de manera que se anticipen los retrasos
-
-?: Durante la ejecución del proyecto ¿qué son los Requisitos de financiación?
-a. Es el valor de los créditos necesarios para el proyecto
-b. Es el coste que va generando el proyecto
-$c. Es la previsión de transferencia de fondos al proyecto
-
-?: En el contexto del Plan general de costes, hablando de técnicas financieras a usar para decidir la viabilidad del proyecto, ¿En qué consiste el Periodo de recuperación?
-$a. La cantidad de tiempo necesaria para recuperar el coste de una inversión
-b. Mide la rentabilidad de los cobros y los pagos actualizados, generados por una inversión, en porcentaje a la inversión realizada
-c. Es una razón financiera que compara el beneficio o la utilidad obtenida de un proyecto en relación a la inversión realizada
-
-?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es el Índice de rendimiento del cronograma (SPI)?
-$a. Es una medida de la eficiencia del cronograma realizado en un plazo con respecto al valor planeado. SPI=EV/PV
-b. Es una medida de la eficiencia del coste en un plazo con respecto al valor planeado. SPI=AC/PV
-c. Es una medida de la eficiencia del coste del trabajo desarrollado con respecto al coste en un plazo. SPI=EV/AC
-
-?: En el contexto del Plan general de costes, hablando de técnicas financieras a usar para decidir la viabilidad del proyecto, ¿En qué consiste el Flujo de caja descontado?
-a. Es un procedimiento que permite calcular el valor presente de un determinado número de flujos de caja futuros, originados por una inversión
-$b. Es una manera de evaluar las inversiones en función de sus ingresos futuros
-c. Es una razón financiera que compara el beneficio o la utilidad obtenida de un proyecto en relación a la inversión realizada
-
-?: ¿Qué procesos incluye la Gestión de Costes del proyecto?
-a. Los relacionados con la creación de una línea base de desarrollo del proyecto
-b. El análisis, la financiación y la gestión de coste-calidad
-$c. La planificación, estimación, presupuesto, financiación, gestión y control de los costes
-
-?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste la Estimación de tres puntos?
-a. Se basa en el cálculo de tres valores (optimista, medio y pesimista)
-$b. Se basa en el cálculo de tres valores (optimista, medio y pesimista) que se evalúa de acuerdo a métodos estadísticos
-c. Se basa en el cálculo de tres valores (optimista, medio y pesimista)
-
-?: Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿En qué consiste el Índice de rendimiento a completar?
-$a. Es una medida de la ejecución requerida de los costes para lograr, con los recursos restantes, cumplir con una meta de gestión específica
-b. Es una técnica consistente en el desarrollo de pronósticos para el estimación a la conclusión en base a la información actual
-c. Es una técnica de cálculo del rendimiento de las tareas realizadas hasta el momento en términos de coste/beneficio
-
-?: ¿Pueden expresarse los costes en horas?
-a. No, los costes se miden en unidades monetarias
-$b. Sí, para evitar las fluctuaciones monetarias en el futuro
-c. No, sólo pueden medirse en unidades monetarias y porcentajes de beneficio
-
-?: ¿Cuál de los siguientes es una lista de elementos del Plan de gestión de costes?
-a. Definición de la jornada laboral, costes de las dietas y costes por kilómetro
-$b. Unidades de medida, Nivel de redondeos, y Nivel de precisión
-c. Costes de hora, Definición de riesgos y Requisitos de financiación
-
-?: Hablando de las técnicas analíticas para la elaboración del Plan de gestión de costes, ¿Qué estrategias de financiación principales se definen?
-a. Periodo de recuperación, Retorno de la inversión (ROI), Tasa interna de rentabilidad, Flujo de caja descontado y Valor presente neto (NPV)
-$b. Autofinanciación, Financiación de socios y Financiación con deuda
-c. Crear con medios propios, Comprar, Alquilar y Leasing
-
-?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste el uso de aplicaciones para gestión de proyectos?
-a. En utilizar herramientas de simulación de proyecto para adelantarse a los problemas
-$b. En utilizar herramientas que ayuden en la estimación de algunas actividades del proyecto
-c. En utilizar herramientas estadísticas que ofrezcan información sobre el proyecto
-
-?: ¿Qué describe el Plan de gestión de costes del proyecto?
-a. Permite la actualización de costes del proyecto en ejecución
-b. Describe los costes de cada actividad del proyecto
-$c. Describe cómo se planificarán, controlarán y estructurarán los costes del proyecto
-
-?: Con respecto a la técnicas de Control de Costes, ¿Qué es el To-Complete Performance Index (TCPI)?
-a. Es una proporción entre el trabajo que queda por realizar y el dinero presupuestado para realizarlo
-b. Es una proporción entre el trabajo que queda por realizar y el dinero necesario para realizarlo
-$c. Es una proporción entre el trabajo que queda por realizar y el dinero que queda para realizar el trabajo
-
-?: ¿Cuál es uno de los productos más importantes de la estimación de costes?
-$a. La estimación de costes desglosada o agrupada
-b. El presupuesto de adquisiciones
-c. El presupuesto de cliente
-
-?: Dentro de las técnicas del Plan de gestión de costes, ¿En qué consiste el Juicio de Expertos?
-$a. Consiste en la opinión de expertos que se basan en información histórica de otros proyectos similares
-b. Consiste en la opinión de expertos que se basan en la información de otros Planes de gestión de proyectos aunque no sean similares
-c. Consiste en la opinión de expertos cuando no existe información histórica de proyectos similares
-
-?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es la Variación del Coste (CV)?
-a. Es la medida de desviación de costes en un periodo con respecto al presupuesto planificado. CV=AC-PV
-$b. Es la medida de la desviación del trabajo realizado en un periodo con respecto al coste en dicho periodo. CV=EV-AC
-c. Es la medida de la desviación en la realización del cronograma con respecto al plan. CV=EV-PV
-
-?: ¿Qué es el Plan de gestión de costes?
-a. Es el proceso de evaluación de los costes de las actividades del proyecto
-b. Es el proceso que genera el presupuesto del proyecto
-$c. Es el proceso que establece las políticas, procedimientos y documentación para la planificación, la administración, los gastos y el control de costes del proyecto
-
-?: Con respecto a la técnica de Predicción dentro del Control de Costes, ¿Cómo se calcula el EAC considerando el ratio de presupuesto?
-a. EAC = BAC / CPI
-b. EAC = AC + [(BAC – EV) / (CPI × SPI)]
-$c. EAC = AC + (BAC – EV)
-
-?: Con respecto a la técnica de Predicción dentro del Control de Costes, ¿Qué es el BAC?
-$a. Es la estimación del presupuesto final del proyecto, con los datos actuales
-b. Es la estimación para la terminación de las actividades del proyecto, con los datos actuales
-c. Es el beneficio de las actividades con coste, con los datos actuales
-
-?: Hablando de las técnicas analíticas para la elaboración del Plan de gestión de costes, ¿Qué maneras de financiar los recursos necesarios se definen?
-$a. Crear con medios propios, Comprar, Alquilar y Leasing
-b. Periodo de recuperación, Retorno de la inversión (ROI), Tasa interna de rentabilidad, Flujo de caja descontado y Valor presente neto (NPV)
-c. Autofinanciación, Financiación de socios y Financiación con deuda
-
-?: ¿En qué consiste la determinación del presupuesto?
-a. Determinar el Presupuesto es el proceso de evaluación de los costes estimados de las actividades para establecer una aproximación del coste del desarrollo de software
-b. Determinar el Presupuesto es el proceso de evaluación de los costes estimados de las actividades para establecer un documento de costes
-$c. Determinar el Presupuesto es el proceso de agregación de los costes estimados de las actividades para establecer una línea base
-
-?: Dentro de las técnicas del Plan de gestión de costes, ¿En qué consisten las Técnicas analíticas?
-a. En analizar los costes desde el punto de vista de la empresa que va a desarrollar el software
-b. Son técnicas relacionadas con la gestión del coste de los recursos humanos
-$c. Permiten elegir, entre otras, las estrategias de financiación, el modo de financiar los recursos necesarios y la viabilidad del proyecto
-
-?: Con respecto a las técnicas de Control de Costes, ¿Qué información se determina para la Evaluación del desempeño?
-a. Valor acumulado, Valor ganado y Rendimiento del valor ganado o acumulado
-$b. Análisis de la variación, Análisis de la tendencia y el Rendimiento del valor ganado o acumulado
-c. Valor planeado, Valor ganado o acumulado y Coste actual
-
-?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste el Análisis de Ofertas (Vendor Bid Analysis)?
-a. Se piden ofertas a proveedores para provocar bajadas de precios de desarrollo
-$b. Se solicitan ofertas a proveedores sobre algunas partes del desarrollo y se estudian
-c. Se piden ofertas a proveedores con experiencia y se estudian para ofertar lo mismo
-
-?: En el contexto del Plan general de costes, hablando de técnicas analíticas para la elección de las estrategias de financiación del proyecto, ¿En qué consiste la Autofinanciación?
-$a. El proyecto será financiado por la propia empresa
-b. El proyecto será financiado por el equipo de desarrollo
-c. Se buscan socios financieros que harán la inversión en el proyecto a cambio de obtener participación en los beneficios
-
-?: ¿Cuáles son las técnicas habituales para el Control de Costes del proyecto?
-a. Juicio de Expertos, Estimación por analogía, Estimación paramétrica, Estimación de tres puntos, Análisis de reserva y Coste de la calidad
-b. Agregación de costes, Análisis de reservas, Juicio de expertos, Relaciones históricas y Conciliación del límite de financiación
-$c. Gestión del Valor ganado o acumulado, Predicción, Índice de rendimiento a completar, Evaluación del desempeño, Aplicaciones de gestión de proyectos y Análisis de reservas
-
-?: Hablando de las técnicas analíticas para la elaboración del Plan de gestión de costes, ¿Qué técnicas financieras se pueden usar para decidir la viabilidad del proyecto?
-$a. Periodo de recuperación, Retorno de la inversión (ROI), Tasa interna de rentabilidad, Flujo de caja descontado y Valor presente neto (NPV)
-b. Autofinanciación, Financiación de socios y Financiación con deuda
-c. Crear con medios propios, Comprar, Alquilar y Leasing
-
-?: ¿En qué consiste el Control de Costes del proyecto?
-$a. Es el proceso de seguimiento de la situación del proyecto
-b. Es el proceso de control de gastos para que no superen los ingresos
-c. Es el proceso de abaratamiento de costes
-
-?: ¿Qué se obtiene de la elaboración del presupuesto?
-$a. El resultado final del presupuesto es un documento de los costes de los conceptos integrados en el proyecto
-b. El resultado final del presupuesto es un documento de proporción de costes/beneficios de los conceptos integrados en el proyecto
-c. El resultado final del presupuesto es un documento de los beneficios que suponen los conceptos integrados en el proyecto
-
-?: En el contexto del Plan general de costes, hablando de técnicas financieras a usar para decidir la viabilidad del proyecto, ¿En qué consiste el Retorno de la inversión?
-a. Mide la rentabilidad de los cobros y los pagos actualizados, generados por una inversión, en porcentaje a la inversión realizada
-b. La cantidad de tiempo necesaria para recuperar el coste de una inversión
-$c. Es una razón financiera que compara el beneficio o la utilidad obtenida de un proyecto en relación a la inversión realizada
-
-?: En el contexto del Plan general de costes, hablando de técnicas analíticas para la elección de las estrategias de financiación del proyecto, ¿En qué consiste la Financiación de socios (funding with equity)?
-$a. Se buscan socios financieros que harán la inversión en el proyecto a cambio de obtener participación en los beneficios
-b. El proyecto será financiado la propia empresa
-c. Se solicitarán préstamos a bancos
-
-?: Con respecto a la técnica de Predicción dentro del Control de Costes, ¿Qué es el EAC?
-a. Es la estimación del activo contable del proyecto, con los datos actuales
-b. Es la estimación de las actividades con coste, con los datos actuales
-$c. Es la estimación de la terminación de las actividades del proyecto, con los datos actuales
-
-?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste la Estimación por analogía?
-$a. Se basa en la estimación del coste por analogía con otros elementos de similar tamaño o complejidad
-b. Se basa en la estimación paramétrica a partir de información estadística entre datos históricos relevantes y otras variables
-c. Se basa en la opinión de expertos, basada en información histórica, para producir estimaciones
-
-?: Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste el Coste de la calidad?
-a. Consiste en definir un manual de calidad que permita realizar la tarea con la mayor calidad posible
-$b. Consiste en comparar el coste de hacer una actividad con calidad frente al coste hacerla sin calidad
-c. Consiste en estudiar el coste de la calidad para eliminar procedimientos de calidad muy caros
-
-?: Hablando de las técnicas para la elaboración del presupuesto, ¿En qué consisten las Relaciones históricas?
-a. Consiste en buscar relaciones con otros proyectos para ajustar las actividades comunes
-$b. Consiste en usar como base la información histórica de otros proyectos similares
-c. Consiste en usar las relaciones con expertos para buscar su consejo
-
-?: Con respecto a la técnica de Predicción dentro del Control de Costes, ¿Cómo se calcula el EAC considerando ambos, el ratio de presupuesto y el valor actual del índice de rendimiento de costes?
-a. EAC = BAC / CPI
-b. EAC = AC + (BAC – EV)
-$c. EAC = AC + [(BAC – EV) / (CPI × SPI)]
-
-?: ¿Cuáles son las técnicas más habituales usadas para la elaboración de distintos aspectos del Plan de gestión de costes?
-a. Juicio de expertos, Estimación por analogía, Estimación paramétrica, Estimación de tres puntos, Análisis de reserva, Coste de la calidad, Aplicaciones para gestión de proyectos, Análisis de Ofertas (Vendor Bid Analysis) y Técnicas de tomas de decisión en grupo
-b. Agregación de costes, Análisis de reservas, Juicio de expertos, Relaciones históricas y Conciliación del límite de financiación
-$c. Juicio de expertos, Técnicas analíticas y Reuniones
-
-?: En la técnica de Gestión del Valor ganado o acumulado usada para el Control de Costes del proyecto, ¿Qué dimensiones se monitorizan?
-$a. El valor planeado, el valor ganado y el coste actual
-b. La línea base de coste y el valor del desempeño
-c. Todas las dimensiones relacionadas con la estimación de costes del proyecto
-
-?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es el Coste actual (AC)?
-a. Es el valor del trabajo realizado en un periodo, expresado en unidades económicas
-b. Es el presupuesto autorizado en un periodo, asignado al cronograma del proyecto
-$c. Es el valor de los gastos realizados en un periodo, en el proyecto
-
-?: En el contexto del Plan general de costes, hablando de técnicas financieras a usar para decidir la viabilidad del proyecto, ¿En qué consiste el Valor presente neto (NPV)?
-a. Mide la rentabilidad de los cobros y los pagos actualizados, generados por una inversión, en porcentaje a la inversión realizada
-b. Es una manera de evaluar las inversiones en función de sus ingresos futuros
-$c. Es un procedimiento que permite calcular el valor presente de un determinado número de flujos de caja futuros, originados por una inversión
-
-?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es el valor acumulado o ganado (EV)?
-a. Es el valor de los gastos realizados en un periodo, en el proyecto
-$b. Es el valor del trabajo realizado en un periodo, expresado en unidades económicas
-c. Es el valor de los beneficios en un periodo, calculados con respecto al proyecto
-
-?: Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿En qué consiste la Gestión del Valor ganado o acumulado?
-a. Es una metodología que consiste en calcular permanentemente los beneficios que se van obteniendo del proyecto
-$b. Es una metodología que combina mediciones alcance, cronograma y recursos para evaluar el desempeño y el progreso del proyecto
-c. Es una metodología que busca obtener beneficios del proyecto, eliminando aquellas actividades no productivas
-
-?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es el Valor Planeado (PV)?
-a. Es el valor de los beneficios calculados con respecto al proyecto
-b. Es el coste de la planificación del proyecto
-$c. Es el presupuesto autorizado, asignado al cronograma del proyecto
-
-?: Con respecto a la técnica de Predicción dentro del Control de Costes, ¿Qué es el ETC?
-a. Es la estimación del presupuesto final del proyecto, con los datos actuales
-b. Es la estimación técnica de costes, con los datos actuales
-$c. Es la estimación para la terminación de las actividades del proyecto, con los datos actuales
-
-?: En la elaboración del presupuesto, ¿Cuáles son las técnicas más habituales?
-$a. Agregación de costes, Análisis de reservas, Juicio de expertos, Relaciones históricas y Conciliación del límite de financiación
-b. Juicio de expertos, Técnicas analíticas y Reuniones
-c. Estimación por analogía, Estimación paramétrica, Estimación de tres puntos y Análisis de reserva
-
-?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es el Índice de rendimiento de costes (CPI)?
-a. Es una medida de la eficiencia del cronograma realizado en un plazo con respecto al valor planeado. CPI=EV/PV
-$b. Es una medida de la eficiencia del coste del trabajo desarrollado con respecto al coste en un plazo. CPI=EV/AC
-c. Es una medida de la eficiencia del coste en un plazo con respecto al valor planeado. CPI=AC/PV
-
-?: Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es la Variación del cronograma (SV)?
-a. Es la medida de los que se ha desarrollado con respecto a los que ha costado en un periodo. SV=AC-EV
-$b. Es la medida de la desviación en la realización del cronograma con respecto al plan. SV=EV-PV
-c. Es la medida de la desviación de costes en un periodo con respecto al presupuesto planificado. SV=AC-PV
-
-?: Con respecto a las salidas del Plan de Gestión de Costes, ¿En qué consisten los Umbrales de Control (Control Thresholds)?
-a. Es la cantidad máxima de dinero en reservas que pueden establecerse para un proyecto concreto
-b. Es el umbral de precisión en la medición de una actividad que debe ser detallado anticipadamente
-$c. Es la cantidad de variación acordada que se le permite al coste de una actividad antes de deban tomarse ciertas acciones
-
 ?: ¿Cuál de las siguientes afirmaciones es cierta?
 a. La tabla de impactos debe ser simétrica en función de las amenazas y las oportunidades
 $b. Debe definirse una tabla de impactos para amenazas y otra para oportunidades
@@ -1991,7 +1007,7 @@ c. Una lista de riesgos que tienen un impacto mayor del 50%
 
 ?: ¿Cuál de las siguientes es cierta?
 a. La escala de valores de impacto suele ser lineal
-b. La escala de valores de probabilida suele ser logarítmica
+b. La escala de valores de probabilidad suele ser logarítmica
 $c. La escala de valores de impacto suele ser logarítmica
 
 ?: ¿En qué consiste la Monitorización de Riesgos?
@@ -2076,7 +1092,7 @@ c. Listas de riesgos importantes y listas de reserva
 
 ?: En el PMBOK se definen dos fases de análisis, ¿cuáles?
 a. Análisis proactivo y análisis reactivo
-$b. Análisis cualitativo y análisis cuentitativo
+$b. Análisis cualitativo y análisis cuantitativo
 c. Análisis de costes de riesgos y análisis de beneficios
 
 ?: Dentro de las técnicas usadas habitualmente en la Planificación de la gestión de cada riesgo, ¿En qué consiste el Análisis coste-beneficio?
@@ -2094,17 +1110,17 @@ $a. Es una combinación del momento en el que se sentirá su impacto y la duraci
 b. Es el periodo de tiempo en el que es posible mitigar el riesgo
 c. Es el tiempo transcurrido desde que se identifica hasta que ya no es importante
 
-?: En el contexto de las técnicas de Resolución de proyectos, ¿En es la Aproximación de desgin-to-cost?
-a. En definir escenarios y se valorar estos escenarios
+?: En el contexto de las técnicas de Resolución de proyectos, ¿En qué consiste la Aproximación de design-to-cost?
+a. En definir escenarios y valorar estos escenarios
 b. En replantearse el objetivo del proyecto para determinar si el asumir el riesgo es productivo frente a otras opciones
 $c. Es una técnica de valoración de un desarrollo o una innovación
 
 ?: Dentro de las técnicas de Identificación de riesgos, ¿En qué consiste el análisis basado en listas de control?
-a. En contestar a una serie de proeguntas sobre el valor del riesgo
+a. En contestar a una serie de preguntas sobre el valor del riesgo
 b. En definir listas de riesgos que posteriormente se revisan
 $c. En usar listas de riesgos o preguntas que proceden de experiencias anteriores
 
-?: ¿Qué mide la probabiliad de un riesgo?
+?: ¿Qué mide la probabilidad de un riesgo?
 $a. Es el valor numérico de la posibilidad de que el riesgo ocurra
 b. Es la tabla de valores de impactos sobre el riesgo
 c. Es un valor que identifica si el riesgo es muy peligroso para le proyecto
@@ -2117,17 +1133,12 @@ c. Planificación de la Gestión, Identificación, Análisis cualitativo, Análi
 ?: En el contexto de las técnicas de Resolución de proyectos, ¿En qué consisten las Simulaciones?
 a. En crear prototipos, de manera que pueda evaluarse su viabilidad en términos de coste y riesgo
 b. En hacer valoraciones de elementos relacionados con las fuentes de riesgo
-$c. En definir escenarios y se valoran estos escenarios
+$c. En definir escenarios y valorar estos escenarios
 
 ?: En el contexto de las técnicas de Resolución de proyectos, ¿En qué consiste las Encuestas?
 a. En replantearse el objetivo del proyecto para determinar si el asumir el riesgo es productivo frente a otras opciones
 b. En la valoración de un desarrollo o una innovación
 $c. En obtener información de interesados y determinar la viabilidad de ciertas actividades que son causa de riesgo
-
-?: ¿Cuáles son las estrategias generales para las oportunidades?
-a. Eliminación, Transferencia, Evitación y Retención
-b. Proactivas, reactivas y contingecnias
-$c.  Aprovechameinto, Mejora, Compartición y Aceptación
 
 ?: ¿Cuál de las siguientes es la definición de riesgo que mejor se adapta a lo que se expone en la asignatura?
 $a. Un riesgo es un evento o condición incierta que, si sucede, tiene un efecto positivo o negativo en por lo menos uno de los objetivos del proyecto, tales como el alcance, el cronograma, el coste y la calidad (PMBOK)
@@ -2140,7 +1151,7 @@ $b. La Ordenación por Probabilidad e Impacto, la Matriz de Probabilidad e Impac
 c. El Análisis de coste-beneficio, la Matriz de Probabilidad e Impacto y el Juicio de expertos
 
 ?: En el contexto de las técnicas de Resolución de proyectos, ¿En qué consisten los Benchmarks?
-a. En definir escenarios y se valoran estos escenarios
+a. En definir escenarios y valorar estos escenarios
 $b. En valoraciones de elementos relacionados con las fuentes de riesgo
 c. En crear prototipos, de manera que pueda evaluarse su viabilidad en términos de coste y riesgo
 
@@ -2171,13 +1182,13 @@ c. En comparar el estado de estas reservas con las previsiones realizadas para a
 
 ?: Dentro de las técnicas usadas en el Análisis de Riesgos, ¿Cómo se hace la Categorización de los riesgos?
 $a. Se hace de acuerdo a la definición de categorías realizada en la Planificación de la gestión de riesgos
-b. Se hace de acuerdo a la definición de categorías realizada en la Tabla de escalas de escalas de impacto
+b. Se hace de acuerdo a la definición de categorías realizada en la Tabla de escalas de impacto
 c. Se hace de acuerdo a la definición de categorías realizada en la Matriz de probabilidad e impacto
 
 ?: Dentro de las técnicas usadas en el Análisis de Riesgos, ¿Para qué es importante la Evaluación de la Urgencia de los Riesgos?
-$a. Para determinar el impacto total que tendrán los riesgos
+a. Para determinar el impacto total que tendrán los riesgos
 b. Para identificar los riesgos categorizados como temporales
-c. Para determinar las políticas de respuesta a esos riesgos
+$c. Para determinar las políticas de respuesta a esos riesgos
 
 ?: Entre otras, ¿Qué cosas se definen durante la planificación de la gestión de riesgos?
 $a. Metodología, Categorías de riesgo, Definiciones de probabilidad e impacto y Matriz de probabilidad e impacto
@@ -2200,7 +1211,7 @@ b. Análisis coste-beneficio y Análisis de la misión
 c. Análisis de la misión y Planes de Contingencia
 
 ?: ¿Qué es un Indicador de riesgo?
-$a. Es un medida de la evaluación de un factor de riesgo
+$a. Es una medida de la evaluación de un factor de riesgo
 b. Es un factor de riesgo individual
 c. Es un valor cuantificado del impacto del riesgo
 
@@ -2221,7 +1232,7 @@ c. Calculo del alcance, EVM (Earned Value Management) y Priorización
 
 ?: En el contexto de las técnicas de Resolución de proyectos, ¿En qué consiste el Análisis de la misión?
 $a. En replantearse el objetivo del proyecto para determinar si el asumir el riesgo es productivo frente a otras opciones
-b. En definir escenarios y se valoran estos escenarios
+b. En definir escenarios y valorar estos escenarios
 c. En crear prototipos, de manera que pueda evaluarse su viabilidad en términos de coste y riesgo
 
 ?: En función de las áreas que afectan, hay tres clases de riesgos, ¿Cuáles?
@@ -2296,8 +1307,8 @@ c. Es el periodo de tiempo en el que es posible mitigar el riesgo
 
 ?: Dentro de las técnicas de Identificación de riesgos y dentro de las técnicas de Recopilación de Información, ¿Qué elementos pueden usarse para dirigir el trabajo?
 a. La tabla de impactos
-b. La matris de probabilidad e impacto
-$c. El Risk Breakdows Structure
+b. La matriz de probabilidad e impacto
+$c. El Risk Breakdown Structure
 
 ?: Dentro de las técnicas de Priorización de los Riesgos, ¿En qué consiste el Juicio de expertos?
 $a. En solicitar la opinión de personas con experiencias en otros proyectos anteriores, sobre posibles riesgos en el proyecto
@@ -2311,7 +1322,7 @@ b. Las estrategias de priorización y la definición de objetivos de proyecto
 $c. La Planificación de la gestión de riesgos y el Análisis y Priorización
 
 ?: En el contexto de las técnicas de Monitorización de Riesgos, ¿En qué consisten las Auditorías de los Riesgos?
-$a. En examimar, ver y documentar la efectividad de las respuestas a los riesgos y la del propio proceso de gestión de riesgos
+$a. En examinar, ver y documentar la efectividad de las respuestas a los riesgos y la del propio proceso de gestión de riesgos
 b. En contratar auditorías externas del proyecto que deben incluir a las actividades de gestión de riesgos
 c. En realizar revisiones a través de una lista de comprobación del proceso realizar en la gestión de riesgos
 
@@ -2332,7 +1343,7 @@ c. En calcular la relación coste-beneficio de hacer una gestión de riesgos
 
 ?: ¿Cuáles son las técnicas habituales para la Resolución de Riesgos?
 a. Evaluación de la Probabilidad e Impacto de los riesgos, Categorización de Riesgos y Evaluación de la Urgencia de los Riesgos
-$b. Prototipos, Simulaciones, Benchmarks, Análisis de la misión, Encuestas, Aproximación de desgin-to-cost y Desarrollo incremental
+$b. Prototipos, Simulaciones, Benchmarks, Análisis de la misión, Encuestas, Aproximación de design-to-cost y Desarrollo incremental
 c. Categorización de Riesgos, Evaluación de la Urgencia de los Riesgos, Benchmarks, Análisis de la misión y Encuestas
 
 ?: En el contexto de las técnicas de Monitorización de Riesgos, ¿En qué consiste la Reevaluación de los Riesgos?
@@ -2354,6 +1365,16 @@ $c. Diagramas de influencias
 a. En evaluar simulaciones del proyecto para evaluar los costes asociados a partir de la experiencia de personas que hayan estado en proyectos similares anteriores
 $b. En buscar modelos de respuesta en la experiencia de personas que hayan estado en proyectos similares anteriores
 c. En identificar riesgos a partir de la experiencia de personas que hayan estado en proyectos similares anteriores
+
+?: En el contexto de las técnicas de Resolución de proyectos, ¿En qué consiste el Desarrollo incremental?
+a. Son técnicas para definir escenarios sobre los que se realizan valoraciones
+b. Son técnicas que permiten replantearse el objetivo del proyecto para determinar si el asumir el riesgo es productivo frente a otras opciones
+$c. Son técnicas de desarrollo que permiten limitar el alcance de muchos riesgos
+
+?: ¿En qué consiste la Resolución de Riesgos?
+$a. Consiste en determinar si los riesgos son eliminados o resueltos siguiendo los planes definidos en las fases anteriores de la Gestión de Riesgos
+b. Consiste en resolver los problemas ocasionados por los riesgos durante la fase de Desarrollo del proyecto
+c. Consiste en tratar los riesgos con políticas optimistas y resultas de manera que se tenga una actitud proactiva
 
 ?: ¿Cuál de las siguientes es una característica propia del nivel 5 de CMMI (no compartida con niveles inferiores)? Seleccione una:
 $a. Se establecen objetivos de mejora de procesos cuantitativos para la organización y se utilizan como criterios en la gestión de la mejora de procesos

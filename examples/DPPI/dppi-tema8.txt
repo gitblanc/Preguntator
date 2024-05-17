@@ -29,7 +29,7 @@ c. Sistemas de Gestión de Información, Juicio de expertos y Reuniones
 
 
 ?: La norma propone la elaboración de una serie de documentos, ¿Son todos obligatorios? Seleccione una:
-a. Si
+a. Sí
 b. No
 $c. No, pero hay que justificar los que no aparezcan
 
@@ -55,7 +55,7 @@ $c. Identificar la legislación, la normativa, las patentes y los derechos de au
 
 ?: En qué consiste la Gestión de las Comunicaciones? Seleccione una:
 $a. Gestionar las comunicaciones es el proceso de crear, recoger, distribuir, guardar y mantener la información del proyecto de acuerdo a la planificación de la gestión de las comunicaciones
-b. Gestionar las comunicaciones es el proceso de segimiento de la información del proyecto de acuerdo a la planificación de la gestión de las comunicaciones
+b. Gestionar las comunicaciones es el proceso de seguimiento de la información del proyecto de acuerdo a la planificación de la gestión de las comunicaciones
 c. Gestionar las comunicaciones es el proceso de definir los requisitos de la información del proyecto de acuerdo a la planificación de la gestión de las comunicaciones
 
 
@@ -77,7 +77,7 @@ $b. El Control de las Comunicaciones es el proceso de seguimiento y control de l
 c. Es el proceso de definir los requisitos de la información del proyecto de acuerdo a la planificación de la gestión de las comunicaciones
 
 
-?: ¿Cuales de las siguientes son técnicas para la planificación de la Gestión de las Comunicaciones? Seleccione una:
+?: ¿Cuáles de las siguientes son técnicas para la planificación de la Gestión de las Comunicaciones? Seleccione una:
 a. Las tecnologías de comunicación y los Sistemas de gestión de la información
 b. Los Sistemas de Gestión de Información y el Juicio de expertos
 $c. El Análisis de los requisitos de comunicación y las Reuniones
@@ -110,7 +110,7 @@ c. La persona responsable de realizar los informes de desempeño
 ?: Cuáles de los siguientes criterios formarán parte del Plan de Gestión de las comunicaciones? Seleccione una:
 $a. Los diagramas de flujo de la información que circula dentro del proyecto
 b. Los flujogramas de trabajo
-c. Los organigramas jerárquidos del equipo de proyecto
+c. Los organigramas jerárquicos del equipo de proyecto
 
 
 ?: ¿Cuáles de los siguientes criterios formarán parte del Plan de Gestión de las comunicaciones? Seleccione una:
@@ -155,16 +155,10 @@ b. Consiste en codificar las normas de manera que sólo las puedan leer quienes 
 c. Consiste en escribir programas que permitan buscas las normas
 
 
-?: ¿Cuáles de los siguientes son factores que influyen en las decisiones de selección de Tecnologías de comunicación? Seleccione una:
-$a. La Urgencia de la información requerida y la Facilidad de uso
-b. La codificación y decodificación del mensaje
-c. La transmisión y aceptación del mensaje
-
-
 ?: ¿Cuáles de los siguientes criterios formarán parte del Plan de Gestión de las comunicaciones? Seleccione una:
-a. Las pérdidas de información por denegaciópn de servicio
+a. Las pérdidas de información por denegación de servicio
 $b. Las restricciones en materia de comunicación
-c. La adaptación de las medidas de seguridad por acceos no permitidos
+c. La adaptación de las medidas de seguridad por accesos no permitidos
 
 
 ?: ISO es una entidad de normalización... Seleccione una:
@@ -188,7 +182,7 @@ c. Los cronogramas
 
 ?: Dentro de las técnicas de búsqueda de aspectos legales y normativos, ¿En qué consiste la Mejora de procesos? Seleccione una:
 $a. Consiste en generar o identificar normativa para la organización que mejore los procesos en los proyectos, a partir del proyecto actual
-b. Consiste enmejorar los procesos del proyecto usando las normas adecuadas Esto es lo que hacen las normas habitualmente, pero no es lo que recoje esta técnica
+b. Consiste en mejorar los procesos del proyecto usando las normas adecuadas Esto es lo que hacen las normas habitualmente, pero no es lo que recoje esta técnica
 c. Consiste en mejorar las normas que se van a aplicar a un proyecto si tienen defectos o no se adaptan
 
 
@@ -198,16 +192,10 @@ b. Las listas de distribución de documentos
 c. Los medios físicos de información
 
 
-?: La Sensibilidad y confidencialidad de la información es un factor de decisión, ¿en qué técnica de planifiación de la gestiñon de las comunicaciones influye? Seleccione una:
+?: La Sensibilidad y confidencialidad de la información es un factor de decisión, ¿en qué técnica de planificación de la gestión de las comunicaciones influye? Seleccione una:
 $a. Tecnología de comunicación
 b. Modelos de comunicación
 c. Métodos de comunicación
-
-
-?: ¿Cómo es la comunicación interactiva? Seleccione una:
-$a. Es comunicación multidireccional, como por ejemplo emails, reuniones, videoconferencias, teléfono, etc.
-b. Es información que se envía a los receptores sin posibilidad de contestación, por ejemplo informes, faxes, blogs, etc.
-c. Es información que busca el usuario en algún lugar, por ejemplo, repositorios, páginas web, etc.
 
 
 ?: ¿Cuáles son los tipos de normas por su ámbito de aplicación? Seleccione una:
@@ -222,15 +210,15 @@ b. La Creación, la Distribución y el Almacenamiento
 c. El Control, el Seguimiento y la Disposición final de la información del proyecto
 
 
-?: Dentro de las técnicas de gestión de las Comuncaciones, ¿Qué sistemas se usarán para la comunicación? Seleccione una:
+?: Dentro de las técnicas de gestión de las Comunicaciones, ¿Qué sistemas se usarán para la comunicación? Seleccione una:
 a. Comunicación escrita, vertical, formal y oficial
-b. Lo sinformes de desempeño
+b. Los informes de desempeño
 $c. Copias en papel, gestión de documentos electrónicos y Herramientas electrónicas de gestión de proyectos
 
 
 ?: Dentro de las técnicas para la planificación de la Gestión de las Comunicaciones, ¿En qué consiste el Análisis de los requisitos de comunicación? Seleccione una:
 a. En determinar el número de canales que van a usar la comunciación
-$b. En determinar los requisitos de comunicación necesaria y el valor de esa información
+$b. En determinar los requisitos de comunicación necesarios y el valor de esa información
 c. En determinar los métodos que se usen para realizar la comunicación
 
 
@@ -270,26 +258,26 @@ b. Los relacionados con las etapas de definición y desarrollo del proyecto
 c. Los relacionados con la etapa de definición del proyecto
 
 
-?: Un email del Jefe de Proyecto comunicando que se va a disponer de licencias de un producto, ¿Que tipo de comunciación sería? Seleccione una:
+?: Un email del Jefe de Proyecto comunicando que se va a disponer de licencias de un producto, ¿Que tipo de comunicación sería? Seleccione una:
 a. Escrita y horizontal
 $b. Vertical e informal
 c. Interna y extraoficial
 
 
-?: ¿En qué fase se elabora documentación usando la Norma UNE157801? Seleccione una:
+?: ¿En qué fase se elabora documentación usando la Norma UNE-157801? Seleccione una:
 $a. En la fase previa al propio desarrollo del proyecto
 b. En la fase de mantenimiento del proyecto
 c. En la fase de desarrollo del proyecto
 
 
-?: Dentro de la Planificación de la gestión de las comunicaciones, en la técnica para definir los métodos de comunicación, ¿Cómo pueden clasificarse los fiferentes métodos de comunicación? Seleccione una:
+?: Dentro de la Planificación de la gestión de las comunicaciones, en la técnica para definir los métodos de comunicación, ¿Cómo pueden clasificarse los diferentes métodos de comunicación? Seleccione una:
 a. Interna y externa, formar e informal, vertical y horizontal, oficial y extraoficial y escrita y oral
 b. Codificación, Transmisión, Decodificación, Aceptación y Respuesta
-$c. Interactiva, pusk y pull
+$c. Interactiva, push y pull
 
 
 ?: Dentro de las técnicas de búsqueda de aspectos legales y normativos, ¿En qué consiste el uso de Herramientas? Seleccione una:
-$a. Consiste en buscar normas a través de herramientas de búsqueda especilizada
+$a. Consiste en buscar normas a través de herramientas de búsqueda especializada
 b. Consiste en usar herramientas para nos ayuden a implantar las normas
 c. Consiste en generar normas adaptadas al proyecto usando herramientas
 
@@ -324,16 +312,10 @@ b. Vertical e informal.
 $c. Externa y formal.
 
 
-?: ¿En qué fase se elabora documentación usando la Norma UNE-157801?
-a. En la fase de desarrollo del proyecto.
-$b. En la fase previa al propio desarrollo del proyecto.
-c. En la fase de mantenimiento del proyecto.
-
-
 ?: Dentro de las técnicas de búsqueda de aspectos legales y normativos, ¿en qué consiste la normativa de la organización?
 a. Consiste en generar o identificar normativa para la organización que mejore los procesos en los proyectos.
 $b. Consiste en integrar en el proyecto toda la normativa aplicable, que sea propia de la organización.
-c. Consiste en identificar la noramtiva de la organización que se contradiga con la de los estudios con entidad propia.
+c. Consiste en identificar la normativa de la organización que se contradiga con la de los estudios con entidad propia.
 
 
 ?: Dentro de la Planificación de la gestión de las comunicaciones, al definir los modelos de comunicación, en la calidad de dicha comunicación influyen diferentes factores que componen el canal de comunicación, ¿cuáles?
@@ -348,14 +330,14 @@ $b. Orientativas y de uso obligatorio.
 c. Certificables y no certificables.
 
 
-?: ¿Cómo es la comunicación tipo pull
+?: ¿Cómo es la comunicación tipo pull?
 $a. Es información que busca el usuario en algún lugar, por ejemplo, repositorios, páginas web, etc.
 b. Es información que se envía a los receptores sin posibilidad de contestación, por ejemplo informes, faxes, blogs, etc.
 c. Es comunicación multidireccional, como por ejemplo emails, reuniones, videoconferencias, teléfono, etc.
 
 
 ?: ¿Qué son los informes de desempeño?
-a. Son inforrmes sobre los resultados finales del proyecto.
+a. Son informes sobre los resultados finales del proyecto.
 b. Son cuadros de mando que usan los componentes del equipo.
 $c. Son informes que se realizan periódicamente para informar a los stakeholders del proyecto sobre los aspectos que les interesan en relación al avance del proyecto.
 

@@ -1,7 +1,7 @@
 ?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Qué es la variación de coste (CV)? Seleccione una:
 a. Es la diferencia entre la línea base del proyecto y el trabajo realizado realmente (CV = BCWP - BCWS)
 b. Es la diferencia entre lo que ha costado realmente y el trabajo realizado realmente (CV = ACWP - BCWS)
-$c. Es la diferencia entre la línea base del poryecto y lo que ha costado realmente (CV = BCWP - ACWP)
+$c. Es la diferencia entre la línea base del proyecto y lo que ha costado realmente (CV = BCWP - ACWP)
 
 
 ?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Cuál es el índice de rendimiento de costes (CPI)? Seleccione una:
@@ -46,19 +46,19 @@ b. Es la línea base, representa cuanto trabajo debería estar hecho al coste pr
 c. Es el valor del trabajo realizado, representa cuanto trabajo está terminado en el momento actual
 
 
-?: Dentro de los elementos básicos del control del alcance, ¿Que elementos ayudan a tener una manera de informar del estado de las variables del proceso? Seleccione una:
+?: Dentro de los elementos básicos del control del alcance, ¿qué elementos ayudan a tener una manera de informar del estado de las variables del proceso? Seleccione una:
 a. El alcance, el coste, el cronograma y la calidad
-b. Los diagramas de Pareto y lo sgráficos ABC
+b. Los diagramas de Pareto y los gráficos ABC
 $c. El SIGP y los cuadros de mandos
 
 
-?: Según Meredith y Mantel, ¿En qué consiste la terminación por Hambre? Seleccione una:
+?: Según Meredith y Mantel, ¿en qué consiste la terminación por Hambre? Seleccione una:
 $a. Los recursos para el proyecto van disminuyendo hasta el punto en que no hay actividad
 b. El proyecto termina porque no se adapta al presupuesto
 c. Esta terminación ocurre cuando se termina el proyecto porque se anula su presupuesto
 
 
-?: ¿en qué consiste el Crashing and Fast Tracking? Seleccione una:
+?: ¿En qué consiste el Crashing and Fast Tracking? Seleccione una:
 a. Es un proceso provocado por una saturación de trabajo en el proyecto y las tareas siguientes son atropelladas por las anteriores que no han terminado
 b. Es el momento en que el proyecto ya no es viable y se estrella (crashing) obligando a abandonarlo
 $c. En replanificar el proyecto con el objetivo de acelerarlo para que se pueda terminar en una fecha anterior a la prevista
@@ -76,7 +76,7 @@ b. Es el valor del coste de trabaja hasta el momento, representa cuánto ha cost
 c. Es la línea base, representa cuanto trabajo debería estar hecho al coste presupuestado
 
 
-?: Dentro de los elementos básicos del control del alcance, ¿Qué objetivo cumple tener un formato de identificación y nomenclatura? Seleccione una:
+?: Dentro de los elementos básicos del control del alcance, ¿qué objetivo cumple tener un formato de identificación y nomenclatura? Seleccione una:
 a. Tener una lista de distribución de documentos
 b. Tener una codificación de los equipos destinados al proyecto
 $c. Evitar términos confusos
@@ -85,7 +85,7 @@ $c. Evitar términos confusos
 ?: ¿Qué quiere decir que la formación deber tener integridad? Seleccione una:
 $a. Que no se puede formar al usuario en un entorno para, posteriormente, volver a formarle en el mismo entorno pero con modificaciones
 b. Que no puede obligarse a usuario a hacer operaciones que pongan en peligro su integridad
-c. QUe la formación debe realizarse en un curso que integre todos los aspectos y no en diferentes cursos
+c. Que la formación debe realizarse en un curso que integre todos los aspectos y no en diferentes cursos
 
 
 ?: ¿Qué se representa en el gráfico de la cadena crítica? Seleccione una:
@@ -96,7 +96,7 @@ $c. El consumo de reservas del camino crítico
 
 ?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Que es el ACWP? Seleccione una:
 $a. Coste real del trabajo realizado
-b. Coste presupuestado del trabajo progamado
+b. Coste presupuestado del trabajo programado
 c. Coste presupuestado del trabajo realizado
 
 
@@ -106,7 +106,7 @@ $b. Gestionar la línea base y los cambios del proyecto
 c. Gestionar los cambios de tecnología durante el proyecto
 
 
-?: En qué consiste el Control de costes Seleccione una:
+?: ¿En qué consiste el Control de costes? Seleccione una:
 $a. En realizar un seguimiento de los costes reales para detectar las desviaciones y tomar las acciones correctoras que permitan corregir dichas desviaciones
 b. En no consumir todas las reservas dinerarias previstas para el proyecto
 c. En mantener los costes por debajo de lo presupuestado inicialmente
@@ -119,9 +119,9 @@ c. Compara el coste presupuestado con el coste real, SPI = BCWP / ACWP
 
 
 ?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Cuál es el coste estimado en la terminación (ECAC)? Seleccione una:
-$a. Es la proyección del coste total final en función del coste y del desempeño actuales. EACA = BAC x (ACWP / BCWP)
-b. Es la proyección del coste total final en función de la variación de coste y el coste actuales. EACA = BAC x (CV / ACWP)
-c. Es la proyección del coste total final en función de la variación de cronograma y la de coste actuales. EACA = BAC x (SV / CV)
+$a. Es la proyección del coste total final en función del coste y del desempeño actuales. ECAC = BAC x (ACWP / BCWP)
+b. Es la proyección del coste total final en función de la variación de coste y el coste actuales. ECAC = BAC x (CV / ACWP)
+c. Es la proyección del coste total final en función de la variación de cronograma y la de coste actuales. ECAC = BAC x (SV / CV)
 
 
 ?: Según Pritchard, ¿En qué consiste la terminación negativa? Seleccione una:
@@ -210,7 +210,7 @@ c. Son revisiones realizadas para buscar responsables de los fallos del proyecto
 
 
 ?: Según Furtel, ¿Cuáles son las principales razones para terminar un proyecto? Seleccione una:
-a. Lógicas e ilógicas o b. De negocio, técnicas, de alcance, de cronograma, de coste, de calidad y políticas
+a. Lógicas e ilógicas
 $b. De negocio, técnicas, de alcance, de cronograma, de coste, de calidad y políticas
 c. Presupuestarias, plazos, costes y calidad
 
@@ -242,19 +242,13 @@ c. Programar y realizar un acto de cierre de proyecto
 ?: Dentro de las técnicas que ayudan a controlar los costes, ¿En qué consiste el uso de herramientas de simulación y estimación de costes? Seleccione una:
 a. Son herramientas que toman decisiones sobre el proyecto en función de escenarios de ejecución
 $b. Son herramientas que permiten diseñar escenarios de ejecución del proyecto hasta la conclusión y valorarlos para poder tomar decisiones
-c. SOn herramientas que simulan el proyecto y lo comparan con lo realizado para ver dónde se han cometido fallos
+c. Son herramientas que simulan el proyecto y lo comparan con lo realizado para ver dónde se han cometido fallos
 
 
 ?: ¿Qué dos técnicas recomienda Furtel para hacer la evaluación del desempeño? Seleccione una:
 $a. La Gestión del valor ganado y la Cadena crítica
 b. La Cadena crítica y las Reuniones de avance de proyecto
 c. La Gestión del valor ganado y las Reuniones de avance de proyecto
-
-
-?: Las técnicas usuales para controlar y comunicar los avances del proyecto permiten informar a los diferentes stakeholders sobre el estado del proyecto. Dentro de ellas, ¿En qué consiste la entrega de elementos “tangibles”? Seleccione una:
-$a. En identificar elementos que cubren una parte de los objetivos del proyecto, de manera que se pueden hacer entregas parciales y de este modo verificar el avance del proyecto
-b. En definir hitos internos que deben ser certificados para hacerlos tangibles al cliente
-c. En seleccionar elementos que físicamente se puedan tocar para hacer entregas, por ejemplo documentos en papel
 
 
 ?: Según Furtel (Furtel y otros, 2005) , ¿Cuáles son los elementos básicos del control del alcance? Seleccione una:
@@ -305,16 +299,10 @@ b. Los recursos para el proyecto van disminuyendo hasta el punto en que no hay a
 $c. Esta terminación ocurre cuando el proyecto termina porque es satisfactorio, insatisfactorio, sustituido o “asesinado”
 
 
-?: Dentro de los elementos básicos del control del alcance, ¿Qué objetivo cumple tener un formato de identificación y nomenclatura? Seleccione una:
-a. Tener una lista de distribución de documentos
-$b. Evitar términos confusos
-c. Tener una codificación de los equipos destinados al proyecto
-
-
 ?: ¿Cuál de los siguientes NO es un beneficio propio de la gestión del cambio? Seleccione una:
 a. Mejora de la productividad de los usuarios
 b. Aumento de la satisfacción de los usuarios
-$c. Mejora de las condiciones de trabajo de los usuario
+$c. Mejora de las condiciones de trabajo de los usuarios
 
 
 ?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Que es el BCWS? Seleccione una:
@@ -342,7 +330,7 @@ c. Nos pueden ayudar a seleccionar los riesgos más importantes para el proyecto
 
 
 ?: En la técnica de la Gestión de Valor ganado o acumulado, ¿Qué representa el BCWS? Seleccione una:
-$a. Es la línea base, representa cuanto trabajo debería estar hehco al coste presupuestado
+$a. Es la línea base, representa cuanto trabajo debería estar hecho al coste presupuestado
 b. Es el valor del coste de trabaja hasta el momento, representa cuánto ha costado el proyecto hasta el momento actual
 c. Es el valor del trabajo realizado, representa cuanto trabajo está terminado en el momento actual
 
@@ -395,7 +383,7 @@ b. Son informes que informan del estado de avance de las actividades del proyect
 c. Son informes que presentan el estado de los costes en un momento del proyecto
 
 
-?: ¿Cuál suele ser realmente la última actividad del proyecto?
-a. Programar y realizar un acto de cierre de proyecto
-b. Publicar el informe final incluyendo lecciones aprendidas y recomendaciones para la mejora del proceso
-$c. Realizar el cierre administrativo financiero del proyecto
+?: Son varias las razones para terminar un proyecto, de ellas, ¿Qué son la razones técnicas?
+a. El proyecto deja de ser viable porque una cierta tecnología no es éticamente aceptable
+$b. El producto deja de ser viable porque no se ha hecho un estudio tecnológico adecuado
+c. El proyecto deja de ser viable porque los miembros del equipo de proyecto no son expertos en una cierta tecnología

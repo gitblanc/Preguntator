@@ -296,3 +296,8 @@ c. Los subprocesos que contribuyen significativamente al desempeño general del 
 a. Impredecible, Repetible, Proactivo, Controlado y Mejora continua
 b. Control de la calidad, Garantía de calidad, Aseguramiento de calidad y Calidad total
 $c. Inicial, Repetible, Definido, Administrado y Optimizado
+
+?: En el contexto de las fases por las que ha pasado históricamente la gestión de la calidad, ¿Cuál es la característica principal de la fase de Garantía de calidad?
+a. Integración del factor humano
+b. Detección de defectos
+$c. Prevención de defectos

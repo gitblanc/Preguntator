@@ -433,3 +433,17 @@ $a. Se basan en la no-linealidad entre esfuerzo y coste, sobre estos resultados 
 b. Se basan en métodos estadísticos calibrados que permiten cálculos muy ajustados
 c. Se basan en las relaciones lineales entre tamaño y esfuerzo
 
+?: ¿Cuántos valores pueden tomar los factores de ajuste en la tecnica de Puntos Función de Albretch?
+a. 5
+b. 3
+$c. 6
+
+?: ¿Por qué se usan los modernos CEM basados en Puntos Función?
+$a. Porque se han creado normas ISO definiendo un estándar de tamaño funcional
+b. Porque se ha creado IFPUG como entidad de referencia en las medidas con Puntos Función
+c. Porque se ha definido una equivalencia entre punto función, tiempo de realización y coste
+
+?: Roberts (Roberts, 1979) propone una teoría de la significación para diferentes escalas de medición directa de propiedades simples. En el caso de escalas regulares ofrece la siguiente definición:
+$a. Una afirmación que incluye escalas (numéricas) es significativa si y sólo si su valor (verdadero o falso) es un invariable bajo transformaciones admisibles
+b. Una afirmación que incluye escalas nominales es significativa si y sólo si su valor (verdadero o falso) es un invariable bajo cualquier transformación
+c. Una afirmación que incluye escalas (numéricas) es significativa si y sólo si su valor (verdadero o falso) es un invariable bajo cualquier transformación

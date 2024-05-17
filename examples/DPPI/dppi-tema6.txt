@@ -364,10 +364,22 @@ a. En establecer la respuesta y reservas necesarias para gestionar los riesgos
 $b. En examinar los riesgos en detalle para determinar su extensión, sus interrelaciones y su importancia
 c. En calcular la relación coste-beneficio de hacer una gestión de riesgos
 
-?: ¿De qué tipo es el diagrama de la figura? Enlace alternativo: https://unioviedo-my.sharepoint.com/:i:/g/personal/garciaenol_uniovi_es/EaFAIA6HHKJFjImKzSlvcawB7S_3SEhu-Mczid1POpgOIw?e=aOl9U0
+?: ¿De qué tipo es el diagrama de la figura?
 a. Diagramas de flujo o de sistemas
 b. Diagrama de causa y efecto
 $c. Diagramas de influencias
+
+?: ¿De qué tipo es el diagrama de la figura?
+[causa_efecto.png]
+a. Diagramas de flujo o de sistemas
+$b. Diagrama de causa y efecto
+c. Diagramas de influencias
+
+?: ¿De qué tipo es el diagrama de la figura?
+[flujo.png]
+$a. Diagramas de flujo o de sistemas
+b. Diagrama de causa y efecto
+c. Diagramas de influencias
 
 ?: Dentro de las técnicas usadas habitualmente en la Planificación de la gestión de cada riesgo, ¿En qué consiste el Juicio de Expertos?
 a. En evaluar simulaciones del proyecto para evaluar los costes asociados a partir de la experiencia de personas que hayan estado en proyectos similares anteriores

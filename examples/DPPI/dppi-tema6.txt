@@ -365,6 +365,7 @@ $b. En examinar los riesgos en detalle para determinar su extensión, sus interr
 c. En calcular la relación coste-beneficio de hacer una gestión de riesgos
 
 ?: ¿De qué tipo es el diagrama de la figura?
+[influencias.png]
 a. Diagramas de flujo o de sistemas
 b. Diagrama de causa y efecto
 $c. Diagramas de influencias

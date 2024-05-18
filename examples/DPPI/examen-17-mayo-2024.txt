@@ -1,0 +1,179 @@
+?: Según el PMI, ¿qué es un proyecto?
+$a. Un proyecto es un esfuerzo temporal acometido para crear un único servicio o producto
+b. Un proyecto es un conjunto de actividades planificadas, coordinadas, controladas, presupuestadas y documentadas
+c. Un proyecto es una planificación que consiste en un conjunto de objetivos que se encuentran interrelacionados y coordinados para crear un servicio o producto
+d. Ninguna de las otras es correcta
+
+?: ¿Cuál de las siguientes no es una etapa de proyecto definida por AENOR en la norma UNE156801?
+a. Definición
+b. Construcción
+$c. Mantenimiento
+d. Implantación
+
+?: ¿Qué metodología está basada en el modelo en cascada e incorpora aspectos como la gestión de riesgos o evaluación de costes a la hora de tomar decisiones en un proceso iterativo?
+a. Modelo Basado en Prototipos
+$b. Modelo en Espiral
+c. Rational Unified Process (RUP)
+d. Ninguna de las otras es correcta
+
+?: En Scrum, ¿qué figura ayuda al equipo a aplicar Scrum para conseguir valor de Negocio?
+a. Todos los Stakeholders
+b. Jefe de equipo
+c. Dueño de producto
+$d. Scrum Master
+
+?: ¿Cuál de las siguientes no es una necesidad de medida según el estándar BS5750?
+a. Descriptores
+b. Predictores
+$c. Directores
+d. Prescriptores
+
+?: En la afirmación: "La profundidad del árbol es 5", ¿qué tipo de escala se utiliza?
+$a. Ratio
+b. Absoluta
+c. Nominal
+d. Ordinal
+
+?: ¿Cuál de los siguientes es un problema aplicable a los modelos de estimación de costes (CEM por sus siglas en inglés)?
+$a. No son modelos completamente fiables
+b. Es difícil escoger una herramienta porque hay muchas que lo implementen bien
+c. Sólo son aplicables a proyectos que cumplan unas características específicas
+d. Ninguna de las otras es correcta
+
+?: ¿Cuál de los siguientes no es un beneficio del WBS?
+a. Identifica el 100% del trabajo requerido para llevar a cabo el proyecto
+b. Apoya en el proceso de verificación del alcance del proyecto
+c. Organiza el trabajo del proyecto
+$d. Todas las respuestas son beneficios
+
+?: Las dependencias entre las actividades de un proyecto se pueden clasificar como:
+a. De desarrollo, de integración, de pruebas o de administración
+$b. Obligatorias o discrecionales
+c. Lineales, aplazadas o replanificadas
+d. ninguna de las otras es correcta
+
+?: ¿Qué tipo de estimación se basa en el uso de algún algoritmo de cálculo que recoge información histórica y cuya precisión depende de la calidad de la información histórica y de la adecuación de la actividad al cálculo?
+a. Analogía
+$b. Paramétrica
+c. Juicio de expertos
+d. Delphi
+
+?: Según el PMBOK, ¿Cuál de los siguientes no es una estructura organizativa de una empresa?
+a. Matricial
+$b. Orientado a clientes
+c. Funcional
+d. Todas las otras son patrones organizativos de una empresa
+
+?: ¿Cuál de las siguientes afirmaciones es cierta sobre el desarrollo del equipo de trabajo?
+a. Es la fase del proyecto en la que la mayor parte de los esfuerzos se centran en el desarrollo del proyecto
+$b. Es la fase que se corresponde con las actividades realizadas para mejorar las competencias del equipo, la interrelación y comunicación
+c. El desarrollo del equipo de trabajo es un procedimiento en el que se miden las capacidades del equipo para analizar su evolución
+d. Todas las otras son ciertas
+
+?: ¿Qué es una Risk Breakdown Structure?
+$a. Una estructura jerárquica de categorías de riesgos
+b. Una forma de representar los riesgos identificados en varias tablas relacionadas
+c. Una forma de representar los planes de contingencia y las respuestas a los riesgos
+d. Ninguna. La Risk Breakdown Structure no existe
+
+?: La técnica de puntos función utilizada en clase es una técnica de estimación...
+a. de Juicio de Expertos
+$b. Paramétrica
+c. por analogía
+d. Ninguna de las otras es correcta
+
+?: ¿Qué es la gestión del valor ganado según el PMBOK?
+$a. Es una metodología que combina mediciones, alcance, cronograma y recursos para evaluar el desempeño del proyecto
+b. Es una técnica de diagramación que representa los costes y avance del proyecto en un gráfico para analizar la evolución del proyecto de forma gráfica
+c. Es una gráfica con forma de S que representa las necesidades de financiación del proyecto para cualquier momento
+d. Ninguna de las otras es correcta
+
+?: ¿Cómo define un riesgo el PMBOK?
+a. Un riesgo es cualquier suceso que pueda afectar negativamente a la marcha del proyecto en el futuro
+b. Contingencia o proximidad del daño
+c. Un valor compuesto, resultante de la multiplicación de la probabilidad de ocurrencia de un evento por la pérdida que la misma implica
+$d. Un riesgo es un evento o condición incierta que, si sucede, tiene un efecto positivo o negativo en por lo menos uno de los objetivos del proyecto
+
+?: ¿Qué tipo de estrategia frente a un riesgo sería contratar un seguro?
+a. Evitación
+b. Retención
+c. Eliminación
+$d. Transferencia
+
+?: En el plan de gestión de riesgos, ¿qué técnica de resolución de riesgos replantea el objetivo del proyecto o de la propia organización para determinar si el asumir el riesgo es productivo frente a otras opciones como puedan ser la relajación de requisitos?
+a. Aproximación design-to-cost
+b. Simulaciones
+$c. Análisis de la misión
+d. Análisis del alcance
+
+?: ¿Qué parte de la calidad se asegura que el producto diseñado satisfaga las necesidades del usuario, y en su diseño se contemple el uso que se le va a dar?
+a. Calidad de conformidad
+$b. Calidad de diseño
+c. Calidad de mantenimiento
+d. Ninguna de las otras es correcta
+
+?: ¿Qué concepto técnico de la calidad tiene por objetivo cumplir un conjunto de características medibles establecidas por el fabricante para satisfacer al cliente?
+$a. Calidad de conformidad
+b. Calidad de diseño
+c. Calidad de mantenimiento
+d. Ninguna de las otras es correcta
+
+?: ¿ISO9000 es un estándar de calidad o un modelo de calidad?
+$a. Estándar
+b. Modelo
+c. Ambas
+d. Ninguna de las dos
+
+?: En una comunicación por email del Jefe de Proyecto al cliente para comunicar un entregable, la comunicación es de tipo
+$a. Externa / Formal / Oficial / No verbal
+b. Externa / Informal / Oficial / No verbal
+c. Externa / Formal / Extraoficial / No verbal
+d. Ninguna de las otras es correcta
+
+?: Si la normativa a utilizar en un proyecto se comunica a los miembros de la organización mediante los responsables es una comunicación de tipo...
+a. Pull
+$b. Push
+c. Interactiva
+d. Ninguna de las otras es correcta
+
+?: La norma UNE 157801 en el ámbito de un proyecto realizado en una empresa privada es de tipo
+$a. No certificable / Orientativa / Nacional
+b. No certificable / Orientativa / Internacional
+c. Certificable / Orientativa / Nacional
+d. Ninguna de las otras es correcta
+
+?: La terminación de un proyecto en la cual el equipo de desarrollo se queda trabajando en la empresa cliente en la explotación del proyecto es una terminación por...
+$a. Adición
+b. Extinción
+c. Hambre
+d. Ninguna de las otras es correcta
+
+?: Según Pitchard, las terminaciones de un proyecto pueden ser...
+a. Extinción, Adición, Integración o Hambre
+$b. Positivas y Negativas
+c. Programadas o Repentinas
+d. Por razones técnicas, de calidad, de coste o políticas
+
+?: En un análisis de valor ganado, si el índice de cronograma tiene un valor menor a 1, significa que...
+a. El proyecto va con retraso
+b. El proyecto va adelantado
+$c. El proyecto ha costado más de lo previsto
+d. El proyecto ha costado menos de lo previsto
+
+?: La técnica explicada en los anexos de teoría para establecer una reserva de cronograma consiste en...
+a. Calcular el coste por semana de retraso, estimar las probabilidades por retrasarse cada semana del proyecto e imputar una reserva adicional basándose en los dos datos anteriores
+b. Hacer un análisis cuantitativo de los riesgos para establecer el coste potencial que podrían imputar los riesgos sobre el cronograma y sumarlo a la partida de otros costes
+$c. Consiste en estimar la probabilidad de retraso del proyecto e imputar al proyecto ese tanto por ciento adicional en concepto de reserva de cronograma (creo, no estoy seguro)
+d. Ninguna. La guía de aprendizaje no habla sobre reservas de cronograma
+
+?: ¿Cuál de las siguientes afirmaciones es cierta sobre Unified Service Manager (USM)?
+a. En un ejemplo de una metodología interna de una empresa que pretende ser la base de trabajo de una empresa concreta
+$b. Es una metodología propuesta por el PMI para la gestión de proyectos de software
+c. Es un modelo de calidad de los procesos organizativos de una empresa para maximizar el beneficio frente al coste de desarrollo de proyectos especialmente grandes
+d. Ninguna de las otras es correcta
+
+?: En la charla del último día de teoría se habló acerca de las acreditaciones y se defendió que...
+$a. Es común que las empresas requieran de certificaciones antes de iniciar la dirección de proyectos o servicios. Estas acreditaciones, en ocasiones, pueden ser procesos de acreditación interna
+b. Es común que las empresas requieran de certificaciones antes de iniciar la dirección de proyectos o servicios. Estas acreditaciones siempre tienen que ser validadas por un organismo reconocible como el PMI
+c. Las acreditaciones no son algo necesario para comenzar a dirigir proyectos y servicio. Lo más importante en ese aspecto no es la formación, sino la experiencia al enfrentarse a problemas
+d. Ninguna de las otras es correcta

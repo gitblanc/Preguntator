@@ -1,0 +1,164 @@
+?: ¿Cuál de estas secciones es opcional en un informe pericial típico?
+$a. Objetivo
+b. Resolución
+c. Datos de Partida
+d. Anexo(s)
+
+?: ¿Puede usarse una obra de un tercero en un trabajo propio (ej: una foto)?
+a. En todos los casos puede usarse
+b. Nunca puede usarse
+c. Puede usarse, pero sólo pagando al titular de los derechos
+$d. En algunos casos puede usarse sin autorización del titular de los derechos
+
+?: En la actual Ley de Propiedad Intelectual
+$a. Ninguna de las otras es correcta
+b. Se amplía del derecho de copia privada a los programas de ordenador
+c. Se permite hacer copias de obras divulgadas con el fin de venderlas comercialmente
+d. La memorización de una canción conlleva el pago de un canon a las entidades de gestión
+
+?: El registro de actividades del tratamiento de la RGPD
+a. Es obligatorio en todos los casos
+b. Debe guardarse bajo supervisión directa del Delegado de Protección de Datos
+$c. Ninguna de las otras es correcta
+d. Debe hacerse público, por ejemplo en la página web de la empresa
+
+?: El Delegado de Protección de Datos de la RGPD
+a. Tiene que tener obligatoriamente la titulación de Licenciado en Derecho, al menos
+b. Tiene que tener obligatoriamente la titulación de Graduado en Ingeniería Informática, al menos
+$c. Es una figura obligatoria para todas las entidades de la administración pública
+d. Ninguna de las otras es correcta
+
+?: La Ley de Propiedad Intelectual, para los programas de ordenador permite sin necesitar consentimiento del titular (en ocasiones con condiciones adicionales)
+a. Hacer todas las copias de seguridad del programa que sean necesarias
+b. Modificar el programa y redistribuirlo (incluso mediando contraprestación económica)
+c. Ampliar la funcionalidad del programa
+$d. Ninguna de las otras es correcta
+
+?: Las sanciones en el nuevo Reglamento General de Protección de Datos europeo (RGPD) pueden alcanzar hasta
+$a. 20 millones de euros
+b. 2 millones de euros
+c. 1 millón de euros
+d. 2.000 millones de euros
+
+?: Una licencia válida Creative Commons puede ser
+$a. CC BY-SA
+b. CC NC-ND
+c. CC BY-NC-ND-SA
+d. CC BY-2020
+
+?: Un fichero de datos personales de la LOPD / actividad de tratamiento, se corresponde siempre con
+$a. Ninguna de las otras es correcta
+b. La base de datos completa en la que se almacenan los datos en cuestión
+c. Un fichero informático de la aplicación que gestiona los datos en cuestión
+d. Una tabla de la base de datos en la que se almacenan los datos en cuestión
+
+?: El consumo eléctrico de un ordenador PC típico, en el contexto del gasto energético de una empresa
+a. Es poco apreciable, y comparable al de una bombilla, por lo que no compensa su consideración
+b. No es una cuestión que competa a los Ingenieros Técnicos en Informática
+$c. Puede llegar a ser un gasto considerable, especialmente si está encendido gran parte del día
+d. Ninguna de las otras es correcta
+
+?: Un fichero de datos personales en papel
+a. No está sujeto a la LOPD-RGPD
+b. Está sujeto a la LOPD-RGPD solo si contiene datos de personas jurídicas
+c. Está sujeto a la LOPD-RGPD solo si contiene datos de categoría especial (nivel alto en el RMS 2007)
+$d. Está sujeto a la LOPD-RGPD siempre
+
+?: Una empresa que recopile nombres y direcciones de personas a partir de una guía de teléfonos
+a. No está afectada por la LOPD-RGPD pues los datos son públicos
+$b. Ninguna de las otras es correcta
+c. No le afecta la LOPD-RGPD pues los datos son referidos a personas físicas
+d. Le afecta la LOPD-RGPD, pero no tiene obligación de implantar medidas de seguridad
+
+?: La duración de los derechos de autor (individual) en la ley de propiedad intelectual es
+a. Indefinida
+b. 10 años desde la muerte del autor
+c. 80 años desde la muerte del autor
+$d.70 años desde la muerte del autor
+
+?: Según el reglamento de medidas de seguridad (2007), un dato de nivel básico obligatoriamente debe
+a. Eliminarse del fichero de datos, pues no está autorizado su registro
+b. Notificarse a la Agencia de Protección de datos cada modificación que sufra
+c. Cifrarse para su envío por medios telemáticos
+$d. Hacerse copia de seguridad al menos semanalmente
+
+?: ¿A quién corresponde la vigilancia de la ética y deontología profesional en el ejercicio profesional de la Ingeniería Técnica en Informática?
+a. Asociación de Técnicos en Informática
+b. Ninguna de las otras es correcta
+$c. Colegio Profesional de Ingenieros Técnicos en Informática
+d. Ministerio de Justicia
+
+?: Según el reglamento de medidas de seguridad (2007), en una base de datos de una asociación, el dato del número de cuenta para cobrar las cuotas es de
+a. Nivel alto
+b. Nivel medio
+c. Tipo especialmente protegido
+$d. Nivel básico
+
+?: En la actual Ley de Propiedad Intelectual
+a. Se permite hacer copias de obras divulgadas con el fin de venderlas comercialmente
+$b. No hay derecho de copia privada para los programas de ordenador
+c. La memorización de una canción conlleva el pago de un canon a las entidades de gestión
+d. Ninguna es correcta
+
+?: El registro de actividades del tratamiento de la RGPD
+$a. Debe hacerse público en las administraciones públicas, por ejemplo, en la página web
+b. Es obligatorio en todos los casos
+c. Ninguna de las otras es correcta
+d. Debe guardarse en papel, al menos una copia
+
+?: Qué permite la nueva Ley de Propiedad Intelectual?
+a. Derecho a copia de programas de ordenador
+b. Derecho a copia de cánones
+$c. Ninguna de las anteriores
+
+?: ¿Qué obligación hay con LSSICE?
+a. Derecho de acceso
+b. Derecho de cancelación
+c. Derecho de registro
+$d. Ninguna de las anteriores
+
+?: La duración de los derechos de autor (individual) en la ley de propiedad intelectual es
+a. Indefinida
+b. 50 años desde la muerte del autor
+c. 80 años desde la muerte del autor
+$d.Ninguna de las otras es correcta
+
+?: Una licencia válida Creative Commons puede ser
+$a. CC BY-NC-ND
+b. CC BY-2020
+c. CC NC-SA
+d. CC BY-NN
+
+?: La Ley de Propiedad Intelectual, para los programas de ordenador permite sin necesitar consentimiento del titular (en ocasiones con condiciones adicionales)
+a. Alquilar el programa
+b. Modificar el programa y redistribuirlo (incluso mediando contraprestación económica)
+c. Ampliar la funcionalidad del programa
+$d. Hacer un máximo de 1 copia de seguridad del programa
+
+?: El Delegado de Protección de Datos de la RGPD
+a. Es una figura obligatoria para todas las empresas
+b. Tiene que tener obligatoriamente la titulación de Licenciado en Derecho, al menos
+$c. Ninguna de las otras es correcta
+d. Tiene que tener obligatoriamente la titulación de Graduado en Ingeniería Informática, al menos
+
+?: ¿A quién corresponde la vigilancia de la ética y deontología profesional en el ejercicio profesional de la Ingeniería Técnica en Informática?
+a. Asociación de Técnicos en Informática
+b. ACM/IEEE
+$c. Colegio Profesional de Ingenieros Técnicos en Informática
+d. Ministerio de Industria
+
+
+?: El registro de actividades del tratamiento de la RGPD
+a. Es obligatorio en todos los casos
+b. Debe guardarse en papel, al menos una copia
+$c. Ninguna de las otras es correcta
+d. Debe comunicarse a la Agencia de Protección de Datos para que se registre
+
+?: Un fichero de datos personales en papel
+a. No está sujeto a la LOPD-RGPD
+b. Está sujeto a la LOPD-RGPD, salvo que se trate de datos públicos
+c. Está sujeto a la LOPD-RGPD solo si contiene datos de categoría especial (nivel alto en el RMS 2007)
+$d. Está sujeto a la LOPD-RGPD siempre
+
+
+

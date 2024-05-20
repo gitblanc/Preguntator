@@ -1,8 +1,8 @@
 ?: ¿Cuál de estas secciones es opcional en un informe pericial típico?
-$a. Objetivo
+a. Objetivo
 b. Resolución
 c. Datos de Partida
-d. Anexo(s)
+$d. Anexo(s)
 
 ?: ¿Puede usarse una obra de un tercero en un trabajo propio (ej: una foto)?
 a. En todos los casos puede usarse

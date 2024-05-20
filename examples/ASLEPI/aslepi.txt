@@ -46,6 +46,12 @@ b. CC NC-ND
 c. CC BY-NC-ND-SA
 d. CC BY-2020
 
+?: Una licencia válida Creative Commons puede ser
+$a. CC BY-NC
+b. CC BY-2018
+c. CC BY-NC-ND-SA
+d. CC NC-SA
+
 ?: Un fichero de datos personales de la LOPD / actividad de tratamiento, se corresponde siempre con
 $a. Ninguna de las otras es correcta
 b. La base de datos completa en la que se almacenan los datos en cuestión

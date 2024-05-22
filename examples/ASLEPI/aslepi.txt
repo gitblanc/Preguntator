@@ -166,5 +166,122 @@ b. Está sujeto a la LOPD-RGPD, salvo que se trate de datos públicos
 c. Está sujeto a la LOPD-RGPD solo si contiene datos de categoría especial (nivel alto en el RMS 2007)
 $d. Está sujeto a la LOPD-RGPD siempre
 
+?: Enumera los efectos negativos de la informática en el mundo físico (efectos medioambientales)
+$a. Energía eléctrica consumida, Consumibles, Energía consumida en la fabricación y el transporte, Contaminación producida en el desecho del hardware
+
+?: Enumera los efectos negativos de la informática sobre las personas
+$a. Cambios en las costumbres sociales (relaciones virtuales, creación de comunidades, redes sociales) y Cambios en la economía (economía globalizada, nuevos tipos de negocio)
+
+?: ¿Qué es la brecha digital?
+$a. Separación entre las personas que tienen acceso a la Red y las que no, bien sea por motivos económicos (ricos y pobres) o bien por zonas geográficas (ambiente rural)
+
+?: Enumera herramientas y unidades genéricas útiles en el Green It
+$a. Tonelada equivalente en Petróleo, Huella de carbono, Tasas ambientales, Desmaterializar un poducto
+
+?: ¿Qué es la Deontología?
+$a. Ciencia o tratado de los deberes que define qué se considera correcto
+b. Ciencia o tratado de los deberes que define qué se considera incorrecto
+c. Ciencia que cree que Jesús es el padre todopoderoso
+d. Ciencia que denosta a los nazis adoradores de satán (es lo que más odia Darío xd)
 
 
+?: ¿Qué es el Código Deontológico?
+$a. Conjunto de normas a las que hay que ajustarse en el ejercicio profesional que asegura un trato adecuado y un nivel de calidad al cliente
+b. Conjunto de normas creado por el COIIPA
+c. Conjunto de reglas a las que hay que ajustarse como becario de la informática
+d. Conjunto de decretos y mandatos de obligado cumplimiento en cualquier ejercicio profesional
+
+?: ¿Qué 4 leyes se han dado en el curso?
+$a. LOPD, LSSI, LPI y Ley de firma electrónica
+b. LOPD, RGPD, LSSICE y UNE
+c. RGPD, UNE, LSSI y LPI
+d. LOPD, LSSI, UNE y Ley de firma electrónica
+
+
+?: ¿Qué indica la siguiente licencia?
+[image1.png]
+$a. CC Atribución (BY), Debe darse crédito al autor (atribuir la obra) obligatoriamente
+b. CC No comercial (NC), Solo usos no comerciales permitidos
+c. CC No derivados (ND), Se puede usar pero sin modificación
+d. CC Compartir igual (SA), Las obras derivadas deben licenciarse con la misma licencia
+
+?: ¿Qué indica la siguiente licencia?
+[image2.png]
+$a. CC No comercial (NC), Solo usos no comerciales permitidos
+b. CC Atribución (BY), Debe darse crédito al autor (atribuir la obra) obligatoriamente
+c. CC No derivados (ND), Se puede usar pero sin modificación 
+d. CC Compartir igual (SA), Las obras derivadas deben licenciarse con la misma licencia 
+
+?: ¿Qué indica la siguiente licencia?
+[image3.png]
+$a. CC No derivados (ND), Se puede usar pero sin modificación
+b. CC Atribución (BY), Debe darse crédito al autor (atribuir la obra) obligatoriamente
+c. CC No comercial (NC), Solo usos no comerciales permitidos
+d. CC Compartir igual (SA), Las obras derivadas deben licenciarse con la misma licencia 
+
+?: ¿Qué indica la siguiente licencia?
+[image3.png]
+$a. CC Compartir igual (SA), Las obras derivadas deben licenciarse con la misma licencia
+b. CC Atribución (BY), Debe darse crédito al autor (atribuir la obra) obligatoriamente
+c. CC No comercial (NC), Solo usos no comerciales permitidos
+d. CC No derivados (ND), Se puede usar pero sin modificación
+
+?: ¿Qué indica la siguiente licencia?
+[image4.png]
+$a. Atribución (BY)
+b. Atribución - No derivados (BY ND)
+c. Atribución - Compartir igual (BY SA)
+d. Atribución - No comercial (BY NC)
+
+?: ¿Qué indica la siguiente licencia?
+[image5.png]
+$a. Atribución - No derivados (BY ND)
+b. Atribución (BY)
+c. Atribución - Compartir igual (BY SA)
+d. Atribución - No comercial (BY NC)
+
+?: ¿Qué indica la siguiente licencia?
+[image6.png]
+$a. Atribución - Compartir igual (BY SA)
+b. Atribución - No derivados (BY ND)
+c. Atribución (BY)
+d. Atribución - No comercial (BY NC)
+
+?: ¿Qué indica la siguiente licencia?
+[image7.png]
+$a. Atribución - No comercial (BY NC)
+b. Atribución - No derivados (BY ND)
+c. Atribución (BY)
+d. Atribución - Compartir igual (BY SA)
+
+?: ¿Qué indica la siguiente licencia?
+[image7.png]
+$a. Atribución - No comercial - No derivados (BY NC ND)
+b. Atribución - No derivados - Compartir igual (BY ND SA)
+c. Atribución (BY)
+d. Atribución - Compartir igual (BY SA)
+
+?: ¿Qué indica la siguiente licencia?
+[image8.png]
+a. Atribución - No comercial - No derivados (BY NC ND)
+$b. Atribución - No derivados - Compartir igual (BY ND SA)
+c. Atribución (BY)
+d. Atribución - Compartir igual (BY SA)
+
+?: ¿Cuáles son las infracciones aplicables en España?
+$a. Leves (hasta 30.000), Graves (30.001-150.000) y Muy graves (150.001-600.000)
+b. Leves (hasta 50.000), Graves (50.001-150.000) y Muy graves (150.001-600.000)
+c. Suaves (hasta 30.000), Graves (30.001-150.000) y Muy graves (150.001-600.000)
+d. Suaves (hasta 50.000), Graves (50.001-150.000) y Muy graves (150.001-600.000)
+
+?: ¿Qué es un perito?
+$a. Experto en un tema que ayuda a una persona sin conocimientos técnicos (ej. un juez) a determinar unos hechos
+
+?: ¿Cuál es la ley que protege (esencialmente) los programas de ordenador (ej: contra copias no autorizadas)?
+$a. La Ley de Propiedad Intelectual (LPI)
+
+?: Enumera dos de los nuevos “delitos informáticos” aparecidos en la reforma del 2015
+$a. Interceptación de transmisiones de datos informátios y delito de intrusión informática
+
+?: Enumera tres (o más) tipos de Juzgados ("Juzgado de...") en los que puede prestar servicios un perito en Informática
+$a. Juzgado de menores, Juzgado de Primera Instancia, Juzgado de instrucción, Juzgado de lo social

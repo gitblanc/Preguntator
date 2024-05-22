@@ -214,7 +214,7 @@ c. CC No comercial (NC), Solo usos no comerciales permitidos
 d. CC Compartir igual (SA), Las obras derivadas deben licenciarse con la misma licencia 
 
 ?: ¿Qué indica la siguiente licencia?
-[image3.png]
+[image10.png]
 $a. CC Compartir igual (SA), Las obras derivadas deben licenciarse con la misma licencia
 b. CC Atribución (BY), Debe darse crédito al autor (atribuir la obra) obligatoriamente
 c. CC No comercial (NC), Solo usos no comerciales permitidos
@@ -249,7 +249,7 @@ c. Atribución (BY)
 d. Atribución - Compartir igual (BY SA)
 
 ?: ¿Qué indica la siguiente licencia?
-[image7.png]
+[image11.png]
 $a. Atribución - No comercial - No derivados (BY NC ND)
 b. Atribución - No derivados - Compartir igual (BY ND SA)
 c. Atribución (BY)
@@ -258,7 +258,7 @@ d. Atribución - Compartir igual (BY SA)
 ?: ¿Qué indica la siguiente licencia?
 [image8.png]
 a. Atribución - No comercial - No derivados (BY NC ND)
-$b. Atribución - No derivados - Compartir igual (BY ND SA)
+$b. Atribución - No comercial - Compartir igual (BY NC SA)
 c. Atribución (BY)
 d. Atribución - Compartir igual (BY SA)
 

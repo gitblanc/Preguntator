@@ -281,7 +281,42 @@ $a. Experto en un tema que ayuda a una persona sin conocimientos técnicos (ej. 
 $a. La Ley de Propiedad Intelectual (LPI)
 
 ?: Enumera dos de los nuevos “delitos informáticos” aparecidos en la reforma del 2015
-$a. Interceptación de transmisiones de datos informátios y delito de intrusión informática
+$a. Interceptación de transmisiones de datos informátios, delito de intrusión informática, Robo de secretos comerciales y Falsificación de marcas
 
 ?: Enumera tres (o más) tipos de Juzgados ("Juzgado de...") en los que puede prestar servicios un perito en Informática
 $a. Juzgado de menores, Juzgado de Primera Instancia, Juzgado de instrucción, Juzgado de lo social
+
+?: ¿Están las páginas amarillas afectadas por la LOPD? ¿En qué nivel? ¿Se informa?
+$a. Si están afectadas, por el nivel básico y sí se informa
+b. No
+c.  Si están afectadas, por el nivel básico y no se informa
+d.  Si están afectadas, por el nivel medio y sí se informa
+
+?: ¿En qué ley se regula el SPAM (comunicaciones comerciales no solicitadas)
+$a. LSSICE
+b. LPI
+c. Código penal
+d. UNE
+
+?: ¿Qué nivel de infracción es incumplir la RMS?
+$a. Grave
+b. Suave
+c. Leve
+d. medio
+
+?: ¿Cuánto duran los derechos de autor?
+$a. Durante la vida del autor más 70 años después de su muerte o declaración de fallecimiento.
+b. Durante la vida del autor más 100 años después de su muerte o declaración de fallecimiento.
+c. Durante la vida del autor únicamente.
+d. Durante la vida del autor más 60 años después de su muerte o declaración de fallecimiento.
+
+?: ¿Cuál es la correcta estructura de un informe pericial?
+[image.png]
+$a. sólo para que te acuerdes :D
+
+?: ¿Cuál es la diferencia entre la ética y moralidad?
+$a. La moralidad tiene una base social que influye fuertemente en la persona, sin embargo, la ética nace de una profunda reflexión de las persona. 
+
+?: Niveles de seguridad de la RMS y ejemplos
+[image9.png]
+$a. Otro esquemita pa que te acuerdes :D

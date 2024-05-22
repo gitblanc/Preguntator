@@ -106,12 +106,6 @@ $b. No hay derecho de copia privada para los programas de ordenador
 c. La memorización de una canción conlleva el pago de un canon a las entidades de gestión
 d. Ninguna es correcta
 
-?: El registro de actividades del tratamiento de la RGPD
-$a. Debe hacerse público en las administraciones públicas, por ejemplo, en la página web
-b. Es obligatorio en todos los casos
-c. Ninguna de las otras es correcta
-d. Debe guardarse en papel, al menos una copia
-
 ?: Qué permite la nueva Ley de Propiedad Intelectual?
 a. Derecho a copia de programas de ordenador
 b. Derecho a copia de cánones

@@ -154,12 +154,6 @@ b. Debe guardarse en papel, al menos una copia
 $c. Ninguna de las otras es correcta
 d. Debe comunicarse a la Agencia de Protección de Datos para que se registre
 
-?: Un fichero de datos personales en papel
-a. No está sujeto a la LOPD-RGPD
-b. Está sujeto a la LOPD-RGPD, salvo que se trate de datos públicos
-c. Está sujeto a la LOPD-RGPD solo si contiene datos de categoría especial (nivel alto en el RMS 2007)
-$d. Está sujeto a la LOPD-RGPD siempre
-
 ?: Enumera los efectos negativos de la informática en el mundo físico (efectos medioambientales)
 $a. Energía eléctrica consumida, Consumibles, Energía consumida en la fabricación y el transporte, Contaminación producida en el desecho del hardware
 

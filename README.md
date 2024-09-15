@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-[![HitCount](https://hits.dwyl.com/gitblanc/Preguntator.svg?style=flat-square)](http://hits.dwyl.com/gitblanc/Preguntator)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgitblanc%2FPreguntator&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitas&edge_flat=false)](https://hits.seeyoufarm.com)
 
 **Donate** <img src="https://github.com/gitblanc/Preguntator/assets/87705461/12bd82a5-71a1-499a-b88a-c2e9f60becb9" width="2%" height="2%">: bc1qjf9gc0n03g4zw9nxc4fwvv5zklnextj8wge4zk ❤️
 

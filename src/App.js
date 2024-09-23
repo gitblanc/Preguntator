@@ -43,6 +43,7 @@ const App = () => {
 						target="_blank"
 						rel="noopener noreferrer"
 					>
+					<script data-goatcounter="https://preguntator.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 						<FontAwesomeIcon icon={faGithub} className="github-icon" />
 					</a>
 				</p>

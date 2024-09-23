@@ -5,6 +5,7 @@ import logo from "./logo192.png"; // Import the logo image
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import FileUploader from "./components/FileUploader";
+import GoatCounterScript from "./components/GoatCounterScript";
 import { DropdownButton, Dropdown } from "react-bootstrap";
 
 const App = () => {
@@ -43,9 +44,9 @@ const App = () => {
 						target="_blank"
 						rel="noopener noreferrer"
 					>
-					<script data-goatcounter="https://preguntator.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 						<FontAwesomeIcon icon={faGithub} className="github-icon" />
 					</a>
+					<GoatCounterScript />
 				</p>
 			</footer>
 		</div>

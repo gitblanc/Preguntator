@@ -10,7 +10,13 @@
 
 **Preguntator** is a web application that allow you to auto-evaluate yourself for your test-type exams.
 
+<br></br>
+
+## Contributors
+
 > Huge thanks to this repository contributors :D
+
+[![contributors](https://contributors-img.web.app/image?repo=gitblanc/Preguntator)](https://github.com/gitblanc/Preguntator/graphs/contributors)
 
 ## How to use it?
 
@@ -54,6 +60,5 @@ b. You see? :)
 <img width="1278" alt="image" src="https://github.com/gitblanc/Preguntator/assets/87705461/1e6ce276-e074-4fa9-bce1-0d60e6d850db">
 
 <img width="1278" alt="image" src="https://github.com/gitblanc/Preguntator/assets/87705461/204e20d5-bbc5-499e-98d5-4472bd8ff9f0">
-
 
 Do your best!! ~ gitblanc :)

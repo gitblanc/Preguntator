@@ -10,7 +10,7 @@ a. Es un estándar del W3C
 b. Solamente permite representar un punto en un mapa
 c. No es un estándar
 d. Las respuestas a, b y c son correctas
-e. Las respuestas a, b y c son incorrectas
+$e. Las respuestas a, b y c son incorrectas
 
 ?: Sobre XML se puede decir...
 a. Es un meta-lenguaje
@@ -165,7 +165,7 @@ $a. Permite especificar datos, utilizando cualquier carácter, especial o no, si
 b. Solamente se puede utilizar para el código fuente de los lenguajes de programación
 c. Si se utiliza para cualquier texto, genera documentos bien formados, pero no válidos
 d. No se puede utilizar con DTDs
-e. 
+e. Se permiten anidamientos de secciones CDATA
 
 ?: Sobre el lenguaje derivado de XML denominado XAML se puede decir:
 $a. Es utilizado por interfaces y tecnología .NET

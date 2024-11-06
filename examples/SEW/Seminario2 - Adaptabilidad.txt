@@ -1,0 +1,69 @@
+?: La metáfora de los fluidos se utiliza para:
+a. Para maquetar tablas
+b. Para estirar imágenes
+$c. Para técnicas de diseño adaptable
+d. Todas las respuestas anteriores son correctas
+e. Ninguna de las respuestas anteriores es correcta
+
+?: Los conceptos actuales de diseño web adaptable se han definido por hitos de la historia de la computación en el año:
+a. 1990
+b. 1996
+c. 2000
+$d. 2007
+e. Ningún año de los anteriores
+
+?: Para que el diseño sea adaptable el tamaño de las fuentes debe ser definido por medio de:
+a. px
+b. cm
+$c. em
+d. Todas las respuestas anteriores son correctas
+e. Ninguna de las respuestas anteriores es correcta
+
+?: Para que el diseño sea adaptable el tamaño de las imágenes debe ser definido por medio de:
+a. px
+b. cm
+$c. %
+d. Todas las respuestas anteriores son correctas
+e. Ninguna de las respuestas anteriores es correcta
+
+?: Sobre los navegadores o agentes de usuarios para los dispositivos móviles:
+a. Son los mismos que en los dispositivos de escritorio
+b. Son los mismos en todos los sistemas operativos
+$c. Son versiones adaptadas de los navegadores de escritorio
+d. Todas las respuestas anteriores son correctas
+e. Ninguna de las respuestas anteriores es correcta
+
+?: Sobre el diseño web adaptable se puede decir:
+a. Es un caso particular de la usabilidad
+b. Ha ido evolucionando históricamente hasta la actualidad
+c. Los sitios web se ajustan automáticamente a cualquier resolución
+$d. Todas las respuestas anteriores son correctas
+e. Ninguna de las respuestas anteriores es correcta 
+
+?: Sobre las ventajas de la adaptabilidad web se puede decir:
+a. Mejoran la experiencia del usuario
+b. Reducen los costes de creación y mantenimiento
+c. Evita tener que desarrollar aplicaciones específicas para cada sistema operativo
+$d. Todas las respuestas anteriores son correctas
+e. Ninguna de las respuestas anteriores es correcta 
+
+?: Para asegurar la usabilidad en dispositivos móviles, es necesario realizar pruebas:
+a. De usabilidad y adaptabilidad
+b. Sobre distinto hardware
+c. Sobre distintos sistemas operativos
+d. Sobre distintos navegadores o agentes de usuario
+$e. Todas las respuestas anteriores son correctas
+
+?: Las técnicas de diseño adaptable se inician con:
+a. HTML 1.1
+b. HTML 4.0
+$c. HTML 5
+d. Todas las respuestas anteriores son correctas
+e. Ninguna de las respuestas anteriores es correcta 
+
+?: Sobre las diferencias de usabilidad en dispositivos móviles se puede decir:
+a. Los principios de usabilidad son los mismos que en usabilidad web
+b. Los usuarios tienen una iteración más rápida
+c. Los usuarios leen menos que en otros dispositivos
+$d. Todas las respuestas anteriores son correctas
+e. Ninguna de las respuestas anteriores es correcta 

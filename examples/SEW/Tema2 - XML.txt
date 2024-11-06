@@ -1,0 +1,210 @@
+?: Sobre el lenguaje derivado de XML denominado XML Signature se puede decir:
+$a. Es utilizado para información de firma electrónica
+b. Es utilizado para datos de comercio electrónico
+c. Es utilizado por interfaces y tecnología .NET
+d. Es utilizado para información bancaria
+e. Es utilizado para intercambio de metadatos de diseños de software en UML
+
+?: Sobre KML se puede decir:
+a. Es un estándar del W3C
+b. Solamente permite representar un punto en un mapa
+c. No es un estándar
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: Sobre XML se puede decir...
+a. Es un meta-lenguaje
+b. Es una forma de exportar e importar datos entre aplicaciones
+c. Es  un estándar del W3C
+$d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas 
+
+?: Sobre SVG se puede decir que:
+$a. Permite incrustarse en el código HTML
+b. Permite incrustarse en el código CSS
+c. Permite incrustarse en el código JavaScript
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: Sobre SVG se puede decir:
+a. Es un vocabulario XML
+b. Es un estándar del W3C
+c. Permite crear gráficos vectoriales
+$d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: Sobre los nombres de los elementos en XML se puede decir:
+a. Son uno o más caracteres sin espacios en blanco
+b. Pueden incluir caracteres Unicode
+c. Son sensibles a mayúsculas y minúsculas
+$d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: Sobre el uso de tipos abstractos en XML se puede decir:
+$a. Los tipos derivados pueden usarse en los mismos sitios que el tipo base
+b. No se pueden usar tipos abstractos
+c. Solamente se pueden usar con tipos simples
+d. No permiten la herencia
+e. No se puede limitar la derivación de tipos abstractos con final = “restriction”
+
+?: El procesamiento de XML se hace:
+a. Recorriendo los atributos y después los elementos
+$b. Recorriendo el árbol n-ario desde la raíz
+c. Recorriendo los atributos únicos marcados con ID
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: Si en XML Schema se quiere definir un elemento que contenga la duración de una actividad,  se debe usar:
+a. xs:date
+b. xs:dateTime
+$c. xs:duration
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: En XPath que significa    //X[last()] [@Y="Z"]
+a. primeros hijos X con atributo Y = "Z"
+$b. últimos hijos X con atributo Y = "Z"
+c. descendientes X con atributo Y = "Z"
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: Sobre los DTD se puede decir:
+a. Realizan una validación de XML muy detallada al usar intensivamente PCDATA y CDATA
+b. Son mejores que los XML Schemas para validar
+c. Históricamente son posteriores a los XML Schemas
+d. Las respuestas a, b y c son correctas
+$e. Las respuestas a, b y c son incorrectas
+
+
+?: Sobre el contenido de los elementos en XML se puede decir:
+a. Son uno o más caracteres sin espacios en blanco
+$b. Pueden incluir caracteres Unicode
+c. No pueden contener números
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: En XML Schema se utiliza un tipo fecha (xs:date). Elegir la forma correcta del contenido del elemento si un elemento inicio viene definido por: <xs:element name = "inicio" type = "xs:date" />
+$a. <inicio>2021-10-21</inicio>
+b. <inicio>"veintiuno de octubre de 2021"</inicio>
+c. <inicio>"21-10-2021"</inicio>
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: Sobre el uso de espacios de nombres en XML se puede decir:
+$a. Evita el problema de la homonimia en las etiquetas
+b. Solamente se puede utilizar para esquemas XML
+c. Si se utiliza para cualquier texto genera documentos bien formados, pero no válidos
+d. No se pueden utilizar con cualquier tipo de documento XML
+e. Se usan para definir los tipos de los esquemas XML
+
+?: Sobre XSLT se puede decir:
+a. Es un lenguaje de programación
+b. Es un vocabulario XML
+c. Es un lenguaje de transformación de documentos XML
+$d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: Sobre XPath se puede decir:
+a. Es un lenguaje derivado de XML
+b. No es un estándar del W3C
+$c. Identifica los nodos del árbol XML
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: Sobre el lenguaje derivado de XML denominado XMI se puede decir:
+$a. Es utilizado en el intercambio de metadatos de diseños de software en UML
+b. Es utilizado en el intercambio de datos de comercio electrónico
+c. Es utilizado en el intercambio de información de firma electrónica
+d. Es utilizado en el intercambio de información bancaria
+e. Es utilizado por interfaces y tecnología .NET
+
+?: Diferencias entre DTDs y XML Schemas:
+a. Los DTDs tienen más tipos de datos que los XML Schemas
+b. Los DTDs son un vocabulario XML
+$c. Los XML Schema se pueden representar con un árbol n-ario
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: Sobre XPath se puede decir:
+$a. Permite acceder al árbol DOM de un documento XML
+b. Tiene sintaxis XML
+c. No es un estándar del W3C
+d. Solamente permite acceder a los atributos de un nodo
+e. Solamente permite acceder al elemento raíz de un documento XML
+
+?: Sobre XSLT se puede decir:
+$a. Permite transformar XML en XML
+b. Permite transformar CSS en XSLT
+c. Permite transformar HTML en XML
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: KML es:
+a. Es un vocabulario XML
+b. Es un estándar de datos geográficos
+c. Es  un estándar de OpenGeoSpatial
+$d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: Sobre el uso de tipos abstractos en XML se puede decir:
+$a. Se puede limitar la derivación de tipos abstractos con final = “restriction”
+b. No se pueden usar tipos abstractos
+c. Solamente se pueden usar con tipos simples
+d. No permiten la herencia
+e. Los tipos derivados no pueden usarse en los mismos sitios que el tipo base
+
+?: Sobre XSLT se puede decir:
+$a. Tiene sintaxis XML
+b. Lo soportan todos los navegadores (agentes de usuario)
+c. No es un estándar del W3C
+d. Solamente genera XML
+e. No permite procesar documentos XML
+
+?: Sobre el uso de secciones CDATA en XML se puede decir:
+$a. Permite especificar datos, utilizando cualquier carácter, especial o no, sin que se interprete como marcado XML
+b. Solamente se puede utilizar para el código fuente de los lenguajes de programación
+c. Si se utiliza para cualquier texto, genera documentos bien formados, pero no válidos
+d. No se puede utilizar con DTDs
+e. 
+
+?: Sobre el lenguaje derivado de XML denominado XAML se puede decir:
+$a. Es utilizado por interfaces y tecnología .NET
+b. Es utilizado para datos de comercio electrónico
+c. Es utilizado para información de firma electrónica
+d. Es utilizado para información bancaria
+e. Es utilizado para intercambio de metadatos de diseños de software en UML
+
+?: Sobre KMZ se puede decir que:
+a. Es un estándar de W3C
+$b. Es un KML empaquetado usando ZIP
+c. No es un estándar
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: Sobre el uso del tipo duración (xs:duration) en XML se puede decir:
+$a. <duracionRuta>P1Y7M29DT10H</duracionRuta> indica una duración de 1 año, 7 meses, 29 días y 10 horas
+b. <duracionRuta>P1A7M29DT10H</duracionRuta> indica una duración de 1 año, 7 meses, 29 días y 10 horas
+c. <duracionRuta>1A7M29DT10H</duracionRuta> indica una duración de 1 año, 7 meses, 29 días y 10 horas
+d. <duracionRuta>1A7M29D10H</duracionRuta> indica una duración de 1 año, 7 meses, 29 días y 10 horas
+e. <duracionRuta>1Y7M29D10H</duracionRuta> indica una duración de 1 año, 7 meses, 29 días y 10 horas
+
+?: Sobre el uso de la secuencia de elementos complejos no ordenados con <xs:all> en XML se puede decir:
+$a. Los elementos pueden aparecer en cualquier orden
+b. Los elementos pueden aparecer en cualquier orden solamente si se enumeran todas las combinaciones posibles
+c. Hay una especificación equivalente en los DTDs
+d. Es equivalente a <xs:choice> añadiendo una OR exclusiva
+e. Es equivalente a <xs:sequence> eligiendo UNSORTED
+
+?: XSLT se puede utilizar con la últimas versiones de los navegadores (agentes de usuario):
+a. Chrome
+b. Firefox
+c. Microsoft Edge
+d. Las respuestas a, b y c son correctas
+$e. Las respuestas a, b y c son incorrectas
+
+?: Sobre procesamiento y generación de XML se puede decir:
+a. Se puede hacer con Java
+b. Se puede hacer con C#
+c. Se pueden hacer con Python
+$d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas 

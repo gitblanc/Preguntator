@@ -1,0 +1,58 @@
+?: ¿Cómo podemos favorecer la usabilidad de un sitio Web?
+$a. Con un buscador
+b. Usar tablas para maquetar
+c. Usar el elemento de HTML iFrame
+d. Todas las respuestas anteriores son correctas
+
+?: Sobre Experiencia de Usuario, se puede decir:
+a. Es una parte de la Usabilidad
+b. Es una parte de la Accesibilidad
+c. Es una parte de la Adaptabilidad
+$d. Todas las respuestas anteriores son incorrectas
+
+?: ¿Cuáles son las barreras para el acceso a la Web de personas con ceguera?	
+a. Tablas que solamente se emplean para maquetar páginas
+b. Imágenes sin texto alternativo
+c. Usar Frames o marcos
+$d. Todas las respuestas anteriores son correctas
+
+?: Sobre los carruseles en sitios Web:
+a. Permiten ahorrar espacio 
+b. Son muy usables
+c. Son la última moda en interfaz web
+$d. Todas las respuestas anteriores son incorrectas
+
+?: Sobre Usabilidad:
+a. Toda la funcionalidad del sitio Web debe ser correcta
+b. El modelo mental del usuario debe percibir el sentido del sitio Web
+c. La curva de aprendizaje del usuario debe ser lo más rápida posible
+$d. Todas las respuestas anteriores son correctas
+
+?: ¿Siempre se puede encontrar una metáfora para el diseño de un sitio Web?
+a. Cierto
+$b. Falso
+c. No hay metáforas en la Web
+d. Ninguna de las respuestas anteriores es correcta
+
+?: En la página principal de un sitio web se debe colocar:
+a. Saludos de bienvenida a los usuarios 
+b. Textualmente lo buenos que somos los que hicimos el sitio Web
+c. Videos que deben visualizar obligatoriamente cada vez que entre un usuario al sitio web
+$d. Todas las respuestas anteriores son incorrectas
+
+?: ¿Qué es la navegación constante o global?
+a. Navegar por el sitio web a una velocidad constante, parando a reflexionar sobre los clics elegidos
+b. Navegar siempre con el mismo navegador
+$c. Conjunto de elementos que aparecen en todas las páginas del sitio
+d. Todas las respuestas anteriores son correctas
+
+?: ¿Cómo debemos guiar al usuario cuando navega por nuestro sitio Web?
+a. Cambiando la CSS en cada cambio de página para que se modifiquen los colores de fondo
+b. Incorporando gran cantidad de ventanas emergentes
+$c. Indicando donde nos encontramos
+d. Todas las respuestas anteriores son correctas
+
+?: ¿Cómo se utiliza la metáfora de un semáforo en un sitio Web?
+a. Solo con colores
+$b. Con colores y etiquetas
+c. No existen metáforas de semáforo

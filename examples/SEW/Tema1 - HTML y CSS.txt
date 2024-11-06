@@ -1,0 +1,174 @@
+?: En CSS los elementos forman cajas que pueden ser manipuladas a través de la interacción con los siguientes elementos:
+a. Contenido, relleno, borde y margen
+b. Relleno, borde y margen
+$c. Borde y margen
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: En cuanto a los selectores en CSS
+$a. El selector “a[accesskey]” selecciona todos los hiperenlaces que tengan el atributo accesskey
+b. El selector “body>p” selecciona todos los párrafos que estén dentro de sections, articles, header, footer y aside definidos en el  body
+c. El selector “h2+h1” selecciona todos los elementos h2 que aparezcan después del elemento h1
+d. El selector “h2+h1” selecciona todos los elementos h1 que aparezcan antes del elemento h2
+e. El selector “#” selecciona todos los elementos que tengan establecido el atributo id en su definición
+
+?:Sobre los metadatos en HTML se puede decir…
+a. Se sitúan detrás del bloque HEAD
+b. Se definen con el elemento “meta” y un valor
+c. No tienen atributos
+d. Las respuestas a, b y c son correctas
+$e. Las respuestas a, b y c son incorrectas
+
+?: En CSS, ¿qué prefijo se emplea para indicar una propiedad específica del navegador Firefox?
+a. -ff-
+$b. -moz-
+c. -webkit-
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: En CSS, a:hover y a:active son…
+a. Atributos
+$b. Pseudoclases
+c. Pseudoelementos
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: Para establecer la información referida al autor de un documento HTML5 válido se debe añadir al <head>:
+$a. <meta name="author" content="pepito grillo" />
+b. <meta name=author content=pepito grillo />
+c. <p> Autor="pepito grillo" </p>
+d. <meta author=”pepito grillo” />
+e. <address>Autor: pepito grillo </address>
+
+?: ¿Qué elementos se utilizan en la definición de los componentes de una tabla simple en HTML5?
+a. <td>…</td>
+b. <th>…</th>
+c. <tr>…</tr>
+$d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: Elige el elemento HTML5 correcto para definir el título o encabezado de más rango dentro de una sección o en un article
+a. <header>
+$b. <h1>
+c. <h2>
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: El elemento <link> de HTML5 sirve para:
+$a. Vincular al documento HTML recursos externos
+b. Vincular al documento los estilos que deben aplicarse a los elementos HTML especificados en archivos CSS con la etiqueta <style>
+c. Vincular al documento el comportamiento que debe especificarse en archivos JavaScript con la etiqueta <script>
+d. Vincular al documento los estilos especificados en archivos CSS y el comportamiento especificado en archivos JavaScript.
+e. Vincular al documento los hiperenlaces de navegación
+
+?: De qué color se mostrará el texto “uniovi” si tenemos en el documento html: <p>La Universidad de Oviedo se conoce como <a href=“www.uniovi.es” title=“página web de la universidad de oviedo”> uniovi</a>. </p> y en la hoja de estilo las siguientes reglas: p {color:red;} p a {color:green;} a {color:blue;}
+a. Rojo
+$b. Verde
+c. Azul
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: Sobre CSS se puede decir que:
+$a. Es un lenguaje para describir la presentación de documentos estructurados (como HTML y XML) en diferentes medios.
+b. Existen múltiples especificaciones de módulos que son manuales de usuario que determinan como se deben establecer estilos.
+c. En el nivel 4 se definen módulos como FlexBox, Grid Layout, etc. con propiedades específicas para establecer el posicionamiento de los elementos de un documento estructurado (como HTML y XML) en diferentes medios.
+d. Promueve la utilización de implementaciones propietarias de los agentes de usuario.
+e. Crea el árbol DOM de los estilos para documentos estructurados (como HTML y XML) en diferentes medios.
+
+?: Para incluir la imagen “casatata.jpg” en un documento HTML se debe escribir 
+a. <img href=“casatata.jpg” title=“La casa de tata” alt=“imagen de la casa de tata” />
+$b. <img src=“casatata.jpg” title=“La casa de tata” alt=“imagen de la casa de tata” />
+c. <img src=“casatata.jpg” title=“La casa de tata” alt=“imagen de la casa de tata” > </img>
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: Si se quiere cambiar el tamaño del texto de un elemento con CSS se utiliza:
+$a. font-size o font
+b. size
+c. text-size
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: El modelo de caja CSS generado para un elemento <section> de HTML5:
+$a. Se puede modificar mediante las propiedades margin, padding y border
+b. Se puede modificar el color del margen con la propiedad “margin: red 2em;”
+c. Se puede modificar el color del margen con la propiedad “margin-color: red;”
+d. El borde (border) de la caja se encuentra entra el relleno (padding) y el contenido (content)
+e. El relleno (padding) permite separa al elemento del resto de elementos de HTML5
+
+?: Que elementos son imprescindibles para que un documento sea HTML5 válido y sin advertencias
+a. Doctype, html, head, title, body, h1 y el elemento meta estableciendo la codificación de caracteres
+b. Doctype, html, head, title, body, link y el elemento meta estableciendo la codificación de caracteres
+$c. Doctype, html, head, title, body y el elemento meta estableciendo la codificación de caracteres
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: La cascada en CSS:
+$a. Es uno de los principios fundamentales de las hojas de estilo y permite que varias hojas de estilo afecten a un mismo documento.
+b. Produce una lista desordenada con varios valores de estilo a aplicar a cada propiedad en cada elemento del documento estructurado (como HTML y XML)
+c. Permite que los elementos descendientes de un elemento del documento estructurado (como HTML y XML) hereden el valor de las propiedades del elemento padre.
+d. Determina el valor de estilo a aplicar a cada una de las propiedades en cada elemento del documento estructurado (como HTML y XML) según su orden de aparición
+e. Determina el valor de estilo a aplicar a cada una de las propiedades en cada elemento del documento estructurado (como HTML y XML) según la especificidad del selector.
+
+?: Elige el elemento HTML5 correcta para definir el título o encabezado de más rango
+a. <header>
+b. <title>
+$c. <h1>
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: En los enlaces del menú de navegación para establecer un  atajo de teclado para el documentos “Actividades.html” se utiliza:
+a. <a title=“Actividad” accesskey=“ab” href=“actividades.html”>Actividades </a>
+$b. <a title=“Actividad” accesskey=“a” href=“actividades.html”>Actividades </a>
+c. <a title=“Actividad”  tabindex=“1” accesskey=“ab” href=“actividades.html”>Actividades </a>
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: Cuál es la regla en CSS para establecer la familia de tipografía Times New Roman de la familia serif y garantizar que con el validador del W3C no se obtengan errores ni advertencias:
+a. font-family: Times new Roman, serif
+b. font-family: “Times new Roman”;
+$c. font-family: “Times new Roman”, serif;
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: Para introducir el video.mp4 en un documento HTML5…
+a. <video source=“video.mp4” type=“video/mp4” autoplay> </video>
+b. <video src=“video.mp4” type=“video/mp4" controls="autoplay" />
+c. <video> <source=“video.mp4” type=“video/mp4” autoplay> </video>
+d. Las respuestas a, b y c son correctas
+$e. Las respuestas a, b y c son incorrectas
+
+?: Las propiedades de estilo para un elemento h1 se pueden establecer:
+a. En el documento html mediante: <h1 style = "color: red;”>Este titulo va en rojo</h1>
+b. En el documento html mediante: <head> <style> h1{color: red;} </style> </head>
+c. Una hoja de estilo estilo.css enlazada a través del elemento <link> en el <head> del documento HTML, que contiene el siguiente código: h1{color:red;}
+$d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: ¿Que elementos se utilizan para la definición de listas no ordenadas, ordenadas y de definición en HTML5?
+a. <ul>…</ul>; <ol>…</ol>; <dl>…</dl>; <li>…</li>; <dd>…</dd>; 
+$b. <ul>…</ul>; <ol>…</ol>; <dl>…</dl>
+c. <li>…</li>; <dd>…</dd>; <dt>..</dt>
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas
+
+?: En cuanto a la especificidad en CSS
+$a. El selector “a[accesskey]” tiene una especificidad de 011
+b. El selector “body>p” tiene una especificidad de 012 
+c. El selector universal “*” tiene una especificidad de 100
+d. El selector “.contenedor” tiene una especificidad de 100
+e. El selector “#contenedor” tiene una especificidad de 010
+
+?: Del árbol DOM (Document Object Model) construido a partir de un documento HTML5 válido se puede decir:
+$a. Los elementos se representan como objetos que pueden ser manipulados con una API.
+b. Los nodos representan a los elementos con tienen etiqueta de inicio <etiqueta> y etiqueta de cierre o final
+c. El elemento raíz es <head>
+d. Es un árbol binario
+e. El elemento raíz es <body>
+
+?: ¿Cuál es el tipo de documento (doctype) correcto en HTML5?
+a. <!DOCTYPE HTML5>
+$b. <!DOCTYPE html>
+c. <!DOCTYPE HTML PUBLIC “-//W3C//DTD HTML 5.0//EN” “http://www.w3.org/TR/html5/strict.dtd”>
+d. Las respuestas a, b y c son correctas
+e. Las respuestas a, b y c son incorrectas

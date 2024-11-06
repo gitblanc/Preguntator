@@ -8,7 +8,7 @@
 
 **Donate** <img src="https://github.com/gitblanc/Preguntator/assets/87705461/12bd82a5-71a1-499a-b88a-c2e9f60becb9" width="2%" height="2%">: bc1qjf9gc0n03g4zw9nxc4fwvv5zklnextj8wge4zk ❤️
 
-**Preguntator** is a web application that allow you to auto-evaluate yourself for your test-type exams.
+**Preguntator** is a web application that allows you to auto-evaluate yourself for your test-type exams.
 
 <br></br>
 

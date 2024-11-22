@@ -1,0 +1,179 @@
+?: Los hechos reflejados en el informe de auditoría… Seleccione una:
+a. Solamente han de ser aquellos relevantes para el auditor.
+$b. Se deben poder verificar de forma objetiva y estar documentalmente probados y soportados.
+c. No deben poder ser sometidos a cambios.
+d. El informe puede reflejar hechos repetidos.
+
+?: Según la LEC, ¿de cuántos días dispone el perito una vez ha sido designado por el tribunal para aceptar o rechazar la peritación? Seleccione una:
+a. 7 días desde el día de la designación o siguiente día hábil.
+$b. 2 días desde el día de la designación o siguiente día hábil.
+c. 5 días desde el día de la designación o siguiente día hábil.
+d. 3 días desde el día de la designación o siguiente día hábil.
+
+?: Indique cuál sería el orden de adquisición adecuado en función de la volatilidad. Seleccione una:
+a. Discos duros, archivos de paginación e intercambio, RAM y Caché, estado de la red y conexiones abiertas, procesos.
+b. Procesos, RAM y Caché, estado de la red y conexiones abiertas, archivos de paginación e intercambio, discos duros.
+$c. RAM y Caché, estado de la red y conexiones abiertas, procesos, archivos de paginación e intercambio, discos duros.
+d. Estado de la red y conexiones abiertas, RAM y Caché, procesos, archivos de paginación e intercambio, discos duros.
+
+?: Cuando en la LEC ambas partes se ponen de acuerdo para designar un único perito, los honorarios de éste... Seleccione una:
+a. Son a cuenta de la parte demandada.
+b. Son a cuenta del tribunal.
+c. Son a cuenta de la parte demandante.
+$d. Son a cuenta de ambas partes a partes iguales.
+
+?: Señale la opción correcta. Seleccione una:
+a. Los delitos relacionados con la pornografía infantil se encuentran recogidos en el Grupo 1 del Convenio Europeo sobre Ciberdelincuencia.
+$b. El delito informático, estrictamente, no está tipificado como tal en el Código Penal Español.
+c. Los delitos relacionados con la confidencialidad de los datos se encuentran recogidos en el Grupo 3 del Convenio Europeo sobre Ciberdelincuencia.
+d. Los delitos relacionados con la supresión o borrado de datos se encuentran recogidos en el Grupo 1 del Convenio Europeo sobre Ciberdelincuencia.
+
+?: Según la LEC, ¿en qué plazo puede solicitar un perito designado por el tribunal una provisión de fondos? Seleccione una:
+a. En los 5 días siguientes a su nombramiento.
+b. En los 2 días siguientes a su nombramiento.
+c. En los 15 días siguientes a su nombramiento.
+$d. En los 3 días siguientes a su nombramiento.
+
+?: Si un perito forense actuando en una causa judicial, falta a la verdad al declarar sobre unos hechos, podría incurrir en un delito … Seleccione una:
+a. De falsedad de documentos.
+b. Contra el patrimonio.
+c. De revelación de secretos.
+$d. De falso testimonio.
+
+?: Señale la respuesta INCORRECTA. Seleccione una:
+a. En el plan de trabajo de auditoría se estructuran las tareas a realizar por cada integrante del grupo.
+b. En el plan de trabajo de auditoría se establecen los recursos y esfuerzos globales que van a ser necesarios.
+c. El plan de trabajo de auditoría se establece la disponibilidad futura de los recursos durante la auditoría.
+$d. En el plan de trabajo de auditoría se establecen las prioridades de materias auditables de acuerdo siempre al criterio del auditor.
+
+?: ¿Qué es una amenaza para un sistema de información? Seleccione una:
+a. Ninguna de las respuestas es correcta.
+$b. Causa potencial de un incidente que puede causar daños.
+c. La medida del daño probable sobre un activo del sistema de información.
+d. La medida del daño potencial sobre un activo del sistema de información.
+
+?: Señale la respuesta correcta. Seleccione una:
+a. La pericial es un documento de carácter reactivo.
+$b. El dictamen es un documento que tiene un objetivo de carácter reactivo.
+c. La pericial es un documento de carácter descriptivo.
+d. El informe técnico es un documento que tiene un objetivo de carácter informativo.
+
+?: Señale la respuesta correcta: Seleccione una:
+a. En el informe pericial se recomienda dar todo tipo de explicaciones técnicas en el cuerpo del mismo para su mejor comprensión.
+b. En el apartado de estándares y normas de un informe pericial se deben describir de manera exhaustiva la funcionalidad de las herramientas forenses que hemos utilizado.
+$c. La estructura del informe pericial no está definida legalmente.
+d. Las conclusiones de un informe pericial deben ser redactadas utilizando una gran cantidad de vocabulario técnico.
+
+?: ¿Cuál de las siguientes salvaguardas acotaría la degradación de un sistema? Seleccione una:
+$a. Backup.
+b. Registros de actividad.
+c. Armario ignífugo.
+d. Antivirus.
+
+?: Si un perito forense actuando en una causa judicial, inutiliza pruebas de forma intencionada podría incurrir en un delito de …: Seleccione una:
+a. Cohecho.
+b. Falso testimonio.
+$c. Encubrimiento.
+d. Falsedad de documentos
+
+?: ¿En cuantas dimensiones es posible valorar un activo según MAGERIT? Seleccione una:
+a. 3
+$b. 5
+c. 4
+d. Tantas como desee el auditor.
+
+?: Señale la respuesta INCORRECTA en cuanto a las recomendaciones que se pueden encontrar en un informe de auditoría. Seleccione una:
+a. Deberán entenderse por sí solas, por simple lectura.
+b. Las recomendaciones pueden sugerir acciones correctivas y/o preventivas.
+c. Deberán ser concretas y exactas en el tiempo, para que pueda ser verificada su implementación.
+$d. Deberán ir dirigidas a la persona que encarga la auditoría.
+
+?: Señale la respuesta correcta: Seleccione una:
+a. En actos judiciales en los que intervienen peritos, la presencia de éstos es obligatoria en la vista.
+$b. Si el perito es nombrado por el tribunal, pregunta primero el fiscal.
+c. Los peritos en una vista declaran antes que los testigos.
+d. Si el perito es de parte, pregunta primero la parte contraria.
+
+?: Señale la respuesta correcta en relación con los CHECKLIST. Seleccione una:
+$a. Los checklist binarios requieren menos uniformidad del equipo auditor.
+b. El orden y el modo de formulación de las preguntas de un checklist no es relevante.
+c. Las preguntas utilizadas en las checklists no deben ser repetidas ni incidir sobre el mismo aspecto.
+d. Existen checklist estándar para cada uno de los aspectos informáticos a auditar.
+
+?: ¿En qué dimensión de valoración incluiría la valoración del perjuicio que causaría que un activo estuviera dañado según MAGERIT? Seleccione una:
+a. Autenticidad
+b. Disponibilidad
+$c. Integridad
+d. Trazabilidad
+
+?: ¿En qué dimensión de valoración incluiría la valoración del perjuicio que causaría no saber quién accede a qué datos y qué hace con ellos según MAGERIT? Seleccione una:
+a. Integridad
+b. Confidencialidad
+$c. Trazabilidad
+d. Autenticidad
+
+?: Señale cuál de las siguientes afirmaciones es INCORRECTA respecto a la valoración de los activos en MAGERIT. Seleccione una:
+$a. Todos los activos tienen las mismas dimensiones de valoración.
+b. Los valoraciones cuantitativas suponen mayor esfuerzo para el auditor.
+c. Las valoraciones cualitativas no permiten comparar valores más allá de su orden relativo.
+d. El valor de un activo puede ser propio o acumulado.
+
+?: Señale la respuesta correcta. Seleccione una:
+$a. En la Auditoría de Sistemas, el nivel de servicio viene determinado de manera objetiva por una serie de parámetros cuantificables.
+b. Las normas son de aplicación obligatoria a las actividades del sector al cual están dirigidas.
+c. ITIL está aconsejado para organizaciones de tamaño pequeño y mediano.
+d. Las normas son documentos técnicos impuestos por los organismos de normalización (ISO, IEC, AENOR, etc.).
+
+?: Señale en relación a un Informe de Auditoría, cuál de las siguientes afirmaciones es INCORRECTA. Seleccione una:
+$a. El lenguaje empleado en el informe no debe ser formal.
+b. El título debe ser descriptivo.
+c. Los hechos descritos en el informe se deben de poder probar de forma objetiva.
+d. Se deben de mencionar cuáles son los estándares y normas aplicados por el equipo de auditoría.
+
+?: ¿En qué tipo delictivo del Código Penal situaría la posesión de programas generadores de Product Key? Seleccione una:
+a. Falsedades.
+b. Daños informáticos.
+$c. Infracciones a la propiedad intelectual.
+d. Fraudes o estafas informáticas.
+
+?: Señale cuál de las siguientes afirmaciones es INCORRECTA respecto a los dominios de seguridad en MAGERIT. Seleccione una:
+a. Los dominios de seguridad pueden anidarse unos dentro de otros.
+$b. Los subdominios no heredan los niveles de madurez del dominio que los contiene.
+c. Un dominio agrupa activos que están sujetos a las mismas amenazas.
+d. A los activos de un dominio se les puede aplicar las mismas medidas de protección.
+
+?: ¿Cuál de las siguientes normas ISO utilizaría como referencia en una Auditoría de Sistemas? Seleccione una:
+a. ISO 18028
+b. ISO 27004
+c. ISO 9126
+$d. ISO 27002
+
+?: Señale la respuesta correcta. Seleccione una:
+$a. Si tenemos que apagar un sistema encendido tendremos que hacerlo tirando del cable de corriente.
+b. Si nos encontramos el sistema encendido, se debe apagar para comenzar primero con la adquisición forense de los discos.
+c. Si el ordenador del cual vamos a realizar la adquisición está apagado, podemos iniciarlo sin temor a destruir las evidencias o alterarlas.
+d. Podemos utilizar llaves USB o Live CD/DVDs con utilidades forenses que monten automáticamente las particiones del sistema en el que realizamos la adquisición.
+
+?: ¿En qué estandar se apoya fundamentalmente la metodología MAGERIT para la evaluación, homologación y certificación de Seguridad de los Sistemas de Información? Seleccione una:
+a. ISO 14001.
+$b. ISO 27001.
+c. ISO 9001.
+d. ISO 45001.
+
+?: ¿Cuál de los siguientes activos de una organización sería considerado por la metodología MAGERIT como "esencial"? Seleccione una:
+a. Los equipos informáticos (hardware) que permiten hospedar datos, aplicaciones y servicios.
+b. Las redes de comunicaciones que permiten intercambiar datos.
+c. Las instalaciones que acogen equipos informáticos y de comunicaciones.
+$d. La información que maneja la organización.
+
+?: Según la LEC, los peritos solamente podrán ser nombrados por el tribunal si... Seleccione una:
+$a. Cualquiera de las otras opciones.
+b. Si la demanda o el demandado lo solicitan en sus escritos iniciales.
+c. El tribunal lo considera pertinente.
+d. Si a cualquiera de las partes le asistiese el derecho de asistencia técnica gratuita.
+
+?: ¿En qué dimensión de valoración incluiría la valoración del perjuicio que causaría que un activo fuese conocido por quien no debe según MAGERIT? Seleccione una:
+a. Trazabilidad
+b. Disponibilidad
+c. Autenticidad
+$d. Confidencialidad

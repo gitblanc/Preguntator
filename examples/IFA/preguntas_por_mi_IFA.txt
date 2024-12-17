@@ -67,7 +67,7 @@ d. No corresponde a organismos nacionales, sino internacionales
 ?: ¿Cuáles son las principales normas y estándares aplicables a la Informática Forense?
 $a. Norma UNE-ISO/IEC 27037-2012, Norma UNE-ISO/IEC 27041, Norma UNE-ISO/IEC 27043, Norma UNE-ISO/IEC 27050
 b. Norma UNE-ISO/IEC 27038-2012, Norma UNE-ISO/IEC 27041, Norma UNE-ISO/IEC 27041, Norma UNE-ISO/IEC 27050
-c. Norma UNE-ISO/IEC 27037-2012, Norma UNE-ISO/IEC 27041, Norma UNE-ISO/IEC 27043, Norma UNE-ISO/IEC 27050
+c. Norma UNE-ISO/IEC 27037-2012, Norma UNE-ISO/IEC 27041, Norma UNE-ISO/IEC 27043, Norma UNE-ISO/IEC 27051
 d. Norma UNE-ISO/IEC 27038-2012, Norma UNE-ISO/IEC 27041, Norma UNE-ISO/IEC 27043, Norma UNE-ISO/IEC 27051
 
 ?: La investigación forense debe ser...

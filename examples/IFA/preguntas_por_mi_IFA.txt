@@ -1,0 +1,85 @@
+?: Delitos contra la confidencialidad, la integridad y la disponibilidad de los datos y sistemas informáticos se sitúan dentro de:
+$a. Grupo 1 del Convenio Europeo sobre Ciberdelincuencia
+b. Grupo 2 del Convenio Europeo sobre Ciberdelincuencia
+c. Grupo 3 del Convenio Europeo sobre Ciberdelincuencia
+d. Grupo 4 del Convenio Europeo sobre Ciberdelincuencia
+
+?: La falsificación, supresión o borrado de datos se sitúan dentro de:
+$a. Grupo 2 del Convenio Europeo sobre Ciberdelincuencia
+b. Grupo 1 del Convenio Europeo sobre Ciberdelincuencia
+c. Grupo 3 del Convenio Europeo sobre Ciberdelincuencia
+d. Grupo 4 del Convenio Europeo sobre Ciberdelincuencia
+
+?: Delitos relacionados con contenido (ej.: pornografía infantil) se sitúan dentro de:
+$a. Grupo 3 del Convenio Europeo sobre Ciberdelincuencia
+b. Grupo 1 del Convenio Europeo sobre Ciberdelincuencia
+c. Grupo 2 del Convenio Europeo sobre Ciberdelincuencia
+d. Grupo 4 del Convenio Europeo sobre Ciberdelincuencia
+
+?: La vulneración de derechos de propiedad intelectual se sitúa dentro de:
+$a. Grupo 4 del Convenio Europeo sobre Ciberdelincuencia
+b. Grupo 1 del Convenio Europeo sobre Ciberdelincuencia
+c. Grupo 2 del Convenio Europeo sobre Ciberdelincuencia
+d. Grupo 3 del Convenio Europeo sobre Ciberdelincuencia
+
+?: ¿Cuáles de los siguientes es/son tipo/s delictivo del Código Penal?
+$a. Ataques contra el derecho a la intimidad
+$b. Infracciones a la propiedad intelectual
+c. Sabotaje informático
+d. Acceso indebido a información pública
+
+?: ¿Cuáles de los siguientes es/son tipo/s delictivo del Código Penal?
+$a. Daños informáticos
+$b. Falsedades
+$c. Fraudes o estafas informáticas
+$d. Amenazas
+
+?: ¿Cuáles de los siguientes es/son tipo/s delictivo del Código Penal?
+$a. Calumnias e injurias
+$b. Pornografía infantil
+c. Suplantación de identidad no lucrativa
+d. Difusión de noticias falsas
+
+?: ¿Qué normas completa el ordenamiento jurídico español?
+$a. LSSICE, LOPD, LGT, LPI, LFE
+b. LSSI, LOPD, LGTB, LPI, LFE
+c. LSSICE, LOPD, LGTB, LPI, LFE
+d. LSSICE, LOP, LGT, LPID, LFE
+
+?: ¿Cuál es una característica del delito informático?
+$a. Se puede realizar de manera no presencial (remotamente)
+b. Es fácil demostrar quien hizo el perjuicio
+c. Se conoce como denunciar
+d. No corresponde a organismos nacionales, sino internacionales
+
+?: ¿Cuál es una característica del delito informático?
+$a. Es difícil demostrar quien hizo el perjuicio
+b. Siempre se hace de manera presencial
+c. Se conoce como denunciar
+d. No corresponde a organismos nacionales, sino internacionales
+
+?: ¿Cuál es una característica del delito informático?
+$a. No se conoce cómo denunciar
+b. Siempre se hace de manera presencial
+c. Es fácil demostrar quien hizo el perjuicio
+d. No corresponde a organismos nacionales, sino internacionales
+
+?: ¿Cuáles son las principales normas y estándares aplicables a la Informática Forense?
+$a. Norma UNE-ISO/IEC 27037-2012, Norma UNE-ISO/IEC 27041, Norma UNE-ISO/IEC 27043, Norma UNE-ISO/IEC 27050
+b. Norma UNE-ISO/IEC 27038-2012, Norma UNE-ISO/IEC 27041, Norma UNE-ISO/IEC 27041, Norma UNE-ISO/IEC 27050
+c. Norma UNE-ISO/IEC 27037-2012, Norma UNE-ISO/IEC 27041, Norma UNE-ISO/IEC 27043, Norma UNE-ISO/IEC 27050
+d. Norma UNE-ISO/IEC 27038-2012, Norma UNE-ISO/IEC 27041, Norma UNE-ISO/IEC 27043, Norma UNE-ISO/IEC 27051
+
+?: La investigación forense debe ser...
+$a. Auditable, reproducible, no intrusiva y defendible
+b. Auditable, reproducible, intrusiva y defendible
+c. Auditable, reproducible, no intrusiva, defendible y fácil de comprender
+d. Auditable, reproducible, intrusiva, defendible y fácil de comprender
+
+?: ¿Cuáles son los requisitos esenciales de una investigación forense?
+$a. Aceptabilidad, Integridad, Credibilidad, Relación Causa-Efecto y Repetibilidad
+b. Aceptabilidad, Integridad, Calidad, Relación Causa-Efecto y Repetibilidad
+c. Aceptabilidad, Confidencialidad, Credibilidad, Relación Causa-Efecto y Repetibilidad
+d. Aceptabilidad, Integridad, Credibilidad, Confidencialidad y Repetibilidad
+
+

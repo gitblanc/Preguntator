@@ -1,0 +1,55 @@
+?: Dado un conjunto de dependencias F, F+, un conjunto de atributos X cuyos atributos están todos en F, X+ y un atributo A contenido en X, siempre se cumple  
+a. A -> X PERTENECE F  
+b. (A)+ -> X PERTENECE F+  
+c. A -> X+ PERTENECE F+  
+d. (A)+ CONTENIDO_EN X  
+$e. Ninguna de las otras es correcta  
+
+?: En una integridad referencial con una relación referenciada r1 con clave primaria K y una relación que referencia r2 con clave externa *alfa*  
+a. Una actualización en r1 puede conllevar una inserción en r2  
+b. Una eliminación en r2 puede conllevar una eliminación en r1  
+c. Una inserción en r1 puede conllevar una inserción en r2  
+$d. Una eliminación en r1 puede conllevar una actualización en r2  
+e. Ninguna de las otras es correcta  
+
+?: Dado F = { CD -> B, C -> B, AD -> B }  
+$a. CD -> B es redundante  
+b. Sólo C es un atributo ajeno en CD -> B  
+c. Sólo D es un atributo ajeno en CD -> B  
+d. D es un atributo ajeno en AD -> B  
+e. Ninguna de las otras es correcta  
+
+?: Dado F = { BC -> D, C -> BA } y R = (A, B, C, D)  
+a. La forma normal más alta en que está R es 3FN  
+b. R no está en BCNF ni en 3FN  
+c. No se puede saber la forma normal de R puesto que F no es un recubrimiento canónico  
+$d. La forma normal más alta en que está R es BCNF  
+e. Ninguna de las otras es correcta  
+
+?: La operación de división del álgebra relacional se introduce  
+a. Para que las expresiones del álgebra relacional sean equivalentes en potencia al SQL  
+b. Para que el resultado de las consultas no genere infinitas tuplas  
+c. Para que el dominio de los atributos de las relaciones no sea multivaluado  
+d. Para que no salgan tuplas repetidas en el resultado de una expresión  
+$e. Ninguna de las otras es correcta  
+
+?: Dado un conjunto de dependencias funcionales F, F+, Fe1 y Fe2 recubrimientos canónicos de F y Fe1+ y Fe2+, siempre se cumple  
+a. Fe1 = Fe2  
+b. F ==> Fe1, Fe1 =/=> F  
+c. Fe1 =/=> Fe2, Fe2 =/=> Fe1  
+$d. Fe1+ = Fe2+  
+e. Ninguna de las otras es correcta  
+
+?: Dado un esquema relacional R y una descomposición de R en R1 y R2, R1_INTERSECTION_R2 NO es vacío, y dados r(R), r1(R1) y r2(R2), se dice que la descomposición es de producto CON pérdida debido a  
+$a. r1 | x| r2 (producto natural) tiene MÁS tuplas que las que había en r  
+b. r1 | x| r2 (producto natural) tiene MENOS tuplas que las que había en r  
+c. r1 x r2 (producto cartesiano) tiene MÁS tuplas que las que había en r  
+d. Nunca puede ser una descomposición de producto con pérdida de R  
+e. Ninguna de las otras es correcta  
+
+?: Dado F = { DA -> CB, B -> CD } y R = (A, B, C, D)  
+a. La forma normal más alta en que está R es 3FN  
+$b. R no está en BCNF ni en 3FN  
+c. No se puede saber la forma normal de R puesto que F no es un recubrimiento canónico  
+d. La forma normal más alta en que está R es BCNF  
+e. Ninguna de las otras es correcta  

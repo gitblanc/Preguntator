@@ -1,0 +1,70 @@
+?: Las restricciones de integridad del tipo A --> B (dependencia funcional), en SQL
+$a. Sólo pueden expresarse mediante restricciones genéricas
+b. Se expresan mediante CHECK ( A IMPLIES B )
+c. Ninguna de las otras es correcta
+d. No necesitan expresarse, pues en SQL no son necesarias
+e. Se expresan mediante CHECK ( A FUNCTIONAL DEPENDENCY B )
+
+?: Dada una relación R y un conjunto de dependencias F, en cualquier descomposición posible de R cuya forma normal más alta sea 3FN
+a. Necesariamente F tiene que ser un recubrimiento canónico
+b. Siempre se conservan las dependencias
+c. Como máximo cada relación tiene una única clave candidato
+d. Todas las dependencias originales de F pueden comprobarse mediante claves candidato en la descomposición
+$e. Ninguna de las otras es correcta
+
+?: Dado un R con 3 atributos, r(R) y un conjunto de dependencias canónico Fc con una única dependencia R=(A,B,C) las F solo pueden ser {A->B} ó {AB->C} o {A->BCD} o análogas
+a. Ninguna de las otras es correcta
+b. R nunca puede estar en 3FN como forma más alta
+c. En algún caso r podría tener tuplas repetidas
+d. R nunca puede descomponerse hasta BCNF conservando las dependencias
+$e. R nunca puede tener más de una clave candidato
+
+?: El cierre X+ de un conjunto de atributos X contenido en R bajo un conjunto de dependencias F
+a. Se calcula partiendo necesariamente de un recubrimiento canónico de F
+b. Puede tener menos atributos que X
+$c. Ninguna de las otras es correcta
+d. Es igual a R si todos los atributos de X son primos
+e. No puede tener atributos primos
+
+?: Dado un conjunto de dependencias F y dos recubrimientos canónicos de F, Fc1 y Fc2
+a. Fc1 = Fc2 siempre
+b. Ninguna de las otras es correcta
+$c. (Fc1)+ = (Fc2)+ siempre
+d. F ==> Fc1 y F ==> Fc2 siempre, pero en algunos casos puede que Fc1 =/=> Fc2
+e. El número de dependencias de Fc1 y Fc2 siempre es el mismo
+
+?: En SQL, una expresión equivalente a las que usan la operación de división en álgebra relacional
+a. Necesita utilizar obligatoriamente el operador MINUS (EXCEPT) al menos
+b. No puede expresarse en la práctica, pues CONTAINS no forma parte de ningún estándar de SQL
+c. Tendría un tiempo de ejecución tan excesivo que no se puede usar en la práctica
+d. Se puede crear fácilmente usando el operador FORALL
+$e. Ninguna de las otras es correcta
+
+?: Dada una integridad referencial entre una relación referenciada r1, con clave primaria K, y una relación que referencia r2 con clave externa A
+a. La inserción de una tupla en r1 puede provocar eliminación de tuplas en r2
+b. Ninguna de las otras es correcta
+c. La inserción de una tupla en r2 puede provocar actualización de tuplas en r1
+d. La actualización de una tupla en r2 puede provocar actualización de tuplas en r2
+$e. La eliminación de una tupla en r1 puede provocar actualización de tuplas en r2
+
+?: Dado R = (A, B, C, D, E) y un conjunto de dependencias F = { AB --> CD, CD --> AB, A --> C }
+a. La forma normal más alta en que está R es BCNF
+b. R no está en BCNF ni en 3FN
+c. No se puede conocer la forma normal en que está R hasta que se calcule un recubrimiento canónico de F
+d. Ninguna de las otras es correcta
+$e. La forma normal más alta en que está R es 3FN
+
+?: Dado R = { DNI, nombre, calle, ciudad, teléfono } y F = { DNI --> nombre, nombre --> calle, ciudad }
+a. Ninguna de las otras es correcta
+b. Teléfono es una clave candidato de R
+c. Dos personas con el mismo nombre NO pueden tener el mismo teléfono
+$d. En general, una persona cualquiera NO puede cambiarse a vivir en cualquier ciudad que se desee
+e. DNI es una superclave de R
+
+?: Dado F = { A --> BC, BC --> E, AE --> CD }
+a. A es un atributo ajeno en AE --> CD
+b. D es un atributo ajeno en AE --> CD
+c. Ninguna de las otras es correcta
+$d. E es un atributo ajeno en AE --> CD
+e. B es un atributo ajeno en A --> BC
+

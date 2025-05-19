@@ -1,0 +1,70 @@
+?: Dado el siguiente diagrama Entidad-Relación en los mecanismos normales de representación mediante tablas son representaciones válidas:
+a) A(_a1_, a2) B(_b1_, b2) C(_c1_, c2)
+b) B(_a1_, b1, b2) C(_a1_, c1, c2)
+c) B(_a1_, a2, b1, b2) C(_a1_, a2, c1, c2)
+d) B(_a1_, a2, b1, b2) C(_a1_, c1, c2)
+$e) Ninguna de las otras es correcta
+
+?: Las relaciones redundantes o derivadas en el modelo Entidad-Relación
+a) Son aquellas relaciones ternarias que se pueden sustituir por dos relaciones binarias
+b) Aparecen cuando se establecen dos o más relaciones entre las mismas dos entidades
+c) Son aquellas relaciones binarias de uno a muchos que no necesitan pasarse a tablas
+d) Son aquellas relaciones que tienen varios atributos
+$e) Ninguna de las otras es correcta
+
+?: En el modelo Entidad-Relación tienen al menos una clave candidato
+a) Entidades Fuertes SI, Entidades Débiles SI, Relaciones NO
+$b) Entidades Fuertes SI, Entidades Débiles SI, Relaciones SI
+c) Entidades Fuertes SI, Entidades Débiles NO, Relaciones SI
+d) Entidades Fuertes SI, Entidades Débiles NO, Relaciones NO
+e) Ninguna de las otras es correcta
+
+?: Mediante un lenguaje de manejo de datos se puede
+a) Definir el esquema lógico
+$b) Eliminar información almacenada en la base de datos
+c) Modificar el esquema físico
+d) Eliminar subesquemas
+e) Ninguna de las otras es correcta
+
+?: Al pasar a tablas un diagrama Entidad-Relación, la generación de una tabla para una relación es
+a) Obligatoria en relaciones unarias (reflexivas) de uno a muchos
+b) Opcional en relaciones binarias de muchos a muchos
+c) Obligatoria en relaciones bitácora
+d) Obligatoria en relaciones binarias de uno a uno
+$e) Ninguna de las otras es correcta
+
+?: El gestor (manejador) de la base de datos, se ocupa, entre otras cosas, de
+$a) Controlar la concurrencia en el acceso a los datos
+b) Convertir los programas con sentencias inmersas del lenguaje de manejo de datos en programas que se puedan compilar
+c) Optimizar las consultas para que se ejecuten más rápidamente
+d) Reorganizar el esquema lógico para evitar redundancias
+e) Ninguna de las otras es correcta
+
+?: La restricción de exclusión dentro del modelo E-R
+a) Indica que los conjuntos de las entidades de "bajo nivel" tienen que ser disjuntos en una generalización
+b) Se establece entre una Entidad dominante y la Entidad débil que depende de ella
+c) Indica que ya no se pueden añadir más entidades dentro de un conjunto de entidades
+d) Se establece entre varios C. Entidades denominados "raíces" y varios C. Entidades "hoja"
+e) Ninguna de las otras es correcta
+
+?: Funciones propias del administrador de la base de datos son
+a) Escribir los programas de aplicación si estos usan el SGBD
+$b) Definir los subesquemas necesarios mediante el lenguaje de definición de datos
+c) Contratar al personal para el desarrollo de aplicaciones
+d) Escribir las consultas necesarias mediante el lenguaje de manejo de datos
+e) Ninguna de las otras es correcta
+
+?: Inconvenientes, en general, de los sistemas tradicionales de procesamiento de ficheros frente a los sistemas de gestión de bases de datos son
+a) Una mayor lentitud en el acceso físico a los datos
+b) Mayor dificultad de utilización de las aplicaciones por parte de los usuarios
+$c) Grandes problemas de independencia física de datos
+d) Falta de soporte para dominios atómicos
+e) Ninguna de las otras es correcta
+
+?: Los metadatos que se almacenan en el diccionario de datos de un SGBD
+a) Son las tuplas iniciales con las que se "inicializa" cada relación de la base de datos
+b) Son generados por usuarios avanzados al ejecutar consultas de datos
+c) Son el resultado de la compilación de los programas con sentencias inmersas del lenguaje de manejo de datos
+$d) Contienen información que describe el esquema conceptual de la base de datos
+e) Ninguna de las otras es correcta
+

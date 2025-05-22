@@ -1,0 +1,57 @@
+?: Un conjunto de entidades fuertes del modelo Entidad-Relación  
+a. Puede tener un conjunto de atributos denominado discriminador  
+b. NO puede depender por existencia de otra entidad  
+c. NO puede estar relacionado con el mismo C.E. a través de dos C.R. distintos  
+$d. Puede tomar parte en un conjunto de relaciones bitácora  
+e. Ninguna de las otras es correcta  
+
+?: En los mecanismos normales de representación mediante tablas de un conjunto de relaciones normal del modelo Entidad-Relación  
+$a. Siempre aparece alguna clave externa  
+b. Los atributos de la relación siempre forman parte de la clave de la tabla, si se genera una  
+c. Cuando la cardinalidad es de muchos a muchos a uno (relación ternaria) no se generan tablas  
+d. Siempre se generan una o dos tablas por cada conjunto de relaciones  
+e. Ninguna de las otras es correcta  
+
+?: Dada un conjunto de entidades E=(A,B,C,D)  
+a. {A,B,C,D} es una clave primaria  
+b. Pueden existir elementos repetidos si hay dos superclaves diferentes  
+c. {A,B,C,D} es una clave candidato  
+d. Pueden existir varias claves primarias  
+$e. Ninguna de las otras es correcta  
+
+?: El lenguaje de manejo de datos (LMD)  
+a. Tiene una parte que permite la modificación del diccionario de datos  
+$b. Está ligado a un modelo de datos determinado  
+c. Permite especificar las propiedades estáticas de un esquema de base de datos  
+d. Debe ser de tipo gráfico para poder expresar todos los conceptos necesarios  
+e. Ninguna de las otras es correcta  
+
+?: Dado el siguiente diagrama Entidad-Relación en los mecanismos normales de representación mediante tablas son representaciones válidas  
+[image5.png]
+a. B(_K_, a1, a2, b1, b2) C(_a1_, c1)  
+b. A(_K_, a1, a2, b1, b2, c1)  
+c. A(_K_, a1, a2) B(_b1_, b2) C(_c1_)  
+d. A(_K_, a1, a2, c1) B(_b1_, b2)  
+$e. Ninguna de las otras es correcta  
+
+?: Dentro de la estructura general de referencia de un sistema de gestión de bases de datos  
+a. El gestor de transacciones se ocupa de interpretar las sentencias del LDD  
+$b. Todos los accesos a los datos pasan a través del gestor de la base de datos  
+c. El procesador de consultas modifica los metadatos  
+d. En algunos casos las aplicaciones pueden acceder directamente a los datos físicos de la base de datos por razones de velocidad  
+e. Ninguna de las otras es correcta  
+
+?: Dado el siguiente diagrama Entidad-Relación en los mecanismos normales de representación mediante tablas son representaciones válidas (el atributo x no forma parte de claves)
+[image7.png]
+a. A(a1, a2, b1, c1, x) B(_b1_, b2) C(_c1_, c2)  
+b. A(_a1_, a2) R(_a1_, b1, c1, x) B(_b1_, b2) C(_c1_, c2)  
+c. A(_a1_, a2) R(_a1, b1, c1_, x) B(_b1_, b2) C(_c1_, c2)  
+d. A(_a1_, a2) R(_a1, b1_, c1, x) B(_b1_, b2) C(_c1_, c2)  
+$e. Ninguna de las otras es correcta  
+
+?: La restricción de subconjunto dentro del modelo E-R  
+a. Se establece entre varios C. Relaciones denominados "fuertes" y varios C. Relaciones "débiles"  
+b. Hace referencia a que las entidades de "alto nivel" en una generalización no pueden tener relaciones con las de "bajo nivel"  
+$c. Puede usarse a la vez que la restricción de cardinalidad  
+d. Se considera parte del nivel simple del modelo E-R  
+e. Ninguna de las otras es correcta  

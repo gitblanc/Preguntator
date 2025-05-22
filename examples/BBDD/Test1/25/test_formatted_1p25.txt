@@ -1,0 +1,64 @@
+?: La propiedad de la independencia de datos tiene relación con:
+$a. La capacidad de modificar la forma de almacenar los datos físicamente sin afectar el código de las aplicaciones
+b. La capacidad de restringir el acceso a los datps dependiendo del usuario que lo solicite
+c. La capacidad de garantizar que los datos sean consistentes y no tengan errores
+d. La capacidad de cambiar de sistema de gestión de bases de datos a otro sin afectar el código de las aplicaciones
+
+?: Inconvenientes en general de los sistemas tradicionales de procesamiento de ficheros frente a los sistemas de gestión de bases de datos son:
+a. Falta de soporte para atributos multivaluados
+$b. Falta de soporte para la independencia física de datos
+c. Falta de soporte para almacenamiento de diferentes tipos de entidades
+d. Una ocupación mayor de memoria secundaria para los datos
+
+?: Dado el siguiente diagrama Entidad-Relación, en los mecanismos normales de representación mediante tablas son representaciones válidas:
+[image3.png]
+a. A(_KA_,a1) B(_KB_,b1) T(_KA, KB_)
+b. A(_KA_,a1, KB1, KB2) B(_KB_,b1) T(_KA, KB_)
+$c. A(_KA_,a1, KB) B(_KB_,b1, KA) T(_KA, KB_)
+d. A(_KA_,a1) Agg1(_KA,KB_) B(_KB_,b1) Agg2(_KA,KB) T(_KA, KB_)
+
+?: Un objetivo de un lenguaje de manejo de datos es:
+$a. Permitir a los usuarios consultar y modificar los datos almacenados en la base de datos.
+b. Definir las restricciones de integridad para los datos
+c. Traducir las consultas de los usuarios a un formato que el sistema de almacenamiento pueda entender
+d. Optimizar el rendimiento de las consultas a una base de datos
+
+
+?: Un conjunto de entidades débiles del modelo Entidad-Relación
+a. Obligatoriamente debe tener varias claves (candidato)
+$b. Puede depender de otro conjunto de entidades débiles
+c. Obligatoriamente tiene que tener atributos derivados
+d. Obligatoriamente tiene que tener más de una clave externa
+
+?: Algunas de las propiedades clásicas de las transacciones de bases de datos son:
+a. Atomicidad y Recuperabilidad
+b. Recuperabilidad y Concurrencia
+c. Concurrencia y Aislamiento
+$d. Atomicidad y Durabilidad
+
+?: En los mecanismos normales de representación mediante tablas de un conjunto de relaciones muchos a muchos del modelo Entidad-Relación:
+a. La tabla resultante tiene siempre una única clave externa
+b. Aparecen siempre varias claves (candidatos)
+$c. La tabla resultante tiene siempre una clave (candidato) compuesta por varios atributos
+d. Los atributos simplemente descriptivos no pasan a formar parte de la tabla
+
+?: La agregación:
+a. Es una abstracción que permite combinar varios conjuntos de entidades en un solo conjunto de entidades
+b. Se representa mediante un triángulo invertido conectado a los conjuntos de entidades
+c. Es una abstracción que permite subdividir un conjunto de entidades en varios subconjuntos de entidades
+$d. Es una abstracción que permite representar un conjunto de relaciones entre un conjunto de entidades y otro conjunto de relaciones
+
+?: El Gestor de Transacciones de un Sistema de Gestión de Bases de Datos:
+a. Garantiza la seguridad de las transacciones
+b. Garantiza la concurrencia de las transacciones
+$c. Garantiza la atomicidad de las transacciones
+d. Garantiza la copia de seguridad de los datos de las transacciones
+
+?: Dado  el siguiente diagrama Entidad-Relación en los mecanismos normales de representación mediante tablas son representaciones válidas:
+[image10.png]
+a. A(_K_, a1, a2) B(_K_, b1, b2, KC) C(_K_, c1, c2)
+b. B(K, a1, a2, b1, b2) C(K, a1, a2, c1, c2, KB)
+$c. A(_K_, a1, a2) B(_K_, b1, b2) C(_K_, c1, c2, KB)
+d. A(_K_, a1, a2, KB) B(_K_, b1, b2) C(_K_, c1, c2)
+
+

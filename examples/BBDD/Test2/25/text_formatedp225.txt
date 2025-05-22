@@ -1,0 +1,59 @@
+?: Dado R= (A,B,C,D) y un conjunto de dependencias F = {AD -> BC, B->C, C->A)
+$a. La forma normal más alta en que está es 3NF
+b. No se puede conocer la forma normal en que está R hasta que se calcule un recubrimiento canónico de F
+c. La forma normal más alta en que está R es BCNF
+e. R no está en BCMF ni en 3NF
+
+?: Dado F = {B->BCD, BC->AE,A->E)
+$a. C y E son atributos ajenos en BC->AE
+b. B y E son atributos ajenos en BC->AE
+c. F ya es un recubrimiento canónico
+d. B y A son atributos ajenos en BC -> AE
+
+?: En un SGDB que disponga de las restricciones de integridad posibles en SQL2
+$a. Las claves candidato se definen mediante UNIQUE
+b. Las claves externas se definen mediante OUTER KEY
+c. Las dependencias funcionales se definen mediante CREATE FUNCTIONAL DEPENDENCY
+d. Los asertos se definen mediante CHECK ASSERT
+
+?: Dado un conjunto de dependencias funcionales F, F+, Fc1, Fc2 (recubrimientos canónicos de F) y Fc1+ y Fc2+ siempre se cumple:
+a. F==> Fc1, Fc1 =/=> F
+b. Fc1 ==> Fc2, Fc2 =/=> Fc1
+$c. Fc1 => Fc2, Fc2 => Fc1
+d. Fc1 = Fc2
+
+?: ¿Cuáles de las siguientes son operaciones fundamentales (básicas) del álgebra relacional?
+a. Proyección, Unión, Intersección
+b. Producto Natural, Unión, Intersección
+c. Producto Natural, Unión, Diferencia
+$d. Proyección, Unión, Diferencia
+
+?: Dada una integridad referencial entre una relación referenciada r1, con clave primaria K, y una relación que referencia r2 con clave externa alfa:
+a. La actualización de una tupla en r2 puede provocar actualización de tuplas en r2
+b. La eliminación de una tupla en r2 puede provocar actualización de tuplas en r1
+c. La actualización de una tupla en r1 puede provocar eliminación de tuplas en r2
+$d. La eliminación de una tupla en r1 puede provocar actualización de tuplas en r2
+
+?: Dado R = (A, B, C, D, E) y un conjunto de dependencias F = {CD -> AB, C -> DE)
+$a. La forma normal más alta que está R es BCNF
+b. R no está en BCNF ni en 3FN
+c. La forma normal más alta en que está R es 3NF
+d. No se puede conocer la forma normal en que está R hasta que se calcule un recubrimiento canónico de F
+
+?: Dada la relación R = (n_piloto, n_carrera, n_coche,puntos), con el significado acostumbrado (número de piloto que identifica a un piloto, número de carrera a una carrera, n_coche a un coche usado por el piloto en la carrera y puntos logrados por el piloto en la carrera) y F = {n_piloto, n_carrera -> puntos}
+a. Cada piloto solo puede participar en una sola carrera
+b. Falta una dependencia funcional para n_car
+$c. Un piloto puede conducir varios coches diferentes en la misma carrera
+d. En una carrera determinada participan obligatoriamente varios pilotos
+
+?: Dada una relación R y un conjunto de dependencias F, en cualquier descomposición posible de R cuya forma normal más alta sea BCNF
+a. Necesariamente F tiene que ser un recubrimiento canónico 
+b. Todas las dependencias originales que define F puede comprobarse mediante claves en las relaciones de la descomposición
+$c. Siempre se conservan dependencias
+d. Es obligatorio que alguna relación tenga más de una clave candidato
+
+?: Dado un esquema relacional R y una descomposición de R en R1 y R2, y dados cualesquiera r(R), r1(R1) y r2(R2), se dice que la descomposición es de producto sin pérdida debido a:
+$a. r1 |x| r2 (producto natural) tiene las mismas tuplas que las que había en r
+b. R1 y R2 NUNCA serán una descomposición de producto SIN pérdida de R
+c. r1 |x| r2 (producto natural) tiene menos tuplas que las que había en r
+d. r1 |x| r2 (producto natural) tiene más tuplas que las que había en r

@@ -1,0 +1,71 @@
+?: El ciclo de vida de las bases de datos que usamos
+a. Necesita utilizar la notación UML
+b. No se usa en la práctica al generar esquemas muy ineficientes
+c. Ninguna de las otras es correcta
+d. Está orientado al modelo orientado a objetos
+$e. Está más orientado al diseño dirigido por datos
+
+?: Dado el siguiente diagrama Entidad-Relación en los mecanismos normales de representación mediante tablas son representaciones válidas:
+[image2.png]
+$a. Ninguna de las otras es correcta
+b. A(_a1_, a2, a3, b1)  B(b2)
+c. A(_a1_, a2, a3)  bitacora(a1, _b1_)  B(_b1_, b2)
+d. A(_a1_, a2, a3)  B(_b1_, b2)
+e. A(_a1_, a2, a3)  B(_b1_, b2, a1)
+
+?: La operación de producto natural del álgebra relacional
+a. Puede sustituirse siempre por una combinación de las operaciones de producto cartesiano, selección y unión
+b. Puede devolver más tuplas que el producto cartesiano
+c. Cumple la misma función que el cuantificador existencial del cálculo relacional
+$d. Ninguna de las otras es correcta
+e. Es una operación fundamental del álgebra relacional
+
+?: Dada una relación binaria R del modelo E-R, de tipo muchos-a-muchos, con un atributo "x", y que asocia dos entidades E1 y E2, siempre se puede asegurar que una clave candidato de R está formada por
+a. R no tiene ninguna clave candidato
+b. La unión de las claves primarias de E1 y de E2
+c. La clave primaria de E2
+d. La clave primaria de E1
+$e. Ninguna de las otras es correcta
+
+?: Una relación ternaria del modelo E-R
+a. No puede tener atributos, ya que si los tuviera se sustituiría siempre por dos relaciones binarias
+b. Ninguna de las otras es correcta
+c. Si su cardinalidad es 1 a 1 a 1, no tiene clave primaria
+d. Las relaciones ternarias no son necesarias en el modelo E-R
+$e. Puede tener atributos que formen parte de la clave primaria
+
+?: El modelo relacional de datos
+a. Ninguna de las otras es correcta
+$b. Es un modelo lógico orientado a registros / Más exactamente “basado”
+c. Es un modelo físico orientado a objetos
+d. Es un modelo lógico orientado a objetos
+e. Es un modelo físico orientado a registros
+
+?: La operación división en el álgebra relacional
+$a. NO es una operación básica del álgebra relacional
+b. Permite que las expresiones del álgebra relacional sean seguras
+c. Es una operación conmutativa
+d. Ninguna de las otras es correcta
+e. Es equivalente a la intersección cuando las relaciones son compatibles (mismo número de atributos y del mismo tipo)
+
+?: Al pasar a tablas un diagrama Entidad-Relación
+$a. Es obligatorio que las relaciones ternarias de tipo n-n-1 generen una tabla
+b. Nunca se genera una tabla para una entidad fuerte
+c. Las relaciones que tienen clave primaria siempre generan una tabla
+d. Ninguna de las otras es correcta
+e. Es opcional generar una tabla para las entidades débiles
+
+?: En los mecanismos normales de representación mediante tablas de un conjunto de relaciones normal del modelo Entidad-Relación
+a. Los atributos siempre se representan como parte de los atributos de alguno de los conjuntos de entidades que participan en el conjunto de relaciones
+b. Ninguna de las otras es correcta
+c. Cuando la cardinalidad es de uno a muchos no se generan tablas
+$d. Siempre aparece alguna clave externa
+e. Siempre se generan una o dos tablas por cada conjunto de relaciones
+
+?: El lenguaje de manejo de datos (LMD)
+a. Tiene una parte que permite la modificación del diccionario de datos
+b. Permite especificar las propiedades estáticas de un esquema de base de datos
+c. Debe ser de tipo gráfico para poder expresar todos los conceptos necesarios
+$d. Está ligado a un modelo de datos determinado
+e. Ninguna de las otras es correcta
+

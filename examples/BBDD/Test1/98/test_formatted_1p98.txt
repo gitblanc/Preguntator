@@ -1,0 +1,70 @@
+?: Algunos de los inconvenientes en general de los sistemas tradicionales de procesamiento de ficheros frente a los sistemas de gestión de bases de datos como los basados en el modelo relacional son:
+$a. Problemas grandes de independencia física y lógica de los datos
+b. Una mayor lentitud en el acceso físico a los datos
+c. Ninguna de las otras es correcta
+d. Falta de soporte para dominios no atómicos
+e. Necesidad de utilización de lenguajes de programación de aplicaciones tradicionales
+
+?: Un conjunto de entidades fuertes del modelo Entidad-Relación
+a. Ninguna de las otras es correcta
+b. Siempre debe tener un conjunto de atributos denominado discriminador
+$c. Puede depender por existencia de otra entidad
+d. Puede tener más de una clave primaria
+e. No puede tomar parte en un conjunto de relaciones bitácora
+
+?: En los mecanismos normales de representación mediante tablas de un conjunto de relaciones del modelo Entidad-Relación
+a. En algunos casos la tabla resultante puede tener más de una clave primaria
+b. La tabla resultante sólo puede tener una clave candidato
+c. Los atributos simplemente descriptivos no pasan a formar parte de la tabla
+d. Siempre se genera una tabla por cada conjunto de relaciones
+$e. Ninguna de las otras es correcta
+
+?: Las expresiones seguras en cálculo relacional de dominios se introducen
+a. Para evitar que algunas consultas no devuelvan ninguna tupla en el resultado
+b. Para hacerlo equivalente en potencia expresiva al álgebra relacional
+c. Para que el dominio de los atributos de las relaciones sea siempre finito
+$d. Ninguna de las otras es correcta
+e. Para asegurar que las consultas siempre sean sintácticamente correctas
+
+?: Dada un esquema relacional R=(A,B,C,D) y una relación r(R)
+a. {A,B,C,D} es una clave candidato
+b. {A,B} es una superclave
+c. Pueden existir dos tuplas repetidas si hay dos claves candidato diferentes
+$d. Ninguna de las otras es correcta
+e. Puede existir más de une clave primaria
+
+?: El lenguaje de definición de datos (LDD)
+a. Tiene une parte que permite la modificación de la instancia de la base de datos
+$b. Está ligado a un modelo de datos determinado
+c. Permite especificar las propiedades dinámicas de un esquema de base de datos
+d. Debe ser de tipo gráfico para poder expresar tous les conceptos necesarios
+e. Ninguna de las otras es correcta
+
+?: Dado el siguiente diagrama Entidad-Relación en los mecanismos normales de representación mediante tablas son representaciones válidas: A(a1,a2,a3), que se generaliza en B(b1,b2) y B a su vez se especializa en C(c1)
+[image7.png]
+a. A(a1,a2,a3) B(b1,b2,c1)
+b. A(a1,a2,a3,b1,b2,c1)
+c. Ninguna de las otras es correcta
+$d. B(a1,a2,a2,b1,b2) C(a1,c1)
+e. A(a1,a2,a3) B(b1,b2) C(c1)
+
+?: Dentro de la estructura general de referencia de un système de gestión de bases de datos
+a. Los metadatos se almacenan en los índices de la base de datos
+b. Tous los accesos a los datos pasan a través del compilador de lenguaje de definición de datos
+c. Las aplicaciones escritas en un lenguaje de manejo de datos de cuarta generación acceden directamente a los datos físicos por razones de velocidad
+$d. El gestor de la base de datos controla los accesos a los datos
+e. Ninguna de las otras es correcta
+
+?: La operación de producto externo del álgebra relacional
+a. Ninguna de las otras es correcta
+b. Es una operación fondamentale del álgebra relacional
+c. Permite conservar valores duplicados en el resultado de las consultas
+d. Cumple la misma función que el cuantificador existencial del cálculo relacional
+$e. No puede devolver más tuplas que el producto cartesiano
+
+?: En el ciclo de vida de bases de datos, se usa el modelo relacional como modelo lógico, entre otras razones porque:
+a. El rendimiento de las aplicaciones es mejor que con otro modelo
+b. La posibilidad de utilizar lenguajes de manejo de datos para desarrollar aplicaciones
+$c. Ninguna de las otras es correcta
+d. La mayor expresividad semántica del modelo relacional
+e. La existencia de herramientas de ingeniería de software asistida por ordenador (CASE) para el modelo relacional

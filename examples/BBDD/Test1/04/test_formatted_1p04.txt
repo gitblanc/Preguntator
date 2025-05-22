@@ -27,10 +27,11 @@ d. Debe ser de tipo gráfico para poder expresar todos los conceptos necesarios
 e. Ninguna de las otras es correcta  
 
 ?: Dado el siguiente diagrama Entidad-Relación en los mecanismos normales de representación mediante tablas son representaciones válidas  
-a. B(K, a1, a2, b1, b2) C(a1, c1)  
-b. A(K, a1, a2, b1, b2, c1)  
-c. A(K, a1, a2) B(b1, b2) C(c1)  
-d. A(K, a1, a2, c1) B(b1, b2)  
+[image5.png]
+a. B(_K_, a1, a2, b1, b2) C(_a1_, c1)  
+b. A(_K_, a1, a2, b1, b2, c1)  
+c. A(_K_, a1, a2) B(_b1_, b2) C(_c1_)  
+d. A(_K_, a1, a2, c1) B(_b1_, b2)  
 $e. Ninguna de las otras es correcta  
 
 ?: Dentro de la estructura general de referencia de un sistema de gestión de bases de datos  
@@ -40,11 +41,12 @@ c. El procesador de consultas modifica los metadatos
 d. En algunos casos las aplicaciones pueden acceder directamente a los datos físicos de la base de datos por razones de velocidad  
 e. Ninguna de las otras es correcta  
 
-?: Dado el siguiente diagrama Entidad-Relación en los mecanismos normales de representación mediante tablas son representaciones válidas (el atributo x no forma parte de claves)  
-a. A(a1, a2, b1, c1, x) B(b1, b2) C(c1, c2)  
-b. A(a1, a2) R(a1, b1, c1, x) B(b1, b2) C(c1, c2)  
-c. A(a1, a2) R(a1, b1, c1, x) B(b1, b2) C(c1, c2)  
-d. A(a1, a2) R(a1, b1, c1, x) B(b1, b2) C(c1, c2)  
+?: Dado el siguiente diagrama Entidad-Relación en los mecanismos normales de representación mediante tablas son representaciones válidas (el atributo x no forma parte de claves)
+[image7.png]
+a. A(a1, a2, b1, c1, x) B(_b1_, b2) C(_c1_, c2)  
+b. A(_a1_, a2) R(_a1_, b1, c1, x) B(_b1_, b2) C(_c1_, c2)  
+c. A(_a1_, a2) R(_a1, b1, c1_, x) B(_b1_, b2) C(_c1_, c2)  
+d. A(_a1_, a2) R(_a1, b1_, c1, x) B(_b1_, b2) C(_c1_, c2)  
 $e. Ninguna de las otras es correcta  
 
 ?: La restricción de subconjunto dentro del modelo E-R  
